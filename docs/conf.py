@@ -45,8 +45,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'The Open Lab Book'
-copyright = u'2014, Martin Fitzpatrick'
+project = u'Ke Han Lab Book'
+#copyright = u'2014, Martin Fitzpatrick'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -112,7 +112,7 @@ html_theme = 'default'
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
-html_title = "The Open Lab Book v%s" % version
+html_title = "Ke Han Lab Book v%s" % version
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 #html_short_title = None
@@ -178,7 +178,7 @@ html_static_path = ['_static']
 #html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'TheOpenLabBookdoc'
+htmlhelp_basename = 'KeHanLabBookdoc'
 
 
 # -- Options for LaTeX output ---------------------------------------------
@@ -198,8 +198,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  ('index', 'TheOpenLabBook.tex', u'The Open Lab Book',
-   u'Martin Fitzpatrick', 'manual'),
+  ('index', 'KeHanLabBook.tex', u'Ke Han Lab Book',
+   u'Ke Han', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -228,8 +228,8 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'theopenlabbook', u'The Open Lab Book',
-     [u'Martin Fitzpatrick'], 1)
+    ('index', 'kehanlabbook', u'Ke Han Lab Book',
+     [u'Ke Han'], 1)
 ]
 
 # If true, show URL addresses after external links.
@@ -263,10 +263,10 @@ texinfo_documents = [
 # -- Options for Epub output ----------------------------------------------
 
 # Bibliographic Dublin Core info.
-epub_title = u'The Open Lab Book'
-epub_author = u'Martin Fitzpatrick'
-epub_publisher = u'Martin Fitzpatrick'
-epub_copyright = u'2014, Martin Fitzpatrick'
+#epub_title = u'Ke Han Lab Book'
+#epub_author = u'Ke Han'
+#epub_publisher = u'Ke Han'
+#epub_copyright = u'Ke Han'
 
 # The basename for the epub file. It defaults to the project name.
 #epub_basename = u'The Open Lab Book'
