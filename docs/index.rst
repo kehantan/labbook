@@ -1,3 +1,5 @@
+Ke Han Lab Book
+===============
 Lab protocol for different procedures, including preparation of different buffers and solutions. 
 
 Contents
@@ -6,5 +8,5 @@ Contents
 .. toctree::
    :maxdepth: 2
 
-   buffers and solutions 
+   labbook/buffers and solutions 
    
