@@ -1,5 +1,5 @@
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
 
    buffers_solutions/agarose
    buffers_solutions/phosphate_buffer_saline
