@@ -8,5 +8,4 @@ Contents
 .. toctree::
    :maxdepth: 2
 
-   labbook/buffers and solutions 
-   
+   labbook/buffers_and_solutions
