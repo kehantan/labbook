@@ -6,7 +6,6 @@ Contents
 --------
 
 .. toctree::
-   :maxdepth: 2
 
    buffers_solutions
    cell culture
