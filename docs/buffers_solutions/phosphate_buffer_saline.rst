@@ -1,8 +1,8 @@
 Phosphate buffer saline (PBS)
 =============================
 
-Requirement
------------
+Requirements
+------------
 10x D-PBS
 MiliQ water or distilled water 
 
