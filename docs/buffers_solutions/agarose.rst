@@ -1,9 +1,9 @@
-Prepare 5% agarose (w/v)
-==========================================================
+5% agarose (w/v)
+================
 
 Requirements 
 ------------
-Agarose
+Agarose powder
 MiliQ water/distilled water
 
 
