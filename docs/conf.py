@@ -242,8 +242,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'TheOpenLabBook', u'The Open Lab Book',
-   u'Martin Fitzpatrick', 'TheOpenLabBook', 'One line description of project.',
+  ('index', 'KeHanLabBook', u'Ke Han Lab Book',
+   u'Ke Han', 'KeHanLabBook', 'Description',
    'Miscellaneous'),
 ]
 
