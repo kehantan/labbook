@@ -1,3 +1,8 @@
+Buffers and solutions
+=====================
+
+Recipes for buffers and solutions
+
 .. toctree::
    :maxdepth: 1
 
