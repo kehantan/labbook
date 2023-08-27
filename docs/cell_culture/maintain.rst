@@ -7,7 +7,6 @@ Vero cells
 
 * T25
     * 5 ml complete DMEM
-    * 600 :math:`{\alpha}` L 
 
 * T75
     * 9 ml complete DMEM
@@ -15,4 +14,4 @@ Vero cells
 
 Procedure
 ---------
-
+μL
