@@ -1,12 +1,12 @@
 Molecular docking
 =================
-Molecular docking
+Molecular docking 
 
 Requires
 --------
-Autodock Vina
-MGLTools/AutodockTools
-BIOVIA Discovery Studio Visualizer
+* Autodock Vina
+* MGLTools/AutodockTools
+* BIOVIA Discovery Studio Visualizer
 
 Check list
 ----------
