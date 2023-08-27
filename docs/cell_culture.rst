@@ -1,4 +1,4 @@
 .. toctree::
    :maxdepth: 1
 
-   cell culture/maintain
+   cell_culture/maintain
