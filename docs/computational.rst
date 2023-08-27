@@ -3,7 +3,7 @@ Computational biology
 
 Computational stuff. 
 
-The visual guides/tutorials is available on `google drive <https://drive.google.com/drive/folders/1Byi_lttOgHRpbkm0g4XSYoGqDaQSCV08?usp=sharing>`_
+The visual guides/tutorials is available on `google drive <https://drive.google.com/drive/folders/1Byi_lttOgHRpbkm0g4XSYoGqDaQSCV08?usp=sharing>`_.
 
 .. toctree::
    :maxdepth: 1
