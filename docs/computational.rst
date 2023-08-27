@@ -1,3 +1,8 @@
+Computational biology 
+=====================
+
+Computational stuff
+
 .. toctree::
    :maxdepth: 1
 
