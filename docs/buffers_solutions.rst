@@ -3,4 +3,5 @@
 
    buffers_solutions/agarose
    buffers_solutions/phosphate_buffer_saline
-   buffers_solutions/tris_hcl
+   buffers_solutions/buffer_b
+   buffers_solutions/buffer_c
