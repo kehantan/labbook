@@ -3,10 +3,10 @@
 
 Requirements 
 ------------
-Agarose powder
-MiliQ water/distilled water
+#. Agarose powder
+#. MiliQ water/distilled water
 
 
 Procedure
 ---------
-Dissolve 5 g of agarose powder in 100 ml distilled water/MiliQ water. 
+#. Dissolve 5 g of agarose powder in 100 ml distilled water/MiliQ water. 
