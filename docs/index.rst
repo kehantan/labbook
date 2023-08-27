@@ -9,4 +9,4 @@ Contents
    :maxdepth: 2 
    buffers_solutions
    computational
-   cell culture
+   cell_culture
