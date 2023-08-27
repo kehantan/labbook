@@ -1,4 +1,5 @@
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
 
    computational/molecular docking
+   computational/molecular dynamics
