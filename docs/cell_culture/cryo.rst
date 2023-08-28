@@ -10,8 +10,13 @@ Requires
 Procedure
 ---------
 #. In each cryopreservation tube, prepare: 
-    * 450 uL complete DMEM
-    * 50 uL DMSO
+
+   * 450 uL complete DMEM
+
+   * 50 uL DMSO
+
+    Prepare freezing medium before adding to cells because concentrated DMSO is toxic to cells. 
+
 #. Insert 500 uL of cell suspension into cryopreservation tube. 
 #. Place cryopreservation tube in Mr. Frosty. 
 #. Store in -80 °C overnight.
