@@ -16,3 +16,4 @@ Some stuff are just aliquote from bottle into smaller vial, such as 15 ml or 50 
    buffers_solutions/buffer_d
    buffers_solutions/10_dmem
    buffers_solutions/2_dmem
+   buffers_solutions/dmem
