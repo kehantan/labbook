@@ -10,10 +10,7 @@ This is a preparation upon Dr. Mori's request:
 Formula
 g = M x L x MW
 
-g = weight in grams
-M = Molar 
-L = Water in Litres
-MW = Molecular weight
+g = weight in grams; M = Molar; L = Water in Litres; MW = Molecular weight
 
 Requires
 --------
