@@ -9,4 +9,4 @@ Requirements
 Procedure
 ---------
 #. Add 5 ml of PBS into 45 ml of distilled water/MiliQ water. 
-#. Filter.
+#. Filter with 0.22 um filter using syringe.
