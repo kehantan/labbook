@@ -9,3 +9,4 @@ Protocols for cell cultures
    cell_culture/maintain
    cell_culture/cryo
    cell_culture/cell_count
+   cell_culture/thaw
