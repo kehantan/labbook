@@ -6,3 +6,4 @@ Assays
    :maxdepth: 1
 
    assays/mtt
+   assays/plaque
