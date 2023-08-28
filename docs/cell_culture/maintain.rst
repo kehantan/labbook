@@ -34,14 +34,14 @@ Procedure
 #. Dispose the supernatant with micropipette. 
 #. Resuspend the cell pellet (sediment) in fresh complete DMEM, pipette thoroughly to break the cell pellet.
 
-   * For optimal number of cells to ease the counting work, I would usually resuspend cells obtained from T25 flask in 1 ml of complete DMEM; while resuspend cells obtained from T75 flask in 3 ml of complete DMEM. 
-   * Sometimes there could be a lot of cells (e.g.: >90% confluency), which I would add more complete DMEM. For example, resuspend cell pellets obtained from T25 in 2 ml of complete DMEM 
+  * For optimal number of cells to ease the counting work, I would usually resuspend cells obtained from T25 flask in 1 ml of complete DMEM; while resuspend cells obtained from T75 flask in 3 ml of complete DMEM. 
+  * Sometimes there could be a lot of cells (e.g.: >90% confluency), which I would add more complete DMEM. For example, resuspend cell pellets obtained from T25 in 2 ml of complete DMEM 
 
 #. Count the cells.
 #. Place appropriate amount of complete DMEM into culturing flask.
 
-   * T25 = 5 ml 
-   * T75 = 9 ml
+  * T25 = 5 ml 
+  * T75 = 9 ml
 
 #. Plate cells onto a new flask at the desired cell density.
 
