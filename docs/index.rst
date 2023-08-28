@@ -11,3 +11,4 @@ Contents
    buffers_solutions
    computational
    cell_culture
+   assays
