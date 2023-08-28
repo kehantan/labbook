@@ -11,3 +11,4 @@ Recipes for buffers and solutions
    buffers_solutions/buffer_b
    buffers_solutions/buffer_c
    buffers_solutions/10_dmem
+   buffers_solutions/2_dmem
