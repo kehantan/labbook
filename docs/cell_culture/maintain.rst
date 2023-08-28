@@ -46,6 +46,7 @@ Procedure
     T75 = 9 ml
 
 #. Plate cells onto a new flask at the desired cell density.
+#. Swirl flask to evenly distribute the seeded cells. 
 
 Numbers of cells to seed in flask
 ---------------------------------
