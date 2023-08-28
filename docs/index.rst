@@ -1,6 +1,7 @@
 Ke Han Lab Book
 ===============
-Lab protocol for different procedures, including preparation of different buffers and solutions. 
+* Lab protocols
+* Recipes for buffers and solutions
 
 Contents
 --------
