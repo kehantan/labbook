@@ -1,4 +1,5 @@
 Lab protocols 
 =============
 
-Lab protocols including recipes for buffers and solutions. 
+* Lab protocols 
+* Recipes for buffers and solutions
