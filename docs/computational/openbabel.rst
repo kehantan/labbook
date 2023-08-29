@@ -19,3 +19,13 @@ There are multiple ways to install Open babel:
     By typing ``conda install -c conda-forge openbabel`` into the terminal 
 
 Note: If you want to use Open Babel on Windows, I would suggest installing it via Anaconda. 
+
+Usage
+-----
+In the terminal, type 
+
+    ``obabel -i <type of input file> <name of input file> -o <type of output file> -O <name of output file> [options]``
+
+For example, 
+
+    ``obabel -i pdb ligand.pdb -o mol2 -O ligand.mol2``
