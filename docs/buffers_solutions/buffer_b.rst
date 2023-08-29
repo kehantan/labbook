@@ -22,4 +22,4 @@ To make 250 ml of Buffer B:
 ---------------------------
 #. Weight and place in an empty bottle. 
 
-* 90.06 g of urea
+    * 90.06 g of urea
