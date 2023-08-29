@@ -1,6 +1,7 @@
 Buffer C
 =========
 This is a preparation upon Dr. Mori's request: 
+
 * 100 mM Tris-HCl 
 * pH 7.5
 * 300 mM NaCl
@@ -22,4 +23,5 @@ Requires
 To make 250 ml of Buffer B:
 ---------------------------
 #. Weight and place in an empty bottle. 
-  * 90.06 g of urea
+
+   * 90.06 g of urea
