@@ -23,3 +23,9 @@ To make 250 ml of Buffer B:
 #. Weight and place in an empty bottle. 
 
    * 90.06 g of urea
+   * 4.383 g of NaCl
+   * 3.94 g of Tris-HCl
+
+#. Add 200 ml of Milli-Q water.
+#. Stir. 
+#. Adjust pH. 
