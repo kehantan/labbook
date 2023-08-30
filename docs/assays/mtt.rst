@@ -16,8 +16,7 @@ Seeding
 
 Treatment
 ---------
-#. Treat the cells with compound with different dilutions. 
-#. Prepare different concentration of compound by diluting in complete DMEM.
+#. Prepare different concentration of compound by diluting the compound in complete DMEM.
 
     Prepare 600 uL, 100 uL for each well, total of 5 well per concentration. 
 
