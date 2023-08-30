@@ -3,12 +3,13 @@ MTT assay
 
 Seeding
 -------
-#. Trypsinise cells from culture flask.  
+#. Trypsinise cells from culture flask.
 #. Count the cells.
-#. Calculate how many cells is needed. 
-#. Calculate how much media required. 
+#. Calculate how many cells and media required. 
 #. Aspirate required number of cells and mix with required amount of media. 
-#. 1,500 cells in each well for next day treatment in 96 well plate.
+
+    1,500 cells in each well for next day treatment in a 96 well plate.
+    
 #. Incubate seeded 96 well plate for 24 hrs. 
 
 Treatment
@@ -25,6 +26,14 @@ Treatment
 
 MTT
 ---
+#. Add 10 uL of MTT into each well with multichannel micropipette.
+#. Incubate for 3 hrs at 37C, 5% CO2.
+#. Remove media. 
+#. Add 100 uL of DMSO into each well. 
+#. Place 96 well plate on shaker, shake for 1 hr.
+#. Read absorbance. 
 
 Read absorbance
 ---------------
+#. Read plate at 570 nm. 
+#. 
