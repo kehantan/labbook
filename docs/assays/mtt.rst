@@ -9,13 +9,15 @@ Seeding
 #. Calculate how much media required. 
 #. Aspirate required number of cells and mix with required amount of media. 
 #. 1,500 cells in each well for next day treatment in 96 well plate.
-# Incubate seeded 96 well plate for 24 hrs. 
+#. Incubate seeded 96 well plate for 24 hrs. 
 
 Treatment
 ---------
 #. Treat the cells with compound with different dilutions. 
 #. Prepare different concentration of compound by diluting in complete DMEM.
+
     Prepare 600 uL, 100 uL for each well, total of 5 well per concentration. 
+
 #. Remove media from 96 well plate. 
 #. Dispense 100 uL of complete DMEM in blank and control wells. 
 #. Dispense 100 uL of compound diluted in complete DMEM into respective wells. 
