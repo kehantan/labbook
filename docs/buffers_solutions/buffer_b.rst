@@ -29,3 +29,4 @@ To make 250 ml of Buffer B:
 #. Add 200 ml of Milli-Q water.
 #. Stir. 
 #. Adjust pH. 
+#. Seal with parafilm and store at 4C.
