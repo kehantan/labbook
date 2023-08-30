@@ -1,17 +1,26 @@
 MTT assay
 =========
 
+Before seeding
+--------------
+Count the theoretical cells required before start seeding. 
+
+I usually seed 1,500 cells/well and 100 uL of media/well.
+
+Assume we do 7 concentrations (including negatice control), then total cells needed = 7 concentrations x 5 wells/concentration x 1,500 cells/well = 52,500 cells 
+
+After the cell counting step, double check if the cell required is sufficient for seeding. 
 
 Seeding
 -------
 #. Trypsinise cells from culture flask.
-#. Count the cells.
-#. Calculate how many cells and media required. 
-#. Aspirate required number of cells and mix with required amount of media. 
-#. Seed cells in 96 well plate. 
-
-    1,500 cells in each well for next day treatment in a 96 well plate.
+#. Count the cells. Cross check if the cells required is sufficient. 
+#. Calculate how much media required.
     
+    Assume: 7 concentrations x 5 wells/concentration x 100 uL complete DMEM/well = 3,500 uL
+
+#. Aspirate required number of cells and mix with required amount of media.
+#. Seed cells in 96 well plate. 
 #. Incubate the seeded 96 well plate for 24 hrs. 
 
 Treatment
