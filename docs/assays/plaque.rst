@@ -2,15 +2,54 @@ Plaque assay
 ============
 Plaque assay to quantify the virus titer in a sample. 
 
+Cell seeding
+------------
+Seed 6 well plate with 600,000 cells if wanted to infect the next day. If wanted to infect after 2 days, seed 400,000 cells. 
+
+Cells should be at least 90% confluency at the time of infection.
+
+Amount of cells harvested from a T75 flask with 80% confluency should be sufficient to seed 2 6 well plate with 600,000 cells in each well for next day virus infection.   
+
+Requires
+~~~~~~~~
+* 10% DMEM (Complete)
+* TrypLE
+* 1000 uL micropipette & micropipette tips  
+* 10 ml serological pipette 
+* Phosphate buffer saline (PBS)
+* Counter 
+* Counting chamber 
+* Trypan blue
+* Waste beaker 
+
+#. Remove media from culture flask. 
+#. Wash cells with PBS.
+#. Trypsinise the cells in culture flask. 
+#. Count the cells. 
+#. Dispense 1.5 ml of complete DMEM in each well of 6 well plate. 
+#. Dispense required amount of cells into each well. 
+#. Incubate for 24 hrs. 
+
+Infection
+---------
+After 24 hrs incubation, infect cells with virus. 
+
+Requires
+~~~~~~~~
+* 2% DMEM 
+* 1000 uL micropipette & micropipette tips  
+* 10 ml serological pipette 
+* Phosphate buffer saline (PBS)
+* Waste beaker 
+
 Dilution of virus 
------------------
+~~~~~~~~~~~~~~~~~
+#. Thaw virus stock in water bath. 
 #. Dilute the stock virus from microcentrifuge tube in a 10 fold dilution factor. 
 #. Can start from 1 to 5 times dilution factor.
 
 Infection
----------
-Infect 6 well plate previously seeded with Vero cells. The cells in the 6 well plate should have around 90% confluency. 
-
+~~~~~~~~~
 #. Remove media with serological pipette. 
 
     Aspirate media from wall of the well to prevent scratching on the cell layer
