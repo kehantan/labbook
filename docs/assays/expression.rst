@@ -59,7 +59,7 @@ Day 2
 #. Add 1 ml of IPTG stock into the 1 L LB broth. 
 #. Shake at 37C, 180 rpm, for about 2 hours. 
 #. Centrifuge. 
-#. Collect pellet 
+#. Collect pellet.
 
 Day 3 
 ~~~~~
