@@ -5,10 +5,10 @@ We use transformed *E.coli* that was plated on agar. Now we need to subculture t
 
 Requires
 --------
-Transformed *E.coli*
-Petri dish
-Kanamycin (stock, 300 mg/ml @ 10 ml)
-IPTG (stock, 0.5 M = 1.1915 mg/ml @ 10 ml)
+* Transformed *E.coli*
+* Petri dish
+* Kanamycin (stock, 300 mg/ml @ 10 ml)
+* IPTG (stock, 0.5 M = 1.1915 mg/ml @ 10 ml)
 
 Methods
 -------
@@ -59,6 +59,7 @@ Day 2
 #. Add 1 ml of IPTG stock into the 1 L LB broth. 
 #. Shake at 37C, 180 rpm, for about 2 hours. 
 #. Centrifuge. 
+#. Collect pellet 
 
 Day 3 
 ~~~~~
