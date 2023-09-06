@@ -97,6 +97,7 @@ To calculate how much media we need,
 
     :code:`7 concentrations * 5 well/concentration * 100 uL/well = 3,500 uL (3.5 ml)`
 
+
 #. Mix the cell suspension with either repeat pipetting or vortex. 
 #. Aspirate required number of cells and mix with required amount of 10% DMEM in cell reservoir.
 
