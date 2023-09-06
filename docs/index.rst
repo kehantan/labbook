@@ -13,3 +13,4 @@ Contents
    computational
    cell_culture
    assays
+   protein
