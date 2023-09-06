@@ -26,13 +26,16 @@ Before seeding
 --------------
 Count the theoretical cells required before start seeding. 
 
-I usually seed 1,500 cells/well and 100 uL of media/well.
+I usually seed 100 uL of mixture that contains 10% DMEM + 1,500 cells into each well.
 
 Assume we do 7 concentrations (including negative control), then 
 
 :code:`Total cells needed = 7 concentrations * 5 wells/concentration * 1,500 cells/well = 52,500 cells` 
 
 After the cell counting step, double check if the cell required is sufficient for seeding. 
+
+*Note: To avoid confusion, examples here uses the exact number of concentrations and number of wells. But in reality, we usually prepare more. For example, if we wanted to do 7 concentrations, but we would actually prepare for 10 concentrations. This is due to slight variations during pipetting and handling liquids. If you prepare the exact number of concentrations you want, you might end up not having enough cells for the last few wells. So calculate accordingly.*
+
 
 Trypsinise
 ----------
@@ -73,6 +76,8 @@ After counting the cells, we should get value of :code:`X cells/ml`. Cross check
 
 Seeding
 -------
+The final outcome we want = 100 uL of media + 1,500 cells in each well
+
 We know how much cells we have, we now need to know how much cells we need to dilute. 
 What we should do now:
 
@@ -97,6 +102,7 @@ To calculate how much media we need,
 
     :code:`7 concentrations * 5 well/concentration * 100 uL/well = 3,500 uL (3.5 ml)`
 
+After all the calculations we can begin our procedure. 
 
 #. Mix the cell suspension with either repeat pipetting or vortex. 
 #. Aspirate required number of cells and mix with required amount of 10% DMEM in cell reservoir.
@@ -105,6 +111,9 @@ To calculate how much media we need,
 
 #. Aspirate 100 uL of cells and DMEM mixture from the cell reservoir with multichannel micropipette. Seed the mixture into 96 well plate. 
 #. Incubate the seeded 96 well plate for 24 hrs. 
+
+*Note: Technically, adding 35 uL to 3,500 uL would be 3,535 uL, but we would treat it as a negligible difference*
+
 
 Treatment
 ---------
