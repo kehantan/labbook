@@ -14,6 +14,6 @@ Procedure
 ---------
 #. Add 5 ml of PBS into 45 ml of distilled water/Mili-Q water. 
 
-    To dilute 10x D-PBS to 1X
+    To dilute 10x D-PBS to 1x
 
 #. Filter with 0.22 um filter using syringe.
