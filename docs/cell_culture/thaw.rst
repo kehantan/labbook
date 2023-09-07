@@ -16,7 +16,7 @@ Requires
 
 Procedure
 ---------
-#. Transport frozen cell vial in designated container.
+#. Take cryovial from -80 C or LN2 tank.
 #. Dispense 5 ml of complete DMEM into a T25 culture flask.
 #. Thaw the cryovial with cells in 37°C water bath.
    
