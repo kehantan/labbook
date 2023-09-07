@@ -1,5 +1,4 @@
 .. _trypsinise:
-
 Trypsinise
 ==========
 
