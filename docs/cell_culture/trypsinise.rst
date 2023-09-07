@@ -1,4 +1,4 @@
-.. _target:
+.. _My target:
 
 Trypsinise
 ==========
