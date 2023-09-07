@@ -1,29 +1,6 @@
 MTT assay
 =========
 
-Requires
---------
-* Micropipette (100-1000 uL and 10-100 uL)
-* Micropipette tips 
-* Waste beaker
-* Cell counter
-* Counting chamber
-* 10% DMEM (in 50 ml centrifuge tube)
-* 96 well plate 
-* Trypan blue
-* Calculator 
-* 70% Ethanol in spray bottle
-* Paper towel
-* 96 well plate for mixing cells with trypan blue
-* 15 ml centrifuge tube
-* Seropipette (5ml and 10 ml)
-* TrypLE
-* Phosphate buffer saline (1x PBS)
-* Cell reservoir
-* Multi channel micropipette
-* MTT reagent
-* DMSO
-
 Before seeding
 --------------
 Count the theoretical cells required before start seeding. 
@@ -39,8 +16,28 @@ After the cell counting step, double check if the cell required is sufficient fo
 *Note: To avoid confusion, examples here uses the exact number of concentrations and number of wells. But in reality, we usually prepare more. For example, if we wanted to do 7 concentrations, but we would actually prepare for 10 concentrations. This is due to slight variations during pipetting and handling liquids. If you prepare the exact number of concentrations you want, you might end up not having enough cells for the last few wells. So calculate accordingly.*
 
 
+Requires:
+
+* Micropipette (100-1000 uL and 10-100 uL)
+* Micropipette tips 
+* Waste beaker
+* 70% Ethanol in spray bottle
+* Paper towel
+* Seropipette (5ml and 10 ml)
+* Pipette gun 
+
+Procedure
+---------
+
 Trypsinise
-----------
+~~~~~~~~~~
+Requires:
+
+* 10% DMEM (in 50 ml centrifuge tube)
+* TrypLE
+* Phosphate buffer saline (1x PBS)
+* 15 ml centrifuge tube
+
 Assume cells were culture in a T25 flask. 
 
 #. Remove media from culture flask. 
@@ -53,7 +50,10 @@ Assume cells were culture in a T25 flask.
 
     Swirl the flask to make sure TrypLE covers all the cells. 
 
-#. Incubate culture flask for 3-5 mins at 37C. 
+#. Incubate culture flask for 3-5 mins at 37C.
+
+    Not more than 10 mins
+
 #. Remove the culture flask from incubator. 
 #. Slightly tapping the flask to mechanically detach the cells from flask. 
 #. Dispense 10% DMEM in equal amount with TrypLE. Swirl the flask to properly neutralise TrypLE. 
@@ -63,21 +63,35 @@ Assume cells were culture in a T25 flask.
 #. Transfer the suspension to 15 ml centrifuge tube. 
 #. Centrifuge. 1500 rpm, 5 mins. 
 #. Remove supernatant, but leave minimal amount of DMEM in the centrifuge tube. 
-#. Flick the centrifuge tube to resuspend the cell pellet into DMEM. 
+#. Flick or tap the centrifuge tube to resuspend the cell pellet into DMEM. 
 #. Add 1 ml of 10% DMEM to the centrifuge tube. Pipette repeatedly to break the cell pellet. 
 
 Cell count
-----------
-#. Dispense 10 uL of Trypan blue into one of the wells in the 96 well plate used for mixing. 
+~~~~~~~~~~
+Requires:
+
+* Cell counter
+* Counting chamber
+* 96 well plate for mixing cells with trypan blue
+* Trypan blue
+* Calculator 
+
+#. Dispense 10 uL of trypan blue into one of the wells in the 96 well plate used for mixing. 
 #. Dispense 10 uL of cells from the 15 ml centrifuge tube from the trypsinise phase into the same well with trypan blue. 
 #. Mix well by repeat pipetting. 
-#. Dispense 10 uL of Trypan blue and cell mixture into counting chamber. 
+#. Dispense 10 uL of trypan blue and cell mixture into counting chamber. 
 #. Count the cells. 
 
 After counting the cells, we should get value of :code:`X cells/ml`. Cross check the counted cell number and the calculated cells number. We should have sufficient cells for seeding. 
 
 Seeding
--------
+~~~~~~~
+Requires:
+
+* 96 well plate 
+* Cell reservoir
+* Multi channel micropipette
+
 The final outcome we want = 100 uL of media + 1,500 cells in each well
 
 We know how much cells we have, we now need to know how much cells we need to dilute. 
@@ -118,7 +132,12 @@ After all the calculations we can begin our procedure.
 
 
 Treatment
----------
+~~~~~~~~~
+Requires:
+
+* Multichannel micropipette 
+* Micropipette tips
+
 #. Prepare different concentration of compound by diluting the compound in complete DMEM.
 
     Prepare 600 uL, 100 uL for each well, total of 5 well per concentration. Prepare slightly extra volume to compansate different handling error.  
@@ -129,7 +148,12 @@ Treatment
 #. Incubate for 48 hrs. 
 
 MTT
----
+~~~
+Requires:
+
+* MTT reagent
+* DMSO
+
 #. Add 10 uL of MTT into each well.
 
     Don't have to remove media
@@ -141,5 +165,5 @@ MTT
 #. Read absorbance. 
 
 Read absorbance
----------------
+~~~~~~~~~~~~~~~
 #. Read plate at 570 nm. 
