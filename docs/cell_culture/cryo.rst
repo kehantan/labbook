@@ -1,19 +1,19 @@
 Cryopreservation of cells
 =========================
+This procedure uses 500 uL of cell suspension for each cryopreservation tube. Depending on the final volume of your cell suspension, calculate how many tubes you can cryo. For example, if the final volume of cell suspension is 3 ml, then you can cryo up to 6 tubes. 
 
 Requires
 --------
 * DMSO
 * Cryopreservation tube
 * Complete DMEM
-* Micropipette 
-* Micropipette tips
-* Waste beaker
-
 
 Procedure
 ---------
-#. Trypsinise the cells from culture flask. 
+#. Trypsinise the cells from culture flask.
+    
+    Refer to the trypsinise section
+
 #. In each cryopreservation tube, prepare: 
 
    * 450 uL complete DMEM
