@@ -32,8 +32,8 @@ Requires:
 * Seropipette (5ml and 10 ml)
 * Pipette gun 
 
-Section 1
----------
+Section 1 - Trypsinise, cell counting, cell seeding
+---------------------------------------------------
 
 Trypsinise
 ~~~~~~~~~~
@@ -72,8 +72,8 @@ Assume cells were culture in a T25 flask.
 #. Flick or tap the centrifuge tube to resuspend the cell pellet into DMEM. 
 #. Add 1 ml of 10% DMEM to the centrifuge tube. Pipette repeatedly to break the cell pellet. 
 
-Cell count
-~~~~~~~~~~
+Cell counting
+~~~~~~~~~~~~~
 Requires:
 
 * Cell counter
@@ -90,8 +90,8 @@ Requires:
 
 After counting the cells, we should get value of :code:`X cells/ml`. Cross check the counted cell number and the calculated cells number. We should have sufficient cells for seeding. 
 
-Seeding
-~~~~~~~
+Cell seeding
+~~~~~~~~~~~~
 Requires:
 
 * 96 well plate 
@@ -137,8 +137,8 @@ After all the calculations we can begin our procedure.
 *Note: Technically, adding 35 uL to 3,500 uL would be 3,535 uL, but we would treat it as a negligible difference*
 
 
-Section 2
----------
+Section 2 - Treatment of cells
+------------------------------
 
 Treatment
 ~~~~~~~~~
@@ -160,6 +160,10 @@ Requires:
 #. Dispense 100 uL of complete DMEM in blank and control wells. 
 #. Dispense 100 uL of compound diluted in complete DMEM into respective wells. 
 #. Incubate for 48 hrs. 
+
+
+Section 3 - MTT, read absorbance
+--------------------------------
 
 MTT
 ~~~
