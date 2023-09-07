@@ -8,18 +8,11 @@ Requires
 * Cryopreservation tube
 * Complete DMEM
 
-:ref:`Link <cell_culture/My target>`
-
-:ref:`Link <cell_culture/My target>`_
-
-`cell_culture/My target`_
-
-
 Procedure
 ---------
-#. Trypsinise the cells from culture flask. :ref:`j <My target>`
+#. Trypsinise the cells from culture flask.
     
-    Refer to the `My target`_ section.
+    Refer to the 'trypsinise' section.
 
 #. In each cryopreservation tube, prepare: 
 
