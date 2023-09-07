@@ -12,3 +12,4 @@ Refer `here <https://www.healthcare.nikon.com/en/ss/cell-image-lab/knowledge/pro
    cell_culture/cryo
    cell_culture/cell_count
    cell_culture/thaw
+   cell_culture/trypsinise
