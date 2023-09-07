@@ -1,4 +1,4 @@
-.. _trypsin:
+.. _trypsinise:
 
 Trypsinise
 ==========
