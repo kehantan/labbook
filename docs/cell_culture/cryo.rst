@@ -10,7 +10,7 @@ Requires
 
 Procedure
 ---------
-#. Trypsinise the cells from culture flask.
+#. Trypsinise the cells from culture flask. `target`_.
     
     Refer to the trypsinise `target`_ section.
 
