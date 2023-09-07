@@ -13,6 +13,7 @@ Requires
 
 Procedure
 ---------
+#. Trypsinise the cells from culture flask. 
 #. In each cryopreservation tube, prepare: 
 
    * 450 uL complete DMEM
