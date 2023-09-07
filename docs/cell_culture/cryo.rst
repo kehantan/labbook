@@ -6,6 +6,10 @@ Requires
 * DMSO
 * Cryopreservation tube
 * Complete DMEM
+* Micropipette 
+* Micropipette tips
+* Waste beaker
+
 
 Procedure
 ---------
@@ -22,4 +26,4 @@ Procedure
 #. Store in -80 °C overnight.
 #. Transfer cryopreservation tube from -80 °C to liquit nitrogen tank. 
 
-Cells can be stored for short term in -80 °C, but for long term storage, it is better to store in gas phase of liquid nitrogen. 
+*Note: Cells can be stored for short term in -80 °C, but for long term storage, it is better to store in gas phase of liquid nitrogen.*
