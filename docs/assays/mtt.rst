@@ -21,6 +21,8 @@ Requires
 * Phosphate buffer saline (1x PBS)
 * Cell reservoir
 * Multi channel micropipette
+* MTT reagent
+* DMSO
 
 Before seeding
 --------------
@@ -119,9 +121,9 @@ Treatment
 ---------
 #. Prepare different concentration of compound by diluting the compound in complete DMEM.
 
-    Prepare 600 uL, 100 uL for each well, total of 5 well per concentration. 
+    Prepare 600 uL, 100 uL for each well, total of 5 well per concentration. Prepare slightly extra volume to compansate different handling error.  
 
-#. Remove media from 96 well plate. 
+#. Remove media from 96 well plate with multichannel micropipette. 
 #. Dispense 100 uL of complete DMEM in blank and control wells. 
 #. Dispense 100 uL of compound diluted in complete DMEM into respective wells. 
 #. Incubate for 48 hrs. 
@@ -129,6 +131,9 @@ Treatment
 MTT
 ---
 #. Add 10 uL of MTT into each well.
+
+    Don't have to remove media
+
 #. Incubate for 3 hrs at 37C, 5% CO2.
 #. Remove media. 
 #. Add 100 uL of DMSO into each well. 
