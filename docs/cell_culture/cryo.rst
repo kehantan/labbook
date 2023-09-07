@@ -10,9 +10,9 @@ Requires
 
 Procedure
 ---------
-#. Trypsinise the cells from culture flask. `target`_.
+#. Trypsinise the cells from culture flask. Referecne `target`_.
     
-    Refer to the trypsinise `target`_ section.
+    Refer to the trypsinise Reference `target`_ section.
 
 #. In each cryopreservation tube, prepare: 
 
