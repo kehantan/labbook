@@ -21,6 +21,7 @@ Requires
 * Waste beaker
 
 Optional: 
+
 * Trypan blue
 * 96 well plate (for mixing trypan blue and cell suspension for counting)
 * Cell counter
@@ -52,7 +53,10 @@ Trypsinise
 
 #. Transfer the cell suspension from culturing flask to 15 ml centrifuge tube. 
 #. Centrifuge for 5 mins at 1500 rpm. 
-#. Dispose the supernatant with micropipette. 
+#. Dispose the supernatant with micropipette.
+
+    You can also use serological pipette to remove the supernatant, but be more cautious as the pipette gun have greater suction power, you don't want your cell pellet to be sucked away. 
+
 #. Leave minimal amount of liquid in the centrifuge tube. 
 #. Resuspend the cell pellet (sediment) in complete DMEM, pipette repeatedly to break the cell pellet.
 
