@@ -5,14 +5,8 @@ Thawing cells from either -80 C or from liquid nitrogen.
 
 Requires
 --------
-* Micropipette (100-1000 uL)
-* Micropipette tips
-* Waste beaker
 * T25 culture flask
 * Complete DMEM
-* Serological pipette 
-* Pipette gun
-
 
 Procedure
 ---------
