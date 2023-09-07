@@ -1,7 +1,7 @@
 Standard passaging (subculture) 
 ===============================
 
-:ref:`target`_.
+:any:`target`_.
 
 Vero cells. Adherent cells. Not immortalised. 
 
