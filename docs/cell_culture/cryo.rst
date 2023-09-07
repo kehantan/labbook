@@ -8,11 +8,11 @@ Requires
 * Cryopreservation tube
 * Complete DMEM
 
-:ref:`Link <My target>`
+:ref:`Link <cell_culture/My target>`
 
-:ref:`Link <My target>`_
+:ref:`Link <cell_culture/My target>`_
 
-`My target`_
+`cell_culture/My target`_
 
 
 Procedure
