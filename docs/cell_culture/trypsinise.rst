@@ -5,8 +5,6 @@ Trypsinise is a procedure to remove adherent cells from the culture flask
 
 Requires
 
-* Micropipette
-* Micropipette tips
 * TrypLE 
 * Complete DMEM
 * PBS (1x)
