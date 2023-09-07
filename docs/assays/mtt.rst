@@ -9,7 +9,7 @@ MTT is a long procedure that can take multiple days. The steps including:
 * Actual MTT
 * Read absorbance
 
-I divided this protocol into sections, so each sections indicates 1 day. You can plan your experiments accordingly. 
+I divided this protocol into sections, so each sections indicates that particular process requires 1 day. You can plan your experiments accordingly. 
 
 Before we actually start the procedure, it is best to count the theoretical cells required before start seeding. I usually seed 100 uL of mixture that contains 10% DMEM + 1,500 cells into each well.
 
