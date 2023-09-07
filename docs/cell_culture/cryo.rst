@@ -12,7 +12,7 @@ Procedure
 ---------
 #. Trypsinise the cells from culture flask. 
     
-    Refer to the `target`_ section.
+    Refer to the `My target`_ section.
 
 #. In each cryopreservation tube, prepare: 
 
