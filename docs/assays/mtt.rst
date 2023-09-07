@@ -1,11 +1,17 @@
 MTT assay
 =========
+MTT is a long procedure that can take multiple days. The steps including:
 
-Before seeding
---------------
-Count the theoretical cells required before start seeding. 
+* Trypsinise
+* Cell count
+* Cell seeding
+* Treatment
+* Actual MTT
+* Read absorbance
 
-I usually seed 100 uL of mixture that contains 10% DMEM + 1,500 cells into each well.
+I divided this protocol into sections, so each sections indicates 1 day. You can plan your experiments accordingly. 
+
+Before we actually start the procedure, it is best to count the theoretical cells required before start seeding. I usually seed 100 uL of mixture that contains 10% DMEM + 1,500 cells into each well.
 
 Assume we do 7 concentrations (including negative control), then 
 
@@ -26,7 +32,7 @@ Requires:
 * Seropipette (5ml and 10 ml)
 * Pipette gun 
 
-Procedure
+Section 1
 ---------
 
 Trypsinise
@@ -131,12 +137,20 @@ After all the calculations we can begin our procedure.
 *Note: Technically, adding 35 uL to 3,500 uL would be 3,535 uL, but we would treat it as a negligible difference*
 
 
+Section 2
+---------
+
 Treatment
 ~~~~~~~~~
+Before treatment, calculate the concentration of compound we need. 
+
+    Usually we do serial dilution, but we can also do each concentration seperately if it is too confusing at the beginning. 
+
+There are serial dilution calculator online that can help us to calculate the dilution. 
+
 Requires:
 
 * Multichannel micropipette 
-* Micropipette tips
 
 #. Prepare different concentration of compound by diluting the compound in complete DMEM.
 
