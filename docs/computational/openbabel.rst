@@ -31,3 +31,9 @@ In the terminal, type
 For example, 
 
     ``obabel -i pdb ligand.pdb -o mol2 -O ligand.mol2``
+
+Sometimes when you download a ligand file in sdf format, it does have 3D coordinates. You can do 
+
+    ``obabel -i sdf ligand.sdf -o pdb -O ligand.pdb --gen3d``
+
+to generate a pdb file with 3D coordinates
