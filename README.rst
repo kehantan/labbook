@@ -1,9 +1,10 @@
 Lab protocols 
 =============
+This is a lab book for:
 
 * Lab protocols 
-   
-  * Cell cultures
-  * Computational biology
-
 * Recipes for buffers and solutions
+
+You are welcome to contribute. 
+
+To reach me: tankehan321@gmail.com
