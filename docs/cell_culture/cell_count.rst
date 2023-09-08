@@ -51,3 +51,7 @@ Cell counting
 #. Pipette 10 uL of cell suspension from centrifuge tube to the well that have trypan blue. Mix by repeat pipetting. 
 #. Take 10 uL of the trypan blue and cell mixture, and dispense into the counting chamber.
 #. Count the cells. 
+
+:code:`(sum of cells from 4 quadrant*10^4*2)/4 = X cells/ml`
+
+:math:`\frac{sum of cells from 4 quadrant \times 10^4 \times 2}{4} = X cells/ml`
