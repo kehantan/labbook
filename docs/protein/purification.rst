@@ -12,4 +12,4 @@ Purification with Ni-NTA resin
 
 Dialysis
 --------
-With dialysis casette
+Dialysis with dialysis casette
