@@ -16,7 +16,7 @@ Requires
 
 Procedure
 ~~~~~~~~~
-#. Trypsinise the cells in culture flask. Refer to :ref:`trypsinise <My target>` for procedure. 
+#. Trypsinise the cells in culture flask. * Refer to :ref:`trypsinise <My target>` for procedure. *
 #. Check if there are enough cells for 6 well plate. Calculate the required amount of cell suspension to aspirate into each well.
 #. Dispense 1.5 ml of complete DMEM in each well of the 6 well plate. 
 #. Dispense required amount of cell suspension into each well. 
