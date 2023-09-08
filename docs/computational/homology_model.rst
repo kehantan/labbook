@@ -1,7 +1,7 @@
 Homology modelling
 ==================
-Homology modelling with SWISS-MODEL to fix missing amino acid residues on protein receptor for molecular docking or molecular dynamics simulation works. 
-
-`SWISS-MODEL <https://swissmodel.expasy.org/>`_
+I use `SWISS-MODEL <https://swissmodel.expasy.org/>`_ to do homology modelling. The main purpose is to fix missing amino acid residues on protein receptor for molecular docking or molecular dynamics simulation works. 
 
 To validate the homology model, I use `SAVES <https://saves.mbi.ucla.edu/>`_
+
+You can also consider using other software (if you have access to them) or other approaches such as *ab initio* modelling or alphafold. I would suggest alphafold, it is new and fancy, looks fun ＼(＾▽＾)／
