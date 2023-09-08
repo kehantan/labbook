@@ -52,7 +52,7 @@ Assume cells were cultured in a T25 flask.
 
 #. Remove the culture flask from incubator. 
 #. Slightly tapping the flask to mechanically detach the cells from flask. 
-#. Dispense 10% DMEM in equal amount with TrypLE. Swirl the flask to properly neutralise TrypLE. 
+#. Dispense complete DMEM in equal amount with TrypLE. Swirl the flask to properly neutralise TrypLE. 
 
     For example: if dispensed 600 uL of TrypLE, then dispense 600 uL of 10% DMEM
 
@@ -60,7 +60,7 @@ Assume cells were cultured in a T25 flask.
 #. Centrifuge. 1500 rpm, 5 mins. 
 #. Remove supernatant, but leave minimal amount of DMEM in the centrifuge tube. 
 #. Flick or tap the centrifuge tube to resuspend the cell pellet into DMEM. 
-#. Add 1 ml of 10% DMEM to the centrifuge tube. Pipette repeatedly to break the cell pellet. 
+#. Add 1 ml of complete DMEM to the centrifuge tube. Pipette repeatedly to break the cell pellet. 
 
 Cell counting
 ~~~~~~~~~~~~~
@@ -90,17 +90,16 @@ Requires:
 
 The final outcome we want = 100 uL of mixture of complete DMEM + 1,500 cells in each well
 
-We know how much cells we have, we now need to know how much cells we need to dilute. 
-What we should do now:
+We know how much cells we have, we now need to know how much cells we need to take and dilute in complete DMEM to make the final mixture we want. What we should do now:
 
 * Calculate the volume of cell suspension we need to aspirate
-* How much media we need 
+* How much complete DMEM we need 
 
 To calculate the volume of cell suspension we need to aspirate, 
 
     Assume we have: :code:`150*10^4 cells/ml`
     
-    But we only need: :code:`52,500 cells`
+    But we only need: :code:`52,500 cells` <-- We calculate this value before we begin the procedure 
     
     So we first convert the :code:`52,500 cells` to the :code:`*10^4` 'format', which is :code:`5.25x10^4`
     
