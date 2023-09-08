@@ -13,6 +13,7 @@ Amount of cells harvested from a T75 flask with 80% confluency should be suffici
 Requires
 ~~~~~~~~
 * Complete DMEM
+* 6 well plate
 
 Procedure
 ~~~~~~~~~
