@@ -19,7 +19,7 @@ Assume the culture is in a T25 culture flask.
 
     In a T25 culture flask with 5 ml of 2% DMEM, it should be enough for 10 microcentrifuge tube. 
 
-    Be careful when aliquote to not disturbed the sediments. 
+    Be careful when aliquote to not disturb the sediments. 
 
 #. Snap freezing the microcentrifuge tube by submerge into liquid nitrogen. 
 #. Store the snap frozen microcentrifuge tube in -80 C. 
