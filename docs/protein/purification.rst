@@ -1,5 +1,6 @@
 Protein purification
 ====================
+We store the pellet at -80 C 
 
 Extraction
 ----------
