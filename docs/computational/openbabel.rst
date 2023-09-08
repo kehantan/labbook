@@ -13,12 +13,14 @@ Open Babel is mainly a terminal tool, which you run in the terminal. There are G
 There are multiple ways to install Open babel:
 
 #. From repository 
+
     By typing ``sudo apt install openbabel`` into the terminal
 
 #. From Anaconda
+
     By typing ``conda install -c conda-forge openbabel`` into the terminal 
 
-Note: If you want to use Open Babel on Windows, I would suggest installing it via Anaconda. 
+*Note: If you want to use Open Babel on Windows, I would suggest installing it via Anaconda.*
 
 Usage
 -----
