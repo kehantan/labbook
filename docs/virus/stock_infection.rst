@@ -3,9 +3,16 @@ Virus stock infection
 
 To propagate virus stock for virus related experiments. 
 
-#. Culture cell to about 70% confluency
+Requires
+
+* 2% DMEM
+
+Assume we are culturing in a T25 culture flask.
+
+#. Culture cell to about 70% confluency.
 #. Remove media from culture flask. 
-#. Add 2% DMEM to culture flask.
+#. Add 5ml of 2% DMEM into culture flask.
+#. Thaw virus stock in water bath at 37 C. 
 #. Add 500 uL of virus stock into culture flask. 
 #. Incubate at 37 C.
 #. Monitor daily under microscope for CPE formation and detachment of cells.
