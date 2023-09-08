@@ -1,11 +1,13 @@
 Buffers and solutions
 =====================
 
-Recipes for buffers and solutions.
-Some stuff are just aliquote from bottle into smaller vial, such as 15 ml or 50 ml centrifuge tube, to reduce contaminations.
+Recipes for various buffers and solutions.
+
+Some stuff are just aliquote from bottle into smaller vial (15 ml or 50 ml centrifuge tube) to reduce contaminations, such as:
 
 * TrypLE
 * Trypan blue
+* Crystal violet 
 
 .. toctree::
    :maxdepth: 1
