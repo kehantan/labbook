@@ -29,7 +29,7 @@ Trypsinise
 ~~~~~~~~~~
 Requires:
 
-* 10% DMEM (in 50 ml centrifuge tube)
+* Complete DMEM (10%)
 * TrypLE
 * Phosphate buffer saline (1x PBS)
 * 15 ml centrifuge tube
