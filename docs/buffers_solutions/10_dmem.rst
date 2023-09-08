@@ -1,4 +1,4 @@
-10% DMEM (Complete)
+Complete DMEM (10%)
 ===================
 
 Requires
