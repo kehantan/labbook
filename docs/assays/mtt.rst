@@ -162,6 +162,7 @@ Requires:
 
 * MTT reagent
 * DMSO
+* Multichannel micropipette
 
 #. Add 10 uL of MTT into each well.
 
