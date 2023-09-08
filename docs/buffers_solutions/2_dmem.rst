@@ -12,7 +12,9 @@ Requirements
 Procedures
 ----------
 #. Aliquote into 50 ml centrifuge tube.
-    * 48.5 ml of DMEM
-    * 2 ml of FBS
-    * 500 uL of Pen-strep
+
+   * 48.5 ml of DMEM
+   * 2 ml of FBS
+   * 500 uL of Pen-strep
+
 #. Mix well. 
