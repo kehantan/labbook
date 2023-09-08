@@ -1,19 +1,27 @@
 Harvest virus stock
 ===================
 
-Harvesting virus. You can see it as a subculture process for virus.  
+Harvesting virus. It as basically subculture for virus.  
 
 Requires 
 --------
-* Centrifuge tube 
+* 15 ml Centrifuge tube 
 * Microcentrifuge tube 
 
 Procedure
 ---------
-#. Transfer media that contain dead cells and virus into a centrifuge tube. 
+
+Assume the culture is in a T25 culture flask. 
+
+#. Transfer media that contain dead cells and virus into a 15 ml centrifuge tube. 
 #. Centrifuge at 1500 rpm for 5 mins. 
-#. Aliquote 500uL of the supernatant into each microcentrifuge tube.
+#. Aliquote the supernatant into multiple microcentrifuge tube, 500 uL of supernatant in each tube.
+
+    In a T25 culture flask with 5 ml of 2% DMEM, it should be enough for 10 microcentrifuge tube. 
+
+    Be careful when aliquote to not disturbed the sediments. 
+
 #. Snap freezing the microcentrifuge tube by submerge into liquid nitrogen. 
 #. Store the snap frozen microcentrifuge tube in -80 C. 
 
-* Virus stock harvested need to have its virus titer quantified, by using plaque assay. 
+The harvested virus stock need to have its virus titer quantified. We do this by using plaque assay. 
