@@ -6,14 +6,16 @@ This is dilution for liquid stock PBS.
 Requirements
 ------------
 #. 10x D-PBS
-#. MiliQ water or distilled water 
+#. Milli-Q water or distilled water 
 #. Syringe
-#. 0.22 um filter
+#. 0.22 µm filter
+#. 50 ml centrifuge tube
 
 Procedure
 ---------
-#. Add 5 ml of PBS into 45 ml of distilled water/Mili-Q water. 
+#. Dispense 5 ml of PBS into a 50 ml centrifuge tube. 
+#. Add 45 ml of distilled water/Milli-Q water in the same 50 ml centrifuge tube. 
 
     To dilute 10x D-PBS to 1x
 
-#. Filter with 0.22 um filter using syringe.
+#. Filter with 0.22 um filter using syringe into a new 50 ml centrifuge tube.
