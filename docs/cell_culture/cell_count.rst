@@ -54,4 +54,4 @@ Cell counting
 
 :code:`(sum of cells from 4 quadrant*10^4*2)/4 = X cells/ml`
 
-:math:`\frac{sum of cells from 4 quadrant \times 10^4 \times 2}{4} = X cells/ml`
+:math:`\frac{\text{sum of cells from 4 quadrant} \times 10^4 \times 2}{4} = X cells/ml`
