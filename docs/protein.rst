@@ -7,3 +7,4 @@ Protein stuff.
    :maxdepth: 1
 
    protein/expression
+   protein/purification
