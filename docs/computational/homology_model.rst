@@ -5,3 +5,5 @@ I use `SWISS-MODEL <https://swissmodel.expasy.org/>`_ to do homology modelling. 
 To validate the homology model, I use `SAVES <https://saves.mbi.ucla.edu/>`_
 
 You can also consider using other software (if you have access to them) or other approaches such as *ab initio* modelling or alphafold. I would suggest alphafold, it is new and fancy ＼(＾▽＾)／
+
+But for real, alphafold had shown good output in CASP 14, and you do not need to run on your machine.
