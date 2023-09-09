@@ -13,7 +13,7 @@ I divided this protocol into sections, so each sections indicates that particula
 
 Before we actually start the procedure, it is best to count the theoretical cells required before start seeding. I usually prepare 100 uL of mixture that contains 10% DMEM + 1,500 cells into each well.
 
-Assume we test 7 concentrations (including negative control) for our compound, then 
+Assume we want to test 7 different concentrations (including negative control) of our compound on the cells, then 
 
 :code:`Total cells needed = 7 concentrations * 5 wells/concentration * 1,500 cells/well = 52,500 cells` 
 
@@ -21,9 +21,10 @@ After the cell counting step, double check if the cell required is sufficient fo
 
 *Note: To avoid confusion, examples here uses the exact number of concentrations and number of wells. But during exact execution, we usually prepare extra. For example, if we wanted to do 7 concentrations, we would actually prepare for 10 concentrations. This is due to slight deviations during pipetting and handling liquids. If you prepare the exact number of concentrations you want, you might end up not having enough cells for the last few wells. So calculate a little bit extra accordingly. I would usually add 3-5 concentrations extra for overhead.*
 
+*Reminder: Before starting the procedures, warm up medium and TrypLE in 37 C water bath. You can also put your apparatus into the biosafety cabinet and UV them first.*  
 
-Section 1 - Trypsinise, cell counting, cell seeding
----------------------------------------------------
+Section 1 - Trypsinise, cell count, seed cells
+----------------------------------------------
 
 Trypsinise
 ~~~~~~~~~~
@@ -78,6 +79,8 @@ Requires:
 #. Dispense 10 uL of trypan blue and cell mixture into counting chamber. 
 #. Count the cells. 
 
+Formula for cell count: :math:`\frac{\text{sum of cells from 4 quadrant} \times 10^4 \times 2}{4} = X cells/ml`
+
 After counting the cells, we should get value of :code:`X cells/ml`. Compare the counted cell number before we begin the experiment and the calculated cells number. We should have sufficient cells for seeding. 
 
 Cell seeding
@@ -127,7 +130,7 @@ After all the calculations we can begin our procedure.
 #. Aspirate 100 uL of cells and complete DMEM mixture from the cell reservoir with multichannel micropipette. Seed the mixture into 96 well plate. 
 #. Incubate the seeded 96 well plate for 24 hrs. 
 
-*Note: Technically, adding 35 uL to 3,500 uL would be 3,535 uL, but we would treat it as a negligible difference*
+*Note: Technically, 35 uL + 3,500 uL = 3,535 uL. If we want to be absolute accurate we should be doing 35 + 3,465 uL = 3,500 uL. But for convenience's sake, we would treat it as a negligible difference.*
 
 
 Section 2 - Treatment of cells
@@ -148,7 +151,7 @@ Requires:
     Prepare 600 uL, 100 uL for each well, total of 5 well per concentration. Supposedly 5 wells * 100 uL should only requires 500 uL, but we usually prepare extra volume to compansate handling errors. In this case, we prepare 600 uL, a 100 uL extra  
 
 #. Remove media from 96 well plate with multichannel micropipette. 
-#. Dispense 100 uL of complete DMEM in blank and control wells. 
+#. Dispense 100 uL of fresh complete DMEM in blank and control wells. 
 #. Dispense 100 uL of compound diluted in complete DMEM into respective wells. 
 #. Incubate for 48 hrs. 
 

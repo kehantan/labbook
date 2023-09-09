@@ -12,6 +12,8 @@ Requires
 * Trypan blue
 * 96 well plate (for mixing trypan blue and the cell suspension)
 
+*Reminder: Before starting the procedures, warm up medium and TrypLE in 37 C water bath. You can also put your apparatus in the biosafety cabinet and UV them first.*  
+
 Procedure
 ---------
 

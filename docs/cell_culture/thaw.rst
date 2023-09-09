@@ -8,6 +8,8 @@ Requires
 * T25 culture flask
 * Complete DMEM
 
+*Reminder: Before starting the procedures, warm up medium and TrypLE in 37 C water bath. You can also put your apparatus in the biosafety cabinet and UV them first.*  
+
 Procedure
 ---------
 #. Take cryovial from -80 °C  or LN2 tank.

@@ -8,12 +8,11 @@ Requires
 * Cryopreservation tube
 * Complete DMEM
 
+*Reminder: Before starting the procedures, warm up medium and TrypLE in 37 C water bath. You can also put your apparatus in the biosafety cabinet and UV them first.*  
+
 Procedure
 ---------
-#. Trypsinise the cells from culture flask. :ref:`My target`
-    
-    Refer to the :ref:`trypsinise <My target>` section.
-
+#. Trypsinise the cells from culture flask. *Refer to the :ref:`trypsinise <My target>` section.*
 #. In each cryopreservation tube, prepare: 
 
    * 450 uL complete DMEM

@@ -4,7 +4,7 @@ Standard passaging (subculture)
 Vero cells. Adherent cells. Not immortalised. 
 
 * Maintained at P20-P30
-* 37C
+* 37 C
 * 5% CO2 
 
 Requires
@@ -28,6 +28,7 @@ Optional:
 * Calculator
 * Counting chamber
 
+*Reminder: Before starting the procedures, warm up medium and TrypLE in 37 C water bath. You can also put your apparatus in the biosafety cabinet and UV them first.*  
 
 Procedure
 ---------
@@ -75,7 +76,6 @@ Cell seeding
 #. Place appropriate amount of complete DMEM into new culturing flask.
 
     T25 = 5 ml 
-    
     T75 = 9 ml
 
 #. Plate cells onto a new flask at the desired cell density.
