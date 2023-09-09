@@ -1,8 +1,6 @@
 Standard passaging (subculture) 
 ===============================
 
-:any:`target`_.
-
 Vero cells. Adherent cells. Not immortalised. 
 
 * Maintained at P20-P30

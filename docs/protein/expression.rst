@@ -17,7 +17,7 @@ Follow the instructions on the LB agar bottle.
 #. Dispense 25 uL of Kanamycin stock solution into LB agar solution.
 #. Stir with magnetic stirrer until powder completely dissolve. 
 #. Autoclave.
-# Pour agar into petri dish. 
+#. Pour agar into petri dish. 
 
 Prepare LB broth
 ~~~~~~~~~~~~~~~~
