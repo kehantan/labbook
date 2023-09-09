@@ -25,7 +25,7 @@ Prepare it seperately means we would calculate the amount of stock solutions we 
 
 Our 1st concentration would be consists of 100 uL of compound X + 400 uL of solvent (in this example we would just use distilled water) = 500 uL of mixture.
 
-So calculate this again for all the other concentrations. Then we can start pipette into different centrifuge tube. 
+So repeat this calculation again for all the other concentrations. Then we can start pipette into different centrifuge tube. 
 
 Serial dilution
 ---------------
@@ -36,3 +36,5 @@ Serial dilution
 #. Repeating the steps by pipetting 500 uL liquid to next microcentrifuge tube and mix well. 
 #. For the last microcentrifuge tube (3.125 ug/ml in this example), discard 500 uL of liquid after mixing. 
 #. Then we have the serial dilution.  
+
+There are serial dilution calculator that can be found on the internet, you can use that. I would recommend familiar yourself with serial dilution as this is the standard method for preparing solutions. Also, it saves a little bit of time in terms of calculations and actual preparations. 

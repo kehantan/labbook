@@ -6,4 +6,4 @@ To validate the homology model, I use `SAVES <https://saves.mbi.ucla.edu/>`_
 
 You can also consider using other software (if you have access to them) or other approaches such as *ab initio* modelling or alphafold. I would suggest alphafold, it is new and fancy ＼(＾▽＾)／
 
-But for real, alphafold had shown good output in CASP 14, and you do not need to run on your machine.
+But for real, alphafold2 had shown good results in CASP 14, and you do not need to run on your machine (you can use Alphafold2 with MMseqs2 on Google Colaboratory). 

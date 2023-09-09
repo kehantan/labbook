@@ -3,6 +3,8 @@ Computational biology
 
 Computational stuff. 
 
+I run most of the computational stuff on either Linux or Windows operating system, so my familiarity of running most computational biology software based on operating system is Linux > Windows >>>>> MacOS. 
+
 The visual guides/tutorials is available on `google drive <https://drive.google.com/drive/folders/1Byi_lttOgHRpbkm0g4XSYoGqDaQSCV08?usp=sharing>`_.
 
 .. toctree::

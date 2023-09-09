@@ -2,7 +2,7 @@ Molecular docking
 =================
 There are two ways to do molecular docking: either running molecular docking at local machine (means your computer/laptop) or using server (does not need your computer/laptop). There are of course pros and cons of using different ways. 
 
-For easy work, I would suggest running molecular docking using server, like `MTiOpenScreen <https://bioserv.rpbs.univ-paris-diderot.fr/services/MTiOpenScreen/>`_. Most of the work would be automated by the server, you just have to run and retrieve your results. 
+For easy work, I would suggest running molecular docking using server, like `MTiOpenScreen <https://bioserv.rpbs.univ-paris-diderot.fr/services/MTiOpenScreen/>`_. Most of the work would be automated by the server, you just have to run and retrieve your results. Other advantages including able to run molecular docking with multiple protein receptor or ligands in one go. 
 
 Running molecular docking using server
 --------------------------------------
