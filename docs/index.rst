@@ -15,3 +15,4 @@ Contents
    assays
    protein
    virus
+   serial_dilution

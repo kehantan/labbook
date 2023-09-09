@@ -8,7 +8,7 @@ Requires
 * Cryopreservation tube
 * Complete DMEM
 
-*Reminder: Before starting the procedures, warm up medium and TrypLE in 37 C water bath. You can also put your apparatus in the biosafety cabinet and UV them first.*  
+*Reminder: Before starting the procedure, warm up medium in 37 C water bath. You can also put your apparatus in the biosafety cabinet and UV them first.*  
 
 Procedure
 ---------
@@ -16,7 +16,6 @@ Procedure
 #. In each cryopreservation tube, prepare: 
 
    * 450 uL complete DMEM
-
    * 50 uL DMSO
 
     Prepare freezing medium before adding to cells because concentrated DMSO is toxic to cells. 

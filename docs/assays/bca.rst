@@ -12,12 +12,9 @@ Requires
 Procedure
 ---------
 
-Usually we would need to prepare reagent 
-
 Prepare BCA reagent solution
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Before we run the experiment, we have to prepare Reagent A:Reagent B:Reagent C in ratio of 25:24:1
-Calculate how much reagent needed for your experiments.
+Before we run the experiment, we have to prepare Reagent A:Reagent B:Reagent C in ratio of 25:24:1. Calculate how much reagent needed for your experiments.
 
 Prepare serial dilution of sample
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -32,7 +29,7 @@ Prepare different concentration of standard solution
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Prepare different concentration of BCA stanadard (Albumin). 
 
-25, 125, 250, 500, 750, 1000, 1500, 2000 ug/ml
+    25, 125, 250, 500, 750, 1000, 1500, 2000 ug/ml
 
 To prepare different concentrations of standard solution, dilute the standard solution that included in the kit with distilled water.  
 
