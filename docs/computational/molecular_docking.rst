@@ -44,9 +44,9 @@ should take less than 3 mins to complete 1 molecular docking process.
 
 *Q: I have a powerful laptop/computer, can I run molecular docking on my machine?*
 
-Depends on the level of seriousness you wanted to run molecular docking on your own machine. Technically you can, but I would not encourage you to run serious molecular docking (e.g: molecular docking with large number of ligands that requires long running time) for below reasons. 
+    Depends on the level of seriousness you wanted to run molecular docking on your own machine. Technically you can, but I would not encourage you to run serious molecular docking (e.g: molecular docking with large number of ligands that requires long running time) for below reasons. 
 
-* Workstations and servers are build for durability especially running for long hours at full blast speed, consumer grade electronics usually does not have similar durability. This might affect the lifespan of your laptop/computer
-* Molecular docking typically uses full power of your machine (uses 100% of cpu power). So if that is your only device, you may not be able to use it for other work or you may find it lagging even when doing simple task, because molecular docking is running in background. 
+      * Workstations and servers are build for durability especially running for long hours at full blast speed, consumer grade electronics usually does not have similar durability. This might affect the lifespan of your laptop/computer
+      * Molecular docking typically uses full power of your machine (uses 100% of cpu power). So if that is your only device, you may not be able to use it for other work or you may find it lagging even when doing simple task, because molecular docking is running in background. 
 
-You can still do molecular docking on your machine if you just wanted to try it out and run a simple molecular docking which only takes like 5 mins.
+    You can still do molecular docking on your machine if you just wanted to try it out and run a simple molecular docking which only takes like 5 mins.

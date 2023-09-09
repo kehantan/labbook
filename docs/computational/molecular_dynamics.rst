@@ -33,19 +33,19 @@ The choice of using builtin tools or external tools are strictly personal prefer
 
 FAQ
 ---
-The FAQ is mostly the same as in molecular docking.
+The anser for FAQ is mostly the same as in molecular docking.
 
 *Q: How long does it take to run molecular dynamics?*
 
-Depends on a lot of factors: number of atoms for the whole system (including protein receptor, ligands, water molecules, ions, etc.), performance of the machine, time scale for simulation, etc. 
+    Depends on a lot of factors: number of atoms for the whole system (including protein receptor, ligands, water molecules, ions, etc.), performance of the machine, time scale for simulation, etc. 
 
 *Q: I have a powerful laptop/computer, can I run molecular docking on my machine?*
 
-For some context, if you just wanted to energy minimise the protein-ligand complex structure, it could take maybe, like a minute or so. If you wanted to do some equilibration, it could be taking up to 15 to 30 mins. If you wanted to run serious productions with tens and hundreds of nanoseconds, it could take hours or up to days depending on how many atoms there are in the simulated system. 
+    For some context, if you just wanted to energy minimise the protein-ligand complex structure, it could take maybe, like a minute or so. If you wanted to do some equilibration, it could be taking 15 to 30 mins. If you wanted to run serious productions with tens and hundreds of nanoseconds, it could take hours or even up to days depending on how many atoms there are in the simulated system and the performance of the machine. 
 
-Back to the question. Technically you can run MD on your system, but I would not encourage. The reasons are similar to molecular docking. 
+    Back to the question. Technically you can run MD on your system, but I would not encourage. The reasons are similar to molecular docking. 
 
-* Workstations and servers are build for durability especially running for long hours at full blast speed, consumer grade electronics usually does not have similar durability. This might affect the lifespan of your laptop/computer
-* Molecular docking typically uses full power of your machine (uses 100% of cpu power). So if that is your only device, you may not be able to use it for other work or you may find it lagging even when doing simple task, because molecular docking is running in background. 
+      * Workstations and servers are build for durability especially running for long hours 24/7 (days or even months) at full blast speed. Consumer grade electronics usually does not have similar durability. Running MD on your machine might affect its lifespan. 
+      * MD simulation typically uses full power of your machine (uses 100% of cpu power). So if that is your only device, you may not be able to use it for other work or you may find it lagging even when doing simple task, because MD is running in background. 
 
-Depends on which step and how serious you are going to do it. If you wanted to, you can do some energy minimisation for the protein-ligand complex; or you can run MD with a very small protein. I would not recommend running MD on your machine with large number of atoms in the system and a very long time scale. 
+    Depends on which step and how serious you are going to do it. If you wanted to, you can do some energy minimisation for the protein-ligand complex; or if you just wanted to try out MD, you can run MD with a very small protein. I would not recommend running MD on your machine with large number of atoms in the simulated system and a for very long time scale. 
