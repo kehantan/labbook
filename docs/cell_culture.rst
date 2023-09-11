@@ -5,8 +5,8 @@ Protocols for differnt cell culture related procedures.
 
 Refer `here <https://www.healthcare.nikon.com/en/ss/cell-image-lab/knowledge/process.html>`_ for the work cycle of cell culture. 
 
-Before we start any procedure
------------------------------
+**Before we start any procedure...**
+
 Maintain good aseptic technique is important throughout the whole process of cell culture. The usual prep for using the biosafety cabinet (BSC) is to sanitise the surfaces inside the BSC with 70% ethanol, then turn on UV for about 15-30 mins. You can reduce the time if you don't want to wait for so long. 
 
 The common items for doing cell culture including:
@@ -17,8 +17,8 @@ The common items for doing cell culture including:
 * Pipette gun
 * Waste beaker
 * Paper towel
-* Centrifuge tube
-* Culture flask
+* Centrifuge tube (15 ml)
+* Culture flask (T25/T75)
 * Permanent Marker
 
 You can also place these items into the BSC and UV them first. But before placing any items into the BSC, spray the items with 70% ethanol. 
@@ -42,4 +42,3 @@ We would place the solutions into the BSC only after UV was done, before we want
    cell_culture/trypsinise
    cell_culture/cell_count
    cell_culture/maintain
-   

@@ -16,3 +16,4 @@ Contents
    protein
    virus
    serial_dilution
+   misc
