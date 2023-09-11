@@ -1,5 +1,5 @@
-Kanamycin stock
-===============
+Kanamycin stock solution
+========================
 
 Kanamycin stock, 300 mg/ml, 10 ml 
 

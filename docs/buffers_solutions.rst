@@ -21,3 +21,5 @@ Some stuff are just aliquote from bottle into smaller vial (15 ml or 50 ml centr
    buffers_solutions/2_dmem
    buffers_solutions/dmem
    buffers_solutions/kanamycin 
+   buffers_solutions/tris-hcl_stock
+   buffers_solutions/naoh_stock

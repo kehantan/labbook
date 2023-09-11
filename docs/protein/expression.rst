@@ -29,7 +29,7 @@ Follow the instructions on the LB broth bottle.
 
     Autoclaved LB broth can be stored on bench for next day use. 
 
-    To be safe, can use 2 L bottle. 
+    To reduce risk of contamination, can use 2 L bottle. 
 
 Subculture *E. coli* 
 ~~~~~~~~~~~~~~~~~~~~
