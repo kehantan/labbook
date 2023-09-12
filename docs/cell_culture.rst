@@ -51,4 +51,5 @@ We would place the solutions into the BSC only after UV was done, before we want
    cell_culture/cryo
    cell_culture/trypsinise
    cell_culture/cell_count
+   cell_culture/cell_seed
    cell_culture/maintain
