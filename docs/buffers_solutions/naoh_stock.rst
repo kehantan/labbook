@@ -5,6 +5,8 @@ NaOH stock solution, 1 M
 
 NaOH MW: 39.997 g/mol
 
+This is mainly for adjusting pH of Tris-HCl. 
+
 Requires
 --------
 * NaOH pellet

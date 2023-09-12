@@ -1,7 +1,7 @@
 Tris-HCl stock solution
 =======================
 
-Tris-HCl stock solution, 1M, 1 L
+Tris-HCl stock solution, 1M, pH 7.5
 
 Tris-HCl MW: 157.6 g/mol 
 
@@ -18,8 +18,8 @@ Requires
 Procedure
 ---------
 #. Dissolve 157.6 g of Tris-HCl powder in 900 ml of distilled water/Milli-Q water. 
-#. Stir until all Tris-HCl powder dissolved. 
-#. Adjust pH with 1 M NaOH. 
+#. Stir with a magnetic stirrer until all Tris-HCl powder dissolved. 
+#. Adjust pH to 7.5 with 1 M NaOH. 
 #. Top up volume to 1 L with distilled water/Milli-Q water. 
-#. Filter with vacuum filter cup in to a new 1 L bottle. 
+#. Filter with vacuum filter cup into a new 1 L bottle. 
 #. Seal with parafilm and store in 4 C. 

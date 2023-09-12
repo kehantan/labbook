@@ -1,13 +1,23 @@
 Cell culture
 ============
 
-Protocols for differnt cell culture related procedures.
+Protocols for different cell culture related procedures.
 
 Refer `here <https://www.healthcare.nikon.com/en/ss/cell-image-lab/knowledge/process.html>`_ for the work cycle of cell culture. 
 
+
+A typical process of cell culture including following steps:
+
+#. Trypsinise
+#. Cell count 
+#. Cell seeding
+#. Further procedures (subculture, MTT, plaque assay, etc.)
+
+Trypsinisation is a common procedure for almost all assays. Whether we wanted to subculture or conduct any other assays, we would have to trypsinise the cells from culture flask, then only we proceed with other steps.  
+
 **Before we start any procedure...**
 
-Maintain good aseptic technique is important throughout the whole process of cell culture. The usual prep for using the biosafety cabinet (BSC) is to sanitise the surfaces inside the BSC with 70% ethanol, then turn on UV for about 15-30 mins. You can reduce the time if you don't want to wait for so long. 
+Maintain good aseptic technique is important throughout the whole process of cell culture. The usual prep for using the biosafety cabinet (BSC) is to sanitise the surfaces inside the BSC with 70% ethanol, then turn on UV for about 15-30 mins. You can reduce the time if you don't want to wait for that long. 
 
 The common items for doing cell culture including:
 

@@ -3,8 +3,8 @@
 
 Requirements 
 ------------
-#. Agarose powder
-#. Milli-Q water/distilled water
+* Agarose powder
+* Milli-Q water/distilled water
 
 Procedure
 ---------
