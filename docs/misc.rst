@@ -1,5 +1,5 @@
-Miscelleneous practices in our lab
-==================================
+Miscelleneous 
+=============
 
 In our lab, we usually share all the consummables. We don't usually have one set of everything for each student. So be responsible, and refill depleted stuff if it is running low.  
 
