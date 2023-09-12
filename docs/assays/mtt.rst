@@ -19,7 +19,7 @@ Assume we want to test 7 different concentrations (including negative control) o
 
 After the cell counting step, double check if the cell required is sufficient for seeding. 
 
-*Note: To avoid confusion, examples here uses the exact number of concentrations and number of wells. But during exact execution, we usually prepare extra. For example, if we wanted to do 7 concentrations, we would actually prepare for 10 concentrations. This is due to slight deviations during pipetting and handling liquids. If you prepare the exact number of concentrations you want, you might end up not having enough cells for the last few wells. So calculate a little bit extra accordingly. I would usually add 3-5 concentrations extra for overhead.*
+*Note: To avoid confusion, examples here uses the exact number of concentrations and number of wells. But during exact execution, we usually prepare extra. For example, if I wanted to seed a 96 well plate for MTT to test my compound with 7 different concentrations, I would prepare cell suspension volume that is enough for 10 concentrations. This is due to slight deviations during pipetting and handling liquids. If you prepare enough cells suspension for the exact number of concentrations you want, you might end up not having enough cells for the last few wells. So calculate a little bit extra accordingly. I would usually add 3-5 concentrations extra for some overhead.*
 
 *Reminder: Before starting the procedures, warm up medium and TrypLE in 37 C water bath. You can also put your apparatus into the biosafety cabinet and UV them first.*  
 

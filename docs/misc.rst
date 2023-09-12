@@ -15,5 +15,5 @@ We also autoclave Milli-Q water of different volume in bottles and seal with par
 
 Microcentrifuge (Eppendorf) tube
 --------------------------------
-We would fill an empty bottle with microcentrifuge tube, then autoclave the whole bottle. After drying the water in oven, we seal with parafilm for storage. For aseptic purpose, if we wanted to use the microcentrifuge tube, wee would open the bottle in biosafety cabinet. We would seal the bottle with parafilm after use before storage. 
+We would fill an empty bottle with microcentrifuge tube, then autoclave the whole bottle. After drying the water in oven, we seal with parafilm for storage. For aseptic purpose, if we wanted to use the microcentrifuge tube, we would open the bottle in biosafety cabinet. We would seal the bottle with parafilm after use before storage. 
 
