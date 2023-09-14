@@ -8,3 +8,4 @@ Virus related stuff.
 
    virus/harvest
    virus/stock_infection
+   virus/waste
