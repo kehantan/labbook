@@ -1,6 +1,6 @@
 Open Babel
 ==========
-Open Babel is a handy tool for computational chemistry which have multiple functions. Some of the functions that I regularly used including:
+Open Babel is a very handy tool for computational chemistry which have multiple functions. Some of the functions that I regularly used including:
 
 * convert between different file formats (e.g.: from .pdb to .mol)
 * generate 3D coordinates with option ``--gen3d``

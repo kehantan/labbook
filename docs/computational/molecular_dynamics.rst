@@ -18,18 +18,26 @@ Workflow
 
 Analysis
 --------
+
+Common analysis for MD simulation including:
+
+* Root mean square deviation (RMSD)
+* Root mean square fluctuation (RMSF)
+* Free binding energy (**M**\ olecular **M**\ echanics **P**\ oisson-\ **B**\ oltzmann **S**\ urface **A**\ rea, MMPBSA)
+* Hydrogen bond interactions
+
 There are native tools built into GROMACS that can be used for MD analysis, but I run most of the analysis using external tools. There are plenty of external tools, the one that I am using is `MDAnalysis <https://www.mdanalysis.org/>`_. 
 
 The choice of using builtin tools or external tools are strictly personal preference. I use MDAnalysis simply because:
 
 * I find it easier to handle multiple trajectories in MDAnalysis.  
 * I don't have to install GROMACS on my computer if I just want to run analysis and not running actual MD on my machine. 
-* It is operating system agnostic (means I can run my analysis on either Linux or Windows), because it is written in Python programming language. 
+* It is operating system agnostic (means I can run my analysis on either Linux or Windows), because it is written in Python programming language, which is also OS agnostic. 
 * Since it is written in Python, MDAnalysis can be used together with other Python-based packages in the same environment (by installing all of them using Anaconda), making it a complete ecosystem for analysis of MD trajectories. Some example including:  
   
-  * Jupyter notebook - an interface that runs on internet browser, which makes writing python scripts for analysis easier than in terminal, because I can view the output results in the browser itself and make any necessary adjustments within Jupyter notebook 
-  * Matplotlib - Can be loaded into Jupyter notebook. Main function is to plot nicer and more consistent graph from MDAnalysis. 
-  * NGLview - I rarely use this, but this is good for generating a movie or show structural information from the MD trajectories. 
+  * Jupyter notebook - an interface that runs on internet browser, which makes writing python scripts for analysis easier than in terminal, because I can view the output results in the browser itself and make any necessary adjustments within Jupyter notebook. 
+  * Matplotlib - Can be loaded into Jupyter notebook. Main function is to plot nicer and more consistent graph from the results of MDAnalysis. 
+  * NGLview - I rarely use this, but this is good for generating a movie or show structural information from the MD trajectories. An advantage of this is that I don't have to use external visualisation software like VMD or PyMOL for trajectories. 
 
 FAQ
 ---
