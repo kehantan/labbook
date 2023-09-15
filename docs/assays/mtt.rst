@@ -142,16 +142,18 @@ Before treatment, calculate the concentration of compound we need. Usually we do
 
 There are serial dilution calculator online that can help us to calculate the dilution. 
 
+Also, prepare the compounds with different concentrations before removing media from the 96 well plate, so we can immediately dispense the compound into the 96 well plate after removing the media. If the cells are left too long whithout media they would dry up and die. 
+
 Requires:
 
 * Multichannel micropipette 
 
 #. Prepare different concentration of compound by diluting the compound in complete DMEM.
 
-    Prepare 600 uL, 100 uL for each well, total of 5 well per concentration. Supposedly 5 wells * 100 uL should only requires 500 uL, but we usually prepare extra volume to compansate handling errors. In this case, we prepare 600 uL, a 100 uL extra  
+    We need 100 uL for each well, total of 5 well per concentration. Supposedly :math:`5 wells \times 100 uL` should only requires 500 uL, but we would prepare extra volume to compansate handling errors. In this case, we prepare 600 uL, a 100 uL extra.  
 
 #. Remove media from 96 well plate with multichannel micropipette. 
-#. Dispense 100 uL of fresh complete DMEM in blank and control wells. 
+#. Dispense 100 uL of fresh complete DMEM in negative control wells. 
 #. Dispense 100 uL of compound diluted in complete DMEM into respective wells. 
 #. Incubate for 48 hrs. 
 
@@ -172,10 +174,10 @@ Requires:
     Don't have to remove media
 
 #. Incubate for 3 hrs at 37C, 5% CO2.
-#. Remove media. 
+#. After 3 hrs, remove media. 
 #. Add 100 uL of DMSO into each well. 
-#. Place 96 well plate on shaker, shake for 1 hr.
-#. Read absorbance. 
+#. Place 96 well plate on shaker and shake for 1 hr.
+#. Read absorbance after shaking for 1 hr. 
 
 Read absorbance
 ~~~~~~~~~~~~~~~
