@@ -1,5 +1,5 @@
-Waste
-=====
+Virus waste
+===========
 
 There are some department policy for waste management that our lab is required to follow because the virus is considered an infectious agent. They may not always make sense, but it is here for documentation purpose. 
 
