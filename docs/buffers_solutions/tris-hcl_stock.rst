@@ -13,7 +13,9 @@ Requires
 * Vacuum filter cup with 0.22 um filter
 * Vacuum pump
 * Magnetic stirrer
-* 1 M NaOH
+* 2 M NaOH
+
+*After some trial and eror, it was found that it takes a large volume of 1 M NaOH to raise the pH to 7.5, so can try use 2 M or even 3 M NaOH next time.*
 
 Procedure
 ---------
