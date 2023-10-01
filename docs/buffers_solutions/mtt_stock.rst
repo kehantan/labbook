@@ -9,7 +9,7 @@ Requires
 * Distilled water 
 * Centrifuge tube (15 mL)
 * Syringe
-* Syringe filter (0.22 :math:`\mu m`)
+* Syringe filter (0.22 :math:`\mu`\ m) (0.22 :math:`\mu m`)
 
 **Procedure**
 
