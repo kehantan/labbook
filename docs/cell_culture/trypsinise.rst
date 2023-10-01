@@ -14,8 +14,8 @@ Requires
 
 *Reminder: Before starting the procedures, warm up medium and TrypLE in 37 C water bath. You can also put your apparatus in the biosafety cabinet and UV them first.*  
 
-Procedure
----------
+**Procedure**
+
 Check the cells under microscope before procedure to confirm the cell is at desired confluency. 
 
 #. Remove media from culture flask. 

@@ -60,7 +60,7 @@ Extraction
 ----------
 
 Requires
---------
+
 * Ice box filled with ice
 * Microcentrifuge tube (1.5 ml)
 * PCR tube

@@ -1,7 +1,7 @@
 5% agarose (w/v)
 ================
 
-Requirements 
+Requires 
 
 * Agarose powder
 * Milli-Q water/distilled water

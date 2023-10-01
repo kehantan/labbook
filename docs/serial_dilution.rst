@@ -11,8 +11,8 @@ with each concentration consists of 500 uL of liquid.
 
 The common practice is to prepare a stock solution where we dissolve the solid compound in our preferred solvent (e.g.: distilled water, DMSO, etc.). For this example, we can dissolve 1 mg of compound X in 1 ml of water, to make a 1 mg/ml stock solution. From the 1 mg/ml stock solution, we can further dilute it into the concentrations we want to test. 
 
-Prepare seperately
-------------------
+**Prepare seperately**
+
 Prepare it seperately means we would calculate the amount of stock solutions we need individually with :math:`C_1 \cdot V_1 = C_2 \cdot V_2`. 
 
 :math:`1 mg/ml \times V_1 = 200 ug/ml \times 500 uL`
@@ -27,8 +27,8 @@ Our 1st concentration would be consists of 100 uL of compound X + 400 uL of solv
 
 So repeat this calculation again for all the other concentrations. Then we can start pipette into different centrifuge tube. 
 
-Serial dilution
----------------
+**Serial dilution**
+
 #. Prepare 7 microcentrifuge tube. Label the concentrations on the tube. 
 #. Pipette 800 uL of distilled water into the 200 ug/ml microcentrifuge tube. Then pipette 500 uL of distilled water into other microcentrifuge tube. 
 #. Pipette 200 uL stock solution of compound X into the 200 ug/ml microcentrifuge tube. Mix well by repeat pipetting.

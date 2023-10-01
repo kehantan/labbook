@@ -3,7 +3,7 @@
 
 This is for cell culture related to virus. 
 
-Requirements
+Requires
 
 * FBS
 * Pen-Strep
