@@ -1,13 +1,20 @@
 MTT assay
 =========
-MTT is a long procedure that can take multiple days. The steps including:
+MTT is a long procedure that can span across multiple days. The steps including:
 
-#. Trypsinise
-#. Cell count
+#. Trypsinise   
+#. Cell count   
 #. Cell seeding
 #. Treatment
 #. Actual MTT
 #. Read absorbance
+
+It takes 3 days to complete 1 round of MTT. We need:
+
+    * 1 day for trypsinise, cell count, and seeding
+    * 1 day for treatment (treat the cells with compound)
+    * 1 day for actual MTT and to read the absorbance
+
 
 I divided this protocol into sections, so each sections indicates that particular process requires 1 day. You can plan your experiments accordingly. 
 
@@ -22,6 +29,7 @@ After the cell counting step, double check if the cell required is sufficient fo
 *Note: To avoid confusion, examples here uses the exact number of concentrations and number of wells. But during exact execution, we usually prepare extra. For example, if I wanted to seed a 96 well plate for MTT to test my compound with 7 different concentrations, I would prepare cell suspension volume that is enough for 10 concentrations. This is due to slight deviations during pipetting and handling liquids. If you prepare enough cells suspension for the exact number of concentrations you want, you might end up not having enough cells for the last few wells. So calculate a little bit extra accordingly. I would usually add 3-5 concentrations extra for some overhead.*
 
 *Reminder: Before starting the procedures, warm up medium and TrypLE in 37 C water bath. You can also put your apparatus into the biosafety cabinet and UV them first.*  
+
 
 Section 1 - Trypsinise, cell count, seed cells
 ----------------------------------------------
