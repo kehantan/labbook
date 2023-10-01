@@ -58,6 +58,7 @@ We would need at least 3 L of buffer D for one purification.
 
 The bacterial pellet from expression process was stored at -80 :math:`\textdegree C`. Purification would proceed from there.  
 
+
 Protein extraction
 ------------------
 
@@ -87,6 +88,7 @@ Requires
 * Buffer C
 * Buffer D 
 * Rotator
+
 
 Purification
 ------------
@@ -160,10 +162,12 @@ SDS-PAGE
 
 Dialysis
 --------
+
 * Dialysis was done with Thermo Fisher Scientific Slide-A-lyzer Dialysis Casssette.
 * This procedure needs to be carried out in cold room.
 * It is best to pre-cool Buffer D to 4 :math:`\textdegree C`, so bring the buffer into cold room at least 1 hr before starting the procedure. 
 * Other equipments needed in the cold room including magnetic stirrer and retort stand. 
+
 
 **Procedure** 
 
@@ -177,4 +181,4 @@ Select 2-3 fractions containing NS2B/NS3 Protein. Leave 120 uL for SDS-PAGE.
 #. Collect the dialysised solution from cassette into centrifuge tube. 
 #. Store the solution at :math:`\textdegree C`. 
 
-    Collect 120 :math:`\mu L` for SDS-PAGE 
+    Collect 120 :math:`\mu`\ L for SDS-PAGE 

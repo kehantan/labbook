@@ -1,7 +1,7 @@
 2% DMEM 
 =======
 
-This is for cell culture related to virus. 
+2% DMEM is used for cell culture related to virus. 
 
 Requires
 
@@ -11,11 +11,11 @@ Requires
 
 **Procedures**
 
-#. Into 50 ml centrifuge tube, aliquote:
+#. Into 50 mL centrifuge tube, aliquote:
 
-   * 48.5 ml of DMEM
-   * 2 ml of FBS
-   * 500 uL of Pen-strep
+   * 48.5 mL of DMEM
+   * 2 mL of FBS
+   * 500 :math:`\mu`\ L of Pen-strep
 
 #. Mix well. 
 #. Label the centrifuge tube.
