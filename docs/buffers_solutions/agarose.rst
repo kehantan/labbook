@@ -2,10 +2,10 @@
 ================
 
 Requirements 
-------------
+
 * Agarose powder
 * Milli-Q water/distilled water
 
-Procedure
----------
+**Procedure**
+
 #. Dissolve 5 g of agarose powder in 100 ml distilled water/Milli-Q water. 

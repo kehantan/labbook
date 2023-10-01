@@ -26,9 +26,10 @@ After the cell counting step, double check if the cell required is sufficient fo
 Section 1 - Trypsinise, cell count, seed cells
 ----------------------------------------------
 
-Trypsinise
+**Trypsinise**
 ~~~~~~~~~~
-Requires:
+
+Requires
 
 * Complete DMEM (10%)
 * TrypLE
@@ -63,9 +64,9 @@ Assume cells were cultured in a T25 flask.
 #. Flick or tap the centrifuge tube to resuspend the cell pellet into DMEM. 
 #. Add 1 ml of complete DMEM to the centrifuge tube. Pipette repeatedly to break the cell pellet. 
 
-Cell counting
-~~~~~~~~~~~~~
-Requires:
+**Cell counting**
+
+Requires
 
 * Cell counter
 * Counting chamber
@@ -83,9 +84,9 @@ Formula for cell count: :math:`\frac{\text{sum of cells from 4 quadrant} \times 
 
 After counting the cells, we should get value of :code:`X cells/ml`. Compare the counted cell number before we begin the experiment and the calculated cells number. We should have sufficient cells for seeding. 
 
-Cell seeding
-~~~~~~~~~~~~
-Requires:
+**Cell seeding**
+
+Requires
 
 * 96 well plate 
 * Cell reservoir
@@ -136,15 +137,15 @@ After all the calculations we can begin our procedure.
 Section 2 - Treatment of cells
 ------------------------------
 
-Treatment
-~~~~~~~~~
+**Treatment**
+
 Before treatment, calculate the concentration of compound we need. Usually we do serial dilution, but we can also do each concentration seperately if it is too confusing. 
 
 There are serial dilution calculator online that can help us to calculate the dilution. 
 
 Also, prepare the compounds with different concentrations before removing media from the 96 well plate, so we can immediately dispense the compound into the 96 well plate after removing the media. If the cells are left too long whithout media they would dry up and die. 
 
-Requires:
+Requires
 
 * Multichannel micropipette 
 
@@ -161,9 +162,9 @@ Requires:
 Section 3 - MTT, read absorbance
 --------------------------------
 
-MTT
-~~~
-Requires:
+**The actual MTT**
+
+Requires
 
 * MTT reagent
 * DMSO
@@ -179,6 +180,6 @@ Requires:
 #. Place 96 well plate on shaker and shake for 1 hr.
 #. Read absorbance after shaking for 1 hr. 
 
-Read absorbance
-~~~~~~~~~~~~~~~
+**Read absorbance**
+
 #. Read plate at 570 nm. 

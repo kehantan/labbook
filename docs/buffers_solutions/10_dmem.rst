@@ -2,14 +2,14 @@ Complete DMEM (10%)
 ===================
 
 Requires
-------------
+
 * FBS
 * Pen-Strep
 * DMEM
 * 50 ml centrifuge tube
 
-Procedure
-----------
+**Procedure**
+
 #. Aliquote into 50 ml centrifuge tube.
 
    * 44.5 ml of DMEM

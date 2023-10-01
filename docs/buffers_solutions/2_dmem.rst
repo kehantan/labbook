@@ -4,13 +4,13 @@
 This is for cell culture related to virus. 
 
 Requirements
-------------
+
 * FBS
 * Pen-Strep
 * DMEM
 
-Procedures
-----------
+**Procedures**
+
 #. Aliquote into 50 ml centrifuge tube.
 
    * 48.5 ml of DMEM

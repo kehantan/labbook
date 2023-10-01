@@ -1,21 +1,22 @@
 Phosphate buffer saline (PBS)
 =============================
 
-This is dilution for liquid stock PBS. 
+This is dilution for 10 x liquid stock D-PBS into 1x. 
 
 Requires
-------------
+
 * 10x D-PBS
 * Milli-Q water or distilled water 
 * Syringe
-* 0.22 µm filter
-* 50 ml centrifuge tube
+* Syringe filter (0.22 :math:`\mu m`) 
+* Centrifuge tube (50 ml)
 
-Procedure
----------
-#. Dispense 5 ml of PBS into a 50 ml centrifuge tube. 
+**Procedure**
+
+#. Dispense 5 ml of D-PBS into a 50 ml centrifuge tube. 
 #. Add 45 ml of distilled water/Milli-Q water in the same 50 ml centrifuge tube. 
 
     To dilute 10x D-PBS to 1x
 
-#. Filter with 0.22 um filter using syringe into a new 50 ml centrifuge tube.
+#. Filter with 0.22 :math:`\mu m` filter using syringe into a new 50 ml centrifuge tube.
+#. Remember to label the new centrifuge tube. 

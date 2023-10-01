@@ -4,7 +4,7 @@ PFA
 To make 3.7% PFA from 37% PFA
 
 Requires
---------
+
 * 37% PFA
 * Distilled water/Milli-Q water
 * Empty bottle (Autoclave not needed)
@@ -15,7 +15,7 @@ Assume we wanted to prepare 250 ml of 3.7% PFA from 37% PFA, we would need 25 ml
 
 *This preparation do not need to be sterile, so we can prepare it on the bench.*
 
-Procedure
----------
+**Procedure**
+
 #. Aliquote 25 ml of 37% PFA into an empty bottle. 
 #. Top up to 250 ml with distilled water/Milli-Q water. 

@@ -6,20 +6,19 @@ We use kit for this assay.
 This procedure can be carried out on bench. 
 
 Requires
---------
+
 * PCR centrifuge tube 
 * Microcentrifuge tube (1.5 ml)
 * 96 well plate
 
-Procedure
----------
+**Procedure**
 
-Prepare BCA reagent solution
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Prepare BCA reagent solution**
+
 Before we run the experiment, we have to prepare Reagent A:Reagent B:Reagent C in ratio of 25:24:1. Calculate how much reagent needed for your experiments.
 
-Prepare serial dilution of sample
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Prepare serial dilution of sample**
+
 #. Prepare and label 8 microcentrifuge tube. 
 #. Dispense 60 uL of distilled water into each microcentrifuge tube except the first tube. 
 #. Aspirate 120 uL of sample into first microcentrifuge tube. Mix with repeat pipetting.  
@@ -27,8 +26,8 @@ Prepare serial dilution of sample
 #. Repeat the dilution process from second microcentrifuge tube untill the last tube. 
 #. Discard 60 uL of mixture from the last microcentrifuge tube.  
 
-Prepare different concentration of standard solution
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Prepare different concentration of standard solution**
+
 Prepare different concentration of BCA stanadard (Albumin). 
 
     25, 125, 250, 500, 750, 1000, 1500, 2000 ug/ml
@@ -39,8 +38,8 @@ To prepare different concentrations of standard solution, dilute the standard so
 #. Dispense appropriate amount of distilled water into each microcentrifuge tube. 
 #. Dispense appropriate amount of standard into each microcentrifuge tube. Mix the standard and distilled water by repeat pipetting. 
 
-In 96 well plate
-~~~~~~~~~~~~~~~~
+**In 96 well plate**
+
 After preparing all the reagent and samples, we need to put everything into the 96 well plate. Remember to prepare blank in one of the well. 
 
 Usually we dispense 50 uL of sample + 50 uL of reagent = 100 uL into each well.

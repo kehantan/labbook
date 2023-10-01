@@ -2,15 +2,14 @@ Protein expression
 ==================
 
 Requires
---------
+
 * Transformed BL21
 * BL21 cell + Plasmid
 
-Procedure
----------
+**Procedure**
 
-Prepare LB agar
-~~~~~~~~~~~~~~~
+**Prepare LB agar**
+
 Follow the instructions on the LB agar bottle.
 
 #. Dissolve powder in 250 ml distilled water. 
@@ -19,8 +18,8 @@ Follow the instructions on the LB agar bottle.
 #. Autoclave.
 #. Pour agar into petri dish. 
 
-Prepare LB broth
-~~~~~~~~~~~~~~~~
+**Prepare LB broth**
+
 Follow the instructions on the LB broth bottle.
 
 #. Dissolve powder in 1 L distilled water, in Erlenmeyer flask. 
@@ -31,10 +30,9 @@ Follow the instructions on the LB broth bottle.
 
     To reduce risk of contamination, can use 2 L bottle. 
 
-Subculture *E. coli* 
-~~~~~~~~~~~~~~~~~~~~
+**Subculture E. coli**
 
-Requires 
+Requires
 
 * 15 ml centrifuge tube 
 * Transformed *E. coli* cultured on plate 
@@ -50,8 +48,8 @@ Requires
 #. Pick a single *E. coli* colony from agar plate and streak on new LB agar plate. 
 #. Shake the centrifuge tube. 24 hrs, 37 C, 180 rpm.
 
-Large scale culture
-~~~~~~~~~~~~~~~~~~~
+**Large scale culture**
+
 #. Decant the 2 15 ml centrifuge tube culture into the 1 L LB broth. 
 #. Shake. 1-3 hrs, 37 C, 180 rpm. 
 #. Check OD at 600 nm. 

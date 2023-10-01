@@ -11,12 +11,12 @@ Cells should be at least 90% confluency at the time of infection.
 Amount of cells harvested from a T75 flask with 80% confluency should be sufficient to seed 2 6 well plate with 600,000 cells in each well for next day virus infection.   
 
 Requires
-~~~~~~~~
+
 * Complete DMEM
 * 6 well plate
 
-Procedure
-~~~~~~~~~
+**Procedure**
+
 #. Trypsinise the cells in culture flask. *Refer to :ref:`trypsinise <My target>` for procedure.*
 #. Check if there are enough cells for 6 well plate. Calculate the required amount of cell suspension to aspirate into each well.
 #. Dispense 1.5 ml of complete DMEM in each well of the 6 well plate. 
@@ -32,18 +32,18 @@ After 24 hrs incubation, infect cells with virus.
 * Note: For steps involving virus, avoid using seropipette. As our lab policy requires virus waste to be handled seperately, using seropipette to handle virus can make disposal of the serological pipette difficult. It is easier to dispose pipette tips than the serological pipette. *
 
 Requires
-~~~~~~~~
+
 * 2% DMEM 
 * Microcentrifuge tube
 
-Dilution of virus 
-~~~~~~~~~~~~~~~~~
+**Dilution of virus**
+
 #. Thaw virus stock in 37 C water bath. 
 #. Do a serial dilution of the stock virus from microcentrifuge tube in a 10 fold dilution factor with 2% DMEM. 
 #. Can start from 1 to 5 times dilution factor.
    
-Infection
-~~~~~~~~~
+**Infection**
+
 #. Label each well.
 
     Negative control, 1x dilution, 2x dilution, etc.
@@ -64,8 +64,8 @@ Infection
 #. Incubate the 6 well plate at 37 C for 1 hour. Tilt the plate every 20 mins. 
 #. After 1 hour, overlay the infected cell layer with agarose. 
 
-Agarose overlay
----------------
+**Agarose overlay**
+
 #. Prepare agarose by heating the solidified agarose in a microwave oven. 
   
     Heat until the agarose melts and boils, but do not let agarose bubble for too long, as it will evaporate the water content in the agarose.
