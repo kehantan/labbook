@@ -8,7 +8,7 @@ Vero cells. Adherent cells. Not immortalised.
 * 5% CO2 
 
 Requires
---------
+
 * Complete DMEM/10% DMEM
 * Phosphate buffer saline (1x PBS)
 * TrypLE
@@ -20,7 +20,7 @@ Requires
 * Serological pipette
 * Waste beaker
 
-Optional: 
+Optional
 
 * Trypan blue
 * 96 well plate (for mixing trypan blue and cell suspension for counting)
@@ -30,14 +30,10 @@ Optional:
 
 *Reminder: Before starting the procedures, warm up medium and TrypLE in 37 C water bath. You can also put your apparatus in the biosafety cabinet and UV them first.*  
 
-Procedure
----------
-abc
-  def
-  ghi
+**Procedure**
 
-Trypsinise
-~~~~~~~~~~
+**Trypsinise**
+
 #. Remove media.
 #. Wash cells with calcium- and magnesium-free balanced salt solution, phosphate buffered saline (PBS).
 #. Add appropriate amount of detaching agent, TrypLE. 
@@ -69,13 +65,13 @@ Trypsinise
     Sometimes there could be a larger amount of cells (e.g.: >90% confluency), which I would add more complete DMEM. For example, resuspend cell pellet obtained from T25 in 2 ml of complete DMEM. 
 
 
-Cell counting
-~~~~~~~~~~~~~
+**Cell counting**
+
 This step is optional. To save some work, you can just split the previous culture into different number of portions depending on the percentage of confluency you need for your experiments and the days you want to conduct the experiments. Or you can count the cells and seed the exact number of cells you want. 
 
 
-Cell seeding
-~~~~~~~~~~~~
+**Cell seeding**
+
 #. Place appropriate amount of complete DMEM into new culturing flask.
 
     T25 = 5 ml 
@@ -85,8 +81,8 @@ Cell seeding
 #. Swirl flask to evenly distribute the seeded cells. 
 #. Incubate. 37C, 5% CO2.
 
-Numbers of cells to seed in flask
----------------------------------
+**Numbers of cells to seed in flask**
+
 T25, to 80% confluency in...
 
 * Next day = 800,000 cells

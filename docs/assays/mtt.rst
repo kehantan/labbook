@@ -27,7 +27,6 @@ Section 1 - Trypsinise, cell count, seed cells
 ----------------------------------------------
 
 **Trypsinise**
-~~~~~~~~~~
 
 Requires
 

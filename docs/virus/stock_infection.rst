@@ -7,6 +7,8 @@ Requires
 
 * 2% DMEM
 
+**Procedure**
+
 Assume we are culturing in a T25 culture flask.
 
 #. Culture cells to about 70% confluency.

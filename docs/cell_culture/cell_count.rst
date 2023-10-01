@@ -4,7 +4,6 @@ Cell count
 To get an estimation of how many cells are there in a given sample. 
 
 Requires
---------
 
 * 15 ml centrifuge tube
 * Counting chamber
@@ -14,11 +13,10 @@ Requires
 
 *Reminder: Before starting the procedures, warm up medium and TrypLE in 37 C water bath. You can also put your apparatus in the biosafety cabinet and UV them first.*  
 
-Procedure
----------
+**Procedure**
 
-Trypsinise
-~~~~~~~~~~
+**Trypsinise**
+
 Assume our cells were cultured in a T25 culture flask.
 
 #. Remove DMEM from culture flask.
@@ -47,8 +45,8 @@ Assume our cells were cultured in a T25 culture flask.
 #. Resuspend the cells with 1 ml of complete DMEM. Pipette repeatedly to break cell pellet. 
 
 
-Cell counting
-~~~~~~~~~~~~~
+**Cell counting**
+
 #. Pipette 10 uL of trypan blue into one well of the 96 well plate.
 #. Pipette 10 uL of cell suspension from centrifuge tube to the well that have trypan blue. Mix by repeat pipetting. 
 #. Take 10 uL of the trypan blue and cell mixture, and dispense into the counting chamber.

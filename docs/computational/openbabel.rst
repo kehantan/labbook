@@ -6,8 +6,8 @@ Open Babel is a very handy tool for computational chemistry which have multiple 
 * generate 3D coordinates with option ``--gen3d``
 * energy minimise a molecule
 
-Installation
-------------
+**Installation**
+
 Open Babel is mainly a terminal tool, which you run in the terminal. There are GUI interface, but I am not familiar with it. 
 
 There are multiple ways to install Open babel:
@@ -22,8 +22,8 @@ There are multiple ways to install Open babel:
 
 *Note: If you want to use Open Babel on Windows, I would suggest installing it via Anaconda.*
 
-Usage
------
+**Usage**
+
 In the terminal, type 
 
     ``obabel -i <type of input file> <name of input file> -o <type of output file> -O <name of output file> [options]``

@@ -6,8 +6,8 @@ Molecular dynamics (MD) is very much different from molecular docking. The MD en
 Visual guide from my `google drive <https://drive.google.com/drive/folders/108psm8MTCf70OTOE96ehjELQ3mR2w1v2?usp=sharing>`_ on how to run MD. 
 
 
-Workflow
---------
+**Workflow**
+
 #. Protein/receptor preparation
 #. Ligand preparation
 #. Define new box and solvation
@@ -16,8 +16,7 @@ Workflow
 #. Equilibration
 #. Production
 
-Analysis
---------
+**Analysis**
 
 Common analysis for MD simulation including:
 
@@ -39,8 +38,8 @@ The choice of using builtin tools or external tools are strictly personal prefer
   * Matplotlib - Can be loaded into Jupyter notebook. Main function is to plot nicer and more consistent graph from the results of MDAnalysis. 
   * NGLview - I rarely use this, but this is good for generating a movie or show structural information from the MD trajectories. An advantage of this is that I don't have to use external visualisation software like VMD or PyMOL for trajectories. 
 
-FAQ
----
+**FAQ**
+
 The anser for FAQ is mostly the same as in molecular docking.
 
 *Q: How long does it take to run molecular dynamics?*

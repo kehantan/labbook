@@ -6,31 +6,31 @@ For easy work, I would suggest running molecular docking using server, like `MTi
 
 Scripting skill are not strictly required, but it can be really handy and help you navigating a lot more easier if you have some knowledge of it. 
 
-Running molecular docking using server
---------------------------------------
+**Running molecular docking using server**
+
 Requires
-~~~~~~~~
+
 * MGLTools/AutoDockTools
 * BIOVIA Discovery Studio Visualizer (You don't strictly have to use this one. There are other molecule visualiser out there you can try it out like PyMOL, Chimera, etc.)
 
-Running molecular docking on local machine
-------------------------------------------
+**Running molecular docking on local machine**
+
 Requires
-~~~~~~~~
+
 * Autodock Vina
 * MGLTools/AutodockTools
 * BIOVIA Discovery Studio Visualizer
 
-Workflow 
-~~~~~~~~
+**Workflow** 
+
 #. Receptor prepare
 #. Ligand prepare
 #. Define box 
 #. Molecular docking
 #. Analysis 
 
-FAQ
----
+**FAQ**
+
 *Q: How long does it take to run molecular docking?*
 
 Depends on a lot of factors: number and size of protein receptor, number of ligands, performance of the machine, parameters your set (e.g.: exhaustiveness 8 vs 100) etc. 
