@@ -3,6 +3,11 @@ Protein purification
 
 ..
     This doc needs to be restructured
+    Split into smaller sections if needed 
+
+
+Buffers 
+-------
 
 Before begin, prepare the buffers. Preferrably one day before, because adjusting pH of buffers takes quite some time.  
 
@@ -13,15 +18,15 @@ Before begin, prepare the buffers. Preferrably one day before, because adjusting
 **Buffer B**
 
 +-----------------------------+-------+----------+---------+
-|                             | Stock | 100 ml   | 60 ml   |     
+|                             | Stock | 100 mL   | 60 mL   |     
 +=========+===================+=======+==========+=========+
-| 100 mM  | Tris-HCl (pH 8.0) | 1 M   | 10 ml    | 6 ml    |
+| 100 mM  | Tris-HCl (pH 8.0) | 1 M   | 10 mL    | 6 mL    |
 +---------+-------------------+-------+----------+---------+
-| 300 mM  | NaCl              | 5 M   | 6 ml     | 3.6 ml  |
+| 300 mM  | NaCl              | 5 M   | 6 mL     | 3.6 mL  |
 +---------+-------------------+-------+----------+---------+
 | 6 M     | Urea (MW 60.06)   |       | 36.036 g | 21.62 g |
 +---------+-------------------+-------+----------+---------+
-| Top up with water until             | 100 ml   | 60 ml   |
+| Top up with water until             | 100 mL   | 60 mL   |
 +-------------------------------------+----------+---------+
 
 
@@ -32,7 +37,7 @@ Before begin, prepare the buffers. Preferrably one day before, because adjusting
 +========+======================+=======+============+==========+
 | 100 mM | Tris-HCl (pH 8.0)    | 1 M   | 10 mL      | 1 mL     |
 +--------+----------------------+-------+------------+----------+
-| 300 mM | NaCl                 | 5 M   | 6 ml       | 0.6 ml   |
+| 300 mM | NaCl                 | 5 M   | 6 mL       | 0.6 mL   |
 +--------+----------------------+-------+------------+----------+
 | 6 M    | Urea (MW 60.06)      |       | 36.036 g   | 3.6036 g |
 +--------+----------------------+-------+------------+----------+
@@ -47,41 +52,27 @@ Before begin, prepare the buffers. Preferrably one day before, because adjusting
 We would need at least 3 L of buffer D for one purification. 
 
 +------------------------------+-------+----------+----------+
-|                              | Stock | 100 ml   | 4000 ml  |
+|                              | Stock | 100 mL   | 4000 mL  |
 +==========+===================+=======+==========+==========+
-| 100 mM   | Tris-HCl (pH 7.5) | 1 M   | 10 ml    | 400 ml   |
+| 100 mM   | Tris-HCl (pH 7.5) | 1 M   | 10 mL    | 400 mL   |
 +----------+-------------------+-------+----------+----------+
 | 300 mM   | NaCL (MW 58.44)   |       | 1.753 g  | 70.12 g  |
 +----------+-------------------+-------+----------+----------+
-| Top up with water up to              | 100 ml   | 4000 ml  |     
+| Top up with water up to              | 100 mL   | 4000 mL  |     
 +--------------------------------------+----------+----------+
 
-The bacterial pellet from expression process was stored at -80 :math:`\textdegree C`. Purification would proceed from there.  
+The bacterial pellet from expression process was stored at -80 :math:`^{\circ}`\ C. Purification would proceed from there.  
 
 
 Protein extraction
 ------------------
 
-From the bacterial pellet from 500 mL culture. 
-
-#. Add 25 mL of lysis buffer and suspend the pellet completely. 
-#. Incubate at room temperature for 30 mins.
-
-    Can prepare Ni-NTA while waiting for the incubation. 
-
-#. Homogenise using ultrasonic homogeniser at 8000 rpm, 4 :math:`\textdegree C` for 15 mins. 
-
-    Place the sample in a small beaker (really small, 2-5 mL size). Submerge the beaker in ice bucket to maintain 4 :math:`\textdegree C`.  
-
-#. Collect supernatant and pellet. 
-
-
 Requires
 
 * Ice box filled with ice
-* Microcentrifuge tube (1.5 ml)
+* Microcentrifuge tube (1.5 mL)
 * PCR tube
-* Centrifuge tube (15 ml)
+* Centrifuge tube (15 mL)
 * Ni-NTA resin 
 * Lysis buffer
 * Buffer B
@@ -90,54 +81,68 @@ Requires
 * Rotator
 
 
+#. From the bacterial pellet from 500 mL culture. 
+#. Add 25 mL of lysis buffer and suspend the pellet completely. 
+#. Incubate at room temperature for 30 mins.
+
+    Can prepare Ni-NTA while waiting for the incubation. 
+
+#. Homogenise using ultrasonic homogeniser at 8000 rpm, 4 :math:`^{\circ}`\ C for 15 mins. 
+
+    Place the sample in a small beaker (really small, 2-5 mL size). Submerge the beaker in ice bucket to maintain at 4 :math:`^{\circ}`\ C.  
+
+#. Seperate supernatant and pellet. 
+
+
 Purification
 ------------
+
 Protein purification with Ni-NTA resin
 
 
 **Preparation of Ni-NTA resin**
 
 #. Mix the Ni-NTA solution well before use. 
-#. Add 2.5 ml of Ni-NTA resin into 50 ml centrifuge tube. 
+#. Add 2.5 mL of Ni-NTA resin into 50 mL centrifuge tube. 
 #. Centrifuge at 500 g for 5 min.
 #. Remove supernatant.
-#. suspend pellet with 5 ml of Buffer B. 
+#. suspend pellet with 5 mL of Buffer B. 
 #. Centrifuge at 500 g for 5 min.
 #. Remove supernatant. 
-#. Keep the 50 ml centrifuge with Ni-NTA in ice until later use. 
+#. Keep the 50 mL centrifuge with Ni-NTA in ice until later use. 
 
 
 **Protein purification from prepared pellet (after lysis)**
 
 #. Remove supernatant from prepared pellet.
 
-    Take 100-120 :math:`\mu L` of supernatant for SDS-PAGE later (**sample #0**)
+    Take 100-120 :math:`\mu`\ L of supernatant for SDS-PAGE later (**sample #0**)
 
-#. Add 2-5 ml of Buffer B to the pellet and vortex well. 
+#. Add 2-5 mL of Buffer B to the pellet and vortex well. 
 #. Adjust the volume to 24 mL with Buffer B. 
 
-    Take 100-120 :math:`\mu L` for SDS-PAGE later (**sample #1**)
+    Take 100-120 :math:`\mu`\ L for SDS-PAGE later (**sample #1**)
 
 #. Cool the sample on ice for 30 mins to 1 hr. 
 #. Devide the suspensions into 24 microcentrifuge tubes.
-#. Centrifuge at 20,000 - 27,000 g, 4 :math:`\textdegree C`, for 10 mins. 
+#. Centrifuge at 20,000 - 27,000 g, 4 :math:`^{\circ}`\ C, for 10 mins. 
 #. Collect supernatant.
 #. To make SDS-PAGE sample, add 1 mL of lysis buffer or Buffer B to pellet and mix well. 
 
-    Keep 120 :math:`\mu L` of suspended pellet and supernatant for SDS-PAGE sample (**sample #2, sample #3**)
+    Keep 120 :math:`\mu`\ L of suspended pellet and supernatant for SDS-PAGE sample (**sample #2, sample #3**)
 
 #. Add supernatant to Ni-NTA resin
 
-    Store all pellet in their respective microcentrifuge tube at 4 :math:`\textdegree C`
+    Store all pellet in their respective microcentrifuge tube at 4 :math:`^{\circ}`\ C
 
-#. Rotate at 4 :math:`\textdegree C` for 30 mins to 1 hr. 
+#. Rotate at 4 :math:`^{\circ}`\ C for 30 mins to 1 hr. 
 
     Bring the rotator into the cold room
 
-#. Centrifuge at 500 g (or 3000 rpm) for 5 mins at 4 :math:`\textdegree C`. 
+#. Centrifuge at 500 g (or 3000 rpm) for 5 mins at 4 :math:`^{\circ}`\ C. 
 #. Collect supernatant into new microcentrifuge tube. (**sample #4**)
 #. Add 10 mL Buffer B into the Ni-NTA resin. 
-#. Centrifuge again at 500 g (or 300 rpm) for 5 mins at 4 :math:`\textdegree C`.
+#. Centrifuge again at 500 g (or 300 rpm) for 5 mins at 4 :math:`^{\circ}`\ C.
 #. Collect supernatant into new microcentrifuge tube. (**sample #5**)
 
     This is basically a washing process. 
@@ -146,7 +151,7 @@ Protein purification with Ni-NTA resin
 #. Collect flow through and keep 120 :math:`\mu L` for SDS-PAGE. 
 #. Add 10 mL of Buffer B and collect the elution. Repeat this process for 3 times.   
 
-    Keep 120 :math:`\mu L` of each elution for SDS-PAGE (**sample #6, sample #7**)
+    Keep 120 :math:`\mu`\ L of each elution for SDS-PAGE (**sample #6, sample #7**)
 
 #. Add 2 mL of Buffer C and collect the elution. (**sample #8**)
 #. Repeat the previous steps for 3 more times. 4 fractions will be collected. (**sample #9, sample #10, sample #11**)
@@ -165,13 +170,13 @@ Dialysis
 
 * Dialysis was done with Thermo Fisher Scientific Slide-A-lyzer Dialysis Casssette.
 * This procedure needs to be carried out in cold room.
-* It is best to pre-cool Buffer D to 4 :math:`\textdegree C`, so bring the buffer into cold room at least 1 hr before starting the procedure. 
+* It is best to pre-cool Buffer D to 4 :math:`^{\circ}`\ C, so bring the buffer into cold room at least 1 hr before starting the procedure. 
 * Other equipments needed in the cold room including magnetic stirrer and retort stand. 
 
 
 **Procedure** 
 
-Select 2-3 fractions containing NS2B/NS3 Protein. Leave 120 uL for SDS-PAGE. 
+Select 2-3 fractions containing NS2B/NS3 Protein. Leave 120 :math:`\mu`\ L for SDS-PAGE. 
 
 #. With a syringe and needle, inject the fractions into the cassette. 
 #. Submerge the cassette into Buffer D. 
@@ -179,6 +184,6 @@ Select 2-3 fractions containing NS2B/NS3 Protein. Leave 120 uL for SDS-PAGE.
 #. After 1 hr, change the buffer. Leave the set up for another 1 hr. 
 #. After 1 hr, change the buffer. Leave the set up overnight. 
 #. Collect the dialysised solution from cassette into centrifuge tube. 
-#. Store the solution at :math:`\textdegree C`. 
+#. Store the solution at 4 :math:`^{\circ}`\ C. 
 
     Collect 120 :math:`\mu`\ L for SDS-PAGE 
