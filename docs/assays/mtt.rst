@@ -22,13 +22,14 @@ Before we actually start the procedure, it is best to count the theoretical cell
 
 Assume we want to test 7 different concentrations (including negative control) of our compound on the cells, then 
 
-:code:`Total cells needed = 7 concentrations * 5 wells/concentration * 1,500 cells/well = 52,500 cells` 
+    :code:`Total cells needed = 7 concentrations * 5 wells/concentration * 1,500 cells/well = 52,500 cells` 
 
 After the cell counting step, double check if the cell required is sufficient for seeding. 
 
+
 *Note: To avoid confusion, examples here uses the exact number of concentrations and number of wells. But during exact execution, we usually prepare extra. For example, if I wanted to seed a 96 well plate for MTT to test my compound with 7 different concentrations, I would prepare cell suspension volume that is enough for 10 concentrations. This is due to slight deviations during pipetting and handling liquids. If you prepare enough cells suspension for the exact number of concentrations you want, you might end up not having enough cells for the last few wells. So calculate a little bit extra accordingly. I would usually add 3-5 concentrations extra for some overhead.*
 
-*Reminder: Before starting the procedures, warm up medium and TrypLE in 37 C water bath. You can also put your apparatus into the biosafety cabinet and UV them first.*  
+*Reminder: Before starting the procedures, warm up media and TrypLE in 37 :math:`^{\circ}`\ C water bath. You can also put your apparatus into the biosafety cabinet and UV them first.*  
 
 
 Section 1 - Trypsinise, cell count, seed cells
@@ -36,12 +37,17 @@ Section 1 - Trypsinise, cell count, seed cells
 
 **Trypsinise**
 
+This step is to detach the cells from the culture flask.
+
+
 Requires
 
 * Complete DMEM (10%)
 * TrypLE
 * Phosphate buffer saline (1x PBS)
 * 15 ml centrifuge tube
+
+**Procedure**
 
 Assume cells were cultured in a T25 flask. 
 
@@ -71,7 +77,11 @@ Assume cells were cultured in a T25 flask.
 #. Flick or tap the centrifuge tube to resuspend the cell pellet into DMEM. 
 #. Add 1 ml of complete DMEM to the centrifuge tube. Pipette repeatedly to break the cell pellet. 
 
+
 **Cell counting**
+
+We need to know the number of cells since we wanted to seed a specific number of cells into each well.  
+
 
 Requires
 
@@ -81,17 +91,24 @@ Requires
 * Trypan blue
 * Calculator 
 
-#. Dispense 10 uL of trypan blue into one of the wells in the 96 well plate used for mixing. 
-#. Dispense 10 uL of cells from the 15 ml centrifuge tube from the trypsinise phase into the same well with trypan blue. 
+
+**Procedure**
+
+#. Dispense 10 :math:`\mu`\ L of trypan blue into one of the wells in the 96 well plate used for mixing. 
+#. Dispense 10 :math:`\mu`\ L of cells from the 15 ml centrifuge tube from the trypsinise phase into the same well with trypan blue. 
 #. Mix well by repeat pipetting. 
-#. Dispense 10 uL of trypan blue and cell mixture into counting chamber. 
+#. Dispense 10 :math:`\mu`\ L of trypan blue and cell mixture into counting chamber. 
 #. Count the cells. 
 
 Formula for cell count: :math:`\frac{\text{sum of cells from 4 quadrant} \times 10^4 \times 2}{4} = X cells/ml`
 
 After counting the cells, we should get value of :code:`X cells/ml`. Compare the counted cell number before we begin the experiment and the calculated cells number. We should have sufficient cells for seeding. 
 
+
 **Cell seeding**
+
+We now need to seed specific number of cells into each well.
+
 
 Requires
 
@@ -126,6 +143,9 @@ To calculate how much media we need,
 
 After all the calculations we can begin our procedure. 
 
+
+**Procedure**
+
 #. Mix the cell suspension with either repeat pipetting or vortex. 
 #. Dispense appropriate amount of complete DMEM into the cell reservoir. 
 
@@ -146,15 +166,21 @@ Section 2 - Treatment of cells
 
 **Treatment**
 
+Treatment is where we treat our seeded cells with compound we wanted to test. 
+
 Before treatment, calculate the concentration of compound we need. Usually we do serial dilution, but we can also do each concentration seperately if it is too confusing. 
 
 There are serial dilution calculator online that can help us to calculate the dilution. 
 
 Also, prepare the compounds with different concentrations before removing media from the 96 well plate, so we can immediately dispense the compound into the 96 well plate after removing the media. If the cells are left too long whithout media they would dry up and die. 
 
+
 Requires
 
 * Multichannel micropipette 
+
+
+**Procedure**
 
 #. Prepare different concentration of compound by diluting the compound in complete DMEM.
 
@@ -169,24 +195,39 @@ Requires
 Section 3 - MTT, read absorbance
 --------------------------------
 
-**The actual MTT**
+**Add MTT**
+
+This is the step where the actual MTT was added. 
+
+This procedure can be carried out either in the biosafety cabinet or at bench. 
+
 
 Requires
 
-* MTT reagent
+* MTT working solution
 * DMSO
 * Multichannel micropipette
 
-#. Add 10 uL of MTT into each well.
+
+**Procedure**
+
+#. Take MTT working solution from freezer and warm to room temperature in water bath. 
+#. Add 10 :math:`\mu`\ L of MTT into each well.
 
     Don't have to remove media
 
-#. Incubate for 3 hrs at 37C, 5% CO2.
+#. Incubate for 3 hrs at 37 :math:`^{\circ}`\ C, 5% CO2.
 #. After 3 hrs, remove media. 
-#. Add 100 uL of DMSO into each well. 
+#. Add 100 :math:`\mu`\ L of DMSO into each well. 
 #. Place 96 well plate on shaker and shake for 1 hr.
 #. Read absorbance after shaking for 1 hr. 
 
+
 **Read absorbance**
+
+Read the absorbance with spectrophotometer. 
+
+
+**Procedure**
 
 #. Read plate at 570 nm. 

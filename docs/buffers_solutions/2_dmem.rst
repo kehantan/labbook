@@ -1,13 +1,16 @@
 2% DMEM 
 =======
 
-2% DMEM is used for cell culture related to virus. 
+* 2% DMEM is used for cell culture related to virus. 
+* Needs to be prepared in biosafety cabinet. 
+
 
 Requires
 
 * FBS
 * Pen-Strep
 * DMEM
+
 
 **Procedures**
 
@@ -22,4 +25,4 @@ Requires
 
    2% DMEM, initials, date
 
-#. Store in fridge (4 :math:`\textdegree`\ C).
+#. Store in fridge (4 :math:`^{\circ}`\ C).
