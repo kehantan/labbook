@@ -1,7 +1,7 @@
 MTT stock solution
 ==================
 
-Concentration we use in this lab, 5 mg/ml. We usually prepare 10 ml in 15 ml centrifuge tube and store in freezer (-20 :math:`\textdegree C`).
+Concentration we use in this lab, 5 mg/ml. We usually prepare 10 ml in 15 ml centrifuge tube and store in freezer (-20 :math:`\textdegree`\ C).
 
 Requires
 

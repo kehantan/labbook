@@ -1,12 +1,16 @@
 TrypLE
 ======
 
-TrypLE comes as stock solution in a bottle. Aliquote it into a smaller volume and store in the fridge (4 :math:`\textdegree C`) for future use. 
+* TrypLE comes as stock solution in a bottle. 
+* Aliquote it into a smaller volume and store in the fridge (4 :math:`\textdegree C`) for future use. 
+* TrypLE has to be aliquote in the biosafety cabinet. 
+
 
 Requires
 
 * Centrifuge tube (15 mL)
 * Serological pipette (10 mL)
+
 
 **Procedure**
 
