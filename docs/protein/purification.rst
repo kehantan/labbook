@@ -42,7 +42,7 @@ Before begin, prepare the buffers. Preferrably one day before, because adjusting
 
 **Buffer D** 
 
-We would need at least 3 L of buffer D. 
+We would need at least 3 L of buffer D for one purification. 
 
 +------------------------------+-------+----------+----------+
 |                              | Stock | 100 ml   | 4000 ml  |
@@ -54,7 +54,7 @@ We would need at least 3 L of buffer D.
 | Top up with water up to              | 100 ml   | 4000 ml  |     
 +--------------------------------------+----------+----------+
 
-We store the pellet at -80 C 
+The bacterial pellet from expression process was stored at -80 :math:`\textdegree C`. Purification would proceed from there.  
 
 Extraction
 ----------
@@ -77,6 +77,7 @@ Purification
 Protein purification with Ni-NTA resin
 
 **Preparation of Ni-NTA resin**
+
 #. Mix the Ni-NTA solution well before use. 
 #. Add 2.5 ml of Ni-NTA resin into 50 ml centrifuge tube. 
 #. Centrifuge at 500 g for 5 min.
