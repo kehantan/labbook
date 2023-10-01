@@ -24,6 +24,7 @@ Before begin, prepare the buffers. Preferrably one day before, because adjusting
 | Top up with water until             | 100 ml   | 60 ml   |
 +-------------------------------------+----------+---------+
 
+
 **Buffer C**
 
 +-------------------------------+-------+------------+----------+
@@ -39,6 +40,7 @@ Before begin, prepare the buffers. Preferrably one day before, because adjusting
 +--------+----------------------+-------+------------+----------+
 | Top up with water until               | 100 mL     | 10 mL    |  
 +---------------------------------------+------------+----------+
+
 
 **Buffer D** 
 
@@ -56,8 +58,22 @@ We would need at least 3 L of buffer D for one purification.
 
 The bacterial pellet from expression process was stored at -80 :math:`\textdegree C`. Purification would proceed from there.  
 
-Extraction
-----------
+Protein extraction
+------------------
+
+From the bacterial pellet from 500 mL culture. 
+
+#. Add 25 mL of lysis buffer and suspend the pellet completely. 
+#. Incubate at room temperature for 30 mins.
+
+    Can prepare Ni-NTA while waiting for the incubation. 
+
+#. Homogenise using ultrasonic homogeniser at 8000 rpm, 4 :math:`\textdegree C` for 15 mins. 
+
+    Place the sample in a small beaker (really small, 2-5 mL size). Submerge the beaker in ice bucket to maintain 4 :math:`\textdegree C`.  
+
+#. Collect supernatant and pellet. 
+
 
 Requires
 
@@ -75,6 +91,7 @@ Requires
 Purification
 ------------
 Protein purification with Ni-NTA resin
+
 
 **Preparation of Ni-NTA resin**
 
