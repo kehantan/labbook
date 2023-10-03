@@ -1,5 +1,6 @@
 MTT assay
 =========
+
 MTT is a long procedure that can span across multiple days. The steps including:
 
 #. Trypsinise   
@@ -15,10 +16,9 @@ It takes 3 days to complete 1 round of MTT. We need:
     * 1 day for treatment (treat the cells with compound)
     * 1 day for actual MTT and to read the absorbance
 
-
 I divided this protocol into sections, so each sections indicates that particular process requires 1 day. You can plan your experiments accordingly. 
 
-Before we actually start the procedure, it is best to count the theoretical cells required before start seeding. I usually prepare 100 uL of mixture that contains 10% DMEM + 1,500 cells into each well.
+Before we actually start the procedure, it is best to count the theoretical amount of cells required before start seeding. We would prepare 100 :math:`\mu`\ L of mixture that contains 10% DMEM + 1,500 cells into each well.
 
 Assume we want to test 7 different concentrations (including negative control) of our compound on the cells, then 
 
@@ -45,37 +45,38 @@ Requires
 * Complete DMEM (10%)
 * TrypLE
 * Phosphate buffer saline (1x PBS)
-* 15 ml centrifuge tube
+* Centrifuge tube (15 mL)
+
 
 **Procedure**
 
 Assume cells were cultured in a T25 flask. 
 
 #. Remove media from culture flask. 
-#. Dispense 600-800 uL of PBS into culture flask. 
+#. Dispense 600-800 :math:`\mu`\ L of PBS into culture flask. 
 
     Swirl the flask to wash cells thoroughly. 
 
 #. Remove PBS. 
-#. Dispense 600-800 uL of TrypLE into culture flask. 
+#. Dispense 600-800 :math:`\mu`\ L of TrypLE into culture flask. 
 
     Swirl the flask to make sure TrypLE covers all the cells. 
 
-#. Incubate culture flask for 3-5 mins at 37C.
+#. Incubate culture flask for 3-5 mins at 37 :math:`^{\circ}`\ C.
 
     Not more than 10 mins
 
 #. Remove the culture flask from incubator. 
-#. Slightly tapping the flask to mechanically detach the cells from flask. 
+#. Slightly tap the flask to mechanically detach the cells from flask. 
 #. Dispense complete DMEM in equal amount with TrypLE. Swirl the flask to properly neutralise TrypLE. 
 
-    For example: if dispensed 600 uL of TrypLE, then dispense 600 uL of 10% DMEM
+    For example: if dispensed 600 :math:`\mu`\ L of TrypLE, then dispense 600 :math:`\mu`\ L of 10% DMEM
 
-#. Transfer the suspension to 15 ml centrifuge tube. 
+#. Transfer the suspension to 15 mL centrifuge tube. 
 #. Centrifuge. 1500 rpm, 5 mins. 
 #. Remove supernatant, but leave minimal amount of DMEM in the centrifuge tube. 
 #. Flick or tap the centrifuge tube to resuspend the cell pellet into DMEM. 
-#. Add 1 ml of complete DMEM to the centrifuge tube. Pipette repeatedly to break the cell pellet. 
+#. Add 1 mL of complete DMEM to the centrifuge tube. Pipette repeatedly to break the cell pellet. 
 
 
 **Cell counting**
@@ -95,7 +96,7 @@ Requires
 **Procedure**
 
 #. Dispense 10 :math:`\mu`\ L of trypan blue into one of the wells in the 96 well plate used for mixing. 
-#. Dispense 10 :math:`\mu`\ L of cells from the 15 ml centrifuge tube from the trypsinise phase into the same well with trypan blue. 
+#. Dispense 10 :math:`\mu`\ L of cells from the 15 mL centrifuge tube from the trypsinise phase into the same well with trypan blue. 
 #. Mix well by repeat pipetting. 
 #. Dispense 10 :math:`\mu`\ L of trypan blue and cell mixture into counting chamber. 
 #. Count the cells. 
@@ -116,7 +117,8 @@ Requires
 * Cell reservoir
 * Multi channel micropipette
 
-The final outcome we want = 100 uL of mixture of complete DMEM + 1,500 cells in each well
+
+The final outcome we want = 100 :math:`\mu`\ L of mixture of complete DMEM + 1,500 cells in each well
 
 We know how much cells we have, we now need to know how much cells we need to take and dilute in complete DMEM to make the final mixture we want. What we should do now:
 
@@ -131,9 +133,9 @@ To calculate the volume of cell suspension we need to aspirate,
     
     So we first convert the :code:`52,500 cells` to the :code:`*10^4` 'format', which is :code:`5.25x10^4`
     
-    Then, :code:`5.25/150` to know how much volume (in ml) of cell suspension we need to aspirate from the cell suspension in 15 ml centrifuge tube. 
+    Then, :code:`5.25/150` to know how much volume (in ml) of cell suspension we need to aspirate from the cell suspension in 15 mL centrifuge tube. 
     
-    In this case, :code:`0.035 ml`. Convert to uL, then the volume we should take is :code:`35 uL`
+    In this case, :code:`0.035 mL`. Convert to :math:`\mu`\ L, then the volume we should take is :code:`35 uL`
 
 To calculate how much media we need, 
 
@@ -149,16 +151,16 @@ After all the calculations we can begin our procedure.
 #. Mix the cell suspension with either repeat pipetting or vortex. 
 #. Dispense appropriate amount of complete DMEM into the cell reservoir. 
 
-    In this example, we should dispense 3,500 uL (3.5 ml) of complete DMEM into the cell resesrvoir.
+    In this example, we should dispense 3,500 :math:`\mu`\ L (3.5 mL) of complete DMEM into the cell resesrvoir.
 
 #. Aspirate required volume of cell suspension and mix with complete DMEM in the cell reservoir.
 
-    In this example, add 35 uL of cell suspension into the cell reservoir.
+    In this example, add 35 :math:`\mu`\ L of cell suspension into the cell reservoir.
 
-#. Aspirate 100 uL of cells and complete DMEM mixture from the cell reservoir with multichannel micropipette. Seed the mixture into 96 well plate. 
+#. Aspirate 100 :math:`\mu`\ L of cells and complete DMEM mixture from the cell reservoir with multichannel micropipette. Seed the mixture into 96 well plate. 
 #. Incubate the seeded 96 well plate for 24 hrs. 
 
-*Note: Technically, 35 uL + 3,500 uL = 3,535 uL. If we want to be absolute accurate we should be doing 35 + 3,465 uL = 3,500 uL. But for convenience's sake, we would treat it as a negligible difference.*
+*Note: Technically, 35 :math:`\mu`\ L + 3,500 :math:`\mu`\ L = 3,535 uL. If we want to be absolute accurate we should be doing 35 + 3,465 :math:`\mu`\ L = 3,500 :math:`\mu`\ L. But for convenience's sake, we would treat it as a negligible difference.*
 
 
 Section 2 - Treatment of cells
@@ -184,11 +186,11 @@ Requires
 
 #. Prepare different concentration of compound by diluting the compound in complete DMEM.
 
-    We need 100 uL for each well, total of 5 well per concentration. Supposedly :math:`5 wells \times 100 uL` should only requires 500 uL, but we would prepare extra volume to compansate handling errors. In this case, we prepare 600 uL, a 100 uL extra.  
+    We need 100 uL for each well, total of 5 well per concentration. Supposedly :math:`5 wells \times 100 \mu L` should only requires 500 :math:`\mu`\ L, but we would prepare extra volume to compansate handling errors. In this case, we prepare 600 :math:`\mu`\ L, a 100 :math:`\mu`\ L extra.  
 
 #. Remove media from 96 well plate with multichannel micropipette. 
-#. Dispense 100 uL of fresh complete DMEM in negative control wells. 
-#. Dispense 100 uL of compound diluted in complete DMEM into respective wells. 
+#. Dispense 100 :math:`\mu`\ L of fresh complete DMEM in negative control wells. 
+#. Dispense 100 :math:`\mu`\ L of compound diluted in complete DMEM into respective wells. 
 #. Incubate for 48 hrs. 
 
 

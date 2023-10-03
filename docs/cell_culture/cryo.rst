@@ -13,12 +13,7 @@ Requires
 
 **Procedure**
 
-#. Trypsinise the cells from culture flask. 
-
-    :ref:`trypsinise <My target>`
-    :ref:`My_target <trypsinise>`
-    `My_target`_
-
+#. Trypsinise the cells from culture flask. *Refer to :ref:`trypsinise <My target>`*    
 #. In each cryopreservation tube, prepare:
 
    * 450 uL complete DMEM

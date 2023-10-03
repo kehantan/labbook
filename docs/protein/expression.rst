@@ -16,10 +16,10 @@ Requires
 
 **Prepare LB agar**
 
-Follow the instructions on the LB agar bottle.
+Follow the instructions on the LB agar bottle. 
 
-#. Dissolve powder in 250 ml distilled water. 
-#. Dispense 25 uL of Kanamycin stock solution into LB agar solution.
+#. Dissolve powder in 250 :math:`mL` distilled water. 
+#. Dispense 25 :math:`\mu L` of Kanamycin stock solution into LB agar solution.
 #. Stir with magnetic stirrer until powder completely dissolve. 
 #. Autoclave.
 
@@ -34,54 +34,54 @@ Follow the instructions on the LB agar bottle.
 
 Follow the instructions on the LB broth bottle.
 
-#. Dissolve powder in 1 L distilled water, in Erlenmeyer flask. 
-#. Dispense 1 ml of Kanamycin stock solution (300 mg/ml) into LB broth. 
+#. Dissolve powder in 1 :math:`L` distilled water, in Erlenmeyer flask. 
+#. Dispense 1 :math:`mL` of Kanamycin stock solution (300 :math:`mg/mL`) into LB broth. 
 #. Cover flask with aluminium foil and tighten with rubber band. 
 
     Autoclaved LB broth can be stored on bench for next day use. 
 
-    To reduce risk of contamination, can use 2 L bottle. 
+    To reduce risk of contamination, can use 2 :math:`L` bottle. 
 
 
 **Subculture E. coli**
 
 Requires
 
-* Centrifuge tube (15 mL)
+* Centrifuge tube (15 :math:`mL`)
 * Transformed *E. coli* cultured on plate 
 * Plastic inoculation loop
 * Bunsen burner
 
-#. Aliquote 2 x 10 ml from 1 L LB broth into seperate 15 mL centrifuge tube. 
-#. Aliquote 5 ml of broth into a 15 mL centrifuge tube. 
+#. Aliquote 2 x 10 :math:`mL` from 1 :math:`L` LB broth into seperate 15 :math:`mL` centrifuge tube. 
+#. Aliquote 5 :math:`mL` of broth into a 15 :math:`mL` centrifuge tube. 
 
     To be used as blank for later experiments.
 
-#. Pick a single *E. coli* colony from agar plate and mix with LB broth in the 15 mL centrifuge tube.
+#. Pick a single *E. coli* colony from agar plate and mix with LB broth in the 15 :math:`mL` centrifuge tube.
 #. Pick a single *E. coli* colony from agar plate and streak on new LB agar plate. 
 #. Shake the centrifuge tube. 24 hrs, 37 :math:`^{\circ}`\ C, 180 rpm.
 
 
 **Large scale culture**
 
-#. Decant the 2 15 mL centrifuge tube culture into the 1 L LB broth. 
-#. Shake. 1-3 hrs, 37 :math:`^{\circ}`\ C, 180 rpm. 
-#. Check OD at 600 nm. 
+#. Decant the 2 15 :math:`mL` centrifuge tube culture into the 1 :math:`L` LB broth. 
+#. Shake. 1 to 3 hrs, 37 :math:`^{\circ}`\ C, 180 rpm. 
+#. Check OD at 600 :math:`nm`. 
 
     Previous step mentioned shake for 1-3 hours, but check OD every hour to make sure the reading falls around 0.5. 
 
-#. Add 1mL IPTG to the 1 L LB broth culture. 
+#. Add 1 :math:`mL` IPTG to the 1 :math:`L` LB broth culture. 
 #. Shake. 2 hrs, 37 :math:`^{\circ}`\ C, 180 rpm.
 #. Centrifuge. 3000 rpm, 10 mins. 
 
-    Centrifuge with the chiller centrifuge in Bilik Kultur Tisu 2. Each bucket can hold 50 ml centrifuge tube. 
+    Centrifuge with the chiller centrifuge in Bilik Kultur Tisu 2. Each bucket can hold 50 :math:`mL` centrifuge tube. 
 
 #. Decant supernatant. 
 #. Wash pellet with PBS. 
 
     Although there are no problem using PBS for cell culture, it is best to prepare another PBS for bacteria work to reduce possibilities of contamination. 
 
-#. Transfer suspension into 50 mL centrifuge tube. 
+#. Transfer suspension into 50 :math:`mL` centrifuge tube. 
 #. Centrifuge. 
 #. Decant supernatant. 
 #. Store pellet at -80 :math:`^{\circ}`\ C.
