@@ -13,6 +13,7 @@ The number of cells to seed depends on several factors:
 
 Although I would suggest seed the cells one day before your actual experiments whenever possible. 
 
+
 **Some seeding values we used in our lab**
 
 For MTT assay:

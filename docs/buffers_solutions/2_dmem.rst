@@ -2,7 +2,7 @@
 =======
 
 * 2% DMEM is used for cell culture related to virus. 
-* Needs to be prepared in biosafety cabinet. 
+* Need to be prepared in biosafety cabinet. 
 
 
 Requires
@@ -23,6 +23,6 @@ Requires
 #. Mix well. 
 #. Label the centrifuge tube.
 
-   2% DMEM, initials, date
+   Label example: :code:`2% DMEM, initials, date prepared`
 
 #. Store in fridge (4 :math:`^{\circ}`\ C).

@@ -2,7 +2,7 @@ Complete DMEM (10%)
 ===================
 
 * Complete DMEM is used for most of the cell culture related stuff. 
-* Needs to be prepared in the biosafety cabinet.
+* Need to be prepared in the biosafety cabinet.
 
 
 Requires
@@ -24,6 +24,6 @@ Requires
 #. Mix well. 
 #. Label the centrifuge tube. 
 
-   Complete DMEM, name initials, date prepared
+   Label example: :code:`Complete DMEM, name initials, date prepared`
 
 #. Store in fridge (4 :math:`^{\circ}^`\ C).

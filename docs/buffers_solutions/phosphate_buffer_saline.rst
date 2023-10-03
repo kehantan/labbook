@@ -16,14 +16,14 @@ Requires
 
 **Procedure**
 
-#. Dispense 5 ml of D-PBS into a 50 ml centrifuge tube. 
-#. Add 45 ml of distilled water/Milli-Q water in the same 50 ml centrifuge tube. 
+#. Dispense 5 mL of D-PBS into a 50 mL centrifuge tube. 
+#. Add 45 mL of distilled water/Milli-Q water in the same 50 mL centrifuge tube. 
 
     To dilute 10x D-PBS to 1x
 
-#. Filter with 0.22 :math:`\mu m` filter using syringe into a new 50 ml centrifuge tube.
+#. Filter with 0.22 :math:`\mu`\ m filter using syringe into a new 50 mL centrifuge tube.
 #. Label the centrifuge tube. 
 
-    1x PBS, name initials, date prepared
+    Label example: :code:`1x PBS, name initials, date prepared`
 
 #. Store at bench.

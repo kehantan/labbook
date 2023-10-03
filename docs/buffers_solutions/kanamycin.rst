@@ -21,6 +21,6 @@ Requires
 #. Filter. 
 #. Label.
 
-    Kanamycin 300 mg/mL, name initials, date prepared
+    Label example: :code:`Kanamycin 300 mg/mL, name initials, date prepared`
 
 #. Seal with parafilm and store in freezer (-20 :math:`^{\circ}`\ C).

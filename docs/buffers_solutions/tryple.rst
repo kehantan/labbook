@@ -18,6 +18,4 @@ Requires
 #. Aliquote about 10 mL of TrypLE from the large bottle into the centrifuge tube. 
 #. Label the centrifuge tube.
 
-    TrypLE, name initials, date prepared
-
-*Remember to maintain good aseptic technique throughout the process to reduce chances of contamination.*
+    Label example: :code:`TrypLE, name initials, date prepared`

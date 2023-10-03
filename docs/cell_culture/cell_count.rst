@@ -1,17 +1,21 @@
 Cell count
 ==========
 
-To get an estimation of how many cells are there in a given sample. 
+
+To get an estimation of how many cells are there in a culture flask. 
+
 
 Requires
 
-* 15 ml centrifuge tube
+* Centrifuge tube (15 mL)
 * Counting chamber
 * Counter
 * Trypan blue
 * 96 well plate (for mixing trypan blue and the cell suspension)
 
+
 *Reminder: Before starting the procedures, warm up medium and TrypLE in 37 C water bath. You can also put your apparatus in the biosafety cabinet and UV them first.*  
+
 
 **Procedure**
 
@@ -49,7 +53,11 @@ Assume our cells were cultured in a T25 culture flask.
 
 #. Pipette 10 uL of trypan blue into one well of the 96 well plate.
 #. Pipette 10 uL of cell suspension from centrifuge tube to the well that have trypan blue. Mix by repeat pipetting. 
-#. Take 10 uL of the trypan blue and cell mixture, and dispense into the counting chamber.
+
+    * You can use higher volume as long as it is 1:1 ratio (e.g.: 10 :math:`\mu`\ L of trypan blue + 10 :math:`\mu`\ L of cell suspension)
+    * There are other approach on the internet, you can always choose to use those method if you find those approach more convenient or easier to understand. As long as the ultimate objective is to know how many cells are there in a single culture flask. 
+
+#. Take 10 :math:`\mu`\ L of the trypan blue and cell mixture, and dispense into the counting chamber.
 #. Count the cells. 
 
 The formula for calculating number of cells in 1 ml of cell suspension

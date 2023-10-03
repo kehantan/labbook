@@ -15,7 +15,7 @@ Requires
 * Magnetic stirrer
 * 1 M NaOH
 
-*Attention: After some trial and eror, it was found that it takes a large volume of 1 M NaOH to raise the pH to 7.5, so can try use 2 M or even 3 M NaOH next time.*
+*Note: After some trial and eror, it was found that it takes a large volume of 1 M NaOH to raise the pH to 7.5, so can try use 2 M or even 3 M NaOH.*
 
 
 **Procedure**
@@ -27,8 +27,8 @@ Requires
 #. Filter with vacuum filter cup into a new 1 L bottle. 
 #. Label the bottle. 
 
-    Tris-HCl pH 7.5, name initials, date prepared
+    Label example: :code:`Tris-HCl pH 7.5, name initials, date prepared`
 
 #. Seal the bottle with parafilm and store in 4 :math:`^{\circ}`\ C. 
 
-*Vacuum filter is a faster way to sterilise the buffer. Based on google search, there are no problem autoclaving Tris-HCl.*
+*Vacuum filter is a faster way to sterilise the buffer. Based on google search, there are no problem autoclaving Tris-HCl solution.*
