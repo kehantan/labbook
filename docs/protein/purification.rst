@@ -6,6 +6,23 @@ Protein purification
     Split into smaller sections if needed 
 
 
+Protein purification is quite a long procedure where multiple samples will be collected for further testing. All the samples (I mean ALL, both supernatant and precipitate) will be stored until the target protein was obtained. Therefore, it is important to clearly label every tubes/containers used. 
+
+
+Requires
+
+* Ice box filled with ice
+* Microcentrifuge tube (1.5 mL)
+* PCR tube
+* Centrifuge tube (15 mL)
+* Ni-NTA resin 
+* Lysis buffer
+* Buffer B
+* Buffer C
+* Buffer D 
+* Rotator
+
+
 Buffers 
 -------
 
@@ -61,60 +78,69 @@ We would need at least 3 L of buffer D for one purification.
 | Top up with water up to              | 100 mL   | 4000 mL  |     
 +--------------------------------------+----------+----------+
 
+
 The bacterial pellet from expression process was stored at -80 :math:`^{\circ}`\ C. Purification would proceed from there.  
 
 
 Protein extraction
 ------------------
 
-Requires
-
-* Ice box filled with ice
-* Microcentrifuge tube (1.5 mL)
-* PCR tube
-* Centrifuge tube (15 mL)
-* Ni-NTA resin 
-* Lysis buffer
-* Buffer B
-* Buffer C
-* Buffer D 
-* Rotator
-
-
 #. From the bacterial pellet from 500 mL culture. 
-#. Add 25 mL of lysis buffer and suspend the pellet completely. 
-#. Incubate at room temperature for 30 mins.
+
+    Recap: The bacterial pellet from the 500 mL culture was seperated into 2 x 50 mL centrifuge tube. 
+
+    We would use both tube for protein extraction and purification
+
+#. Add 5 mL of lysis buffer into each centrifuge tube and suspend the pellet completely. Use a vortex if necessary. 
+
+    It is normal for the suspension to become slimy/sticky when lysis buffer was added
+
+#. Combine the suspension of both tube into a single 50 mL centrifuge tube. 
+#. Leave the centrifuge tube at room temperature for 30 mins.
+
+    Optional: Rotate the centrifuge tube at 60 rpm with a rotator. 
 
     Can prepare Ni-NTA while waiting for the incubation. 
 
 #. Homogenise using ultrasonic homogeniser at 8000 rpm, 4 :math:`^{\circ}`\ C for 15 mins. 
 
-    Place the sample in a small beaker (really small, 2-5 mL size). Submerge the beaker in ice bucket to maintain at 4 :math:`^{\circ}`\ C.  
+    * Look for a small plastic beaker which is 10 mL or 20 mL in volume under the 'glassware' cabinet. 
+    * Plastic beaker is used because the sonic pulse might break glass beaker. 
+    * Place the sample in the plastic beaker and submerge the beaker in ice bucket to maintain the suspension at 4 :math:`^{\circ}`\ C.
+    * Because we added 25 mL of lysis buffer into the pellet and the small plastic beaker cannot contain all 25 mL of liquid at once, we can seperate the suspension into two portion and homogeinise seperately.
+    * BRANSON SONIFIER 450, big horn, using glass beaker; output 10-20, Duty cycle 70%, 2 sec on, 0.5 sec off, for 1-2 min, on ice. 
 
-#. Seperate supernatant and pellet. 
+#. Transfer the sonicated suspension into a new 50 mL centrifuge tube. 
+#. Centrifuge at 8000 rpm, 4 :math:`^{\circ}`\ C, for 15 mins.  
 
 
-Purification
-------------
+Protein purification
+--------------------
 
-Protein purification with Ni-NTA resin
+Continue after the centrifuge from last section. 
 
 
 **Preparation of Ni-NTA resin**
 
 #. Mix the Ni-NTA solution well before use. 
+
+    Ni-NTA would form a thick gel-like layer at the bottom of the container. Invert the container multiple times to resuspend the gel-like substance completely into the solution. 
+
 #. Add 2.5 mL of Ni-NTA resin into 50 mL centrifuge tube. 
 #. Centrifuge at 500 g for 5 min.
 #. Remove supernatant.
+
+    The precipitate can easily resuspend into the solution with the slightest movement, so remove slowly, steadily and with care. 
+
 #. suspend pellet with 5 mL of Buffer B. 
-#. Centrifuge at 500 g for 5 min.
+#. Centrifuge at 500 x g (or 3,000 rpm) for 5 min.
 #. Remove supernatant. 
 #. Keep the 50 mL centrifuge with Ni-NTA in ice until later use. 
 
 
 **Protein purification from prepared pellet (after lysis)**
 
-#. Remove supernatant from prepared pellet.
+#. Remove supernatant from the centrifuged tube.
 
     Take 100-120 :math:`\mu`\ L of supernatant for SDS-PAGE later (**sample #0**)
 

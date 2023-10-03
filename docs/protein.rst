@@ -8,3 +8,5 @@ Protein stuff.
 
    protein/expression
    protein/purification
+   protein/sds_page
+   protein/bacteria_culture
