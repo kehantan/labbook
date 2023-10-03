@@ -1,4 +1,4 @@
-.. _trypsinise:
+.. _trypsinise-link:
 
 Trypsinise
 ==========

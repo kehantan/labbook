@@ -13,7 +13,7 @@ Requires
 
 **Procedure**
 
-#. Trypsinise the cells from culture flask. *Refer to the :ref:`trypsinise <trypsinise>`: section.*
+#. Trypsinise the cells from culture flask. *Refer to the :ref:`trypsinise <trypsinise-link>` section.* :ref:`trypsinise-link <trypsinise>`
 #. In each cryopreservation tube, prepare: 
 
    * 450 uL complete DMEM
