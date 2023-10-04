@@ -6,14 +6,14 @@ To get an estimation of how many cells are there in a culture flask.
 
 Requires
 
-* Centrifuge tube (15 mL)
+* Centrifuge tube (15 :math:`mL`)
 * Counting chamber
 * Counter
 * Trypan blue
 * 96 well plate (for mixing trypan blue and the cell suspension)
 
 
-*Reminder: Before starting the procedures, warm up medium and TrypLE in 37 C water bath. You can also put your apparatus in the biosafety cabinet and UV them first.*  
+*Reminder: Before starting the procedures, warm up medium and TrypLE in 37 :math:`^{\circ}`\ C water bath. You can also put your apparatus in the biosafety cabinet and UV them first.*  
 
 
 **Procedure**
@@ -23,25 +23,25 @@ Requires
 Assume our cells were cultured in a T25 culture flask.
 
 #. Remove DMEM from culture flask.
-#. Dispense 600 uL of PBS into culture flask. 
+#. Dispense 600 :math:`\mu L` of PBS into culture flask. 
 
     Swirl the flask, make sure to wash the cells thoroughly
 
 #. Remove PBS. 
-#. Dispense 600 :math:`\mu`\ L of TrypLE.
+#. Dispense 600 :math:`\mu L` of TrypLE.
 
     Swirl the flask, make sure the TrypLE covers all the cells.
 
-#. Incubate the culture flask at 37 :math:`^{\circ}`\ C for 5 mins 
+#. Incubate the culture flask at 37 :math:`^{\circ} C` for 5 mins 
 
     Usually we incubate for 3 to 5 mins, but don't incubate more than 10 mins
 
 #. Remove the culture flask from incubator.
-#. Dispense 600 :math:`\mu`\ L of complete DMEM into the culture flask.
+#. Dispense 600 :math:`\mu L` of complete DMEM into the culture flask.
 
     Swirl the flask to ensure the TrypLE is fully neutralise
 
-#. Transfer the cell suspension into a 15 mL centrifuge tube. 
+#. Transfer the cell suspension into a 15 :math:`mL` centrifuge tube. 
 #. Centrifuge. 1500 rpm, 5 mins.
 #. Remove supernatant with micropipette, but leave minimal amount of liquid in the centrifuge tube.
 #. Resuspend the cell pellet by flicking the centrifuge tube. 
@@ -50,15 +50,15 @@ Assume our cells were cultured in a T25 culture flask.
 
 **Cell counting**
 
-#. Pipette 10 :math:`\mu`\ L of trypan blue into one well of the 96 well plate.
-#. Pipette 10 :math:`\mu`\ L of cell suspension from centrifuge tube to the well that have trypan blue. Mix by repeat pipetting. 
+#. Pipette 10 :math:`\mu L` of trypan blue into one well of the 96 well plate.
+#. Pipette 10 :math:`\mu L` of cell suspension from centrifuge tube to the well that have trypan blue. Mix by repeat pipetting. 
 
-    * You can use higher volume as long as it is 1:1 ratio (e.g.: 10 :math:`\mu`\ L of trypan blue + 10 :math:`\mu`\ L of cell suspension)
+    * You can use higher volume as long as it is 1:1 ratio (e.g.: 10 :math:`\mu L` of trypan blue + 10 :math:`\mu L` of cell suspension)
     * There are other approach on the internet, you can always choose to use those method if you find those approach more convenient or easier to understand. As long as the ultimate objective is to know how many cells are there in a single culture flask. 
 
-#. Take 10 :math:`\mu`\ L of the trypan blue and cell mixture, and dispense into the counting chamber.
+#. Take 10 :math:`\mu L` of the trypan blue and cell mixture, and dispense into the counting chamber.
 #. Count the cells. 
 
-The formula for calculating number of cells in 1 ml of cell suspension
+The formula for calculating number of cells in 1 :math:`mL` of cell suspension
 
 :math:`\frac{\text{sum of cells from 4 quadrant} \times 10^4 \times 2}{4} = X cells/ml`
