@@ -10,7 +10,7 @@ MTT is a long procedure that can span across multiple days. The steps including:
 #. Actual MTT
 #. Read absorbance
 
-It takes 3 days to complete 1 round of MTT. We need:
+It takes 3 seperate days to complete 1 round of MTT. We need:
 
     * 1 day for trypsinise, cell count, and seeding
     * 1 day for treatment (treat the cells with compound)
@@ -18,18 +18,27 @@ It takes 3 days to complete 1 round of MTT. We need:
 
 I divided this protocol into sections, so each sections indicates that particular process requires 1 day. You can plan your experiments accordingly. 
 
-Before we actually start the procedure, it is best to count the theoretical amount of cells required before start seeding. We would prepare 100 :math:`\mu`\ L of mixture that contains 10% DMEM + 1,500 cells into each well.
 
-Assume we want to test 7 different concentrations (including negative control) of our compound on the cells, then 
+**Calculate how many cells and media we need**
 
-    :code:`Total cells needed = 7 concentrations * 5 wells/concentration * 1,500 cells/well = 52,500 cells` 
+Before we actually start the procedure, it is best to count the theoretical number of cells required before we start seeding. We would prepare 100 :math:`\mu L` of mixture that contains 10% DMEM + 1,500 cells into each well.
 
-After the cell counting step, double check if the cell required is sufficient for seeding. 
+Assume we want to test 8 different concentrations (including negative control) of our compound on the cells, then 
+
+    :code:`Total cells needed = 10 concentrations * 5 wells/concentration * 1,500 cells/well = 75,000 cells` 
+
+You will notice that even we wanted to test 8 different concentration, but the formula above state `10 conecentrations`. This is due to slight deviations during pipetting and handling of liquids. If we prepare enough cell suspension for the exact number of concentrations we want, we might end up not having enough cells for the last few wells, so prepare a little bit extra amount. Usually adding 3 to 5 concentrations extra for some overhead is sufficient enough.
+
+After the actual cell counting step in the procedure, double check if the cells is sufficient for seeding. 
+
+Now we would need to calculate how much media we need. The concept is similar to the previous step
+
+    :code:`Total media needed = 10 concentrations * 5 wells/concentration * 100 uL/well = 5,000 uL` 
+
+`10 concentrations` were used in calculation instead of 8 just for some extra volume. 
 
 
-*Note: To avoid confusion, examples here uses the exact number of concentrations and number of wells. But during exact execution, we usually prepare extra. For example, if I wanted to seed a 96 well plate for MTT to test my compound with 7 different concentrations, I would prepare cell suspension volume that is enough for 10 concentrations. This is due to slight deviations during pipetting and handling liquids. If you prepare enough cells suspension for the exact number of concentrations you want, you might end up not having enough cells for the last few wells. So calculate a little bit extra accordingly. I would usually add 3-5 concentrations extra for some overhead.*
-
-*Reminder: Before starting the procedures, warm up media and TrypLE in 37 :math:`^{\circ}`\ C water bath. You can also put your apparatus into the biosafety cabinet and UV them first.*  
+*Reminder:* Before starting the procedures, warm up media and TrypLE in 37 :math:`^{\circ}`\ C water bath. You can also put your apparatus into the biosafety cabinet and UV them first.*  
 
 
 Section 1 - Trypsinise, cell count, seed cells
@@ -45,7 +54,7 @@ Requires
 * Complete DMEM (10%)
 * TrypLE
 * Phosphate buffer saline (1x PBS)
-* Centrifuge tube (15 mL)
+* Centrifuge tube (15 :math:`mL`)
 
 
 **Procedure**
@@ -53,16 +62,16 @@ Requires
 Assume cells were cultured in a T25 flask. 
 
 #. Remove media from culture flask. 
-#. Dispense 600-800 :math:`\mu`\ L of PBS into culture flask. 
+#. Dispense 600 to 800 :math:`\mu L` of PBS into culture flask. 
 
     Swirl the flask to wash cells thoroughly. 
 
 #. Remove PBS. 
-#. Dispense 600-800 :math:`\mu`\ L of TrypLE into culture flask. 
+#. Dispense 600 to 800 :math:`\mu L` of TrypLE into culture flask. 
 
     Swirl the flask to make sure TrypLE covers all the cells. 
 
-#. Incubate culture flask for 3-5 mins at 37 :math:`^{\circ}`\ C.
+#. Incubate culture flask for 3 to 5 mins at 37 :math:`^{\circ} C`.
 
     Not more than 10 mins
 
@@ -70,13 +79,13 @@ Assume cells were cultured in a T25 flask.
 #. Slightly tap the flask to mechanically detach the cells from flask. 
 #. Dispense complete DMEM in equal amount with TrypLE. Swirl the flask to properly neutralise TrypLE. 
 
-    For example: if dispensed 600 :math:`\mu`\ L of TrypLE, then dispense 600 :math:`\mu`\ L of 10% DMEM
+    For example: if dispensed 600 :math:`\mu L` of TrypLE, then dispense 600 :math:`\mu L` of 10% DMEM
 
-#. Transfer the suspension to 15 mL centrifuge tube. 
+#. Transfer the suspension to 15 :math:`mL` centrifuge tube. 
 #. Centrifuge. 1500 rpm, 5 mins. 
 #. Remove supernatant, but leave minimal amount of DMEM in the centrifuge tube. 
 #. Flick or tap the centrifuge tube to resuspend the cell pellet into DMEM. 
-#. Add 1 mL of complete DMEM to the centrifuge tube. Pipette repeatedly to break the cell pellet. 
+#. Add 1 :math:`mL` of complete DMEM to the centrifuge tube. Pipette repeatedly to break the cell pellet. 
 
 
 **Cell counting**
@@ -95,10 +104,10 @@ Requires
 
 **Procedure**
 
-#. Dispense 10 :math:`\mu`\ L of trypan blue into one of the wells in the 96 well plate used for mixing. 
-#. Dispense 10 :math:`\mu`\ L of cells from the 15 mL centrifuge tube from the trypsinise phase into the same well with trypan blue. 
+#. Dispense 10 :math:`\mu L` of trypan blue into one of the wells in the 96 well plate used for mixing. 
+#. Dispense 10 :math:`\mu L` of cells from the 15 mL centrifuge tube from the trypsinise phase into the same well with trypan blue. 
 #. Mix well by repeat pipetting. 
-#. Dispense 10 :math:`\mu`\ L of trypan blue and cell mixture into counting chamber. 
+#. Dispense 10 :math:`\mu L` of trypan blue and cell mixture into counting chamber. 
 #. Count the cells. 
 
 Formula for cell count: :math:`\frac{\text{sum of cells from 4 quadrant} \times 10^4 \times 2}{4} = X cells/ml`
@@ -118,7 +127,7 @@ Requires
 * Multi channel micropipette
 
 
-The final outcome we want = 100 :math:`\mu`\ L of mixture of complete DMEM + 1,500 cells in each well
+The final outcome we want = 100 :math:`\mu L` of mixture of complete DMEM + 1,500 cells in each well
 
 We know how much cells we have, we now need to know how much cells we need to take and dilute in complete DMEM to make the final mixture we want. What we should do now:
 
@@ -127,11 +136,13 @@ We know how much cells we have, we now need to know how much cells we need to ta
 
 To calculate the volume of cell suspension we need to aspirate, 
 
-    Assume we have: :code:`150*10^4 cells/ml`
+    Assume we have: :math:`150*10^4 cells/ml`
     
-    But we only need: :code:`52,500 cells` <-- We calculate this value before we begin the procedure 
+    But we only need: :code:`75,000 cells` <-- We calculate this value before we begin the procedure 
     
-    So we first convert the :code:`52,500 cells` to the :code:`*10^4` 'format', which is :code:`5.25x10^4`
+    So we first convert the :code:`75,000 cells` to the :code:`*10^4` 'format', which is :code:`7.5x10^4`
+
+    :math:`7.5*10^4`
     
     Then, :code:`5.25/150` to know how much volume (in ml) of cell suspension we need to aspirate from the cell suspension in 15 mL centrifuge tube. 
     
