@@ -1,7 +1,7 @@
 Cryopreservation
 ================
 
-This procedure uses 500 uL of cell suspension for each cryopreservation tube. Depending on the final volume of your cell suspension, calculate how many tubes you can cryo. For example, if the final volume of cell suspension is 3 ml, then you can cryo up to 6 tubes. 
+This procedure uses 500 :math:`\mu L` of cell suspension for each cryopreservation tube. Depending on the final volume of your cell suspension, calculate how many tubes you can cryo. For example, if the final volume of cell suspension is 3 ml, then you can cryo up to 6 tubes. 
 
 Requires
 
