@@ -12,9 +12,9 @@ Protein purification is quite a long procedure where multiple samples will be co
 Requires
 
 * Ice box filled with ice
-* Microcentrifuge tube (1.5 mL)
+* Microcentrifuge tube (1.5 :math:`mL`)
 * PCR tube
-* Centrifuge tube (15 mL)
+* Centrifuge tube (15 :math:`mL`)
 * Ni-NTA resin 
 * Lysis buffer
 * Buffer B
@@ -26,7 +26,7 @@ Requires
 Buffers 
 -------
 
-Before begin, prepare the buffers. Preferrably one day before, because adjusting pH of buffers takes quite some time.  
+Before begin, prepare the buffers. Preferrably at least one day before use, because adjusting pH of buffers takes quite some time. Some buffer also need to be pre-cooled, like Buffer D. 
 
 
 **Lysis buffer**
@@ -34,17 +34,17 @@ Before begin, prepare the buffers. Preferrably one day before, because adjusting
 
 **Buffer B**
 
-+-----------------------------+-------+----------+---------+
-|                             | Stock | 100 mL   | 60 mL   |     
-+=========+===================+=======+==========+=========+
-| 100 mM  | Tris-HCl (pH 8.0) | 1 M   | 10 mL    | 6 mL    |
-+---------+-------------------+-------+----------+---------+
-| 300 mM  | NaCl              | 5 M   | 6 mL     | 3.6 mL  |
-+---------+-------------------+-------+----------+---------+
-| 6 M     | Urea (MW 60.06)   |       | 36.036 g | 21.62 g |
-+---------+-------------------+-------+----------+---------+
-| Top up with water until             | 100 mL   | 60 mL   |
-+-------------------------------------+----------+---------+
++--------------------------------------------+-------------+------------------+-----------------+
+|                                            | Stock       | 100 :math:`mL`   | 60 :math:`mL`   |     
++================+===========================+=============+==================+=================+
+| 100 :math:`mM` | Tris-HCl (:math:`pH` 8.0) | 1 :math:`M` | 10 :math:`mL`    | 6 :math:`mL`    |
++----------------+---------------------------+-------------+------------------+-----------------+
+| 300 :math:`mM` | NaCl                      | 5 :math:`M` | 6 :math:`mL`     | 3.6 :math:`mL`  |
++----------------+---------------------------+-------------+------------------+-----------------+
+| 6 :math:`M`    | Urea (MW 60.06)           |             | 36.036 :math:`g` | 21.62 :math:`g` |
++----------------+---------------------------+-------------+------------------+-----------------+
+| Top up with water until                                  | 100 :math:`mL`   | 60 :math:`mL`   |
++----------------------------------------------------------+------------------+-----------------+
 
 
 **Buffer C**
@@ -142,20 +142,20 @@ Continue after the centrifuge from last section.
 
 #. Remove supernatant from the centrifuged tube.
 
-    Take 100-120 :math:`\mu`\ L of supernatant for SDS-PAGE later (**sample #0**)
+    Take 100-120 :math:`\mu L` of supernatant for SDS-PAGE later (**sample #0**)
 
-#. Add 2-5 mL of Buffer B to the pellet and vortex well. 
-#. Adjust the volume to 24 mL with Buffer B. 
+#. Add 2 to 5 :math:`mL` of Buffer B to the pellet and vortex well. 
+#. Adjust the volume to 24 :math:`mL` with Buffer B. 
 
-    Take 100-120 :math:`\mu`\ L for SDS-PAGE later (**sample #1**)
+    Take 100-120 :math:`\mu L` for SDS-PAGE later (**sample #1**)
 
 #. Cool the sample on ice for 30 mins to 1 hr. 
 #. Devide the suspensions into 24 microcentrifuge tubes.
-#. Centrifuge at 20,000 - 27,000 g, 4 :math:`^{\circ}`\ C, for 10 mins. 
+#. Centrifuge at 20,000 - 27,000 g, 4 :math:`^{\circ} C`, for 10 mins. 
 #. Collect supernatant.
 #. To make SDS-PAGE sample, add 1 mL of lysis buffer or Buffer B to pellet and mix well. 
 
-    Keep 120 :math:`\mu`\ L of suspended pellet and supernatant for SDS-PAGE sample (**sample #2, sample #3**)
+    Keep 120 :math:`\mu L` of suspended pellet and supernatant for SDS-PAGE sample (**sample #2, sample #3**)
 
 #. Add supernatant to Ni-NTA resin
 
