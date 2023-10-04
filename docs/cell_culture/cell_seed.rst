@@ -11,7 +11,7 @@ The number of cells to seed depends on several factors:
 
     Example: Due to scheduling reasons, we might want to seed the cells on Monday, but we only want to conduct the experiment on the cells on Wednesday. 
 
-Although I would suggest seed the cells one day before your actual experiments whenever possible. 
+Although I would suggest to always seed the cells one day before your actual experiments whenever possible. 
 
 
 **Some seeding values we used in our lab**

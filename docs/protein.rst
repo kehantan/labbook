@@ -10,3 +10,4 @@ Protein stuff.
    protein/purification
    protein/sds_page
    protein/bacteria_culture
+   protein/protein_quantification

@@ -1,9 +1,11 @@
+.. _protein-expression:
+
 Protein expression
 ==================
 
 * This procedure has to be carried out in laminar flow. 
 * Do not use the laminar flow in cell culture room, as it could result in contamination. 
-* Remember to plan experiments ahead and book laminar flow for bacteria work.
+* Remember to plan experiments ahead and book laminar flow and orbital shaker for bacteria work.
 
 
 Requires
@@ -16,74 +18,77 @@ Requires
 
 **Prepare LB agar**
 
-Follow the instructions on the LB agar bottle. 
+* LB agar was used for culture of the transformed BL21 bacteria. 
+* To prepare LB agar, just follow the instructions on the LB agar bottle. 
 
-#. Dissolve powder in 250 :math:`mL` distilled water. 
-#. Dispense 25 :math:`\mu L` of Kanamycin stock solution into LB agar solution.
+#. Dissolve powder in 250 mL distilled water. 
+#. Dispense 25 uL of Kanamycin stock solution into LB agar solution.
 #. Stir with magnetic stirrer until powder completely dissolve. 
 #. Autoclave.
 
-    Recommend: Set the autoclave mode to 'warm' instead or 'normal'. This would keep the agar at 60 :math:`^{\circ}`\ C after autoclave is complete so the agar would not solidifies. 
+    Recommend: Set the autoclave mode to 'warm' instead or 'normal'. This would keep the agar at 60 :math:`^{\circ} C` after autoclave is complete so the agar would not solidifies. 
 
 #. Pour agar into petri dish. 
 
     If the autoclave mode was set to 'normal', remove the agar from autoclave as soon as possible and pour into petri dish to prevents the agar from solidifies in the flask/bottle.
 
+#. Wrap in plastic bag and store on bench. 
+
 
 **Prepare LB broth**
 
-Follow the instructions on the LB broth bottle.
+To prepare LB broth, just follow the instructions on the LB broth bottle.
 
-#. Dissolve powder in 1 :math:`L` distilled water, in Erlenmeyer flask. 
-#. Dispense 1 :math:`mL` of Kanamycin stock solution (300 :math:`mg/mL`) into LB broth. 
-#. Cover flask with aluminium foil and tighten with rubber band. 
+#. Dissolve powder in 1 L distilled water, in Erlenmeyer flask. 
+#. Dispense 1 mL of Kanamycin stock solution (300 mg/mL) into LB broth. 
+#. Cover flask with aluminium foil, tighten with rubber band, and store on bench. 
+  
+    To reduce risk of contamination, can use 2 L bottle. 
 
-    Autoclaved LB broth can be stored on bench for next day use. 
-
-    To reduce risk of contamination, can use 2 :math:`L` bottle. 
+For the ease of work, aside from preparing a 1 L LB broth for large scale culture, we can also prepare another LB broth in a 500 mL bottle used for small scale culture (initial culture of BL21 bacterial in 15 mL centrifuge tube before transfer to the 1 L broth). 
 
 
 **Subculture E. coli**
 
 Requires
 
-* Centrifuge tube (15 :math:`mL`)
+* Centrifuge tube (15 mL)
 * Transformed *E. coli* cultured on plate 
 * Plastic inoculation loop
 * Bunsen burner
 
-#. Aliquote 2 x 10 :math:`mL` from 1 :math:`L` LB broth into seperate 15 :math:`mL` centrifuge tube. 
-#. Aliquote 5 :math:`mL` of broth into a 15 :math:`mL` centrifuge tube. 
+#. Aliquote 2 x 10 mL from 1 L LB broth into seperate 15 mL centrifuge tube. 
+#. Aliquote 5 mL of broth into a 15 mL centrifuge tube. 
 
     To be used as blank for later experiments.
 
-#. Pick a single *E. coli* colony from agar plate and mix with LB broth in the 15 :math:`mL` centrifuge tube.
+#. Pick a single *E. coli* colony from agar plate and mix with LB broth in the 15 mL centrifuge tube.
 #. Pick a single *E. coli* colony from agar plate and streak on new LB agar plate. 
-#. Shake the centrifuge tube. 24 hrs, 37 :math:`^{\circ}`\ C, 180 rpm.
+#. Shake the centrifuge tube. 24 hrs, 37 :math:`^{\circ} C`, 180 rpm.
 
 
 **Large scale culture**
 
-#. Decant the 2 15 :math:`mL` centrifuge tube culture into the 1 :math:`L` LB broth. 
-#. Shake. 1 to 3 hrs, 37 :math:`^{\circ}`\ C, 180 rpm. 
-#. Check OD at 600 :math:`nm`. 
+#. Decant the 2 15 mL centrifuge tube culture into the 1 L LB broth. 
+#. Shake. 1 to 3 hrs, 37 :math:`^{\circ} C`, 180 rpm. 
+#. Check OD at 600 nm. 
 
-    Previous step mentioned shake for 1-3 hours, but check OD every hour to make sure the reading falls around 0.5. 
+    Previous step mentioned shake for 1 to 3 hours, but check OD every hour to make sure the reading falls around 0.5. 
 
-#. Add 1 :math:`mL` IPTG to the 1 :math:`L` LB broth culture. 
-#. Shake. 2 hrs, 37 :math:`^{\circ}`\ C, 180 rpm.
+#. Add 1 mL IPTG to the 1 L LB broth culture. 
+#. Shake. 2 hrs, 37 :math:`^{\circ} C`, 180 rpm.
 #. Centrifuge. 3000 rpm, 10 mins. 
 
-    Centrifuge with the chiller centrifuge in Bilik Kultur Tisu 2. Each bucket can hold 50 :math:`mL` centrifuge tube. 
+    Centrifuge with the chiller centrifuge in Bilik Kultur Tisu 2. Each bucket can hold 50 mL centrifuge tube. 
 
 #. Decant supernatant. 
 #. Wash pellet with PBS. 
 
     Although there are no problem using PBS for cell culture, it is best to prepare another PBS for bacteria work to reduce possibilities of contamination. 
 
-#. Transfer suspension into 50 :math:`mL` centrifuge tube. 
+#. Transfer suspension into 50 mL centrifuge tube. 
 #. Centrifuge. 
 #. Decant supernatant. 
-#. Store pellet at -80 :math:`^{\circ}`\ C.
+#. Store pellet at -80 :math:`^{\circ} C`.
 
-    Bacterial pellet can be stored in -80 :math:`^{\circ}`\ C for months wihtout problem. 
+    Bacterial pellet can be stored in -80 :math:`^{\circ} C` for months wihtout problem. 

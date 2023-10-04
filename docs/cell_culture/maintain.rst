@@ -4,7 +4,7 @@ Standard passaging (subculture)
 Vero cells. Adherent cells. Not immortalised. 
 
 * Maintained at P20-P30
-* 37 C
+* 37 :math:`^{\circ}`\ C
 * 5% CO2 
 
 Requires
@@ -13,7 +13,7 @@ Requires
 * Phosphate buffer saline (1x PBS)
 * TrypLE
 * Culture flask (T25/T75)
-* Centrifuge tube (15 ml)
+* Centrifuge tube (15 mL)
 * Micropipette
 * Micropipette tips
 * Pipette gun
@@ -28,11 +28,13 @@ Optional
 * Calculator
 * Counting chamber
 
-*Reminder: Before starting the procedures, warm up medium and TrypLE in 37 C water bath. You can also put your apparatus in the biosafety cabinet and UV them first.*  
+*Reminder:* Before starting the procedures, warm up medium and TrypLE in 37 :math:`^{\circ}`\ C water bath. You can also put your apparatus in the biosafety cabinet and UV them first.  
 
 **Procedure**
 
-**Trypsinise**
+**Trypsinise** 
+
+Refer to :ref:`trypsinise <My target>`
 
 #. Remove media.
 #. Wash cells with calcium- and magnesium-free balanced salt solution, phosphate buffered saline (PBS).
@@ -40,9 +42,9 @@ Optional
 
     Depends on the flask size, usually I would use 600 uL for T25 flask and 1000 uL for T75 flask. Just need to make sure TrypLE is sufficeint to cover the surface of the flask.
 
-#. Incubate at 37°C until cells are fully detached from culture flask
+#. Incubate at 37:math:`^{\circ}`\ C until cells are fully detached from culture flask
 
-    Usually we do <5 min, not more than 10 min. 
+    Usually we do 3 to 5 min, not more than 10 min. 
 
 #. Tap the culture flask slightly to mechanically detach the cells from the flask. 
 #. Neutralising the TrypLE with complete DMEM by pipetting complete DMEM into the culturing flask.
@@ -52,17 +54,16 @@ Optional
     You can flush the base of culture flask with the complete DMEM + TrypLE mixture to further detach and collect more cells. 
 
 #. Transfer the cell suspension from culturing flask to 15 ml centrifuge tube. 
-#. Centrifuge for 5 mins at 1500 rpm. 
+#. Centrifuge. 1500 rpm, 5 mins. 
 #. Dispose the supernatant with micropipette.
 
-    You can also use serological pipette to remove the supernatant, but be more cautious as the pipette gun have greater suction power, you don't want your cell pellet to be sucked away. 
+    You can also use serological pipette to remove the supernatant, but be more cautious as the pipette gun have greater suction power, you don't want your cell pellet to get sucked away. 
 
 #. Leave minimal amount of liquid in the centrifuge tube. 
 #. Resuspend the cell pellet (sediment) in complete DMEM, pipette repeatedly to break the cell pellet.
 
-    For optimal number of cells to ease the counting work, I would usually resuspend cell pellet obtained from T25 flask in 1 ml of complete DMEM; and cell pellet obtained from T75 flask in 3 ml of complete DMEM. 
-    
-    Sometimes there could be a larger amount of cells (e.g.: >90% confluency), which I would add more complete DMEM. For example, resuspend cell pellet obtained from T25 in 2 ml of complete DMEM. 
+    * Suggestion: For optimal number of cells to ease the counting work, I would usually resuspend cell pellet obtained from T25 flask in 1 mL of complete DMEM; and cell pellet obtained from T75 flask in 3 mL of complete DMEM. 
+    * Sometimes there could be a larger amount of cells (e.g.: >90% confluency), which I would add more complete DMEM. For example, resuspend cell pellet obtained from a T25 which has more than 90% of cell confluency in 2 mL of complete DMEM instead of 1 mL. 
 
 
 **Cell counting**
@@ -74,12 +75,17 @@ This step is optional. To save some work, you can just split the previous cultur
 
 #. Place appropriate amount of complete DMEM into new culturing flask.
 
-    T25 = 5 ml 
-    T75 = 9 ml
+    * T25 = 5 mL
+    * T75 = 9 mL
 
 #. Plate cells onto a new flask at the desired cell density.
 #. Swirl flask to evenly distribute the seeded cells. 
-#. Incubate. 37C, 5% CO2.
+#. Label the flask 
+
+    Label example: cell type, passage number, date, name initials
+
+#. Incubate. 37 :math:`^{\circ}`\ C, 5% CO2.
+
 
 **Numbers of cells to seed in flask**
 

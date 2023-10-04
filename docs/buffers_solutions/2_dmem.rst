@@ -23,6 +23,6 @@ Requires
 #. Mix well. 
 #. Label the centrifuge tube.
 
-   Label example: :code:`2% DMEM, initials, date prepared`
+   Label example: :code:`2% DMEM, name initials, date prepared`
 
 #. Store in fridge (4 :math:`^{\circ}`\ C).
