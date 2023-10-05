@@ -13,4 +13,7 @@ Protein stuff.
 
 Quantification
 
+.. toctree:: 
+   :maxdepth: 1
+   
    protein/protein_quantification
