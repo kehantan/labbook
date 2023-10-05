@@ -12,6 +12,7 @@ Requires
 
 * Transformed BL21
 * BL21 cell + Plasmid
+* IPTG stock solution (25 mM)
 
 
 **Procedure**
@@ -39,13 +40,13 @@ Requires
 
 To prepare LB broth, just follow the instructions on the LB broth bottle.
 
-#. Dissolve powder in 1 L distilled water, in Erlenmeyer flask. 
+#. Dissolve powder in 500 mL distilled water, in Erlenmeyer flask. 
 #. Dispense 1 mL of Kanamycin stock solution (300 mg/mL) into LB broth. 
 #. Cover flask with aluminium foil, tighten with rubber band, and store on bench. 
   
     To reduce risk of contamination, can use 2 L bottle. 
 
-For the ease of work, aside from preparing a 1 L LB broth for large scale culture, we can also prepare another LB broth in a 500 mL bottle used for small scale culture (initial culture of BL21 bacterial in 15 mL centrifuge tube before transfer to the 1 L broth). 
+For the ease of work, aside from preparing a 1 L LB broth for large scale culture, we can also prepare another LB broth in a 500 mL bottle used for various purpose such as small scale culture (initial culture of BL21 bacterial in 15 mL centrifuge tube before transfer to the 1 L broth) and as a blank for measuring the OD of the cultured bacteria. 
 
 
 **Subculture E. coli**
@@ -75,11 +76,11 @@ Requires
 
     Previous step mentioned shake for 1 to 3 hours, but check OD every hour to make sure the reading falls around 0.5. 
 
-#. Add 1 mL IPTG to the 1 L LB broth culture. 
+#. Add 1 mL IPTG (50 mM) to the 1 L LB broth culture. 
 #. Shake. 2 hrs, 37 :math:`^{\circ} C`, 180 rpm.
 #. Centrifuge. 3000 rpm, 10 mins. 
 
-    Centrifuge with the chiller centrifuge in Bilik Kultur Tisu 2. Each bucket can hold 50 mL centrifuge tube. 
+    Centrifuge with the chiller centrifuge in Bilik Kultur Tisu. Each bucket can hold 1 50 mL centrifuge tube. 
 
 #. Decant supernatant. 
 #. Wash pellet with PBS. 

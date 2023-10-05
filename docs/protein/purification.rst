@@ -145,22 +145,27 @@ Continue after the centrifuge from last section.
 
 #. Remove supernatant from the centrifuged tube.
 
-    Collect 120 uL of supernatant for SDS-PAGE later (**sample #0**)
+    Collect 100 uL of supernatant for SDS-PAGE later (**sample #0**)
 
-#. Add 2 to 5 mL of Buffer B to the pellet and vortex well. 
-#. Adjust the volume to 24 mL with Buffer B. 
+#. Add 2 to 5 mL of Buffer B to the pellet and vortex to completely dissolve the pellet. 
+#. Add Buffer B into the tube up to 24 mL of volume. 
 
-    Take 100 to 120 uL for SDS-PAGE later (**sample #1**)
+    Collect 100 uL for SDS-PAGE later (**sample #1**)
 
 #. Cool the sample on ice for 30 mins to 1 hr. 
-#. Devide the suspensions into 24 microcentrifuge tubes.
-#. Centrifuge. 20,000 to 27,000 x g, 4 :math:`^{\circ} C`, 10 mins. 
+#. Devide the suspensions into 24 microcentrifuge tubes (1 mL per microcentrifuge tube).
+#. Centrifuge. 20,000 to 27,000 x g (or 15,000 rpm), 4 :math:`^{\circ} C`, 10 mins. 
 #. Collect supernatant.
-#. To make SDS-PAGE sample, add 1 mL of lysis buffer or Buffer B to pellet and mix well. 
 
-    Keep 100 to 120 uL of suspended pellet and supernatant for SDS-PAGE sample (**sample #2, sample #3**)
+    Collect 100 uL of the collected supernatant for SDS-PAGE (**sample #2**)
 
-#. Add supernatant to Ni-NTA resin
+#. Collect pellet. 
+
+    To make SDS-PAGE sample of pellet, add 1 mL of lysis buffer or Buffer B to pellet and mix using vortex. 
+
+    Leave the pellet on ice for 1 hr, then collect 100 uL of suspended pellet for SDS-PAGE (**sample #3**)
+
+#. Add the collected supernatant to Ni-NTA resin
 
     Store all pellet in their respective microcentrifuge tube at 4 :math:`^{\circ}`\ C
 
@@ -169,22 +174,30 @@ Continue after the centrifuge from last section.
     Bring the rotator into the cold room
 
 #. Centrifuge. 500 x g (or 3000 rpm), 4 :math:`^{\circ}`\ C, 5 mins. 
-#. Collect supernatant into new microcentrifuge tube. (**sample #4**)
-#. Add 10 mL Buffer B into the Ni-NTA resin. 
-#. Centrifuge. 500 x g (or 300 rpm), 4 :math:`^{\circ}`\ C, 5 mins.
-#. Collect supernatant into new microcentrifuge tube. (**sample #5**)
+#. Remove supernatant
+    
+    Collect 100 uL of supernatant for SDS-PAGE (**sample #4**)
 
-    This is basically a washing process. 
+#. Add 10 mL Buffer B into the Ni-NTA resin and mix well. 
+#. Centrifuge. 500 x g (or 3,000 rpm), 4 :math:`^{\circ}`\ C, 5 mins.
+#. Remove supernatant 
 
-#. Transfer Ni-NTA resin to column using Buffer B. 
-#. Collect flow through and keep 100 to 120 uL for SDS-PAGE. 
-#. Add 10 mL of Buffer B and collect the elution. Repeat this process for 3 times.   
+    Collect 100 uL of supernatant for SDS-PAGE (**sample #5**)
 
-    Keep 100 to 120 uL of each elution for SDS-PAGE (**sample #6, sample #7**)
+#. Transfer Ni-NTA resin to column using 10 mL of Buffer B. 
+#. Collect flow through 
 
-#. Add 2 mL of Buffer C and collect the elution. (**sample #8**)
-#. Repeat the previous steps for 3 more times. 4 fractions will be collected. (**sample #9, sample #10, sample #11**)
-#. Add 2 mL of Buffer C and collect the elution. (**sample 12**)
+    Collect 100 uL for SDS-PAGE (**sample #6**) 
+
+#. Add 10 mL of Buffer B and collect the elution. 
+
+    Collect 100 uL for SDS-PAGE (**sample #7**)
+
+#. Add 2 mL of Buffer C and collect the elution. 
+
+    Collect 100 uL for SDS-PAGE (**sample #8**)
+
+#. Repeat the previous steps for 4 more times. A total of 4 fractions will be collected. (**sample #9-#12**)
 #. Run SDS-PAGE and stain with CBB for all 12 samples. 
 
     SDS-PAGE for this uses about 12-15% gel.
