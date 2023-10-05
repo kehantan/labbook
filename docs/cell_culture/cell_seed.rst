@@ -5,13 +5,11 @@ Cell seeding simply means we place the cell into the container we want the cells
 
 The number of cells to seed depends on several factors: 
 
-* the container we wanted to seed
-* the type of experiments we wanted to conduct
+* the container we wanted to seed (T25, T75, 96 well plate, etc.)
+* the type of experiments we wanted to conduct (MTT, plaque assay, etc.)
 * the day we wanted to conduct the experiment from the day we seed the cells. 
 
-    Example: Due to scheduling reasons, we might want to seed the cells on Monday, but we only want to conduct the experiment on the cells on Wednesday. 
-
-Although I would suggest to always seed the cells one day before your actual experiments whenever possible. 
+    Example: Due to scheduling reasons, we might want to seed the cells on Monday, but we only want to conduct the experiment on the cells on Wednesday. Although I would suggest to always seed the cells one day before your actual experiments whenever possible. 
 
 
 **Some seeding values we used in our lab**

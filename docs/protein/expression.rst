@@ -92,4 +92,6 @@ Requires
 #. Decant supernatant. 
 #. Store pellet at -80 :math:`^{\circ} C`.
 
-    Bacterial pellet can be stored in -80 :math:`^{\circ} C` for months wihtout problem. 
+    Bacterial pellet can be stored in -80 :math:`^{\circ}`\ C for months wihtout problem. 
+
+    Wrap the centrifuge tube in plastic bag before storing in -80 :math:`^{\circ}`\ C to prevent contamination of other samples.  

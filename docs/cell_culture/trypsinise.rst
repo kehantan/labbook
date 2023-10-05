@@ -22,14 +22,16 @@ Check the cells under microscope before procedure to confirm the cell is at desi
 #. Remove media from culture flask. 
 #. Dispense PBS into culture flask. 
 
-    * There are no fix volume, main purpose is to rinse the cells and remove DMEM from the cells.
-    * For T25 flask I usually use around 600 uL, while for T75 flask I usually use around 1 ml
+    There are no fix volume, main purpose is to rinse the cells and remove DMEM from the cells.
+        
+    For T25 flask I usually use around 600 uL, while for T75 flask I usually use around 1 ml
 
 #. Remove PBS
 #. Dispense TrypLE
 
-    * There are no fix volume, main purpose is to detach the cells from the culture flask. Dispense enough volume to cover all the cells. 
-    * For T25 flask I usually use around 600 uL, while for T75 flask I usually use around 1 mL
+    There are no fix volume, main purpose is to detach the cells from the culture flask. Dispense enough volume to cover all the cells. 
+    
+    For T25 flask I usually use around 600 uL, while for T75 flask I usually use around 1 mL
 
 #. Incubate the culture flask for about 3 to 5 mins, but don't incubate for more than 10 mins. 
 #. Remove culture flask from incubator. Slightly tap the culture flask to mechanically detach the cells from the flask. 

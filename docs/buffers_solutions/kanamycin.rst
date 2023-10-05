@@ -9,7 +9,7 @@ Requires
 
 * 15 ml centrifuge tube 
 * Distilled water/Milli-Q water 
-* 0.22 :math:`\mu`\ m filter
+* 0.22 um filter
 * Syringe
 
 
