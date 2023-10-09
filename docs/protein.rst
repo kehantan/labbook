@@ -11,9 +11,11 @@ Protein stuff.
    protein/sds_page
    protein/bacteria_culture
 
-Quantification
+Protein quantification
+
+   Protein quantification can be done in different ways. BCA and bradford is commonly use in this lab. 
 
 .. toctree:: 
    :maxdepth: 1
-   
-   protein/protein_quantification
+
+   protein/bca

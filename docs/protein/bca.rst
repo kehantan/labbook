@@ -1,13 +1,5 @@
-Protein quantification
-======================
-
-Protein quantification can be done in various ways. 
-
-#. Bradford assay
-#. BCA 
-
 Bicinchoninic acid assay (BCA)
-------------------------------
+==============================
 
 * We use kit for this assay. Can refer the procedure from manufacturer website or the manual provided in the box.  
 * This procedure can be carried out on bench. 
@@ -70,4 +62,4 @@ Usually we dispense 50 uL of sample + 50 uL of reagent = 100 uL into each well.
 #. Incubate for 1 hr at 37 :math:`^{\circ} C`.
 #. Read absorbance at 562 nm. 
 
-*Note: Remember not to have liquids on the lid, or just take off lid when reading. Liquid on lid can lead to deviations.*
+*Note: Remember not to have liquids on the lid, or just take off lid when reading. Liquid on lid can lead to slight deviations.*

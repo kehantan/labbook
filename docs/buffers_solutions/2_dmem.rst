@@ -18,7 +18,7 @@ Requires
 
    * 48.5 mL of DMEM
    * 2 mL of FBS
-   * 500 :math:`\mu`\ L of Pen-strep
+   * 500 uL of Pen-strep
 
 #. Mix well. 
 #. Label the centrifuge tube.
