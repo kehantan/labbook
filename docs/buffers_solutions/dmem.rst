@@ -2,8 +2,7 @@ DMEM
 =====
 
 * In this lab, we prepare 1 L of DMEM from powder. We then aliquote from 1 L of DMEM to smaller vial and mix with FBS and Pen-Strep to make complete DMEM. 
-* Read the packaging or search the data sheet online before preparing DMEM. 
-* Sometimes there are ingredients that we need to manually added, such as sodium bicarbonate, pyruvate, or HEPES. Beware of the ingredients that need to be added. 
+* Read the packaging or search the data sheet online before preparing DMEM. Because at different times we might order different brands of DMEM powder and different manufacturer would left out different ingredients such as sodium bicarbonate, pyruvate, or HEPES. We need to measure the amound of the missing ingredients and manually add them when preparing the media. 
 
 
 Requires
@@ -30,3 +29,7 @@ Requires
 #. Add sodium bicarbonate into DMEM.  
 #. Filter DMEM into new 1 L autoclaved empty bottle.
 #. Seal the bottle with parafilm and store in fridge (4 :math:`^{\circ}`\ C).
+
+
+* Common concentrations of HEPES used in cell culture media is 25 mM. 
+* Common concentrations of pyruvate used in cell culture media is 1 mM, 110 mg/L.

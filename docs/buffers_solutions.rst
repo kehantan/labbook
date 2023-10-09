@@ -19,3 +19,5 @@ Recipes for various buffers and solutions.
    buffers_solutions/mtt_stock
    buffers_solutions/trypan_blue
    buffers_solutions/tryple
+   buffers_solutions/iptg
+   buffers_solutions/pmsf
