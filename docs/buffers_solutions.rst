@@ -21,3 +21,4 @@ Recipes for various buffers and solutions.
    buffers_solutions/tryple
    buffers_solutions/iptg
    buffers_solutions/pmsf
+   buffers_solutions/triton

@@ -7,4 +7,3 @@ Assays
 
    assays/mtt
    assays/plaque
-   assays/bca

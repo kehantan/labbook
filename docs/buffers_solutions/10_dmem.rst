@@ -18,12 +18,15 @@ Requires
 #. Into 50 mL centrifuge tube, aliquote: 
 
    * 44.5 mL of DMEM
+
+      We only have 25 mL serological pipette, so to prepare 44.5 mL, we can split into 25 mL + 19.5 mL
+
    * 5 mL of FBS
-   * 500 :math:`\mu`\ L of Pen-Strep
+   * 500 uL of Pen-Strep
 
 #. Mix well. 
 #. Label the centrifuge tube. 
 
    Label example: :code:`Complete DMEM, name initials, date prepared`
 
-#. Store in fridge (4 :math:`^{\circ}^`\ C).
+#. Seal with parafilm. Store in fridge (4 :math:`^{\circ}^`\ C).

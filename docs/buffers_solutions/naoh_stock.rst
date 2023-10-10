@@ -4,7 +4,7 @@ NaOH stock solution
 * NaOH stock solution, 1 M
 * NaOH MW: 39.997 g/mol
 * This is mainly used for adjusting pH of Tris-HCl. 
-* This protocol is for 1 L stock solution, adjust the composition accordingly if you are preparing smaller volume.
+* This protocol is for 1 L stock solution, adjust the composition accordingly if you are preparing smaller volume, or if wanted to prepare higher molar.
 
 
 Requires
@@ -17,8 +17,9 @@ Requires
 
 **Procedure**
 
-#. Measure 40 g of NaOH pellet into 1 L of distilled water. 
+#. Measure 40 g of NaOH pellet into 500 to 700 mL of distilled water. 
 #. Stir until NaOH pellet completely dissolved. 
+#. Top up the NaOH solution with distilled water up to 1 L of final volume. 
 #. Label the bottle. 
 
     Label example: :code:`NaOH 1M, name initials, date prepared`
