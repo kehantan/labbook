@@ -2,7 +2,7 @@ DMEM
 =====
 
 * In this lab, we prepare 1 L of DMEM from powder. We then aliquote from 1 L of DMEM to smaller vial and mix with FBS and Pen-Strep to make complete DMEM. 
-* Read the packaging or search the data sheet online before preparing DMEM. Because at different times we might order different brands of DMEM powder and different manufacturer would left out different ingredients such as sodium bicarbonate, pyruvate, or HEPES. We need to measure the amound of the missing ingredients and manually add them when preparing the media. 
+* Read the packaging or search the data sheet online before preparing DMEM. Because at different times we might order different brands of DMEM powder and different manufacturer would left out different ingredients such as sodium bicarbonate, pyruvate, or HEPES. We need to measure the amount of the missing ingredients and manually add them when preparing the media. 
 
 
 **Requires**

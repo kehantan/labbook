@@ -3,7 +3,7 @@
 Plaque assay
 ============
 
-Plaque assay to quantify the virus titer in a sample. I seperate this protocol into different sections, each section indicates 1 day.
+Plaque assay is used to quantify the virus titer in a virus sample. I seperate this protocol into different sections, each section indicates that after that procedure was completed, you need to wait until another day to proceed to the next section. 
 
 
 Section 1 - Cell seeding
@@ -19,7 +19,7 @@ Section 1 - Cell seeding
 
 **Requires**
 
-* Complete DMEM
+* :ref:`Complete DMEM <10 dmem>`
 * 6 well plate
 
 
@@ -43,11 +43,11 @@ After 24 hrs incubation, infect cells with virus.
 
 **Requires**
 
-* 2% DMEM 
+* :ref:`2% DMEM <2 dmem>`
 * Microcentrifuge tube
-* Agarose (5%)
+* :ref:`Agarose (5%) <agarose>`
 * Virus stock
-* Phosphate buffer saline (PBS)
+* :ref:`Phosphate buffer saline (PBS) <pbs>`
 
 
 **Dilution of virus**

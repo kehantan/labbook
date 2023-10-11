@@ -1,3 +1,5 @@
+.. _pbs:
+
 Phosphate buffer saline (PBS)
 =============================
 

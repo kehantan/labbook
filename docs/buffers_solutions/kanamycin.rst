@@ -17,8 +17,8 @@ Requires
 
 #. Measure 4.84499 g of Kanamycin into 15 mL centrifuge tube. 
 #. Add 10 mL of distilled water/Milli-Q water into the centrifuge tube. 
-#. Mix.
-#. Filter. 
+#. Mix well. Vortex if necessary. 
+#. Filter with 0.22 um syringe filter. 
 #. Label.
 
     Label example: :code:`Kanamycin 300 mg/mL, name initials, date prepared`
