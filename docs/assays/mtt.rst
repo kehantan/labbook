@@ -16,18 +16,18 @@ It takes 3 seperate days to complete 1 round of MTT. We need:
     * 1 day for treatment (treat the cells with compound)
     * 1 day for actual MTT and to read the absorbance
 
-I divided this protocol into sections, so each sections indicates that particular process requires 1 day. You can plan your experiments accordingly. 
+I divided this protocol into sections, so each sections indicates that after that procedure, you will have to wait another day to proceed to the next section. You can plan your experiments accordingly. 
 
 
 **Calculate how many cells and media we need**
 
-Before we actually start the procedure, it is best to count the theoretical number of cells required before we start seeding. We would prepare 100 :math:`\mu L` of mixture that contains 10% DMEM + 1,500 cells into each well.
+Before we actually start the procedure, it is best to count the theoretical number of cells required before we start seeding. We would prepare 100 uL of mixture that contains 10% DMEM + 1,500 cells into each well.
 
 Assume we want to test 8 different concentrations (including negative control) of our compound on the cells, then 
 
     :code:`Total cells needed = 10 concentrations * 5 wells/concentration * 1,500 cells/well = 75,000 cells` 
 
-You will notice that even we wanted to test 8 different concentration, but the formula above state `10 conecentrations`. This is due to slight deviations during pipetting and handling of liquids. If we prepare enough cell suspension for the exact number of concentrations we want, we might end up not having enough cells for the last few wells, so prepare a little bit extra amount. Usually adding 3 to 5 concentrations extra for some overhead is sufficient enough.
+You will notice that even we wanted to test 8 different concentration, but the formula above state :code:`10 conecentrations`. This is due to slight deviations during pipetting and handling of liquids. If we prepare enough cell suspension for the exact number of concentrations we want, we might end up not having enough cells for the last few wells, so prepare a little bit extra amount. Usually adding 3 to 5 concentrations extra for some overhead is sufficient enough.
 
 After the actual cell counting step in the procedure, double check if the cells is sufficient for seeding. 
 
@@ -35,7 +35,7 @@ Now we would need to calculate how much media we need. The concept is similar to
 
     :code:`Total media needed = 10 concentrations * 5 wells/concentration * 100 uL/well = 5,000 uL` 
 
-`10 concentrations` were used in calculation instead of 8 just for some extra volume. 
+:code:`10 concentrations` were used in calculation instead of 8 just for some extra volume. 
 
 
 *Reminder:* Before starting the procedures, warm up media and TrypLE in 37 :math:`^{\circ}`\ C water bath. You can also put your apparatus into the biosafety cabinet and UV them first.*  
@@ -51,9 +51,9 @@ This step is to detach the cells from the culture flask. Refer to :ref:`trypsini
 
 **Requires**
 
-* Complete DMEM (10%)
+* :ref:`Complete DMEM (10%) <10 dmem>`
 * TrypLE
-* Phosphate buffer saline (1x PBS)
+* :ref:`Phosphate buffer saline (1x PBS) <pbs>`
 * Centrifuge tube (15 mL)
 
 
@@ -71,7 +71,7 @@ Assume cells were cultured in a T25 flask.
 
     Swirl the flask to make sure TrypLE covers all the cells. 
 
-#. Incubate culture flask for 3 to 5 mins at 37 :math:`^{\circ} C`.
+#. Incubate culture flask for 3 to 5 mins at 37 :math:`^{\circ}`\ C.
 
     Not more than 10 mins
 
@@ -91,7 +91,7 @@ Assume cells were cultured in a T25 flask.
 
 **Cell counting**
 
-We need to know the number of cells since we wanted to seed a specific number of cells into each well.  
+We need to know the number of cells since we wanted to seed a specific number of cells into each well. Refer to :ref:`cell count`.  
 
 
 **Requires**
@@ -114,9 +114,9 @@ We need to know the number of cells since we wanted to seed a specific number of
 #. Dispense 10 uL of trypan blue and cell mixture into counting chamber. 
 #. Count the cells. 
 
-Formula for cell count: :math:`\frac{\text{sum of cells from 4 quadrant} \times 10^4 \times 2}{4} = X cells/ml`
+Formula for cell count: :math:`\frac{\text{sum of cells from 4 quadrant} \times 10^4 \times 2}{4} =` :code:`X cells/ml`
 
-After counting the cells, we should get value of :code:`X cells/ml`. Compare the counted cell number before we begin the experiment and the calculated cells number. We should have sufficient cells for seeding. 
+After counting the cells, we should get value of :code:`X cells/mL`. Compare the counted cell number before we begin the experiment and the calculated cells number. We should have sufficient cells for seeding. 
 
 
 **Cell seeding**
@@ -140,15 +140,13 @@ We know how much cells we have, we now need to know how much cells we need to ta
 
 To calculate the volume of cell suspension we need to aspirate, 
 
-    Assume we have: :math:`150*10^4 cells/ml`
+    Assume we have: :code:`150*10^4 cells/mL`
     
     But we only need: :code:`75,000 cells` <-- We calculate this value before we begin the procedure 
     
-    So we first convert the :code:`75,000 cells` to the :code:`*10^4` 'format', which is :code:`7.5x10^4`
+    So we first convert the :code:`75,000 cells` to the :code:`10^4` 'format', which is :code:`7.5x10^4`
 
-    :math:`7.5*10^4`
-    
-    Then, :code:`5.25/150` to know how much volume (in ml) of cell suspension we need to aspirate from the cell suspension in 15 mL centrifuge tube. 
+    Then, :code:`5.25/150` to know how much volume (in mL) of cell suspension we need to aspirate from the cell suspension in 15 mL centrifuge tube. 
     
     In this case, :code:`0.035 mL`. Convert to uL, then the volume we should take is :code:`35 uL`
 

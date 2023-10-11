@@ -38,7 +38,7 @@ Section 2 - Infection
 
 After 24 hrs incubation, infect cells with virus. 
 
-*Note: For steps involving virus, avoid using seropipette. As our lab policy requires virus waste to be handled seperately, using seropipette to handle virus can make disposal of the serological pipette difficult. It is easier to dispose pipette tips than the serological pipette.*
+*Note:* For steps involving virus, avoid using seropipette. As our lab policy requires virus waste to be handled seperately, using seropipette to handle virus can make disposal of the serological pipette difficult. It is easier to dispose pipette tips than the serological pipette.
 
 
 **Requires**
@@ -114,7 +114,12 @@ Before the actual infection procedure, we need to prepare a serial diultion from
     Don't use serological pipette for this step. Use a regular pipette with pipette tips. 
 
 #. Wash the cells 2 times with PBS.
-#. Dispense 1.5 mL of agarose mixture into each well. 
+#. Dispense 1.5 mL of agarose and 2% DMEM mixture into each well. 
+
+    You can use a serological pipette for this step 
+
+    Dispense the mixture from the wall of each well
+
 #. Leave the 6 well plate in room temperature for 10 to 15 mins.
 #. Agarose should hardens after around 10 mins. 
 
@@ -132,20 +137,32 @@ Section 3 - Fix and stain
 We use crystal violet to stain the cells that are attached to the 6 well plate. The dead cells would detached from the 6 well plate and get washed away, leaving behind a clear spot after staining. 
 
 
-Requires
+**Requires**
 
-* Paraformaldehyde (PFA), 3.7%
+* :ref:`Paraformaldehyde (PFA), 3.7% <pfa>`
 * Crystal violet
 
 
-#. Fix the cells with 3.7% PFA for 1 hr.
+**Procedure**
+
+#. Dispense 3.7% PFA into each well to fix the cells for 1 hr.
+    
+    Use the bench use micropipette
     
     There are no fix volume, just need to cover the cell layer. 300 uL should be enough. 
 
-    Dispense from the wall of each well. It is normal for the agarose to torn apart or disintegrate once the PFA was applied 
+    Dispense from the wall of each well. 
+    
+    It is normal for the agarose to torn apart or disintegrate once the PFA was applied 
 
 #. Remove PFA after 1 hr. 
+
+    Using a micropipette, remove the PFA and discard into waste bottle labelled 'chemical waste'. The bottle is stored under the laminar flow cabinet in the lab.
+
 #. Rinse the plate in a bucket of water for a few times to wash away the agarose. 
+
+    Fill a bucket with tap water first, then immerse the plate into the bucket. Wait for 1 or 2 seconds, then take out the plate. Repeat the process for a few times. 
+
 #. Decant excess water from 6 well plate by slightly tapping the plate facing downwards against a paper towel. 
 #. Stain the wells with crystal violet for 2 to 3 mins. 
 
@@ -159,6 +176,9 @@ Requires
     We usually reuse the crystal violet, so pipette the crystal violet in the wells back into the tube which stores crystal violet 
 
 #. Rinse the plate in a bucket of water for a few times to wash away excess crystal violet. 
+
+    This action is similar to how we rinse away the agarose.  
+
 #. Decant excess water from 6 well plate by slightly tapping the plate facing downwards against a paper towel. 
 #. Leave the plate on bench to air dry. 
 

@@ -1,3 +1,5 @@
+.. _pfa:
+
 Paraformaldehyde (PFA)
 ======================
 
