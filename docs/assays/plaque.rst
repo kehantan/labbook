@@ -7,9 +7,12 @@ Plaque assay to quantify the virus titer in a sample. I seperate this protocol i
 Section 1 - Cell seeding
 ------------------------
 
-* Seed 6 well plate with 600,000 cells if wanted to infect the next day. If wanted to infect after 2 days, seed 400,000 cells. 
 * Cells should be at least 90% confluency at the time of infection.
 * Amount of cells harvested from a T75 flask with 80% confluency should be sufficient to seed at least 2 6 well plate with 600,000 cells in each well for next day virus infection.   
+* Number of cells to seed depends on which day you want to do infection 
+
+    * Seed 6 well plate with 600,000 cells per well for next day infection 
+    * Seed 400,000 cells per well for infection after 2 days 
 
 
 Requires
@@ -134,3 +137,9 @@ Requires
 #. Rinse the plate in a bucket of water for a few times to wash away excess crystal violet. 
 #. Decant excess water from 6 well plate by slightly tapping the plate facing down against a paper towel. 
 #. Leave the plate on bench to air dry. 
+
+
+This protocol shows how to work with 6 well plate. If you want to do plaque assay in a 12 well plate, there are slight changes need to be made. 
+
+* Cell seeding - 300,000 cells per well for next day infection 
+* Use 1 mL of media instead of 1.5 mL

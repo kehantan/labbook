@@ -8,7 +8,7 @@ Trypan blue
 * It is not necessary to aliquote trypan blue in biosafety cabinet. 
 
 
-Requires
+**Requires**
 
 * Trypan blue solution
 * Microcentrifuge tube (1.5 mL)

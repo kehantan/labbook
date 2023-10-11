@@ -2,7 +2,7 @@ TrypLE
 ======
 
 * TrypLE comes as stock solution in a bottle. 
-* Aliquote it into a smaller volume and store in the fridge (4 :math:`\textdegree C`) for future use. 
+* Aliquote it into a smaller volume and store in the fridge (4 :math:`\textdegree`\ C) for future use. 
 * TrypLE has to be aliquote in the biosafety cabinet. 
 
 
@@ -19,3 +19,5 @@ Requires
 #. Label the centrifuge tube.
 
     Label example: :code:`TrypLE, name initials, date prepared`
+
+#. Seal with parafilm and store in fridge (4 :math:`\textdegree`\ C). 

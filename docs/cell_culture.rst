@@ -62,3 +62,4 @@ We would place the reagents into the BSC only after UV was done, before we want 
    cell_culture/maintain
    cell_culture/cell_culture_waste
    cell_culture/ln2
+   cell_culture/change_media
