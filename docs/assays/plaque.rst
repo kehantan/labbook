@@ -1,3 +1,5 @@
+.. _plaque assay:
+
 Plaque assay
 ============
 
@@ -15,7 +17,7 @@ Section 1 - Cell seeding
     * Seed 400,000 cells per well for infection after 2 days 
 
 
-Requires
+**Requires**
 
 * Complete DMEM
 * 6 well plate
@@ -23,10 +25,7 @@ Requires
 
 **Procedure**
 
-#. Trypsinise the cells in culture flask. 
- 
-    Refer to :ref:`trypsinise <My target>` for procedure.
-
+#. Trypsinise the cells in culture flask. Refer to :ref:`trypsinise <My target>`.
 #. Check if there are enough cells for 6 well plate. Calculate the required amount of cell suspension to aspirate into each well.
 #. Dispense 1.5 mL of complete DMEM in each well of the 6 well plate. 
 #. Dispense required amount of cell suspension into each well. 
@@ -42,29 +41,48 @@ After 24 hrs incubation, infect cells with virus.
 *Note: For steps involving virus, avoid using seropipette. As our lab policy requires virus waste to be handled seperately, using seropipette to handle virus can make disposal of the serological pipette difficult. It is easier to dispose pipette tips than the serological pipette.*
 
 
-Requires
+**Requires**
 
 * 2% DMEM 
 * Microcentrifuge tube
+* Agarose (5%)
+* Virus stock
+* Phosphate buffer saline (PBS)
 
 
 **Dilution of virus**
 
-#. Thaw virus stock in 37 :math:`^{\circ}`\ C water bath. 
-#. Do a serial dilution of the stock virus from microcentrifuge tube in a 10 fold dilution factor with 2% DMEM. 
+Before the actual infection procedure, we need to prepare a serial diultion from the virus stock. 
 
-    Can start from 1 to 5 times dilution factor.   
+
+#. Prepare microcentrifuge tube equivalent to the number of dilutions you wanted to do. 
+#. Take virus sample from -80 :math:`^{\circ}`\ C. 
+#. Thaw virus sample in 37 :math:`^{\circ}`\ C water bath. 
+#. Do a serial dilution of the virus stock by diluting the virus with 2% DMEM in microcentrifuge tube. Can start from 1 to 5 times dilution factor. 
+
+    #. Label 5 microcentrifuge tube. 
+
+        Label example: :math:`10^{-1}`, :math:`10^{-2}`, :math:`10^{-3}` ... 
+
+    #. Dispense 450 uL of 2% DMEM into each tube. 
+    #. Dispense 50 uL of virus stock into the first tube (:math:`10^{-1}`). 
+    #. Mix well by either pipette repeatedly or using a vortex.
+    #. Transfer 50 uL of diluted virus from first tube to second tube (:math:`10^{-2}`). 
+    #. Mix well by either pipette repeatedly or using a vortex.
+    #. Repeat the process for each tube until the last tube.
 
 
 **Infection**
 
 #. Label each well.
 
-    Negative control, 1x dilution, 2x dilution, etc.
+    Label example: NC, :math:`10^{-1}`, :math:`10^{-2}`, :math:`10^{-3}`, etc.
 
-#. Remove media with serological pipette. 
+#. Remove existing media from each well with serological pipette. 
 
     Aspirate media from wall of the well to prevent scratching on the cell layer
+
+    For this step we can still use serological pipette because the virus is not introduced to the wells yet. 
 
 #. Wash with PBS.
 
@@ -87,11 +105,14 @@ Requires
   
     Heat until the agarose melts and boils, but do not let agarose bubble for too long, as it will evaporate the water content in the agarose. Let the agarose bubbling for 1 or 2 seconds should be sufficient. 
 
-#. In a 15 ml centrifuge tube, add 9 ml of 2% DMEM and 1 ml of agarose. 
+#. In a 15 ml centrifuge tube, add 9 mL of 2% DMEM and 1 mL of agarose. 
 
-    Mix the agarose and 2% DMEM by repeating pipette. 
+    Mix the agarose and 2% DMEM by repeating pipette. You can also invert the tube few times to mix the agarose and media. 
 
-#. Remove the media with diluted virus from 6 well plate. 
+#. Remove existing media from the 6 well plate. 
+
+    Don't use serological pipette for this step. Use a regular pipette with pipette tips. 
+
 #. Wash the cells 2 times with PBS.
 #. Dispense 1.5 mL of agarose mixture into each well. 
 #. Leave the 6 well plate in room temperature for 10 to 15 mins.
@@ -101,7 +122,7 @@ Requires
 
     Do not tilt the plate at an overly steep angle as the agarose will torn apart upon its own weight. 
 
-#. Transfer the 6 well plate into incubator. 
+#. Transfer the 6 well plate into CO2 incubator. 
 
 It usually takes 24 hrs for the CPE to form, and another 24 hrs for the cell infected with virus to die. So usually after 48 hrs of incubation, we can fix and stain the plaque. 
 
@@ -125,17 +146,20 @@ Requires
 
 #. Remove PFA after 1 hr. 
 #. Rinse the plate in a bucket of water for a few times to wash away the agarose. 
-#. Decant excess water from 6 well plate by slightly tapping the plate facing down against a paper towel. 
+#. Decant excess water from 6 well plate by slightly tapping the plate facing downwards against a paper towel. 
 #. Stain the wells with crystal violet for 2 to 3 mins. 
 
     No fix volume required, just need to cover the cell layer. 300 uL should be enough. 
 
     Dispense from the wall of each well. 
 
-#. Tilt the plate to make sure crystal violet covers the whole area in a well. 
-#. Remove the crystal violet. 
+#. Tilt the plate to make sure crystal violet covers the all areas within the wells. 
+#. Remove the crystal violet.
+
+    We usually reuse the crystal violet, so pipette the crystal violet in the wells back into the tube which stores crystal violet 
+
 #. Rinse the plate in a bucket of water for a few times to wash away excess crystal violet. 
-#. Decant excess water from 6 well plate by slightly tapping the plate facing down against a paper towel. 
+#. Decant excess water from 6 well plate by slightly tapping the plate facing downwards against a paper towel. 
 #. Leave the plate on bench to air dry. 
 
 

@@ -5,7 +5,7 @@ Complete DMEM (10%)
 * Need to be prepared in the biosafety cabinet.
 
 
-Requires
+**Requires**
 
 * FBS
 * Pen-Strep
@@ -29,4 +29,4 @@ Requires
 
    Label example: :code:`Complete DMEM, name initials, date prepared`
 
-#. Seal with parafilm. Store in fridge (4 :math:`^{\circ}^`\ C).
+#. Seal with parafilm. Store in fridge (4 :math:`^{\circ}`\ C).

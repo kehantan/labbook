@@ -5,7 +5,7 @@
 * Need to be prepared in biosafety cabinet. 
 
 
-Requires
+**Requires**
 
 * FBS
 * Pen-Strep

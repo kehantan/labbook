@@ -19,3 +19,5 @@ Trypan blue
 #. Label the microcentrifuge tube. 
 
     Label example: :code:`Trypan blue, name initials`
+
+#. Store at bench. 

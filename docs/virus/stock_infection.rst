@@ -1,11 +1,13 @@
 Virus stock infection
 =====================
 
-To propagate virus stock for virus related experiments. Something like subculture for virus.
+To propagate virus stock for virus related experiments. You can imagine this as a subculture procedure for virus.
 
-Requires
+
+**Requires**
 
 * 2% DMEM
+
 
 **Procedure**
 
@@ -13,13 +15,13 @@ Assume we are culturing in a T25 culture flask.
 
 #. Culture cells to about 70% confluency.
 #. Remove existing media from culture flask. 
-#. Add 5ml of new 2% DMEM into culture flask.
-#. Thaw virus stock in water bath at 37 C. 
+#. Add 5mL of new 2% DMEM into culture flask.
+#. Thaw virus stock in water bath at 37 :math:`^{\circ}`\ C. 
 #. Add 500 uL of virus stock into culture flask.
 
     There are no fix volume of virus requires. If you already used 50 uL for other experiments like plaque assay, just transfer the remaining 450 uL into the culture flask. 
 
-#. Incubate at 37 C.
+#. Incubate the flask at 37 :math:`^{\circ}`\ C.
 #. Monitor daily under microscope for CPE formation and detachment of cells.
 #. When 90% of the cells detached, the virus is ready for harvest. 
 

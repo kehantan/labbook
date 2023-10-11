@@ -5,12 +5,12 @@ Phosphate buffer saline (PBS)
 * PBS need to be prepared in biosafety cabinet.
   
 
-Requires
+**Requires**
 
 * 10x D-PBS
 * Milli-Q water or distilled water 
 * Syringe
-* Syringe filter (0.22 :math:`\mu`\ m) 
+* Syringe filter (0.22 um) 
 * Centrifuge tube (50 mL)
 
 
@@ -21,9 +21,9 @@ Requires
 
     To dilute 10x D-PBS to 1x
 
-#. Filter with 0.22 :math:`\mu`\ m filter using syringe into a new 50 mL centrifuge tube.
+#. Filter with 0.22 um filter using syringe into a new 50 mL centrifuge tube.
 #. Label the centrifuge tube. 
 
     Label example: :code:`1x PBS, name initials, date prepared`
 
-#. Store at bench.
+#. Seal with parafilm and store at bench.

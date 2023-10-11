@@ -4,7 +4,7 @@ Cell count
 To get an estimation of how many cells are there in a culture flask. 
 
 
-Requires
+**Requires**
 
 * Centrifuge tube (15 mL)
 * Counting chamber
