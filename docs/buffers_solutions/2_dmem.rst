@@ -11,7 +11,7 @@
 
 * FBS
 * Pen-Strep
-* DMEM
+* :ref:`DMEM <dmem>`
 * Centrifuge tube (50 mL)
 
 
@@ -19,11 +19,11 @@
 
 #. Into 50 mL centrifuge tube, aliquote:
 
-   * 47.5 mL of DMEM
+   * 48.5 mL of DMEM
 
-      We only have 25 mL serological pipette, so to prepare 47.5 mL, we can split into 25 mL + 22.5 mL 
+      We only have 25 mL serological pipette, so to prepare 48.5 mL, we can split into 25 mL + 23.5 mL 
 
-   * 2 mL of FBS
+   * 1 mL of FBS
    * 500 uL of Pen-strep
 
 #. Mix well. 

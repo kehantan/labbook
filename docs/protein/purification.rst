@@ -1,5 +1,5 @@
-Protein purification
-====================
+Protein extraction and purification
+===================================
 
 ..
     This doc needs to be restructured
@@ -9,7 +9,7 @@ Protein purification
 Protein purification is quite a long procedure where multiple samples will be collected for further testing. All the samples (I mean ALL, both supernatant and precipitate) will be stored until the target protein was obtained. Therefore, it is important to clearly label every tubes/containers used. 
 
 
-Requires
+**Requires**
 
 * Ice box filled with ice
 * Microcentrifuge tube (1.5 mL)
@@ -26,7 +26,7 @@ Requires
 Buffers 
 -------
 
-Before begin, prepare the buffers. Preferrably at least one day before use, because adjusting pH of buffers takes quite some time. Some buffer also need to be pre-cooled, like Buffer D. 
+Before begin, prepare the buffers. Preferrably at least one day before use, because adjusting pH of buffers takes quite some time. Some buffer also need to be pre-cool, like Buffer D. 
 
 
 **Lysis buffer**
@@ -212,7 +212,7 @@ Dialysis
 
 * Dialysis was done with Thermo Fisher Scientific Slide-A-lyzer Dialysis Casssette.
 * This procedure needs to be carried out in cold room.
-* It is best to pre-cool Buffer D to 4 :math:`^{\circ}`\ C, so bring the buffer into cold room at least 1 hr before starting the procedure. 
+* Pre-cool Buffer D to 4 :math:`^{\circ}`\ C, so bring the buffer into cold room at least 1 hr before starting the procedure. 
 * Other equipments needed in the cold room including magnetic stirrer and retort stand. 
 
 
