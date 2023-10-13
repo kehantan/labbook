@@ -3,17 +3,16 @@
 Trypsinise
 ==========
 
-Trypsinise is a procedure to remove adherent cells from the culture flask
+Trypsinise is a procedure to remove adherent cells from the culture flask, so we can proceed to other procedures such as cell counting and cell seeding. 
 
-Requires
+**Requires**
 
 * TrypLE 
-* Complete DMEM
-* PBS (1x)
+* :ref:`Complete DMEM <10 dmem>`
+* :ref:`PBS (1x) <pbs>`
 * Centrifuge tube (15 mL)
 
-*Reminder:* Before starting the procedures, warm up medium and TrypLE in 37 :math:`^{\circ} C` water bath. You can also put your apparatus in the biosafety cabinet and UV them first.  
-
+*Reminder:* Before starting the procedures, warm up complete DMEM and TrypLE in 37 :math:`^{\circ} C` water bath. You can also put your apparatus in the biosafety cabinet and UV them first.  
 
 **Procedure**
 

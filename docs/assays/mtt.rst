@@ -1,7 +1,15 @@
 MTT assay
 =========
 
-MTT is a long procedure that can span across multiple days. The steps including:
+The whole MTT assay is a long procedure that can takes up multiple day. It takes 3 seperate days to complete 1 round of MTT. We need:
+
+    * 1 day for trypsinise, cell count, and seeding
+    * 1 day for treatment (treat the cells with compound)
+    * 1 day for actual MTT and to read the absorbance
+
+I divided this protocol into sections, so each sections indicates that procedure requires one day. It doesn't mean that particular procedure will take up the whole day, it's just after that procedure, you will have to wait another day to proceed to the next section. You can plan your experiments accordingly. 
+
+The steps for one round of MTT assay including:
 
 #. Trypsinise   
 #. Cell count   
@@ -10,24 +18,15 @@ MTT is a long procedure that can span across multiple days. The steps including:
 #. Actual MTT
 #. Read absorbance
 
-It takes 3 seperate days to complete 1 round of MTT. We need:
-
-    * 1 day for trypsinise, cell count, and seeding
-    * 1 day for treatment (treat the cells with compound)
-    * 1 day for actual MTT and to read the absorbance
-
-I divided this protocol into sections, so each sections indicates that after that procedure, you will have to wait another day to proceed to the next section. You can plan your experiments accordingly. 
-
-
 **Calculate how many cells and media we need**
 
-Before we actually start the procedure, it is best to count the theoretical number of cells required before we start seeding. We would prepare 100 uL of mixture that contains 10% DMEM + 1,500 cells into each well.
+Before we actually start the procedure, it is best to count the theoretical number of cells required before we start seeding. Our final goal is to have 100 uL of mixture that contains 10% DMEM + 1,500 cells in each well.
 
 Assume we want to test 8 different concentrations (including negative control) of our compound on the cells, then 
 
     :code:`Total cells needed = 10 concentrations * 5 wells/concentration * 1,500 cells/well = 75,000 cells` 
 
-You will notice that even we wanted to test 8 different concentration, but the formula above state :code:`10 conecentrations`. This is due to slight deviations during pipetting and handling of liquids. If we prepare enough cell suspension for the exact number of concentrations we want, we might end up not having enough cells for the last few wells, so prepare a little bit extra amount. Usually adding 3 to 5 concentrations extra for some overhead is sufficient enough.
+You will notice that even we wanted to test 8 different concentration, the formula above state :code:`10 conecentrations`. This is due to slight deviations during pipetting and handling of liquids. If we prepare enough cell suspension for the exact number of concentrations we want, we might end up not having enough cells for the last few wells, so prepare a little bit extra amount. Usually adding 3 to 5 concentrations extra for some overhead is sufficient enough.
 
 After the actual cell counting step in the procedure, double check if the cells is sufficient for seeding. 
 
@@ -38,7 +37,7 @@ Now we would need to calculate how much media we need. The concept is similar to
 :code:`10 concentrations` were used in calculation instead of 8 just for some extra volume. 
 
 
-*Reminder:* Before starting the procedures, warm up media and TrypLE in 37 :math:`^{\circ}`\ C water bath. You can also put your apparatus into the biosafety cabinet and UV them first.*  
+*Reminder:* Before starting the procedures, warm up complete DMEM and TrypLE in 37 :math:`^{\circ}`\ C water bath. You can also put your apparatus into the biosafety cabinet and UV them first.*  
 
 
 Section 1 - Trypsinise, cell count, seed cells
@@ -48,7 +47,6 @@ Section 1 - Trypsinise, cell count, seed cells
 
 This step is to detach the cells from the culture flask. Refer to :ref:`trypsinise <My target>`. 
 
-
 **Requires**
 
 * :ref:`Complete DMEM (10%) <10 dmem>`
@@ -56,10 +54,9 @@ This step is to detach the cells from the culture flask. Refer to :ref:`trypsini
 * :ref:`Phosphate buffer saline (1x PBS) <pbs>`
 * Centrifuge tube (15 mL)
 
-
 **Procedure**
 
-Assume cells were cultured in a T25 flask. 
+Assume cells were cultured in a T25 flask to 70% to 90% confluency. 
 
 #. Remove media from culture flask. 
 #. Dispense 600 to 800 uL of PBS into culture flask. 
