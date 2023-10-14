@@ -3,24 +3,20 @@ Thawing cells
 
 Thawing cells from either -80 :math:`^{\circ}`\ C or from liquid nitrogen (LN2). 
 
-
-Requires
+**Requires**
 
 * T25 culture flask
-* Complete DMEM
-
-*Reminder: Before starting the procedures, warm up medium in 37 C water bath. You can also put your apparatus in the biosafety cabinet and UV them first.*  
-
+* :ref:`Complete DMEM <10 dmem>`
 
 **Procedure**
 
+#. Dispense 5 mL of complete DMEM into a T25 culture flask.
 #. Take out cryovial from -80 :math:`^{\circ}`\ C  or LN2 tank.
-#. Thaw the cryovial with cells in 37 °C water bath.
+#. Thaw the cryovial with cells in 37 :math:`^{\circ}`\ C water bath.
    
      Thawing cells rapidly ensures high cell viability.
 
-#. Optional step to remove cryopreservant and non-viable cells: resuspend cells in medium and briefly centrifuge (150–300 x g for 3 to 5 mins.). Resuspend cell pellet in fresh medium.
-#. Dispense 5 mL of complete DMEM into a T25 culture flask.
+#. Optional step to remove cryopreservant and non-viable cells: resuspend cells in medium and briefly centrifuge (150–300 x g for 3 to 5 mins). Resuspend cell pellet in fresh medium.
 #. Transfer freshly thawed cells into culture flask with micropipette.
 #. Label the flask.  
 

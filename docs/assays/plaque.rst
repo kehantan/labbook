@@ -5,7 +5,6 @@ Plaque assay
 
 Plaque assay is used to quantify the virus titer in a virus sample. I seperate this protocol into different sections, each section indicates that after that procedure was completed, you need to wait until another day to proceed to the next section. 
 
-
 Section 1 - Cell seeding
 ------------------------
 
@@ -14,14 +13,13 @@ Section 1 - Cell seeding
 * Number of cells to seed depends on which day you want to do infection 
 
     * Seed 6 well plate with 600,000 cells per well for next day infection 
-    * Seed 400,000 cells per well for infection after 2 days 
-
+    * Seed 6 well plate with 400,000 cells per well for infection after 2 days 
+    * Seed 12 well plate with 300,000 cells per well for next day infection
 
 **Requires**
 
 * :ref:`Complete DMEM <10 dmem>`
-* 6 well plate
-
+* 6 well plate/12 well plate
 
 **Procedure**
 
@@ -32,14 +30,12 @@ Section 1 - Cell seeding
 #. Tilt the 6 well plate to distribute the cells evenly. 
 #. Incubate for 24 hrs or longer depending on the number of cells you seed.
 
-
 Section 2 - Infection
 ---------------------
 
 After 24 hrs incubation, infect cells with virus. 
 
 *Note:* For steps involving virus, avoid using seropipette. As our lab policy requires virus waste to be handled seperately, using seropipette to handle virus can make disposal of the serological pipette difficult. It is easier to dispose pipette tips than the serological pipette.
-
 
 **Requires**
 
@@ -49,11 +45,9 @@ After 24 hrs incubation, infect cells with virus.
 * Virus stock
 * :ref:`Phosphate buffer saline (PBS) <pbs>`
 
-
 **Dilution of virus**
 
 Before the actual infection procedure, we need to prepare a serial diultion from the virus stock. 
-
 
 #. Prepare microcentrifuge tube equivalent to the number of dilutions you wanted to do. 
 #. Take virus sample from -80 :math:`^{\circ}`\ C. 
@@ -70,7 +64,6 @@ Before the actual infection procedure, we need to prepare a serial diultion from
     #. Transfer 50 uL of diluted virus from first tube to second tube (:math:`10^{-2}`). 
     #. Mix well by either pipette repeatedly or using a vortex.
     #. Repeat the process for each tube until the last tube.
-
 
 **Infection**
 
@@ -97,7 +90,6 @@ Before the actual infection procedure, we need to prepare a serial diultion from
 
 #. Incubate the 6 well plate at 37 :math:`^{\circ}`\ C for 1 hour. Tilt the plate every 20 mins. 
 #. After 1 hour, overlay the infected cell layer with agarose. 
-
 
 **Agarose overlay**
 
@@ -131,17 +123,14 @@ Before the actual infection procedure, we need to prepare a serial diultion from
 
 It usually takes 24 hrs for the CPE to form, and another 24 hrs for the cell infected with virus to die. So usually after 48 hrs of incubation, we can fix and stain the plaque. 
 
-
 Section 3 - Fix and stain 
 -------------------------
 We use crystal violet to stain the cells that are attached to the 6 well plate. The dead cells would detached from the 6 well plate and get washed away, leaving behind a clear spot after staining. 
-
 
 **Requires**
 
 * :ref:`Paraformaldehyde (PFA), 3.7% <pfa>`
 * Crystal violet
-
 
 **Procedure**
 

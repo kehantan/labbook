@@ -11,14 +11,17 @@ The number of cells to seed depends on several factors:
 
     Example: Due to scheduling reasons, we might want to seed the cells on Monday, but we only want to conduct the experiment on the cells on Wednesday. Although I would suggest to always seed the cells one day before your actual experiments whenever possible. 
 
-
 **Some seeding values we used in our lab**
 
 For MTT assay:
 
 * Experiment on next day - 1,500 cells/well 
 
-For plaque assay: 
+For plaque assay on a 6 well plate: 
 
 * Experiment on next day - 600,000 cells/well 
 * Experiment after 2 day - 400,000 cells/well 
+
+For plaque assay on a 12 well plate:
+
+* Experiment on next day - 300,000 cells/well 

@@ -4,20 +4,20 @@ Bicinchoninic acid assay (BCA)
 * We use kit for this assay. Can refer the procedure from manufacturer website or the manual provided in the box.  
 * This procedure can be carried out on bench. 
 
-
-Requires
+**Requires**
 
 * PCR centrifuge tube 
 * Microcentrifuge tube (1.5 mL)
 * 96 well plate
+* Microplate reader that can read absorbance
 
+    Book in Bilik alat 1. 
 
 **Procedure**
 
 **Prepare BCA reagent solution**
 
 Before we run the experiment, we have to prepare Reagent A:Reagent B:Reagent C in ratio of 25:24:1. Calculate how much reagent needed for your experiments.
-
 
 **Prepare serial dilution of sample**
 
@@ -27,7 +27,6 @@ Before we run the experiment, we have to prepare Reagent A:Reagent B:Reagent C i
 #. Trasfer 60 uL of sample + distilled water mixture into second microcentrifuge tube. 
 #. Repeat the dilution process from second microcentrifuge tube untill the last tube. 
 #. Discard 60 uL of mixture from the last microcentrifuge tube.  
-
 
 **Prepare different concentration of standard solution**
 
@@ -40,7 +39,6 @@ To prepare different concentrations of standard solution, dilute the standard so
 #. Prepare and label 8 microcentrifuge tubes. 
 #. Dispense appropriate amount of distilled water into each microcentrifuge tube. 
 #. Dispense appropriate amount of standard into each microcentrifuge tube. Mix the standard and distilled water by repeat pipetting. 
-
 
 **In 96 well plate**
 

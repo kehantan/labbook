@@ -23,8 +23,6 @@ Vero cells. Adherent cells. Not immortalised.
 * Calculator
 * Counting chamber
 
-*Reminder:* Before starting the procedures, warm up medium and TrypLE in 37 :math:`^{\circ}`\ C water bath. You can also put your apparatus in the biosafety cabinet and UV them first.  
-
 **Procedure**
 
 **Trypsinise** 
@@ -63,13 +61,12 @@ Refer to :ref:`trypsinise <My target>`
 
 **Cell counting**
 
-This step is optional. For subculture, you can either: 
+Refer to :ref:`cell count <cell count>` section. This step is optional if you are subculturing cells. For subculture, you can either: 
 
 * Count the cells and seed the exact number of cells you want; OR 
 * To save some work, you can just split the previous culture into different portions depending on the percentage of confluency you need for your experiments and the days you want to conduct the experiments. 
 
     Example: You have 1 mL of cell suspension after trypsinisation. To split 1:3, put only 333.33 uL of cell suspension into new culture flask with complete DMEM. You can of course also use other ratio like 1:5 (200 uL) or 1:10 (100 uL).
-
 
 **Cell seeding**
 
@@ -79,6 +76,9 @@ This step is optional. For subculture, you can either:
     * T75 = 9 mL
 
 #. Plate cells onto a new flask at the desired cell density.
+
+    If you want to seed a specific number of cells, you will have to do cell count beforehand. If you wanted to split by ratio, just transfer the amount of cell suspension based on the split ratio into the new flask. 
+
 #. Swirl flask to evenly distribute the seeded cells. 
 #. Label the flask 
 
@@ -86,10 +86,11 @@ This step is optional. For subculture, you can either:
 
 #. Incubate. 37 :math:`^{\circ}`\ C, 5% CO2.
 
-
 **Numbers of cells to seed in flask**
 
-T25, to 80% confluency in...
+This is just a guideline based on the cell line I worked with, which is Vero cells. The actual duplication speed of cells can be subjected to various factors like: cell type, cell condition, passage number, growth environment, etc. 
+
+T25, to about 80% confluency in...
 
 * Next day = 800,000 cells
 * 3 days = 500,000 cells

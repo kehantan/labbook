@@ -1,6 +1,25 @@
 MTT assay
 =========
 
+Preface 
+-------
+
+This protocol uses the cell line that I worked with -- VERO cells as an example. If you are using other cell lines, refer to research article of other resources for some of the specific parameters. 
+
+There are some parameters that you will need to find out before carrying out MTT assay. Some common questions you will immediately bump into when you first trying to do MTT assay including:
+
+#. How many cells to seed?
+
+    This is a question very difficult to answer. The best approach is to refer to the research articles related to the cell lines you are working with to get an idea on how many cells you should seed. If you cannot get the information you can do some optimisation yourself by trying out any range between 1000 to 5000 cells/well. Some general rule is that your negative control (untreated cells) well's absorbance should not be too high (exceeds 1.0) at the day of reading the plate. 
+
+#. How many different concentrations you wanted to test with your compound? 
+
+    Again, refer to literature for this part. If there are no information available, some optimisation would need to be made. If you have no idea what concentration you wanted to use, you can try out by using a larger range of concentrations first. I typically start with 200 ug/ml of concentration and half it for each dilution step (200 ug/mL, 100 ug/mL, 50 ug/mL). My rationale is that it is easier to find your compound's effective concentration by screening it with a larger range. If you screen your compound at a narrow range like 20 ug/mL, 40 ug/mL, 60 ug/mL, you might need to do more plates to find out the effective concentrations. 
+
+#. How long I should incubate? How much reagent I should use? 
+
+    Again, refer to literature whenever you can. I cannot list everything here because these parameters is some what related to the cell lines you are dealing with. For most part, the parameters should be transferrable from one cell line to another. Fortunately, there are a lot of resources you can refer online, or you can simply ask around other lab members. 
+
 The whole MTT assay is a long procedure that can takes up multiple day. It takes 3 seperate days to complete 1 round of MTT. We need:
 
     * 1 day for trypsinise, cell count, and seeding
@@ -36,16 +55,10 @@ Now we would need to calculate how much media we need. The concept is similar to
 
 :code:`10 concentrations` were used in calculation instead of 8 just for some extra volume. 
 
-
-*Reminder:* Before starting the procedures, warm up complete DMEM and TrypLE in 37 :math:`^{\circ}`\ C water bath. You can also put your apparatus into the biosafety cabinet and UV them first.*  
-
-
 Section 1 - Trypsinise, cell count, seed cells
 ----------------------------------------------
 
 **Trypsinise**
-
-This step is to detach the cells from the culture flask. Refer to :ref:`trypsinise <My target>`. 
 
 **Requires**
 
@@ -54,42 +67,11 @@ This step is to detach the cells from the culture flask. Refer to :ref:`trypsini
 * :ref:`Phosphate buffer saline (1x PBS) <pbs>`
 * Centrifuge tube (15 mL)
 
-**Procedure**
-
 Assume cells were cultured in a T25 flask to 70% to 90% confluency. 
 
-#. Remove media from culture flask. 
-#. Dispense 600 to 800 uL of PBS into culture flask. 
-
-    Swirl the flask to wash cells thoroughly. 
-
-#. Remove PBS. 
-#. Dispense 600 to 800 uL of TrypLE into culture flask. 
-
-    Swirl the flask to make sure TrypLE covers all the cells. 
-
-#. Incubate culture flask for 3 to 5 mins at 37 :math:`^{\circ}`\ C.
-
-    Not more than 10 mins
-
-#. Remove the culture flask from incubator. 
-#. Slightly tap the flask to mechanically detach the cells from flask. 
-#. Dispense complete DMEM in equal amount with TrypLE. Swirl the flask to properly neutralise TrypLE. 
-
-    For example: if dispensed 600 uL of TrypLE, then dispense 600 uL of 10% DMEM
-
-#. Transfer the suspension to 15 mL centrifuge tube. 
-#. Centrifuge. 1500 rpm, 5 mins. 
-#. Remove supernatant, but leave minimal amount of DMEM in the centrifuge tube. 
-#. Flick or tap the centrifuge tube to resuspend the cell pellet into DMEM. 
-#. Add 1 mL of complete DMEM to the centrifuge tube. 
-#. Pipette repeatedly to break the cell pellet. 
-
+First step is to detach the cells from the culture flask. Refer to :ref:`trypsinise <My target>`. 
 
 **Cell counting**
-
-We need to know the number of cells since we wanted to seed a specific number of cells into each well. Refer to :ref:`cell count`.  
-
 
 **Requires**
 
@@ -102,31 +84,13 @@ We need to know the number of cells since we wanted to seed a specific number of
 * Trypan blue
 * Calculator 
 
-
-**Procedure**
-
-#. Dispense 10 uL of trypan blue into one of the wells in the 96 well plate used for mixing. 
-#. Dispense 10 uL of cells from the 15 mL centrifuge tube from the trypsinise phase into the same well with trypan blue. 
-#. Mix well by repeat pipetting. 
-#. Dispense 10 uL of trypan blue and cell mixture into counting chamber. 
-#. Count the cells. 
-
-Formula for cell count: :math:`\frac{\text{sum of cells from 4 quadrant} \times 10^4 \times 2}{4} =` :code:`X cells/ml`
+We need to know the number of cells since we want to seed a specific number of cells into each well. Refer to :ref:`cell count <cell count>`.  
 
 After counting the cells, we should get value of :code:`X cells/mL`. Compare the counted cell number before we begin the experiment and the calculated cells number. We should have sufficient cells for seeding. 
-
 
 **Cell seeding**
 
 We now need to seed specific number of cells into each well.
-
-
-**Requires**
-
-* 96 well plate 
-* Cell reservoir
-* Multi channel micropipette
-
 
 The final outcome we want = 100 uL of mixture of complete DMEM + 1,500 cells in each well
 
@@ -139,7 +103,7 @@ To calculate the volume of cell suspension we need to aspirate,
 
     Assume we have: :code:`150*10^4 cells/mL`
     
-    But we only need: :code:`75,000 cells` <-- We calculate this value before we begin the procedure 
+    But we only need: :code:`75,000 cells` <-- Remember we calculate this value before we begin the procedure 
     
     So we first convert the :code:`75,000 cells` to the :code:`10^4` 'format', which is :code:`7.5x10^4`
 
@@ -153,8 +117,13 @@ To calculate how much media we need,
 
     :code:`7 concentrations * 5 well/concentration * 100 uL/well = 3,500 uL (3.5 mL)`
 
-After all the calculations we can begin our procedure. 
+After all the calculations we can begin our cell seeding procedure. 
 
+**Requires**
+
+* 96 well plate 
+* Cell reservoir
+* Multi channel micropipette
 
 **Procedure**
 
@@ -172,25 +141,19 @@ After all the calculations we can begin our procedure.
 
 *Note:* Technically, 35 uL + 3,500 uL = 3,535 uL. If we want to be absolute accurate we should be doing 35 + 3,465 uL = 3,500 uL. But for convenience's sake, we would treat it as a negligible difference.
 
-
 Section 2 - Treatment of cells
 ------------------------------
 
-**Treatment**
-
 Treatment is where we treat our seeded cells with compound we wanted to test. 
 
-Before treatment, calculate the concentration of compound we need. Usually we do serial dilution, but we can also do each concentration seperately if it is too confusing. 
+Before treatment, calculate the concentration of compound we need. Usually we do serial dilution, but we can also do each concentration seperately if it is too confusing. There are serial dilution calculator online that can help us to calculate the dilution. Refer to :ref:`serial dilution <serial dilution>` section. 
 
-There are serial dilution calculator online that can help us to calculate the dilution. 
+Prepare the compounds with different concentrations before removing media from the 96 well plate, so we can immediately dispense the compound into the 96 well plate after removing the media. If the cells are left too long whithout media they would dry up and dies. 
 
-Also, prepare the compounds with different concentrations before removing media from the 96 well plate, so we can immediately dispense the compound into the 96 well plate after removing the media. If the cells are left too long whithout media they would dry up and die. 
-
-
-Requires
+**Requires**
 
 * Multichannel micropipette 
-
+* Microcentrifuge tube
 
 **Procedure**
 
@@ -203,7 +166,6 @@ Requires
 #. Dispense 100 uL of compound diluted in complete DMEM into respective wells. 
 #. Incubate for 48 hrs. 
 
-
 Section 3 - MTT, read absorbance
 --------------------------------
 
@@ -213,17 +175,15 @@ This is the step where the actual MTT was added.
 
 This procedure can be carried out either in the biosafety cabinet or at bench. 
 
-
 **Requires**
 
 * :ref:`MTT working solution <mtt stock>`
 * DMSO
 * Multichannel micropipette
 
-
 **Procedure**
 
-#. Take MTT working solution from freezer and warm to room temperature in water bath. 
+#. Take MTT working solution from freezer and warm to room temperature in water bath before use. 
 #. Add 10 uL of MTT into each well.
 
     Don't have to remove media on this step
@@ -232,14 +192,25 @@ This procedure can be carried out either in the biosafety cabinet or at bench.
 
     There are no strict rules for how long the incubation period should be. You can try to optimise, or reduce the incubation time if you find 3 hrs is too long. 
 
-#. After 3 hrs, remove media. 
+#. After 3 hrs, remove the 96 well plate from incubator.
+
+    You can observe the 96 well plate under microscope to see the formation of formazan crystals. 
+
+#. Remove media along with remaining MTT solution.  
 #. Add 100 uL of DMSO into each well. 
 #. Place 96 well plate on shaker and shake for 1 hr.
+
+    This step is to solubilise the formazan crystal
+
 #. Read absorbance after shaking for 1 hr. 
 
 **Read absorbance**
 
-Read the absorbance with spectrophotometer. 
+Read the absorbance with plate reader. 
+
+**Requires**
+
+* Plate reader
 
 **Procedure**
 

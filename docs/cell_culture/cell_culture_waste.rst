@@ -16,11 +16,10 @@ There are some department policy for waste management that our lab is required t
 * Rinse the waste beaker with tap water and dry it on the rack beside the sink. 
 * If you want to be really clean, can wash the waste beaker with Decon90. 
 
-
-**REMEMBER!**
+**REMEMBER**
 
 You don't have to follow the rules very strictly, but adhere to them whenever possible. 
 
 For example, if someone already using the waste beaker for cell culture, you can always use the one labelled 'for virus use'. You don't have to wait for the other person to finish only proceed to use the waste beaker for cell culture work. 
 
-It is always important to use common sense and logic when working in the lab. 
+It is always important to use common sense and logic when working in the lab. If unsure, can always discuss with lab mates or supervisor. 
