@@ -7,20 +7,15 @@ Vero cells. Adherent cells. Not immortalised.
 * 37 :math:`^{\circ}`\ C
 * 5% CO2 
 
-Requires
+**Requires**
 
-* Complete DMEM/10% DMEM
-* Phosphate buffer saline (1x PBS)
+* :ref:`Complete DMEM/10% DMEM <10 dmem>`
+* :ref:`Phosphate buffer saline (1x PBS) <pbs>`
 * TrypLE
 * Culture flask (T25/T75)
 * Centrifuge tube (15 mL)
-* Micropipette
-* Micropipette tips
-* Pipette gun
-* Serological pipette
-* Waste beaker
 
-Optional
+**Optional**
 
 * Trypan blue
 * 96 well plate (for mixing trypan blue and cell suspension for counting)
@@ -68,7 +63,12 @@ Refer to :ref:`trypsinise <My target>`
 
 **Cell counting**
 
-This step is optional. To save some work, you can just split the previous culture into different number of portions depending on the percentage of confluency you need for your experiments and the days you want to conduct the experiments. Or you can count the cells and seed the exact number of cells you want. 
+This step is optional. For subculture, you can either: 
+
+* Count the cells and seed the exact number of cells you want; OR 
+* To save some work, you can just split the previous culture into different portions depending on the percentage of confluency you need for your experiments and the days you want to conduct the experiments. 
+
+    Example: You have 1 mL of cell suspension after trypsinisation. To split 1:3, put only 333.33 uL of cell suspension into new culture flask with complete DMEM. You can of course also use other ratio like 1:5 (200 uL) or 1:10 (100 uL).
 
 
 **Cell seeding**

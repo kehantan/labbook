@@ -3,12 +3,10 @@ Harvest virus
 
 Harvest virus to make virus stock.  
 
-
 **Requires**
 
 * Centrifuge tube (15 ml)
 * Microcentrifuge tube 
-
 
 **Procedure**
 

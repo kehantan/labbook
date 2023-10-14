@@ -1,11 +1,9 @@
 .. _cell count:
 
-
 Cell count
 ==========
 
-To get an estimation of how many cells are there in a culture flask. 
-
+Cell counting is to get an estimation of how many cells are there in a culture flask, so we can know if we have enough cells for our experiments. 
 
 **Requires**
 
@@ -23,7 +21,6 @@ To get an estimation of how many cells are there in a culture flask.
 **Trypsinise**
 
 Before cell counting, you need to trypsinise your cells from the culture flask. Refer to :ref:`trypsinise <My target>`.
-
 
 **Cell counting**
 

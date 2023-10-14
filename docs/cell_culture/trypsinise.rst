@@ -34,6 +34,17 @@ Check the cells under microscope before procedure to confirm the cell is at desi
 
 #. Incubate the culture flask for about 3 to 5 mins, but don't incubate for more than 10 mins. 
 #. Remove culture flask from incubator. Slightly tap the culture flask to mechanically detach the cells from the flask. 
+#. Observe the culture flask under microscope. 
+
+    This step is to observe how much cells have detached. 
+
+    Ideally, the cells should be round in shape and flowing around, indicating the cells were sucessfully trypsinised and detached from the culture flask. You can move the flask slightly to observe the movement of the cells. 
+
+    Sometimes you will see the cells are round in shape, but did not detach. Some of the things that you can do including: 
+
+        * Without adding more TrypLe, incubate for another few mins; or  
+        * Add more TrypLE, then incubate for another few mins 
+
 #. Dispense complete DMEM in amount which is equal to the amount of TrypLE used, to neutralise TrypLE. 
 
     For example, if we dispense 1 mL of TrypLe, then now we dispense 1 mL of complete DMEM

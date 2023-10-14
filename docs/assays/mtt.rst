@@ -228,18 +228,23 @@ This procedure can be carried out either in the biosafety cabinet or at bench.
 
     Don't have to remove media on this step
 
-#. Incubate for 3 hrs at 37 :math:`^{\circ}`\ C, 5% CO2.
+#. Incubate. 37 :math:`^{\circ}`\ C, 5% CO2, 3 hrs.
+
+    There are no strict rules for how long the incubation period should be. You can try to optimise, or reduce the incubation time if you find 3 hrs is too long. 
+
 #. After 3 hrs, remove media. 
 #. Add 100 uL of DMSO into each well. 
 #. Place 96 well plate on shaker and shake for 1 hr.
 #. Read absorbance after shaking for 1 hr. 
 
-
 **Read absorbance**
 
 Read the absorbance with spectrophotometer. 
 
-
 **Procedure**
 
 #. Read plate at 570 nm. 
+
+**Note**
+
+MTT assay is a very commonly used assay, you can find a lot of articles that optimised MTT assays for different purposes. You can refer to other sources for different parameters like: the amount of different reagent being used, the time of incubation, etc. You don't have to strictly follow the parameters in this protocol. The parameters used in this protocol are the ones that is good enough for our lab use. 

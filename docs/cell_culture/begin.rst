@@ -5,13 +5,11 @@ Before we begin cell culture
 
 Maintain good aseptic technique is important throughout the whole process of cell culture. 
 
-The biosafety cabinet (BSC) is our main working bench for cell culture work. To reduce possibilities of contamination, adhere to aseptic techniques as strictly as possible. 
-
-The regulars including always wear gloves and lab coat. 
+The biosafety cabinet (BSC) is our main working bench for cell culture work. To reduce possibilities of contamination, adhere to aseptic techniques as much as possible. The regulars including always wear gloves and lab coat. 
 
 Before putting anything into the BSC, we need to spray them with 70% ethanol (this including our hands). If you remove your hand from the BSC, touch something else, spray 70% ethanol before putting it into the BSC. 
 
-**ITEMs for cell culture**
+**Common ITEMs for cell culture**
 
 There are some common items for cell culture. It is best to find out which one you need to use for your procedures. 
 
@@ -36,7 +34,7 @@ There are some common items for cell culture. It is best to find out which one y
    * Cell scraper
    * Others
 
-**REAGENTs for cell culture** 
+**Common REAGENTs for cell culture** 
 
 Common reagents we would be using for cell culture including: 
 
@@ -45,7 +43,7 @@ Common reagents we would be using for cell culture including:
 * Trypan blue
 * Phosphate buffer saline (PBS)
 
-**UV**
+**Preparation for cell culture work**
 
 Before we start a procedure, we should... 
 

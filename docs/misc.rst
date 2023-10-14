@@ -11,9 +11,11 @@ In our lab, we usually prepare autoclaved empty bottle of different volume. This
 
 **Milli-Q/distilled water in bottle**
 
-We also autoclave Milli-Q water of different volume in bottles and seal with parafilm for storage. This is in case we need to use the water for whatever purpose, such as preparing buffer. 
+We also autoclave Milli-Q water of different volume in bottles and seal with parafilm for storage. This is in case we need to use the water for whatever purpose, such as preparing buffer or refill the water in the CO2 incubator. 
 
-**Microcentrifuge (Eppendorf) tube**
+**Microcentrifuge tube/Eppendorf tube**
 
-We would fill an empty bottle with microcentrifuge tube, then autoclave the whole bottle. After drying the water in oven, we seal with parafilm for storage. For aseptic purpose, if we wanted to use the microcentrifuge tube, we would open the bottle in biosafety cabinet. We would seal the bottle with parafilm after use before storage. 
+We would fill an empty bottle with microcentrifuge tube, then autoclave the whole bottle. After drying the water in oven, we seal with parafilm and store on bench, mainly for cell culture use. For aseptic purpose, if we wanted to use the microcentrifuge tube, we would open the bottle in biosafety cabinet. We would seal the bottle with parafilm after use before storing. 
+
+There are also tight cap and loose cap microcentrifuge tube. 
 

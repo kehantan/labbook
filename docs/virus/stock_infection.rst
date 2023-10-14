@@ -3,11 +3,9 @@ Virus stock infection
 
 To propagate virus stock for virus related experiments. You can imagine this as a subculture procedure for virus.
 
-
 **Requires**
 
 * 2% DMEM
-
 
 **Procedure**
 
