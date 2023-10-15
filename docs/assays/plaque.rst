@@ -5,8 +5,8 @@ Plaque assay
 
 Plaque assay is used to quantify the virus titer in a virus sample. I seperate this protocol into different sections, each section indicates that after that procedure was completed, you need to wait until another day to proceed to the next section. 
 
-Section 1 - Cell seeding
-------------------------
+Section 1 - Trypsininse, cell count, seed cells
+-----------------------------------------------
 
 * Cells should be at least 90% confluency at the time of infection.
 * Amount of cells harvested from a T75 flask with 80% confluency should be sufficient to seed at least 2 6 well plate with 600,000 cells in each well for next day virus infection.   
@@ -24,10 +24,11 @@ Section 1 - Cell seeding
 **Procedure**
 
 #. Trypsinise the cells in culture flask. Refer to :ref:`trypsinise <My target>`.
+#. Count the cells. Refer to :ref:`cell count <cell count>`. 
 #. Check if there are enough cells for 6 well plate. Calculate the required amount of cell suspension to aspirate into each well.
 #. Dispense 1.5 mL of complete DMEM in each well of the 6 well plate. 
 #. Dispense required amount of cell suspension into each well. 
-#. Tilt the 6 well plate to distribute the cells evenly. 
+#. Tilt the 6 well plate back and forth and side to side to distribute the cells evenly across the base of the wells. 
 #. Incubate for 24 hrs or longer depending on the number of cells you seed.
 
 Section 2 - Infection
@@ -77,11 +78,15 @@ Before the actual infection procedure, we need to prepare a serial diultion from
 
     For this step we can still use serological pipette because the virus is not introduced to the wells yet. 
 
-#. Wash with PBS.
+#. Wash cells with PBS.
 
-    There are no fix amount use, just need to cover the cell layer. I usually use 300 uL. 
+    #. Dispense 300 uL of PBS into each well from the wall of each well. 
+
+        There are actually no fixed amount to use, just need to cover the cell layer. I usually use 300 uL. 
     
-    Dispense from the wall of each well to prevent detaching the cell layer due to pressure from micropipette. 
+        Dispense from the wall of each well to prevent detaching the cell layer due to pressure from micropipette. 
+
+    #. Tilt the plate side to side and back and forth for a few times to porperly wash the cells. 
 
 #. Add 300 uL of 2% DMEM in negative control well.
 #. Add 300 uL of diluted virus into corresponding well. 
