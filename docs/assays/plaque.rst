@@ -82,9 +82,9 @@ Before the actual infection procedure, we need to prepare a serial diultion from
 
     #. Dispense 300 uL of PBS into each well from the wall of each well. 
 
-        There are actually no fixed amount to use, just need to cover the cell layer. I usually use 300 uL. 
+            There are actually no fixed amount to use, just need to cover the cell layer. I usually use 300 uL. 
     
-        Dispense from the wall of each well to prevent detaching the cell layer due to pressure from micropipette. 
+            Dispense from the wall of each well to prevent detaching the cell layer due to pressure from micropipette. 
 
     #. Tilt the plate side to side and back and forth for a few times to porperly wash the cells. 
 
@@ -200,7 +200,7 @@ calculations
 
 The number we wanted to get here is plaque forming unit per mL (pfu/mL). Count the number of plaques in one of the wells you choosen , and put the number into the formula:
 
-:math:`\frac{\text{Number of plaques}}{\text{Dilution factor} \times \text{Volume of virus sample used}} = X pfu/mL`
+:math:`\frac{\text{Number of plaques}}{\text{Dilution factor} \times \text{Volume of virus sample used}} = \text{X pfu/mL}`
 
 :math:`\text{Number of plaques}` = The number of the plaques that you counted 
 

@@ -51,9 +51,9 @@ After the actual cell counting step in the procedure, double check if the cells 
 
 Now we would need to calculate how much media we need. The concept is similar to the previous step
 
-    :code:`Total media needed = 10 concentrations * 5 wells/concentration * 100 uL/well = 5,000 uL` 
+    :math:`\text{Total media needed} = 10 concentrations \times 5 wells/concentration \times 100 \mu\ L/well = 5,000 uL` 
 
-:code:`10 concentrations` were used in calculation instead of 8 just for some extra volume. 
+:math:`10 concentrations` were used in calculation instead of 8 just for some extra volume. 
 
 Section 1 - Trypsinise, cell count, seed cells
 ----------------------------------------------
