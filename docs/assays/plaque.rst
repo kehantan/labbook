@@ -80,13 +80,13 @@ Before the actual infection procedure, we need to prepare a serial diultion from
 
 #. Wash cells with PBS.
 
-    #. Dispense 300 uL of PBS into each well from the wall of each well. 
+   #. Dispense 300 uL of PBS into each well from the wall of each well. 
 
-            There are actually no fixed amount to use, just need to cover the cell layer. I usually use 300 uL. 
+        There are actually no fixed amount to use, just need to cover the cell layer. I usually use 300 uL. 
     
-            Dispense from the wall of each well to prevent detaching the cell layer due to pressure from micropipette. 
+        Dispense from the wall of each well to prevent detaching the cell layer due to pressure from micropipette. 
 
-    #. Tilt the plate side to side and back and forth for a few times to porperly wash the cells. 
+   #. Tilt the plate side to side and back and forth for a few times to porperly wash the cells. 
 
 #. Add 300 uL of 2% DMEM in negative control well.
 #. Add 300 uL of diluted virus into corresponding well. 
