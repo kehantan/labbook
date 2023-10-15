@@ -43,9 +43,9 @@ Before we actually start the procedure, it is best to count the theoretical numb
 
 Assume we want to test 8 different concentrations (including negative control) of our compound on the cells, then 
 
-    :code:`Total cells needed = 10 concentrations * 5 wells/concentration * 1,500 cells/well = 75,000 cells` 
+    :math:`\text{Total cells needed} = 10 concentrations \times 5 wells/concentration \times 1,500 cells/well = 75,000 cells` 
 
-You will notice that even we wanted to test 8 different concentration, the formula above state :code:`10 conecentrations`. This is due to slight deviations during pipetting and handling of liquids. If we prepare enough cell suspension for the exact number of concentrations we want, we might end up not having enough cells for the last few wells, so prepare a little bit extra amount. Usually adding 3 to 5 concentrations extra for some overhead is sufficient enough.
+You will notice that even we wanted to test 8 different concentration, the formula above state :math:`10 conecentrations` :code:`10 conecntrations`. This is due to slight deviations during pipetting and handling of liquids. If we prepare enough cell suspension for the exact number of concentrations we want, we might end up not having enough cells for the last few wells, so prepare a little bit extra amount. Usually adding 3 to 5 concentrations extra for some overhead is sufficient enough.
 
 After the actual cell counting step in the procedure, double check if the cells is sufficient for seeding. 
 
