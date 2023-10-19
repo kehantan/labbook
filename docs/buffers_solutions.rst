@@ -22,3 +22,5 @@ Recipes for various buffers and solutions.
    buffers_solutions/iptg
    buffers_solutions/pmsf
    buffers_solutions/triton
+   buffers_solutions/sds
+   buffers_solutions/aps
