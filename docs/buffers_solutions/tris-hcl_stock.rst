@@ -4,8 +4,7 @@ Tris-HCl stock solution
 * Tris-HCl stock solution, 1 M, pH 8.0
 * Tris-HCl MW: 157.6 g/mol 
 
-
-Requires
+**Requires**
 
 * Tris-HCl powder 
 * Distilled water/Milli-Q water
@@ -15,14 +14,13 @@ Requires
 * Magnetic stirrer
 * 1 M NaOH
 
-*Note:* After some trial and eror, it was found that it takes a large volume of 1 M NaOH to raise the pH to 7.5, 2 M is still reasonable. Can try 3 M NaOH next time.
-
+*Note:* After some trial and eror, it was found that it takes a large volume of 1 M NaOH to raise the pH to 7.5, 2 to 3 M is still reasonable. To be more efficien, can try 5 M NaOH next time.
 
 **Procedure**
 
 #. Dissolve 157.6 g of Tris-HCl powder in 500 to 700 mL of distilled water/Milli-Q water. 
 #. Stir with a magnetic stirrer until all Tris-HCl powder dissolved. 
-#. Adjust pH to 7.5 with 1 M NaOH.
+#. Adjust pH to 7.5 with NaOH.
 
     Or adjust to any other pH you need, e.g.: 8.0, 8.5, etc.
 
@@ -34,6 +32,7 @@ Requires
 
 #. Seal the bottle with parafilm and store in 4 :math:`^{\circ}`\ C. 
 
+**Note:**
 
 Vacuum filter is a faster way to sterilise the buffer. Based on google search, there are no problem autoclaving Tris-HCl solution.
 

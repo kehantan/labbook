@@ -3,9 +3,8 @@
 Complete DMEM (10%)
 ===================
 
-* Complete DMEM is used for most of the cell culture related stuff. 
+* Complete DMEM is used for most of the cell culture related stuff. The recipe can be modified according to needs. 
 * Need to be prepared in the biosafety cabinet.
-
 
 **Requires**
 
@@ -13,7 +12,6 @@ Complete DMEM (10%)
 * Pen-Strep
 * DMEM
 * Centrifuge tube (50 mL)
-
 
 **Procedure**
 

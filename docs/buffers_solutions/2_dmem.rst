@@ -6,14 +6,12 @@
 * 2% DMEM is used for cell culture related to virus. 
 * Need to be prepared in biosafety cabinet. 
 
-
 **Requires**
 
 * FBS
 * Pen-Strep
 * :ref:`DMEM <dmem>`
 * Centrifuge tube (50 mL)
-
 
 **Procedures**
 

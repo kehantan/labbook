@@ -8,15 +8,15 @@ This protocol uses the cell line that I worked with -- VERO cells as an example.
 
 There are some parameters that you will need to find out before carrying out MTT assay. Some common questions you will immediately bump into when you first trying to do MTT assay including:
 
-#. How many cells to seed?
+#. *How many cells to seed?*
 
     This is a question very difficult to answer. The best approach is to refer to the research articles related to the cell lines you are working with to get an idea on how many cells you should seed. If you cannot get the information you can do some optimisation yourself by trying out any range between 1000 to 5000 cells/well. Some general rule is that your negative control (untreated cells) well's absorbance should not be too high (exceeds 1.0) at the day of reading the plate. 
 
-#. How many different concentrations you wanted to test with your compound? 
+#. *How many different concentrations you wanted to test with your compound?*
 
-    Again, refer to literature for this part. If there are no information available, some optimisation would need to be made. If you have no idea what concentration you wanted to use, you can try out by using a larger range of concentrations first. I typically start with 200 ug/ml of concentration and half it for each dilution step (200 ug/mL, 100 ug/mL, 50 ug/mL). My rationale is that it is easier to find your compound's effective concentration by screening it with a larger range. If you screen your compound at a narrow range like 20 ug/mL, 40 ug/mL, 60 ug/mL, you might need to do more plates to find out the effective concentrations. 
+    Again, refer to literature for this part. If there are no information available, some optimisation would need to be made. If you have no idea what concentration you wanted to use, you can try out by using a larger range of concentrations first. I typically start with 200 ug/ml of concentration and half it for each dilution step (200 ug/mL, 100 ug/mL, 50 ug/mL). My rationale is that it is easier to find your compound's effective concentration by screening it with a larger range. If you screen your compound at a narrow range like 20 ug/mL, 40 ug/mL, 60 ug/mL, you might need to do more assays to find out the effective concentrations. So start from wider range, then narrow down if necessary. 
 
-#. How long I should incubate? How much reagent I should use? 
+#. *How long I should incubate? How much reagent I should use?*
 
     Again, refer to literature whenever you can. I cannot list everything here because these parameters is some what related to the cell lines you are dealing with. For most part, the parameters should be transferrable from one cell line to another. Fortunately, there are a lot of resources you can refer online, or you can simply ask around other lab members. 
 
@@ -24,7 +24,7 @@ The whole MTT assay is a long procedure that can takes up multiple day. It takes
 
     * 1 day for trypsinise, cell count, and seeding
     * 1 day for treatment (treat the cells with compound)
-    * 1 day for actual MTT and to read the absorbance
+    * 1 day for actually adding the MTT reagent and to read the absorbance
 
 I divided this protocol into sections, so each sections indicates that procedure requires one day. It doesn't mean that particular procedure will take up the whole day, it's just after that procedure, you will have to wait another day to proceed to the next section. You can plan your experiments accordingly. 
 
@@ -58,7 +58,8 @@ Now we would need to calculate how much media we need. The concept is similar to
 Section 1 - Trypsinise, cell count, seed cells
 ----------------------------------------------
 
-**Trypsinise**
+Trypsinise
+~~~~~~~~~~
 
 **Requires**
 
@@ -71,7 +72,8 @@ Assume cells were cultured in a T25 flask to 70% to 90% confluency.
 
 First step is to detach the cells from the culture flask. Refer to :ref:`trypsinise <My target>`. 
 
-**Cell counting**
+Cell counting
+~~~~~~~~~~~~~
 
 **Requires**
 
@@ -88,7 +90,8 @@ We need to know the number of cells since we want to seed a specific number of c
 
 After counting the cells, we should get value of :code:`X cells/mL`. Compare the counted cell number before we begin the experiment and the calculated cells number. We should have sufficient cells for seeding. 
 
-**Cell seeding**
+Cell seeding
+~~~~~~~~~~~~
 
 We now need to seed specific number of cells into each well.
 
@@ -164,16 +167,18 @@ Prepare the compounds with different concentrations before removing media from t
 #. Remove media from 96 well plate with multichannel micropipette. 
 #. Dispense 100 uL of fresh complete DMEM in negative control wells. 
 #. Dispense 100 uL of compound diluted in complete DMEM into respective wells. 
-#. Incubate for 48 hrs. 
+#. Incubate. 37 :math:`^{\circ}`\ C.
+
+    Incubate for how long depends on your study. You can optimise by doing different timepoint, e.g.: 12, 24, 36, 48 hrs and compare the results.     
 
 Section 3 - MTT, read absorbance
 --------------------------------
 
-**Add MTT**
+Add MTT
+~~~~~~~
 
-This is the step where the actual MTT was added. 
-
-This procedure can be carried out either in the biosafety cabinet or at bench. 
+* This is the step where the actual MTT was added. 
+* This procedure can be carried out either in the biosafety cabinet or at bench. 
 
 **Requires**
 
@@ -190,7 +195,7 @@ This procedure can be carried out either in the biosafety cabinet or at bench.
 
 #. Incubate. 37 :math:`^{\circ}`\ C, 5% CO2, 3 hrs.
 
-    There are no strict rules for how long the incubation period should be. You can try to optimise, or reduce the incubation time if you find 3 hrs is too long. 
+    There are no strict rules for how long the incubation period should be. You can try to optimise. For my experiment, I use 3 hrs. Reduce the incubation time if you find 3 hrs is too long. 
 
 #. After 3 hrs, remove the 96 well plate from incubator.
 
@@ -204,9 +209,10 @@ This procedure can be carried out either in the biosafety cabinet or at bench.
 
 #. Read absorbance after shaking for 1 hr. 
 
-**Read absorbance**
+Read absorbance
+~~~~~~~~~~~~~~~
 
-Read the absorbance with plate reader. 
+Read the absorbance with a plate reader. 
 
 **Requires**
 
@@ -216,6 +222,11 @@ Read the absorbance with plate reader.
 
 #. Read plate at 570 nm. 
 
+Clean up
+--------
+
+* After reading the absorbance, the plate can be disposed into the yellow bin. 
+
 **Note**
 
-MTT assay is a very commonly used assay, you can find a lot of articles that optimised MTT assays for different purposes. You can refer to other sources for different parameters like: the amount of different reagent being used, the time of incubation, etc. You don't have to strictly follow the parameters in this protocol. The parameters used in this protocol are the ones that is good enough for our lab use. 
+MTT assay is a very commonly used assay, you can find a lot of articles that optimised MTT assays for different purposes. You can refer to other sources for different parameters like: the amount of different reagent being used, the time of incubation, etc. You don't have to strictly follow the parameters in this protocol. The parameters used in this protocol are the ones that is good enough for my experiments in this lab. 

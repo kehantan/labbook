@@ -7,7 +7,6 @@ Trypan blue
 * Trypan blue can be stored at bench for future use. 
 * It is not necessary to aliquote trypan blue in biosafety cabinet. 
 
-
 **Requires**
 
 * Trypan blue solution

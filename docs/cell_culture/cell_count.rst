@@ -1,5 +1,6 @@
 .. _cell count:
 
+
 Cell count
 ==========
 
@@ -34,14 +35,15 @@ The formula for calculating number of cells in 1 mL of cell suspension
 
 :math:`\frac{\text{sum of cells from 4 quadrant} \times 10^4 \times 2}{4} =` :code:`X cells/mL`
 
-After counting the cells, we should get value of :code:`X cells/mL`. Compare the counted cell number before we begin the experiment and the calculated cells number. We should have sufficient cells for seeding. 
+After counting the cells, we should get value of :code:`X cells/mL`. Compare the number of cells required you calculated before you begin the experiment and the number of cells you just calculated. You should have sufficient cells for seeding. 
 
+In case there are not sufficient cells for all your experiments, you might want to consider lower the number of cells to seed, or reduce the number of plates you wanted to seed. 
 
-*Note:* 
+**Note:**
 
 At the end of :ref:`trypsinise <My target>` section, the protocol shows resuspend the cell pellet in 1 mL of fresh complete DMEM. There are several modifications you can do. Assume you wanted to proceed to cell counting: 
 
-  For T25 that has cell confluency of 90% or above, or T75 that has cell confluency of 70% or above, you can add more fresh complete DMEM, to a cell suspension volume of 2 mL or 3 mL. The purpose is to make the cell counting easier, so you don't have to count large number of cells under microscope, which may strain your eyes. 
+  For T25 that has cell confluency of 90% or above, or T75 that has cell confluency of 70% or above, you can add more fresh complete DMEM, to a cell suspension volume of 2 mL or 3 mL. The main purpose is to make the cell counting easier, so you don't have to count large number of cells under microscope, which may strain your eyes. 
 
   For T25 with cell confluency of 90% or above, I would recommend to add complete DMEM until the cell suspension is 2 mL. 
   

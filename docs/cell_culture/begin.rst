@@ -45,20 +45,20 @@ Common reagents we would be using for cell culture including:
 
 **Preparation for cell culture work**
 
-Before we start a procedure, we should... 
+Before we start a procedure, I would recommend... 
 
-#. Gather all the items and reagents you need into the basket in the lab 
-#. Carry them to the cell culture room
+#. Gather all the items and reagents you need into the basket available in the lab.
+#. Carry them to the cell culture room.
 #. Lift the window of the BSC to the sash level. Do not lift the window higher than the sash level. 
 #. Spray the wall and surface in the BSC with 70% ethanol. 
 #. Place the items you need for your procedures in the BSC 
 
-    Remember to spray all the items with 70% ethanol before putting them into the BSC
+    Remember to spray all the items with 70% ethanol before putting them into the BSC.
 
-#. Close the BSC window
-#. Turn on the UV to sanitise the items 
+#. Close the BSC window.
+#. Turn on the UV to sanitise the items.
 
-    Turn on UV for about 15-30 mins. You can reduce the time if you don't want to wait for that long. 
+    Turn on UV for about 30 mins. You can reduce the time if you don't want to wait for that long. 
 
 You do not need to UV the reagents, instead pre-warm these reagents in 37 :math:`^{\circ}`\ C water bath before cell culture. Usually it takes 5 to 10 mins to completely warm the reagents. 
 
@@ -82,4 +82,4 @@ You might run into certain circumstances where...
 
     You can adapt them as you see fit. 
 
-*REMEMBER*: This is a general practice/rules/guidelines/protocols that we use in our lab. The goal is to reduce the chances of contamination as much as possible. No one will punish you for not following these practice. However, you are advised to adhere to these practice WHENEVER POSSIBLE. Whatever you do in the lab, use your own judgement, common sense, and logic. If unsure, can always discuss with lab mates or supervisors. 
+*REMEMBER*: This is a general practice/rules/guidelines/protocols that we use in our lab. The goal is to reduce the chances of contamination as much as possible. No one will punish you for not following these practices. However, you are advised to adhere to these practice WHENEVER POSSIBLE. Whatever you do in the lab, use your own judgement, common sense, and logic. If unsure, don't hesitate to discuss with lab mates or supervisors. 

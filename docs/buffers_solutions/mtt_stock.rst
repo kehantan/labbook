@@ -9,26 +9,27 @@ MTT working solution
 * We usually prepare 10 mL of MTT working solution in 15 mL centrifuge tube and store in freezer (-20 :math:`^{\circ}`\ C).
 * MTT solution is sensitive to light. So we need to wrap the prepared solution in aluminium foil before storing in freezer. 
 
-
 **Requires**
 
 * MTT powder 
+
+    MTT powder can be found in fridge (4 :math:`^{\circ}`\ C)
+
 * Distilled water 
 * Centrifuge tube (15 mL)
 * Syringe
 * Syringe filter (0.22 um)
 * Aluminium foil
 
-
 **Procedure**
 
 #. Weight 0.05 g (50 mg) of MTT powder and transfer into a 15 mL centrifuge tube. 
 #. Add 10 mL of distilled water in to the centrifuge tube. 
-#. Shake or vortex until dissolve. 
+#. Vortex the solution until MTT is completely dissolve. 
+
+    Dissolve as much MTT powder as possible. Usually the powder would not dissolve completely, leaving behind some small chunks of solids. This is ok, we can filter it out in the next step. 
+
 #. Filter with syringe filter. 
-
-    Usually the powder would not dissolve completely, leaving behind some small chunks of solids. 
-
 #. Wrap the centrifuge tube with aluminium foil. 
 #. Label the centrifuge tube. 
 

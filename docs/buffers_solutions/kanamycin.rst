@@ -4,14 +4,12 @@ Kanamycin stock solution
 * Kanamycin stock, 300 mg/mL, 10 mL 
 * Kanamycin molar mass = 484.499 g/mol 
 
-
-Requires 
+**Requires**
 
 * 15 ml centrifuge tube 
 * Distilled water/Milli-Q water 
 * 0.22 um filter
 * Syringe
-
 
 **Procedure**
 
