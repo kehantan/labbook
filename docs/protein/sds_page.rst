@@ -124,7 +124,7 @@ Assemble setup
 * Dummy plate
 * Buffer tank
 * Clamp 
-* Running buffer
+* :ref:`Running buffer <running buffer>`
 
 **Procedure**
 
@@ -216,7 +216,20 @@ Staining
 
     Depends on the concentration of the stain and amount of protein present in the sample for SDS-PAGE. It might take 30 mins to several hours
 
-#. Check the results
+
+Destaining
+----------
+
+**Requires**
+
+* Kim wipes 
+* Distilled water 
+
+**Procedure**
+
+#. Fill the plastic container with distilled water 
+#. Put Kim wipes at the side of the container
+#. Place the plastic container on the rocker. 
 
 Clean up
 --------
