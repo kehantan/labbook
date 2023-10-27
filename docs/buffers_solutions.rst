@@ -24,3 +24,5 @@ Recipes for various buffers and solutions.
    buffers_solutions/triton
    buffers_solutions/sds
    buffers_solutions/aps
+   buffers_solutions/running_buffer
+   buffers_solutions/fixing_solution

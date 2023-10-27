@@ -1,7 +1,7 @@
 SDS-PAGE
 ========
 
-* 2 stages: casting gel, and running gel
+* A single run of SDS-PAGE will usually eats up a whole day. This does not include time required to prepare all the buffers and gathering all required reagent. So plan the experiment accordingly and prepare the buffers at least 1 day before the actual procedure. 
 
 Prepare gel 
 -----------
@@ -25,10 +25,10 @@ Prepare gel
 #. Prepare 2 small beaker for resolving gel and stacking gel. Prepare 1 larger beaker for distilled water. 
 #. Prepare the resolving and stacking gel solution according to the table, but leave out TEMED.
 
-    The sequence is to cast resolving gel first then only cast stacking gel. Can prepare the resolving gel first, then prepare stacking gel. Not necessary to prepare both together. 
+    The sequence is to cast resolving gel first then only cast stacking gel. Can prepare the resolving gel first, then prepare stacking gel. You can prepare and cast the resolving gel first, then prepare the stacking gel while waiting for the resolving gel to solidify. 
 
-Casting gel
------------
+Cast gel
+--------
 
 **Requires**
 
@@ -86,7 +86,7 @@ Casting stacking gel
 #. Fill the stacking gel to the top of the glass sandwich. 
 #. Place the comb into the stacking gel. 
 #. Let it sit for about 30 mins. The stacking gel should solidifies after 30 mins. 
-#. After 30 mins, slowly remove the comb. The gel should be ready to be loaded with samples. 
+#. After 30 mins, slowly remove the comb. The gel should be ready to assemble and load with samples. 
 
 Prepare sample
 --------------
@@ -115,6 +115,28 @@ Prepare sample
 #. Set the thermal cycler. 95 :math:`^{\circ}`\ C, 5 mins. 
 #. Run the thermal cycler.
 
+Assemble setup
+--------------
+
+**Requires**
+
+* Casted gel
+* Dummy plate
+* Buffer tank
+* Clamp 
+* Running buffer
+
+**Procedure**
+
+#. Remove the casting frame that contains the casted gel from the casting stand. 
+#. Release the clamp of casting frame and remove the glass plates from the casting frame. 
+#. Place the glass plates into one side of the cassette. Place dummy plates on the other side of the cassette. 
+#. Secure the glass plates and the dummy plate with the clamps on both sides. 
+#. Insert the clamps into the buffer tank
+#. Fill the inner compartment (between glass plates and dummy plate) with running buffer until the brim. Fill the buffer tank (outside of the cassette) with running buffer until the marker on the buffer tank. 
+
+    The marker on the buffer tank shows the buffer level for at least 2 plates. I usually just fill up to the '2 gel' marker even I am only running 1 gel
+
 Sample loading
 --------------
 
@@ -138,7 +160,7 @@ Running gel
 **Requires**
 
 * Buffer tank
-* Running buffer
+* :ref:`Running buffer <running buffer>`
 * Electrodes
 * Power supply unit 
 
@@ -161,6 +183,20 @@ Running gel
 #. Observe the progress of the eletrophoresis every 15 mins to make sure not to overrun. 
 
     Stop the electrophoresis when the ladder reaches about 1 cm from the bottom of the gel. 
+
+Fixing
+------
+
+* Before staining, we fix the gel
+
+**Requires**
+
+* Fixing solution 
+
+
+**Procedure**
+
+
 
 Staining
 --------
@@ -188,3 +224,4 @@ Clean up
 * The remaining gel solution in the small beaker from resolving gel and stacking gel would solidify over time. When this happens, break the gel (with any stuff you could find, like pipette tips or spatula) then dispose in the yellow bin. **DO NOT** throw in the sink. 
 * Buffers can be flush down the sink. 
 * wash all apparatus and leave it to dry at the rack beside the sink.
+* Distilled water stained with Coomasie blue can be discard into the sink. 
