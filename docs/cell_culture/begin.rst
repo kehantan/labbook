@@ -86,4 +86,6 @@ You might run into certain circumstances where...
 
 :footcite:p:`phelan2007techniques`.
 
+cite p :cite:p:`phelan2007techniques`
+
 .. footbibliography::
