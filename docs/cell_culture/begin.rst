@@ -3,6 +3,8 @@ Before we begin cell culture
 
 **Some ground rules**
 
+:footcite:p:`phelan2007techniques`
+
 Maintain good aseptic technique is important throughout the whole process of cell culture. 
 
 The biosafety cabinet (BSC) is our main working bench for cell culture work. To reduce possibilities of contamination, adhere to aseptic techniques as much as possible. The regulars including always wear gloves and lab coat. 
@@ -83,8 +85,6 @@ You might run into certain circumstances where...
     You can adapt them as you see fit. 
 
 *REMEMBER*: This is a general practice/rules/guidelines/protocols that we use in our lab. The goal is to reduce the chances of contamination as much as possible. No one will punish you for not following these practices. However, you are advised to adhere to these practice WHENEVER POSSIBLE. Whatever you do in the lab, use your own judgement, common sense, and logic. If unsure, don't hesitate to discuss with lab mates or supervisors. 
-
-:footcite:p:`phelan2007techniques`.
 
 cite p :cite:p:`phelan2007techniques`
 
