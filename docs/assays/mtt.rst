@@ -1,7 +1,7 @@
 MTT assay
 =========
 
-:cite:`phelan2007techniques`
+
 
 Preface 
 -------
@@ -233,4 +233,3 @@ Clean up
 
 MTT assay is a very commonly used assay, you can find a lot of articles that optimised MTT assays for different purposes. You can refer to other sources for different parameters like: the amount of different reagent being used, the time of incubation, etc. You don't have to strictly follow the parameters in this protocol. The parameters used in this protocol are the ones that is good enough for my experiments in this lab. 
 
-.. bibliography:: bibliography.bib
