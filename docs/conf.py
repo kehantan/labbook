@@ -29,9 +29,7 @@ import os
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-    "sphinxcontrib-bibtex",
-    "sphinx.ext.todo",
-    "sphinx_rtd_theme",
+    'sphinxcontrib.bibtex'
 ]
 
 bibtex_bibfiles = ['refs.bib']
