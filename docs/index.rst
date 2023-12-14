@@ -18,3 +18,4 @@ Contents
    serial_dilution
    misc
    where_to
+   bib
