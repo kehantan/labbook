@@ -83,3 +83,7 @@ You might run into certain circumstances where...
     You can adapt them as you see fit. 
 
 *REMEMBER*: This is a general practice/rules/guidelines/protocols that we use in our lab. The goal is to reduce the chances of contamination as much as possible. No one will punish you for not following these practices. However, you are advised to adhere to these practice WHENEVER POSSIBLE. Whatever you do in the lab, use your own judgement, common sense, and logic. If unsure, don't hesitate to discuss with lab mates or supervisors. 
+
+:cite:p:`phelan2007techniques`.
+
+.. bibliography::
