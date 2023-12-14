@@ -18,4 +18,8 @@ Contents
    serial_dilution
    misc
    where_to
-   bib
+
+.. toctree:: 
+   :maxdepth: 1
+   
+   biblio
