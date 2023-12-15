@@ -1,8 +1,6 @@
 MTT assay
 =========
 
-
-
 Preface 
 -------
 
@@ -41,11 +39,11 @@ The steps for one round of MTT assay including:
 
 **Calculate how many cells and media we need**
 
-Before we actually start the procedure, it is best to count the theoretical number of cells required before we start seeding. Our final goal is to have 100 uL of mixture that contains 10% DMEM + 1,500 cells in each well.
+Before we actually start the procedure, it is best to count the theoretical number of cells required before we start seeding. Our final goal is to have 100 uL of mixture that contains 10% DMEM + 5,000 cells in each well.
 
 Assume we want to test 8 different concentrations (including negative control) of our compound on the cells, then 
 
-    :math:`\text{Total cells needed} = 10 concentrations \times 5 wells/concentration \times 1,500 cells/well = 75,000 cells` 
+    :math:`\text{Total cells needed} = 10 concentrations \times 5 wells/concentration \times 5,000 cells/well = 250,000 cells` 
 
 You will notice that even we wanted to test 8 different concentration, the formula above state :math:`10 conecentrations` :code:`10 conecntrations`. This is due to slight deviations during pipetting and handling of liquids. If we prepare enough cell suspension for the exact number of concentrations we want, we might end up not having enough cells for the last few wells, so prepare a little bit extra amount. Usually adding 3 to 5 concentrations extra for some overhead is sufficient enough.
 
@@ -97,7 +95,7 @@ Cell seeding
 
 We now need to seed specific number of cells into each well.
 
-The final outcome we want = 100 uL of mixture of complete DMEM + 1,500 cells in each well
+The final outcome we want = 100 uL of mixture of complete DMEM + 5,000 cells in each well
 
 We know how much cells we have, we now need to know how much cells we need to take and dilute in complete DMEM to make the final mixture we want. What we should do now:
 
@@ -108,13 +106,13 @@ To calculate the volume of cell suspension we need to aspirate,
 
     Assume we have: :code:`150*10^4 cells/mL`
     
-    But we only need: :code:`75,000 cells` <-- Remember we calculate this value before we begin the procedure 
+    But we only need: :code:`250,000 cells` <-- Remember we calculate this value before we begin the procedure 
     
-    So we first convert the :code:`75,000 cells` to the :code:`10^4` 'format', which is :code:`7.5x10^4`
+    So we first convert the :code:`250,000 cells` to the :code:`10^4` 'format', which is :code:`25x10^4`
 
-    Then, :code:`5.25/150` to know how much volume (in mL) of cell suspension we need to aspirate from the cell suspension in 15 mL centrifuge tube. 
+    Then, :code:`25/150` to know how much volume (in mL) of cell suspension we need to aspirate from the cell suspension in 15 mL centrifuge tube. 
     
-    In this case, :code:`0.035 mL`. Convert to uL, then the volume we should take is :code:`35 uL`
+    In this case, :code:`0.17 mL`. Convert to uL, then the volume we should take is :code:`170 uL`
 
 To calculate how much media we need, 
 

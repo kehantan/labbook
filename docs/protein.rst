@@ -19,3 +19,4 @@ Protein quantification
    :maxdepth: 1
 
    protein/bca
+   protein/bradford

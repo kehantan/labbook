@@ -60,4 +60,4 @@ Usually we dispense 50 uL of sample + 50 uL of reagent = 100 uL into each well.
 #. Incubate for 1 hr at 37 :math:`^{\circ} C`.
 #. Read absorbance at 562 nm. 
 
-*Note: Remember not to have liquids on the lid, or just take off lid when reading. Liquid on lid can lead to slight deviations.*
+*Note:* Remember not to have liquids on the lid, or just take off lid when reading. Liquid on lid can lead to slight deviations.

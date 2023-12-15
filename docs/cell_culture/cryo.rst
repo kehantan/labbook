@@ -12,7 +12,7 @@ This protocol in our lab uses 500 uL of cell suspension for each cryopreservatio
 **Procedure**
 
 #. Trypsinise the cells from culture flask. Refer to :ref:`trypsinise <My target>`.
-#. In each cryopreservation tube, prepare the freezing media:
+#. In each cryopreservation tube, prepare the freezing media/cryo media:
 
    * 450 uL complete DMEM
    * 50 uL DMSO
@@ -21,7 +21,7 @@ This protocol in our lab uses 500 uL of cell suspension for each cryopreservatio
 
 #. Insert 500 uL of cell suspension into cryopreservation tube. 
 #. Place cryopreservation tube in Mr. Frosty. 
-#. Store in -80 :math:`^{\circ} C` overnight.
+#. Store Mr. Frosty in -80 :math:`^{\circ} C` overnight.
 #. Transfer cryopreservation tube from -80 :math:`^{\circ} C` to liquid nitrogen tank. 
 
 *Note:* Cells can be stored for short term in -80 :math:`^{\circ} C`, but for long term storage, it is better to store in gas phase of liquid nitrogen.*

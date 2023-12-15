@@ -7,6 +7,7 @@ We usually change media when:
 * When media turned yellow, but we don't want to subculture the flask yet 
 
 **Procedure**
+
 #. Remove existing media from culture flask. 
 #. Put in fresh media. 
 #. Incubate. 

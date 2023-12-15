@@ -15,7 +15,7 @@ The number of cells to seed depends on several factors:
 
 For MTT assay:
 
-* Experiment on next day - 1,500 cells/well 
+* Experiment on next day - 5,000 cells/well 
 
 For plaque assay on a 6 well plate: 
 
@@ -24,4 +24,4 @@ For plaque assay on a 6 well plate:
 
 For plaque assay on a 12 well plate:
 
-* Experiment on next day - 300,000 cells/well 
+* Experiment on next day - 200,000 cells/well 

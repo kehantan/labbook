@@ -24,6 +24,8 @@ Assume the culture is in a T25 culture flask.
     
     Be careful when aliquote to not disturb the sediments. 
 
+    *Note:* 500 uL for each microcentrifuge tube is the initial protocol. I think aliquote it in an even smaller volume like 250 uL makes more sense in terms of reducing the virus wasted. 
+
 #. Seal the microcentrifuge tube with parafilm. 
 #. Snap freeze the microcentrifuge tube by submerge into liquid nitrogen for about a minute. 
 #. Store the snap frozen microcentrifuge tube in -80 C. 

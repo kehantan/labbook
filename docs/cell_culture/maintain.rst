@@ -1,7 +1,7 @@
 Standard passaging (subculture) 
 ===============================
 
-Vero cells. Adherent cells. Not immortalised. 
+This protocol uses Vero cells as an example, which is an adherent cells. Protocol for maintenance of Vero cells can be found from literature :footcite:t:`ammerman2008growth`. The general protocol for cell culture can be found in :footcite:t:`phelan2007techniques`. 
 
 * Maintained at P20-P30
 * 37 :math:`^{\circ}`\ C
@@ -101,3 +101,8 @@ T75, to 80% confluency in...
 * Next day = 1,000,000 cells 
 * 3 days = 500,000 cells
 * Next week = 50,000 cells 
+
+
+**Refrences**
+
+.. footbibliography:: 

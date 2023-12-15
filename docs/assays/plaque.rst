@@ -14,7 +14,7 @@ Section 1 - Trypsininse, cell count, seed cells
 
     * Seed 6 well plate with 600,000 cells per well for next day infection 
     * Seed 6 well plate with 400,000 cells per well for infection after 2 days 
-    * Seed 12 well plate with 300,000 cells per well for next day infection
+    * Seed 12 well plate with 200,000 cells per well for next day infection
 
 **Requires**
 
@@ -66,6 +66,8 @@ Before the actual infection procedure, we need to prepare a serial diultion from
     #. Transfer 50 uL of diluted virus from first tube to second tube (:math:`10^{-2}`). 
     #. Mix well by either pipette repeatedly or using a vortex.
     #. Repeat the process for each tube until the last tube.
+
+*Note:* Assuming infecting Vero cells in 6 well plate, which uses 300 uL of virus containing media, so prepare 500 uL of virus containing media makes sense. If infecting Vero cells in 12 well plate, which would use 100 uL of virus containing media, reduce the volume to 250 uL makes more sense.  
 
 Infection
 ~~~~~~~~~
