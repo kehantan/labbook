@@ -67,7 +67,7 @@ Before the actual infection procedure, we need to prepare a serial diultion from
     #. Mix well by either pipette repeatedly or using a vortex.
     #. Repeat the process for each tube until the last tube.
 
-*Note:* Assuming infecting Vero cells in 6 well plate, which uses 300 uL of virus containing media, so prepare 500 uL of virus containing media makes sense. If infecting Vero cells in 12 well plate, which would use 100 uL of virus containing media, reduce the volume to 250 uL makes more sense.  
+*Note:* Assuming infecting Vero cells in 6 well plate, which uses 300 uL of virus containing media, so prepare 500 uL of virus containing media makes sense. If infecting Vero cells in 12 well plate, which would use only 100 uL of virus containing media, reduce the volume to 250 uL makes more sense. 25 uL virus + 225 uL 2% DMEM. 
 
 Infection
 ~~~~~~~~~
@@ -110,6 +110,8 @@ Agarose overlay
 #. In a 15 ml centrifuge tube, add 9 mL of 2% DMEM and 1 mL of agarose. 
 
     Mix the agarose and 2% DMEM by repeating pipette. You can also invert the tube few times to mix the agarose and media. 
+
+    *Note:* 10 mL of agarose is sufficient for a 6 well plate, where each well have 1.5 mL of agarose + 2% DMEM mixture. For 12 well plate, use 1 mL of agarose + 2% DMEM mixture for each well, so have to prepare 13 mL of agarose + 2% DMEM mixture: 1.3 mL agarose + 11.7 mL 2% DMEM.  
 
 #. Remove existing media from the 6 well plate. 
 
@@ -180,11 +182,6 @@ We use crystal violet to stain the cells that are attached to the 6 well plate. 
 
 #. Decant excess water from 6 well plate by slightly tapping the plate facing downwards against a paper towel. 
 #. Leave the plate on bench to air dry. 
-
-This protocol shows how to work with 6 well plate. If you want to do plaque assay in a 12 well plate, there are slight changes need to be made. 
-
-* Cell seeding - 300,000 cells per well for next day infection 
-* Use 1 mL of media instead of 1.5 mL
 
 Clean up
 --------
