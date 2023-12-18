@@ -25,3 +25,5 @@ For plaque assay on a 6 well plate:
 For plaque assay on a 12 well plate:
 
 * Experiment on next day - 200,000 cells/well 
+
+The number of cells to seed really depending on the types of cells you are working with because different cells have different growth rate. For example, cancer cell lines usually have faster growth rate compared to normal cell lines. I would suggest you to do a growth curve to determine the growth rate of the cells so you can get a good idea of how many cells you have to seed. 

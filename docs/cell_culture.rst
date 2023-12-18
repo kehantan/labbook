@@ -12,9 +12,9 @@ Refer `here <https://www.healthcare.nikon.com/en/ss/cell-image-lab/knowledge/pro
    cell_culture/cell_culture_waste
    cell_culture/thaw
    cell_culture/change_media
-   cell_culture/cryo
    cell_culture/trypsinise
    cell_culture/cell_count
    cell_culture/cell_seed
    cell_culture/maintain
+   cell_culture/cryo
    cell_culture/ln2   

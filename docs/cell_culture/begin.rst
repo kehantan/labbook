@@ -3,13 +3,11 @@ Before we begin cell culture
 
 **Some ground rules**
 
-:footcite:p:`phelan2007techniques`
-
 Maintain good aseptic technique is important throughout the whole process of cell culture. 
 
 The biosafety cabinet (BSC) is our main working bench for cell culture work. To reduce possibilities of contamination, adhere to aseptic techniques as much as possible. The regulars including always wear gloves and lab coat. 
 
-Before putting anything into the BSC, we need to spray them with 70% ethanol (this including our hands). If you remove your hand from the BSC, touch something else, spray 70% ethanol before putting it into the BSC. 
+Before putting anything into the BSC, we need to spray them with 70% ethanol (including our hands). If you remove your gloved hands from the BSC, touch something else outside the BSC, spray 70% ethanol on your gloved hands before putting it back into the BSC. 
 
 **Common ITEMs for cell culture**
 
@@ -47,16 +45,13 @@ Common reagents we would be using for cell culture including:
 
 **Preparation for cell culture work**
 
-Before we start a procedure, I would recommend... 
+Before we start the actual cell culture procedure, you will need to do some preparations
 
 #. Gather all the items and reagents you need into the basket available in the lab.
 #. Carry them to the cell culture room.
-#. Lift the window of the BSC to the sash level. Do not lift the window higher than the sash level. 
+#. Lift the window of the BSC to the sash level. Do not lift the window higher than the indicated sash level. 
 #. Spray the wall and surface in the BSC with 70% ethanol. 
-#. Place the items you need for your procedures in the BSC 
-
-    Remember to spray all the items with 70% ethanol before putting them into the BSC.
-
+#. Place the items you need for your procedures in the BSC. Remember to spray all the items with 70% ethanol before putting them into the BSC.
 #. Close the BSC window.
 #. Turn on the UV to sanitise the items.
 
@@ -66,26 +61,20 @@ You do not need to UV the reagents, instead pre-warm these reagents in 37 :math:
 
 PBS and trypan blue (for cell counting) do not need to be pre-warmed since we store PBS and trypan blue at bench/room temperature. 
 
-We would place the reagents into the BSC only after UV was done. Remember to keep good aseptic techniques, spray 70% ethanol on the reagent bottles/containers before placing them into the BSC. 
+We would place the reagents into the BSC only after UV was done. Again, remember to keep good aseptic techniques, spray 70% ethanol on the reagent bottles/containers before placing them into the BSC. 
 
 **Note**
 
-You might run into certain circumstances where...
+You might run into certain circumstances where
 
 * You forget to UV some items 
 
-    You can just spray them with 70% ethanol then putting them into the BSC, without UV beforehand 
+    You can just spray them with 70% ethanol then putting them into the BSC, without UV, but it is best to avoid such practice.  
 
 * You took out your hand from the BSC for 2 seconds, do you need to spray with ethanol before putting it back into the BSC?
 
     As a general rule, I would advice to spray with ethanol, but its not the end of the world if you find it to tedious to do so. 
 
-* You might have seen different approach of aseptic tecniques from different soures like the internet, forum, or you might learn the aseptic techniques from somewhere else. 
+* You might have seen different approach of aseptic tecniques from different soures like the internet, forum, or you might learn the aseptic techniques from somewhere else. You can adapt them as you see fit. 
 
-    You can adapt them as you see fit. 
-
-*REMEMBER*: This is a general practice/rules/guidelines/protocols that we use in our lab. The goal is to reduce the chances of contamination as much as possible. No one will punish you for not following these practices. However, you are advised to adhere to these practice WHENEVER POSSIBLE. Whatever you do in the lab, use your own judgement, common sense, and logic. If unsure, don't hesitate to discuss with lab mates or supervisors. 
-
-cite p :cite:p:`phelan2007techniques`
-
-.. footbibliography::
+*REMEMBER*: This is a general practice/rules/guidelines/protocols that we use in our lab. The goal is to reduce the chances of contamination as much as possible. No one will punish you for not following these practices. However, you are advised to adhere to these practice **WHENEVER POSSIBLE**. Whatever you do in the lab, use your own judgement, common sense, and logic. If unsure, don't hesitate to discuss with lab mates or supervisors. 

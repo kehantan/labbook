@@ -4,7 +4,7 @@
 Cell count
 ==========
 
-Cell counting is to get an estimation of how many cells we had collected from a culture flask, so we can know if we have enough cells for our experiments. 
+Cell counting is to get an estimation of how many cells we had collected from a culture flask, so we can know if we have enough cells for our experiments, or count how many cells we need to put into each well in our well plates. 
 
 **Requires**
 
@@ -51,4 +51,4 @@ At the end of :ref:`trypsinise <My target>` section, the protocol shows resuspen
 
 For these cases, the :code:`X cells/mL` is the number of cells in 1 mL of cell suspension. To know the total number of cells, you will have to :math:`\times 2` or :math:`\times 3` depending on how much of complete DMEM you added. 
 
-These are not strict instructions, just some suggestions which can help ease your workflow. You can of course, adjust the volume of cell suspension according to your need. Under certain circumstances, like when you wanted to cryopreserve the cells, you might not want to add more complete DMEM, because you want the highest number of cells in a smaller volume to ensure cell viability when reviving the cells later on. 
+These are not strict instructions, just some suggestions which can help ease your workflow. You can of course, adjust the volume of cell suspension according to your need. Under certain circumstances, like when you wanted to cryopreserve the cells, you might not want to add more complete DMEM, because you want the highest number of cells in a smaller volume to ensure high number of cell viability when reviving the cells later on. 

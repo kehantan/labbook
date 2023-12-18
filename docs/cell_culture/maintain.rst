@@ -1,11 +1,9 @@
 Standard passaging (subculture) 
 ===============================
 
-This protocol uses Vero cells as an example, which is an adherent cells. The general protocol for cell culture can be found in :footcite:t:`phelan2007techniques`. Protocol for maintenance of Vero cells specifically can be found from literature :footcite:t:`ammerman2008growth`. 
+This protocol uses Vero cells as an example, which is an adherent cells. The general protocol for cell culture can be found in :footcite:t:`phelan2007techniques`. Protocol for maintenance of Vero cells specifically can be found in :footcite:t:`ammerman2008growth`. 
 
-* Maintained at P20-P30
-* 37 :math:`^{\circ}`\ C
-* 5% CO2 
+I our lab, usually we maintained the passage of cells between 15 to 30. Cells will be incubated at 37 :math:`^{\circ}`\ C with 5% CO2.
 
 **Requires**
 
@@ -35,7 +33,7 @@ Refer to :ref:`trypsinise <My target>`
 
     Depends on the flask size, usually I would use 600 uL for T25 flask and 1000 uL for T75 flask. Just need to make sure TrypLE is sufficeint to cover the surface of the flask.
 
-#. Incubate at 37:math:`^{\circ}`\ C until cells are fully detached from culture flask
+#. Incubate at 37:math:`^{\circ}`\ C until cells are fully detached from culture flask.
 
     Usually we do 3 to 5 min, not more than 10 min. 
 
@@ -61,12 +59,12 @@ Refer to :ref:`trypsinise <My target>`
 
 **Cell counting**
 
-Refer to :ref:`cell count <cell count>` section. This step is optional if you are subculturing cells. For subculture, you can either: 
+Refer to :ref:`cell count <cell count>` section. Cell counting is optional if you are just subculturing cells. For subculture, you can either: 
 
 * Count the cells and seed the exact number of cells you want; OR 
 * To save some work, you can just split the previous culture into different portions depending on the percentage of confluency you need for your experiments and the days you want to conduct the experiments. 
 
-    Example: You have 1 mL of cell suspension after trypsinisation. To split 1:3, put only 333.33 uL of cell suspension into new culture flask with complete DMEM. You can of course also use other ratio like 1:5 (200 uL) or 1:10 (100 uL).
+    Example: You have 1 mL of cell suspension after trypsinisation. To split 1:3, put around 333.33 uL of cell suspension into new culture flask with complete DMEM. You can of course also use other ratio like 1:5 or 1:10 split.
 
 **Cell seeding**
 
@@ -75,12 +73,12 @@ Refer to :ref:`cell count <cell count>` section. This step is optional if you ar
     * T25 = 5 mL
     * T75 = 9 mL
 
-#. Plate cells onto a new flask at the desired cell density.
+#. Seed cells onto a new flask at the desired cell density.
 
     If you want to seed a specific number of cells, you will have to do cell count beforehand. If you wanted to split by ratio, just transfer the amount of cell suspension based on the split ratio into the new flask. 
 
 #. Swirl flask to evenly distribute the seeded cells. 
-#. Label the flask 
+#. Label the flask. 
 
     Label example: cell type, passage number, date, name initials
 
@@ -90,17 +88,17 @@ Refer to :ref:`cell count <cell count>` section. This step is optional if you ar
 
 This is just a guideline based on the cell line I worked with, which is Vero cells. The actual duplication speed of cells can be subjected to various factors like: cell type, cell condition, passage number, growth environment, etc. 
 
-T25, to about 80% confluency in...
+In a T25 culture flask, to reach 80% cell confluency in
 
-* Next day = 800,000 cells
-* 3 days = 500,000 cells
-* Next week = 25,000 cells
+* next day, you will need to seed about 800,000 cells
+* 3 days, you will need to seed about 500,000 cells
+* next week, you will need to seed about 25,000 cells
 
-T75, to 80% confluency in...
+In a T75 culture flask, to reach 80% cell confluency in
 
-* Next day = 1,000,000 cells 
-* 3 days = 500,000 cells
-* Next week = 50,000 cells 
+* next day, you will need to seed about 1,500,000 cells 
+* 3 days, you will need to seed about 800,000 cells
+* next week, you will need to seed about 50,000 cells 
 
 
 **Refrences**

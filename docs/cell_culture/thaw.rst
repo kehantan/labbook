@@ -24,4 +24,6 @@ Thawing cells from either -80 :math:`^{\circ}`\ C or from liquid nitrogen (LN2).
 
      Label example: :code:`VERO P20 3/10/2023 TKH/NNR`
 
-#. Change media after 24 hrs to remove DMSO. 
+     *Note:* When labelling the flask, +1 to the passage number. Example: the cryovial labelled P19, when you revive the cells from the cryovial, label P20 on the culture flask instead.
+
+#. Change media after 24 hrs to remove DMSO. You don't need to do this step if you already remove the cryopreservant when reviving the cells. 

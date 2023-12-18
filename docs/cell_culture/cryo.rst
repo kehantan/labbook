@@ -1,7 +1,7 @@
 Cryopreservation
 ================
 
-This protocol in our lab uses 500 uL of cell suspension for each cryopreservation tube. Depending on the final volume of your cell suspension, you can estimate how many tubes you can cryo. For example, if the final volume of cell suspension is 3 mL, then you can cryo up to 6 tubes. 
+Our lab uses 500 uL of cell suspension for each cryopreservation tube. Depending on the final volume of your cell suspension, you can estimate how many tubes you can cryo. For example, if the final volume of cell suspension is 3 mL, then you can cryo up to 6 tubes. 
 
 **Requires**
 
@@ -10,6 +10,8 @@ This protocol in our lab uses 500 uL of cell suspension for each cryopreservatio
 * :ref:`Complete DMEM <10 dmem>`
 
 **Procedure**
+
+To make sure the number of viable cell is high the next time you revive the cryo-ed cells, I would recommend cryopreserve when the cells in the flask is at least 80% confluent before cryopreservation.
 
 #. Trypsinise the cells from culture flask. Refer to :ref:`trypsinise <My target>`.
 #. In each cryopreservation tube, prepare the freezing media/cryo media:
