@@ -3,7 +3,9 @@
 Plaque assay
 ============
 
-Plaque assay is used to quantify the virus titer in a virus sample. I seperate this protocol into different sections, each section indicates that after that procedure was completed, you need to wait until another day to proceed to the next section. 
+* Plaque assay is used to quantify the virus titer in a virus sample. I seperate this protocol into different sections, each section indicates that after that procedure was completed, you need to wait until another day to proceed to the next section. 
+* This protocol demonstrate plaque assay in 6 well plate. For plaque in 12 well plate, the procedures are the same, just the volume of liquids and reagents used are different. 
+
 
 Section 1 - Trypsininse, cell count, seed cells
 -----------------------------------------------
@@ -25,11 +27,11 @@ Section 1 - Trypsininse, cell count, seed cells
 
 #. Trypsinise the cells in culture flask. Refer to :ref:`trypsinise <My target>`.
 #. Count the cells. Refer to :ref:`cell count <cell count>`. 
-#. Check if there are enough cells for 6 well plate. Calculate the required amount of cell suspension to aspirate into each well.
-#. Dispense 1.5 mL of complete DMEM in each well of the 6 well plate. 
+#. Check if there are enough cells for the number of well plates you wanted to seed. Calculate the required amount of cell suspension to aspirate into each well.
+#. Dispense 1.5 mL of complete DMEM in each well of the 6 well plate, 1 mL if using 12 well plate.
 #. Dispense required amount of cell suspension into each well. 
-#. Tilt the 6 well plate back and forth and side to side to distribute the cells evenly across the base of the wells. 
-#. Incubate for 24 hrs or longer depending on the number of cells you seed.
+#. Tilt the well plate back and forth and side to side to distribute the cells evenly across the base of the wells. 
+#. Incubate. 37 :math:`^{\circ}`\ C. 
 
 Section 2 - Infection
 ---------------------
@@ -54,20 +56,23 @@ Before the actual infection procedure, we need to prepare a serial diultion from
 #. Prepare microcentrifuge tube equivalent to the number of dilutions you wanted to do. 
 #. Take virus sample from -80 :math:`^{\circ}`\ C. 
 #. Thaw virus sample in 37 :math:`^{\circ}`\ C water bath. 
-#. Do a serial dilution of the virus stock by diluting the virus with 2% DMEM in microcentrifuge tube. Can start from 1 to 5 times dilution factor. 
+#. Bring the virus sample into the BSC.
+#. Do a serial dilution of the virus stock by diluting the virus with 2% DMEM in microcentrifuge tube. We usually do 10x serial dilution. 
 
-    #. Label 5 microcentrifuge tube. 
+**10 x Serial Dilution**
 
-        Label example: :math:`10^{-1}`, :math:`10^{-2}`, :math:`10^{-3}` ... 
+#. Label 10 microcentrifuge tube. 
 
-    #. Dispense 450 uL of 2% DMEM into each tube. 
-    #. Dispense 50 uL of virus stock into the first tube (:math:`10^{-1}`). 
-    #. Mix well by either pipette repeatedly or using a vortex.
-    #. Transfer 50 uL of diluted virus from first tube to second tube (:math:`10^{-2}`). 
-    #. Mix well by either pipette repeatedly or using a vortex.
-    #. Repeat the process for each tube until the last tube.
+    Label example: :math:`10^{-1}`, :math:`10^{-2}`, :math:`10^{-3}` ... 
 
-*Note:* Assuming infecting Vero cells in 6 well plate, which uses 300 uL of virus containing media, so prepare 500 uL of virus containing media makes sense. If infecting Vero cells in 12 well plate, which would use only 100 uL of virus containing media, reduce the volume to 250 uL makes more sense. 25 uL virus + 225 uL 2% DMEM. 
+#. Dispense 450 uL of 2% DMEM into each tube. 
+#. Dispense 50 uL of virus stock into the first tube (:math:`10^{-1}`). 
+#. Mix well by either pipette repeatedly or using a vortex.
+#. Transfer 50 uL of diluted virus from first tube to second tube (:math:`10^{-2}`). 
+#. Mix well by either pipette repeatedly or using a vortex.
+#. Repeat the process for each tube until the last tube.
+
+*Note:* Assuming infecting Vero cells in 6 well plate, which uses 300 uL of virus containing media, so prepare 500 uL of virus containing media makes sense. If infecting Vero cells in 12 well plate, which would use only 100 uL of virus containing media, reduce the volume to 250 uL makes more sense, so we don't waste the media. 25 uL virus + 225 uL 2% DMEM. 
 
 Infection
 ~~~~~~~~~
@@ -78,17 +83,15 @@ Infection
 
 #. Remove existing media from each well with serological pipette. 
 
-    Aspirate media from wall of the well to prevent scratching on the cell layer
-
-    For this step we can still use serological pipette because the virus is not introduced to the wells yet. 
+    * Aspirate media from wall of the well to prevent scratching on the cell layer.
+    * For this step we can still use serological pipette because the virus is not introduced to the wells yet. 
 
 #. Wash cells with PBS.
 
    #. Dispense 300 uL of PBS into each well from the wall of each well. 
 
-        There are actually no fixed amount to use, just need to cover the cell layer. I usually use 300 uL. 
-    
-        Dispense from the wall of each well to prevent detaching the cell layer due to pressure from micropipette. 
+        * There are actually no fixed amount to use, just need to cover the cell layer. I usually use 300 uL. 
+        * Dispense from the wall of each well to prevent detaching the cell layer due to pressure from micropipette. 
 
    #. Tilt the plate side to side and back and forth for a few times to porperly wash the cells. 
 
@@ -99,6 +102,12 @@ Infection
 
 #. Incubate the 6 well plate at 37 :math:`^{\circ}`\ C for 1 hour. Tilt the plate every 20 mins. 
 #. After 1 hour, overlay the infected cell layer with agarose. 
+
+        Test indent. 
+
+        Test indent. 
+
+            Test indent. 
 
 Agarose overlay
 ~~~~~~~~~~~~~~~
@@ -148,13 +157,10 @@ We use crystal violet to stain the cells that are attached to the 6 well plate. 
 
 #. Dispense 3.7% PFA into each well to fix the cells for 1 hr.
     
-    Use the bench use micropipette
-    
-    There are no fix volume, just need to cover the cell layer. 300 uL should be enough. 
-
-    Dispense from the wall of each well. 
-    
-    It is normal for the agarose to torn apart or disintegrate once the PFA was applied 
+    * Use the bench use micropipette.
+    * There are no fix volume, just need to cover the cell layer. 300 uL should be enough. 
+    * Dispense from the wall of each well. 
+    * It is normal for the agarose to torn apart or disintegrate once the PFA was applied. 
 
 #. Remove PFA after 1 hr. 
 
@@ -188,6 +194,6 @@ Clean up
 
 Refer to :ref:`virus waste <virus waste>` management. 
 
-* There are specific blue plastic bag under the fume hood in the lab for disposing virus related waste. 
+* There is a blue hazard waste plastic bag under the fume hood in the lab for disposing virus related waste. 
 * Usually the plates that were fixed and stained would be kept in the dark (inside cabinet). 
-* Some plates were not fixed because there are no plaque observed under microscope, so there is no use to proceed with fixing and staining. You can still fix and stain if you insist to, but if you wanted to dispose, dispense small amount of clorox into each well before disposing the plate into the blue plastic bag.
+* Some plates were not fixed because there are no plaque observed under microscope, so there is no use to proceed with fixing and staining. You can still fix and stain if you wanted to, but if you wanted to dispose the well plate, dispense small amount of clorox into each well before disposing the plate into the blue plastic bag.
