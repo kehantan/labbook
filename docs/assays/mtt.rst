@@ -4,7 +4,7 @@ MTT assay
 Preface 
 -------
 
-This protocol uses the cell line that I worked with -- VERO cells as an example. If you are using other cell lines, refer to research article of other resources for some of the specific parameters. 
+This protocol uses the cell line that I worked with -- VERO cells as an example. If you are using other cell lines, refer to research article of other resources for some of the specific parameters. The general protocol for MTT with Vero cells was described here :footcite:t:`guillen2022effect`.
 
 There are some parameters that you will need to find out before carrying out MTT assay. Some common questions you will immediately bump into when you first trying to do MTT assay including:
 
@@ -231,3 +231,6 @@ Clean up
 
 MTT assay is a very commonly used assay, you can find a lot of articles that optimised MTT assays for different purposes. You can refer to other sources for different parameters like: the amount of different reagent being used, the time of incubation, etc. You don't have to strictly follow the parameters in this protocol. The parameters used in this protocol are the ones that is good enough for my experiments in this lab. 
 
+**References**
+
+.. footbibliography:: 
