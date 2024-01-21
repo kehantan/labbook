@@ -16,3 +16,4 @@ The visual guides/tutorials is available on `google drive <https://drive.google.
    computational/homology_model
    computational/openbabel
    computational/complex_selection
+   computational/auto_index
