@@ -12,19 +12,19 @@ The workflow goes like this:
 
 #. By using :code:`gmx make_ndx`, select the catalytic triad on chain B 1 by 1 and create their own entries in an index file
 
-    .. code-block:: bash 
+    .. code-block::  
         
         chain B & r 51 
  
 #. Combine all the entries 
 
-    .. code-block:: bash 
+    .. code-block::  
 
         23|24|25
 
 #. :code:`gmx select`
 
-    .. code-block:: bash 
+    .. code-block::  
 
         gmx select -s npt.tpr -f npt_processed.pdb -n index.ndx -on radius.ndx -select "group "Protein" and 0.5 within res_com of group 26"
 
