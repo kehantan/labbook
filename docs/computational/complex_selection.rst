@@ -10,17 +10,21 @@ In my case, there are 2 chains in the protein receptor and there are 3 important
 
 The workflow goes like this: 
 
-#. By using :code:`gmx make_ndx`, select the catalytic triad on chain B 1 by 1 and create their own entries in an index file
+#. By using :code:`gmx make_ndx`, select the catalytic triad on chain B 1 by 1 and create their own entries in an index file. In the :code:`gmx make_ndx` prompt, do 
 
     .. code-block::  
         
         chain B & r 51 
+        chain B & r 75 
+        chain B & r 135 
  
 #. Combine all the entries 
 
     .. code-block::  
 
         23|24|25
+
+    This will create group number 26, which contains all the catalytic triad residues from entries created in the step above.
 
 #. :code:`gmx select`
 
