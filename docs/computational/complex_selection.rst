@@ -28,4 +28,4 @@ The workflow goes like this:
 
         gmx select -s npt.tpr -f npt_processed.pdb -n index.ndx -on radius.ndx -select "group "Protein" and 0.5 within res_com of group 26"
 
-        This will create an index file named :code:`radius.ndx` which contains all the residues within the radius of 0.5 nm from the COM of the catalytic triad. This can later be used as a reference when trying to centering the whole protein-ligand complex during post MD processing. 
+    This will create an index file named :code:`radius.ndx` which contains all the residues within the radius of 0.5 nm from the COM of the catalytic triad. This can later be used as a reference when trying to centering the whole protein-ligand complex during post MD processing. 
