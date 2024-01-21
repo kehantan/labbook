@@ -10,7 +10,7 @@ There are some parameters that you will need to find out before carrying out MTT
 
 #. *How many cells to seed?*
 
-    This is a question very difficult to answer. The best approach is to refer to the research articles related to the cell lines you are working with to get an idea on how many cells you should seed. If you cannot get the information you can do some optimisation yourself by trying out any range between 1000 to 5000 cells/well. Some general rule is that your negative control (untreated cells) well's absorbance should not be too high (exceeds 1.0) at the day of reading the plate. 
+    This is a question very difficult to answer. The best approach is to refer to the research articles related to the cell lines you are working with to get an idea on how many cells you should seed. If you cannot get the information you can do some optimisation yourself by trying out any range between 1,000 to 5,000 cells/well. Some general rule is that your negative control (untreated cells) well's absorbance should not be too high (exceeds 1.0) at the day of reading the plate. 
 
 #. *How many different concentrations you wanted to test with your compound?*
 
