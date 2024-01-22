@@ -1,5 +1,5 @@
-Complex selection in GROMACS
-============================
+Advanced selection in GROMACS
+=============================
 
 The protein receptor need to be centered back in to the simulation box for post-MD processing. This step is easier when there are only 1 protein receptor chain. Things will get more complicated when there are more than 1 chain, because there will be a huge fluctuation between the chains. To overcome this problem, we would usually select the important sections on both the chain, ie: the important interacting site (or interface) between 2 chains, or centering the protein receptor chains by using the residues around the binding site as reference. 
 

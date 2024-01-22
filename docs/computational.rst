@@ -15,5 +15,5 @@ The visual guides/tutorials is available on `google drive <https://drive.google.
    computational/molecular_dynamics
    computational/homology_model
    computational/openbabel
-   computational/complex_selection
+   computational/advance_selection
    computational/auto_index

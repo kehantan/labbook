@@ -12,8 +12,6 @@ Trypsinise is a procedure to remove adherent cells from the culture flask, so we
 * :ref:`PBS (1x) <pbs>`
 * Centrifuge tube (15 mL)
 
-*Reminder:* Before starting the procedures, warm up complete DMEM and TrypLE in 37 :math:`^{\circ} C` water bath. You can also put your apparatus in the biosafety cabinet and UV them first.  
-
 **Procedure**
 
 Check the cells under microscope before procedure to confirm the cell is at desired confluency. 
@@ -33,17 +31,17 @@ Check the cells under microscope before procedure to confirm the cell is at desi
     For T25 flask I usually use around 600 uL, while for T75 flask I usually use around 1 mL
 
 #. Incubate the culture flask for about 3 to 5 mins, but don't incubate for more than 10 mins. 
-#. Remove culture flask from incubator. Slightly tap the culture flask to mechanically detach the cells from the flask. 
+#. Remove culture flask from incubator. Tap the culture flask to mechanically detach the cells from the flask. 
 #. Observe the culture flask under microscope. 
 
     This step is to observe how much cells have detached. 
 
-    Ideally, the cells should be round in shape and flowing around, indicating the cells were sucessfully trypsinised and detached from the culture flask. You can move the flask slightly to observe the movement of the cells. 
+    Ideally, the cells should be round in shape and flowing around, indicating the cells were sucessfully trypsinised and detached from the culture flask. You can shake the flask lightly to observe the movement of the cells. 
 
-    Sometimes you will see the cells are round in shape, but did not detach. Some of the things that you can do including: 
+    Sometimes you will see the cells are round in shape, but did not detach. Before proceeed into next step, there are some steps you can try to salvage more of the cells including: 
 
-        * Without adding more TrypLe, incubate for another few mins; or  
-        * Add more TrypLE, then incubate for another few mins 
+        * incubate the flask for another few mins; or  
+        * add more TrypLE, then incubate for another few mins 
 
 #. Dispense complete DMEM in amount which is equal to the amount of TrypLE used, to neutralise TrypLE. 
 
@@ -62,3 +60,10 @@ Check the cells under microscope before procedure to confirm the cell is at desi
 #. Flick or tap the centrifuge tube to break the cell pellet. 
 #. Dispense 1 mL fresh complete DMEM to resuspend the cell pellet. Pipette repeatedly to break the cell pellet. 
 #. The cell suspension can now be used for further processing or experiments. 
+
+**Cells not detach properly**
+
+It is normal that the cells cannot be harvest completely, there are always some cells that cannot detach from the flask no matter what you do. Unless there are large number of cells that do not detach after the trypsinise step, you can ignore those cells. If cells do not detach properly after trypsinising, some of the things you can do including
+
+* Wash the cells few more times to completely remove FBS. 
+* As mentioned above, incubate for a longer period of time or add more TrypLE before prolong the incubation period. 
