@@ -9,3 +9,4 @@ Assays
    assays/plaque
    assays/plaque_results
    assays/mtt_results
+   assays/antiviral

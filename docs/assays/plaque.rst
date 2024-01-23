@@ -4,7 +4,7 @@ Plaque assay
 ============
 
 * Plaque assay is used to quantify the virus titer in a virus sample. I seperate this protocol into different sections, each section indicates that after that procedure was completed, you need to wait until another day to proceed to the next section. 
-* This protocol demonstrate plaque assay in 6 well plate. For plaque in 12 well plate, the procedures are the same, just the volume of liquids and reagents used are different. 
+* This protocol demonstrate plaque assay in 6 well plate. For plaque in 12 well plate, the procedures are the same, just the volume of liquids, number of cells, and volume of reagents used are different. 
 
 
 Section 1 - Trypsininse, cell count, seed cells
@@ -12,7 +12,7 @@ Section 1 - Trypsininse, cell count, seed cells
 
 * Cells should be at least 90% confluency at the time of infection.
 * Amount of cells harvested from a T75 flask with 80% confluency should be sufficient to seed at least 2 6 well plate with 600,000 cells in each well for next day virus infection.   
-* Number of cells to seed depends on which day you want to do infection 
+* Number of cells to seed depends on which day you want to do infection. 
 
     * Seed 6 well plate with 600,000 cells per well for next day infection 
     * Seed 6 well plate with 400,000 cells per well for infection after 2 days 
