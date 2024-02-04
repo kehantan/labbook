@@ -30,6 +30,27 @@ The workflow goes like this:
 
     .. code-block::  
 
-        gmx select -s npt.tpr -f npt_processed.pdb -n index.ndx -on radius.ndx -select "group "Protein" and 0.5 within res_com of group 26"
+        gmx select -s npt.tpr -f npt_processed.pdb -n index.ndx -on radius.ndx -select "group "Protein" and same residue as within 0.5 of res_com of group 26"
 
     This will create an index file named :code:`radius.ndx` which contains all the residues within the radius of 0.5 nm from the COM of the catalytic triad. This can later be used as a reference when trying to centering the whole protein-ligand complex during post MD processing. 
+
+
+Automation
+----------
+To automate this process, create a text file that have the following: 
+
+.. code-block:: 
+   
+    chain B & r 51 
+    chain B & r 75 
+    chain B & r 135
+    23|24|25
+    q
+
+save as something like :code:`triad_ndx.txt`
+
+Then do
+
+:code:`gmx make_ndx -f em_cg_gro.pdb -n index.ndx -o triad.ndx < triad_ndx.txt`
+
+Beware of the entry number in the index file, it might be different, always double check. 
