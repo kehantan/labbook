@@ -54,3 +54,13 @@ Then do
 :code:`gmx make_ndx -f em_cg_gro.pdb -n index.ndx -o triad.ndx < triad_ndx.txt`
 
 Beware of the entry number in the index file, it might be different, always double check. 
+
+.. code-block::
+
+    echo -e "chain A \n chain B \n chain A & 4 \n chain B & 4 \n chain B & r 51 \n chain B & r 75 \n chain B & r 135 \n 27|28|29 \n q" | gmx make_ndx -f em_cg_gro.pdb -n index.ndx -o index.ndx 
+
+    for i in {2..9}; do cd CHEMBL199829_spiro_v2_ligand_"$i"_md; echo $(pwd); gmx select -s em_cg.tpr -f em_cg_gro.pdb -n index.ndx -on radius.ndx -select "group "Protein" and same residue as within 0.5 of res_com of group 30"; cd ../; done
+
+    for i in {2..9}; do cd CHEMBL199829_spiro_v2_ligand_"$i"_md; echo $(pwd); echo -e "31 & 4 \n q" |  gmx make_ndx -f em_cg_gro.pdb -n index.ndx radius.ndx -o index.ndx; cd ../; done
+
+    for i in {2..9}; do cd CHEMBL199829_spiro_v2_ligand_"$i"_md; echo $(pwd); echo -e "32 0 \n q" | gmx trjconv -s md_0_1.tpr -f trajout.xtc -n index.ndx -o trajout_center_ABinter.xtc -pbc mol -ur compact -center; cd ../; done
