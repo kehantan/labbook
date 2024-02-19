@@ -68,3 +68,7 @@ I would suggest distribute the media in each well into multiple microcentrifuge 
 
 #. Label the microcentrifuge tube. 
 #. Aliquot the existing media in the well plates into 
+
+**References**
+
+.. footbibliography:: 
