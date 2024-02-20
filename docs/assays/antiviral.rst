@@ -34,13 +34,13 @@ Imagine a 12 well plate
 
 I would typically do 
 
-* A1 = Negative control 
-* B1-C1 = Virus control 
-* A2-C2 = Compound X concentration 1
-* A3-C3 = Compound X concentration 2
-* A4-C4 = Compound X concentration 3
+* A1 = Negative control (Cells without virus infection)
+* B1-C1 = Virus control (Cells with virus infection)
+* A2-C2 = Compound X concentration 1 (Cells with virus infection and treated with compound)
+* A3-C3 = Compound X concentration 2 (Cells with virus infection and treated with compound)
+* A4-C4 = Compound X concentration 3 (Cells with virus infection and treated with compound)
 
-This is just a guideline, you can tailor the arrangement however you like according to the need of your experiments.  
+This is just a guideline, you can tailor the arrangement however you like according to the need of your experiments, but always remember to include 1 negative control and virus control.  
 
 
 Cell seeding

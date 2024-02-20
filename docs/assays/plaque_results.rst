@@ -27,8 +27,18 @@ The number we wanted to get here is plaque forming unit per mL (pfu/mL). Count t
 
 :math:`\text{Volume of virus sample used}` = If you follow this protocol, it would be 300 uL, or 0.3 mL. If you use other volume, then use that volume, in mL 
 
-After you get the pfu/mL for the first well, repeat the process for the nother 2 wells you choosen (assume you choosen 3 wells to count). After you get the pfu/mL for all the wells, average them by doing
+After you get the pfu/mL for the first well, repeat the process for the nother 2 wells you choosen (assume you choose 3 wells to count). After you get the pfu/mL for all the wells, average them by doing
 
 :math:`\frac{\text{Sum of pfu/mL for well 1, 2, and 3}}{3} = \text{Virus titer}`
 
-Then this is the virus titer of your virus sample. 
+Then this is the final virus titer for that particular batch of your virus stock. 
+
+**Questions**
+
+#. Would the same batch of virus stock but from different microcentrifuge tube have different titer? 
+
+    Yes, but since its impractical to do plaque assay for all the microcentrifuge tubes, we would assume the titer we get is same for the whole batch of virus stock. The factor for the fluctuation in virus titer including condition of the cell used, replication speed of the virus, handling techniques, etc. 
+
+#. If we make another batch of virus stock from the virus stock which we already know the virus titer, do we still have to do plaque assay to find out the virus titer?
+
+    Yes. 
