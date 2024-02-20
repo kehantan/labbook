@@ -3,6 +3,10 @@ Antiviral assay
 
 Antiviral assay is a modified plaque assay. :footcite:t:`lani2016antiviral,florez2022vitro`
 
+:footcite:p:`lani2016antiviral`
+
+:footcite:`lani2016antiviral`
+
 Before we do antiviral assay, we should do a regular plaque assay to quantify the virus titer of the virus stock. This is because we need to fix the multiplicity of infection (MOI) to a number, i.e.: MOI of 1, means each cell will have 1 virus particle infected, MOI of 2 will have 2 virus particle infecting 1 cell, etc. 
 
 Before starting antiviral assay, we should have several information ready.
