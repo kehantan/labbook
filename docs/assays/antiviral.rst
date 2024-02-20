@@ -17,11 +17,32 @@ Before starting antiviral assay, we should have several information ready.
 
 #. MOI you wanted to use
 
-    To make things easy, we usually just use MOI=1. We can also refer to published articles for the MOI they use. 
+    To make things easy, we usually just use MOI=1. We can also refer to published articles for the MOI they use. The common MOI value used are 1, 0.25, 0.1.   
 
 #. Concentration of compound we wanted to test
 
-    This requires some trial and error. I usually start with smaller value like 10, 20, 30, 40, 50 ug/mL. 
+    This requires some trial and error. For pure synthesised organic compounds I usually start with smaller value like 10, 20, 30, 40, 50 ug/mL. The concentration could be adjusted to higer value depends on the type of compounds to be tested, ie: peptides, plant extracts, etc. 
+
+
+**Wells planning**
+
+We can have some planning on which well we want to use for what (i.e.: negative control, virus control, different concentrations). We can plan this before or after we seed the well plates with cells and we can make the arrangement however we like. Imagine a 12 well plate 
+
+  1   2   3   4
+
+A ( ) ( ) ( ) ( )
+
+B ( ) ( ) ( ) ( )
+
+C ( ) ( ) ( ) ( )
+
+I would typically do 
+
+* A1 = Negative control 
+* A2-A3 = Virus control 
+* B1-B3 = Compound X concentration 1
+* C1-C3 = Compound X concentration 2
+* D1-D3 = Compound X concentration 3
 
 
 Cell seeding
@@ -64,14 +85,20 @@ We need to know the pfu/mL of the virus stock and determine the MOI we wanted to
 Harvest
 -------
 
-Observe the well plate every 24 hrs for formation of CPE. Usually the media in the well plates can be harvested after 48 hours. 
+Observe the well plate every 24 hrs for formation of CPE. Usually the media in the well plates can be harvested after 48 hours or when there are high number of CPE. 
 
 I would suggest distribute the media in each well into multiple microcentrifuge tube so we can do multiple plaque assays later on. 
 
 **Procedure**
 
 #. Label the microcentrifuge tube. 
-#. Aliquot the existing media in the well plates into 
+#. Aliquot the exist media in the well plates into different microcentrifuge tube.
+#. Snap freeze the microcentrifuge tube in liguid nitrogen. 
+#. Store at -80 C. 
+
+
+Plaque assay
+------------
 
 **References**
 
