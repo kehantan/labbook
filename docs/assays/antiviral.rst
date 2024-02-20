@@ -3,7 +3,7 @@ Antiviral assay
 
 Antiviral assay is a modified plaque assay. The reference can be found in articles published by :cite:t:`lani2016antiviral,florez2022vitro`. 
 
-Before we do antiviral assay, we should do a regular plaque assay to quantify the virus titer of the virus stock. This is because we need to fix the multiplicity of infection (MOI) to a number, i.e.: MOI of 1, means each cell will have 1 virus particle infected, MOI of 2 will have 2 virus particle infecting 1 cell, etc. 
+We should do a regular plaque assay to quantify the virus titer of the virus stock before we do antiviral assay. This is because we need to fix the multiplicity of infection (MOI) to a number, i.e.: MOI of 1, means each cell will have 1 virus particle infected, MOI of 2 will have 2 virus particle infecting 1 cell, etc. 
 
 Before starting antiviral assay, we should have several information ready.
 
@@ -13,14 +13,14 @@ Before starting antiviral assay, we should have several information ready.
 
 #. MOI you wanted to use
 
-    To make things easy, we usually just use MOI=1. We can also refer to published articles for the MOI they use. The common MOI value used are 1, 0.25, 0.1.   
+    To make things easy, we usually just use MOI=1. We can also refer to published articles for the MOI they use. Some common MOI value used are 1, 0.25, 0.1.   
 
 #. Concentration of compound we wanted to test
 
     This requires some trial and error. For pure synthesised organic compounds I usually start with smaller value like 10, 20, 30, 40, 50 ug/mL. The concentration could be adjusted to higer value depends on the type of compounds to be tested, ie: peptides, plant extracts, etc. 
 
 
-**Wells planning**
+**Planning**
 
 We can have some planning on which well we want to use for what (i.e.: negative control, virus control, different concentrations). We can plan this before or after we seed the well plates with cells and we can make the arrangement however we like. 
 
@@ -63,7 +63,7 @@ Before the actual infection and treatment, we should prepare few things:
 
 **Different concentrations of compound we wanted to test**
 
-We usually dilute the compounds we wanted to test to the desired concentrations with 2% DMEM. The final volume of the compound we prepare should be 1500 uL. This volume was inteded to be used with 6 well plate, we can be reduce the volume accordingly if we are using well plates of other sizes.   
+We usually dilute the compounds we wanted to test to the desired concentrations with 2% DMEM. The final volume of the compound we prepare should be 1500 uL. This volume was intended to be used with 6 well plate, we can be reduce the volume accordingly if we are using well plates of other sizes.
 
 **Dilution of virus stock to the concentration we wanted to work with**
 
@@ -99,8 +99,3 @@ Plaque assay
 ------------
 
 Do a regular plaque assay for media harvested from each well in the antiviral assay. 
-
-
-**References**
-
-.. footbibliography:: 

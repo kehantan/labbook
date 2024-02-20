@@ -12,17 +12,19 @@ Complete DMEM (10%)
 * Pen-Strep
 * DMEM
 * Centrifuge tube (50 mL)
+* Sodium pyruvate 
 
 **Procedure**
 
 #. Into 50 mL centrifuge tube, aliquote: 
 
-   * 44.5 mL of DMEM
+   * 44 mL of DMEM
 
-      We only have 25 mL serological pipette, so to prepare 44.5 mL, we can split into 25 mL + 19.5 mL
+      We only have 25 mL serological pipette, so to prepare 44 mL, we can pipette 22 mL twice 
 
    * 5 mL of FBS
    * 500 uL of Pen-Strep
+   * 500 uL of sodium pyruvate 
 
 #. Mix well. 
 #. Label the centrifuge tube. 
@@ -30,3 +32,9 @@ Complete DMEM (10%)
    Label example: :code:`Complete DMEM, name initials, date prepared`
 
 #. Seal with parafilm. Store in fridge (4 :math:`^{\circ}`\ C).
+
+
+**Note**
+
+* Final concentration for sodium pyruvate is usually 1 mM.
+* The volume of sodium pyruvate to add into complete DMEM depends on the concentration of the sodium pyruvate stock solution. Adjust the volume of DMEM to compensate the volume changes in sodium pyruvate.
