@@ -3,7 +3,7 @@ MTT assay
 
 This protocol uses the cell line that I worked with -- VERO cells as an example. If you are using other cell lines, refer to research article of other resources for some of the specific parameters. The general protocol for MTT with Vero cells was described by :footcite:t:`guillen2022effect`.
 
-There are some parameters that you will need to find out before carrying out MTT assay. Some common questions you will immediately bump into when you first trying to do MTT assay including:
+There are some parameters that you will need to find out before starting MTT assay. Some common questions you will immediately bump into when you first trying to do MTT assay including:
 
 #. *How many cells to seed in each well?*
 
@@ -23,7 +23,7 @@ The whole MTT assay is a long procedure that can takes up multiple day. It takes
     * 1 day for treatment (treat the cells with compound)
     * 1 day for actually adding the MTT reagent and to read the absorbance
 
-I divided this protocol into sections, so each sections indicates that procedure requires one day. It doesn't mean that particular procedure will take up the whole day, it's just after that procedure, you will have to wait another day to proceed to the next section. You can plan your experiments accordingly. 
+I divided this protocol into sections, so each sections indicates that procedure requires one day. It doesn't mean that particular procedure will take up the whole day, it's just after that procedure, you will have to wait until another day to proceed to the next section. With this information you can plan your experiments accordingly. 
 
 The steps for one round of MTT assay including:
 
@@ -36,7 +36,7 @@ The steps for one round of MTT assay including:
 
 **Calculate how many cells and media we need**
 
-Before we actually start the procedure, it is best to count the theoretical number of cells required before we start seeding. Our final goal is to have 100 uL of mixture that contains 10% DMEM + 5,000 cells in each well.
+Before we actually start the procedure, it is best to count the number of cells required before we start seeding. Our goal is to have 100 uL of mixture that contains 10% DMEM + 5,000 cells in each well.
 
 Assume we want to test 8 different concentrations (including negative control) of our compound on the cells, then 
 
@@ -44,13 +44,13 @@ Assume we want to test 8 different concentrations (including negative control) o
         
         Total cells needed = 10 concentrations * 5 wells/concentration * 5,000 cells/well = 250,000 cells
 
-You will notice that even we wanted to test 8 different concentration, the formula above state :math:`10 conecentrations` :code:`10 conecntrations`. This is due to slight deviations during pipetting and handling of liquids. If we prepare enough cell suspension for the exact number of concentrations we want, we might end up not having enough cells for the last few wells, so prepare a little extra amount. Usually adding 3 to 5 concentrations extra for some overhead is sufficient enough.
+You will notice that even we wanted to test 8 different concentration, the formula above state :code:`10 conecntrations`. This is due to slight deviations during pipetting and handling of liquids. If we prepare enough cell suspension for the exact number of concentrations we want, we might end up not having enough cells for the last few wells, so prepare a little extra amount. Usually adding 3 to 5 concentrations extra for some overhead is sufficient enough.
 
 After the actual cell counting step in the procedure, double check if the cells is sufficient for seeding. 
 
 Now we would need to calculate how much media we need. The concept is similar to the previous step
 
-    :math:`\text{Total media needed} = 10 concentrations \times 5 wells/concentration \times 100 \mu\ L/well = 5,000 uL` 
+    :math:`\text{Total media needed} = \text{10 concentrations} \times \text{5 wells/concentration} \times 100  \mu\ L/well = 5,000 \mu L` 
 
 :math:`10 concentrations` were used in calculation instead of 8 just for some extra volume. 
 
