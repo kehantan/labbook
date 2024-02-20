@@ -1,24 +1,21 @@
 MTT assay
 =========
 
-Preface 
--------
-
 This protocol uses the cell line that I worked with -- VERO cells as an example. If you are using other cell lines, refer to research article of other resources for some of the specific parameters. The general protocol for MTT with Vero cells was described by :footcite:t:`guillen2022effect`.
 
 There are some parameters that you will need to find out before carrying out MTT assay. Some common questions you will immediately bump into when you first trying to do MTT assay including:
 
-#. *How many cells to seed?*
+#. *How many cells to seed in each well?*
 
-    This is a question very difficult to answer. The best approach is to refer to the research articles related to the cell lines you are working with to get an idea on how many cells you should seed. If you cannot get the information you can do some optimisation yourself by trying out any range between 1,000 to 5,000 cells/well. Some general rule is that your negative control (untreated cells) well's absorbance should not be too high (exceeds 1.0) at the day of reading the plate. 
+    The common approach is to refer to the published research articles related to the cell lines you are working with to get an idea on how many cells you should seed. If you cannot get the information you can do some optimisation yourself by trying out any range between 1,000 to 5,000 cells/well. Some general rule is that your negative control (untreated cells) well's absorbance should not be too high (exceeds 1.0) at the day of reading the plate. 
 
 #. *How many different concentrations you wanted to test with your compound?*
 
-    Again, refer to literature for this part. If there are no information available, some optimisation would need to be made. If you have no idea what concentration you wanted to use, you can try out by using a larger range of concentrations first. I typically start with 200 ug/ml of concentration and half it for each dilution step (200 ug/mL, 100 ug/mL, 50 ug/mL). My rationale is that it is easier to find your compound's effective concentration by screening it with a larger range. If you screen your compound at a narrow range like 20 ug/mL, 40 ug/mL, 60 ug/mL, you might need to do more assays to find out the effective concentrations. So start from wider range, then narrow down if necessary. 
+    If you have no idea what concentration you wanted to use, you can try out by using a larger range of concentrations first. I typically start with 200 ug/mL and half it for each dilution step (200, 100, 50 ug/mL, etc.). My rationale is that it is easier to find your compound's optimum concentration by screening it with a wider range. If you screen your compound at a narrower range like 20, 40, 60 ug/mL, etc., you might need to do more assays to find out the optimum concentration. So start from wider range, then narrow down if necessary. 
 
-#. *How long I should incubate? How much reagent I should use?*
+#. *Other common questions including 'How long I should incubate? How much reagent I should use?'*
 
-    Again, refer to literature whenever you can. I cannot list everything here because these parameters is some what related to the cell lines you are dealing with. For most part, the parameters should be transferrable from one cell line to another. Fortunately, there are a lot of resources you can refer online, or you can simply ask around other lab members. 
+    The list of questions are non-exhaustive and can be difficult answer as these parameters are related to multiple factors like what cell lines you are dealing with, what is the purpose of the experiments, etc. Fortunately, there are a lot of resources you can refer online, or you can simply ask around other lab members who had experience with cell lines that you are using. For most part, the parameters should be transferrable from one cell line to another. 
 
 The whole MTT assay is a long procedure that can takes up multiple day. It takes 3 seperate days to complete 1 round of MTT. We need:
 
@@ -34,7 +31,7 @@ The steps for one round of MTT assay including:
 #. Cell count   
 #. Cell seeding
 #. Treatment
-#. Actual MTT
+#. Actually adding the MTT reagent
 #. Read absorbance
 
 **Calculate how many cells and media we need**
@@ -43,9 +40,11 @@ Before we actually start the procedure, it is best to count the theoretical numb
 
 Assume we want to test 8 different concentrations (including negative control) of our compound on the cells, then 
 
-    :math:`\text{Total cells needed} = 10 concentrations \times 5 wells/concentration \times 5,000 cells/well = 250,000 cells` 
+    .. code-block:: 
+        
+        Total cells needed = 10 concentrations * 5 wells/concentration * 5,000 cells/well = 250,000 cells
 
-You will notice that even we wanted to test 8 different concentration, the formula above state :math:`10 conecentrations` :code:`10 conecntrations`. This is due to slight deviations during pipetting and handling of liquids. If we prepare enough cell suspension for the exact number of concentrations we want, we might end up not having enough cells for the last few wells, so prepare a little bit extra amount. Usually adding 3 to 5 concentrations extra for some overhead is sufficient enough.
+You will notice that even we wanted to test 8 different concentration, the formula above state :math:`10 conecentrations` :code:`10 conecntrations`. This is due to slight deviations during pipetting and handling of liquids. If we prepare enough cell suspension for the exact number of concentrations we want, we might end up not having enough cells for the last few wells, so prepare a little extra amount. Usually adding 3 to 5 concentrations extra for some overhead is sufficient enough.
 
 After the actual cell counting step in the procedure, double check if the cells is sufficient for seeding. 
 
@@ -55,11 +54,11 @@ Now we would need to calculate how much media we need. The concept is similar to
 
 :math:`10 concentrations` were used in calculation instead of 8 just for some extra volume. 
 
+
 Section 1 - Trypsinise, cell count, seed cells
 ----------------------------------------------
 
-Trypsinise
-~~~~~~~~~~
+**Trypsinise**
 
 **Requires**
 
@@ -72,8 +71,7 @@ Assume cells were cultured in a T25 flask to 70% to 90% confluency.
 
 First step is to detach the cells from the culture flask. Refer to :ref:`trypsinise <My target>`. 
 
-Cell counting
-~~~~~~~~~~~~~
+**Cell counting**
 
 **Requires**
 
@@ -90,8 +88,7 @@ We need to know the number of cells since we want to seed a specific number of c
 
 After counting the cells, we should get value of :code:`X cells/mL`. Compare the counted cell number before we begin the experiment and the calculated cells number. We should have sufficient cells for seeding. 
 
-Cell seeding
-~~~~~~~~~~~~
+**Cell seeding**
 
 We now need to seed specific number of cells into each well.
 
@@ -118,7 +115,9 @@ To calculate how much media we need,
 
     Assume we do 7 concentrations (including negative control), then
 
-    :code:`7 concentrations * 5 well/concentration * 100 uL/well = 3,500 uL (3.5 mL)`
+    .. code-block::
+        
+        7 concentrations * 5 well/concentration * 100 uL/well = 3,500 uL (3.5 mL)`
 
 After all the calculations we can begin our cell seeding procedure. 
 
@@ -143,6 +142,7 @@ After all the calculations we can begin our cell seeding procedure.
 #. Incubate the seeded 96 well plate for 24 hrs. 
 
 *Note:* Technically, 35 uL + 3,500 uL = 3,535 uL. If we want to be absolute accurate we should be doing 35 + 3,465 uL = 3,500 uL. But for convenience's sake, we would treat it as a negligible difference.
+
 
 Section 2 - Treatment of cells
 ------------------------------
@@ -225,7 +225,7 @@ Read the absorbance with a plate reader.
 Clean up
 --------
 
-* After reading the absorbance, the plate can be disposed into the yellow bin. 
+* After reading the absorbance, the plate can be disposed into the yellow bin in the lab. 
 
 **Note**
 
