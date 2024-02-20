@@ -4,7 +4,7 @@ MTT assay
 Preface 
 -------
 
-This protocol uses the cell line that I worked with -- VERO cells as an example. If you are using other cell lines, refer to research article of other resources for some of the specific parameters. The general protocol for MTT with Vero cells was described here :footcite:t:`guillen2022effect`.
+This protocol uses the cell line that I worked with -- VERO cells as an example. If you are using other cell lines, refer to research article of other resources for some of the specific parameters. The general protocol for MTT with Vero cells was described by :footcite:t:`guillen2022effect`.
 
 There are some parameters that you will need to find out before carrying out MTT assay. Some common questions you will immediately bump into when you first trying to do MTT assay including:
 

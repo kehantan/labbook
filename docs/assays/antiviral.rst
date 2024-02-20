@@ -1,11 +1,13 @@
 Antiviral assay
 ===============
 
-Antiviral assay is a modified plaque assay. :footcite:t:`lani2016antiviral,florez2022vitro`
+Antiviral assay is a modified plaque assay. The reference can be found in articles published by :footcite:t:`lani2016antiviral,florez2022vitro`. 
 
-:footcite:p:`lani2016antiviral`
+footcite p :footcite:p:`lani2016antiviral`
 
-:footcite:`lani2016antiviral`
+cite t :cite:t:`lani2016antiviral`
+
+cite p :cite:p:`lani2016antiviral`
 
 Before we do antiviral assay, we should do a regular plaque assay to quantify the virus titer of the virus stock. This is because we need to fix the multiplicity of infection (MOI) to a number, i.e.: MOI of 1, means each cell will have 1 virus particle infected, MOI of 2 will have 2 virus particle infecting 1 cell, etc. 
 
@@ -26,23 +28,25 @@ Before starting antiviral assay, we should have several information ready.
 
 **Wells planning**
 
-We can have some planning on which well we want to use for what (i.e.: negative control, virus control, different concentrations). We can plan this before or after we seed the well plates with cells and we can make the arrangement however we like. Imagine a 12 well plate 
+We can have some planning on which well we want to use for what (i.e.: negative control, virus control, different concentrations). We can plan this before or after we seed the well plates with cells and we can make the arrangement however we like. 
 
-  1   2   3   4
+Imagine a 12 well plate 
 
-A ( ) ( ) ( ) ( )
+(A1) (A2) (A3) (A4)
 
-B ( ) ( ) ( ) ( )
+(B1) (B2) (B3) (B4)
 
-C ( ) ( ) ( ) ( )
+(C1) (C2) (C3) (C4)
 
 I would typically do 
 
 * A1 = Negative control 
-* A2-A3 = Virus control 
-* B1-B3 = Compound X concentration 1
-* C1-C3 = Compound X concentration 2
-* D1-D3 = Compound X concentration 3
+* B1-C1 = Virus control 
+* A2-C2 = Compound X concentration 1
+* A3-C3 = Compound X concentration 2
+* A4-C4 = Compound X concentration 3
+
+This is just a guideline, you can tailor the arrangement however you like according to the need of your experiments.  
 
 
 Cell seeding
@@ -99,6 +103,9 @@ I would suggest distribute the media in each well into multiple microcentrifuge 
 
 Plaque assay
 ------------
+
+Do a regular plaque assay for media harvested from each well in the antiviral assay. 
+
 
 **References**
 
