@@ -3,8 +3,8 @@
 Complete DMEM (10%)
 ===================
 
-* Complete DMEM is used for most of the cell culture related stuff. The recipe can be modified according to needs. 
-* Need to be prepared in the biosafety cabinet.
+* Complete DMEM is commonly used for cell culture. The recipe can be modified according to needs. 
+* Prepare complete DMEM in the biosafety cabinet.
 
 **Requires**
 
@@ -12,19 +12,19 @@ Complete DMEM (10%)
 * Pen-Strep
 * DMEM
 * Centrifuge tube (50 mL)
-* Sodium pyruvate 
+* Sodium pyruvate (if required)
 
 **Procedure**
 
-#. Into 50 mL centrifuge tube, aliquote: 
+#. Into a 50 mL centrifuge tube, aliquote: 
 
    * 44 mL of DMEM
 
-      We only have 25 mL serological pipette, so to prepare 44 mL, we can pipette 22 mL twice 
+      We only have 25 mL serological pipette, so to prepare 44.5 mL, we can pipette 22 mL twice 
 
    * 5 mL of FBS
-   * 500 uL of Pen-Strep
-   * 500 uL of sodium pyruvate 
+   * 500 uL of Pen-Strep 
+   * 500 uL of sodium pyruvate
 
 #. Mix well. 
 #. Label the centrifuge tube. 
