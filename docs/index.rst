@@ -13,6 +13,7 @@ Contents
    computational
    cell_culture
    assays
+   protease_assay
    protein
    virus
    serial_dilution

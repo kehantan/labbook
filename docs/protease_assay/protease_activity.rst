@@ -8,9 +8,14 @@ Prepare stock solutions and buffers before we actually start the procedure, pref
 **Requires** 
 
 * Buffer
-* Purified protease 
+* Purified protease
+* MCA substrate
+* Black 96 well plate 
 
 **Procedure**
 
-#. Purified protease is usually stored in -80 C. Thaw it before use.
-#. Prepare   
+#. Purified protease is stored in -80 C. Thaw it before use.
+#. Prepare different concentrations of protease. 
+#. Add constant amount of substrate into protease. 
+#. Incubate for 30 mins at 37 C. 
+#. Read plate at 350 nm emission and 440 nm excitation.
