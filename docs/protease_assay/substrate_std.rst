@@ -1,5 +1,5 @@
-Substrate (MCA) standard
-========================
+Substrate standard
+==================
 
 **Requires**
 
