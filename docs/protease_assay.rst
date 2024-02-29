@@ -9,4 +9,5 @@ Protocol for protease assay
 
    protease_assay/substrate_std
    protease_assay/protease_activity
+   protease_assay/substrate_optimisation
    protease_assay/protease_inhibition_assay
