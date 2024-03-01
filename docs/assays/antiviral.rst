@@ -1,15 +1,21 @@
 Antiviral assay
 ===============
 
+Objective: To test antiviral properties of a compound. 
+
 Antiviral assay is a modified plaque assay. The reference can be found in articles published by :cite:t:`lani2016antiviral,florez2022vitro`. 
 
-We should do a regular plaque assay to quantify the virus titer of the virus stock before we do antiviral assay. This is because we need to fix the multiplicity of infection (MOI) to a number, i.e.: MOI of 1, means each cell will have 1 virus particle infected, MOI of 2 will have 2 virus particle infecting 1 cell, etc. 
+We should do a regular plaque assay to quantify the virus titer of the virus stock before we do antiviral assay, because we need to fix the multiplicity of infection (MOI) to a number. For example, 
+
+* MOI = 1, 1 virus particle for each cell
+* MOI = 2, 2 virus particle for each cell
+* MOI = 0.5, 1 virus particle for every 2 cells, etc. 
 
 Before starting antiviral assay, we should have several information ready.
 
 #. Virus titer of the virus stock, in pfu/ml
 
-    This information can be obtain from a regular plaque assay. That is why we need to do a regular plaque assay before doing antiviral assay. 
+    This information can be obtain from a regular plaque assay. This is why we need to do a regular plaque assay before doing antiviral assay. 
 
 #. MOI you wanted to use
 
@@ -35,7 +41,7 @@ Imagine a 12 well plate
 I would typically do 
 
 * A1 = Negative control (Cells without virus infection)
-* B1-C1 = Virus control (Cells with virus infection)
+* B1-C1 = Virus control (Cells with virus infection, but not treated with compound)
 * A2-C2 = Compound X concentration 1 (Cells with virus infection and treated with compound)
 * A3-C3 = Compound X concentration 2 (Cells with virus infection and treated with compound)
 * A4-C4 = Compound X concentration 3 (Cells with virus infection and treated with compound)
@@ -48,9 +54,8 @@ Cell seeding
 
 For antiviral assay, our cells should be at 70% confluency at the day of infection and treatment. 
 
-For 6 well plate, we can seed 450,000 cells for next day infection and treatment. 
-
-For 12 well plate, we can seed 100,000 cells for next day infection and treatment. 
+* For 6 well plate, we can seed 450,000 cells for next day infection and treatment. 
+* For 12 well plate, we can seed 100,000 cells for next day infection and treatment. 
 
 
 Infection and treatment

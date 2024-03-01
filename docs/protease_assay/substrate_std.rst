@@ -1,6 +1,8 @@
 Substrate standard
 ==================
 
+**Objective:** To plot a standard curve for substrate used in protease assay. 
+
 **Requires**
 
 * Stock buffer solution (1M Tris-HCl, pH 8.0)

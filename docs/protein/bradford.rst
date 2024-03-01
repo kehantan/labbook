@@ -1,7 +1,7 @@
 Bradford assay
 ==============
 
-Bradford assay to quantify concentration of protein in a sample.
+**Objective:** Quantify concentration of protein in a sample.
 
 **Requires**
 
@@ -13,8 +13,6 @@ Bradford assay to quantify concentration of protein in a sample.
 * Microplate reader 
   
 **Procedure**
-
-**Prepare BSA of different concentrations**
 
 #. Prepare a series of BSA standard solutions of known concentrations (e.g. 0.2, 0.4, 0.6, 0.8, and 1.0 mg/mL) by diluting a stock solution of BSA in distilled water or buffer.
 #. In a clear 96 well plate, add 10 uL of diluted BSA into 190 uL of Bradford reagent. 

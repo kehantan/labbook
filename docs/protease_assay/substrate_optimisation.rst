@@ -1,7 +1,7 @@
 Substrate optimisation
 ======================
 
-Objective: To determine the optimum concentration of substrate to be used in protease inhibition assay
+**Objective:** To determine the optimum concentration of substrate to be used in protease inhibition assay
 
 **Requires**
 

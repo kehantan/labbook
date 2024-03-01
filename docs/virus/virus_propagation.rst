@@ -1,7 +1,7 @@
 Virus propagation
 =================
 
-Objective: To propagate virus to make virus stock for virus related experiments. 
+**Objective:** To propagate virus to make virus stock for virus related experiments. 
 
 Infection
 ---------
@@ -14,14 +14,14 @@ Infection
 
 **Procedure**
 
-#. Culture Vero cells in a T25 culture flask to about 70% confluency.
+#. Culture Vero cells to about 70% confluency.
 #. Remove existing media from culture flask. 
 #. Wash cells with PBS. 
-#. Add 5mL of fresh 2% DMEM into the culture flask.
+#. Add fresh 2% DMEM into the culture flask.
 #. Retrieve virus stock from -80 C. 
 #. Thaw virus stock in water bath at 37 C. 
 #. Add virus stock into culture flask.
-#. Incubate the flask at 37 C.
+#. Incubate. 37 C, 48 hrs.
 #. Monitor daily under microscope for CPE formation and detachment of cells.
 #. When more than 90% of the cells detached from the culture flask, the virus is ready for harvest. 
 
@@ -54,6 +54,6 @@ Harvest
 * In a T25 culture flask with 5 ml of 2% DMEM, there should be enough media to aliquote 10 microcentrifuge tube.
 * To make more virus, we can use larger flask like T75 and adjust the media volume accordingly. 
 * The harvested virus stock need to have its virus titer quantified. We do this by using :ref:`plaque assay <plaque assay>`. 
-
+* The volume of virus stock do not have to be 500 uL. Depends on the experiments, we can reduce the volume to make more tubes of virus stock. 
 
 
