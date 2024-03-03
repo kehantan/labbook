@@ -1,9 +1,9 @@
 Antiviral assay
 ===============
 
-Objective: To test antiviral properties of a compound. 
+**Objective:** To test antiviral properties of a compound. 
 
-Antiviral assay is a modified plaque assay. The reference can be found in articles published by :cite:t:`lani2016antiviral,florez2022vitro`. 
+The reference for antiviral protocol can be found in articles published by :cite:t:`lani2016antiviral,florez2022vitro`. 
 
 We should do a regular plaque assay to quantify the virus titer of the virus stock before we do antiviral assay, because we need to fix the multiplicity of infection (MOI) to a number. For example, 
 
@@ -19,7 +19,7 @@ Before starting antiviral assay, we should have several information ready.
 
 #. MOI you wanted to use
 
-    To make things easy, we usually just use MOI=1. We can also refer to published articles for the MOI they use. Some common MOI value used are 1, 0.25, 0.1.   
+    Refer to published articles for the MOI we wanted to use for our experiments.   
 
 #. Concentration of compound we wanted to test
 
@@ -46,7 +46,7 @@ I would typically do
 * A3-C3 = Compound X concentration 2 (Cells with virus infection and treated with compound)
 * A4-C4 = Compound X concentration 3 (Cells with virus infection and treated with compound)
 
-This is just a guideline, you can tailor the arrangement however you like according to the need of your experiments, but always remember to include 1 negative control and virus control.  
+This is merely a suggestion, you can tailor the arrangement however you like according to the need of your experiments, but always remember to include negative control and virus control wells. 
 
 
 Cell seeding
@@ -55,7 +55,7 @@ Cell seeding
 For antiviral assay, our cells should be at 70% confluency at the day of infection and treatment. 
 
 * For 6 well plate, we can seed 450,000 cells for next day infection and treatment. 
-* For 12 well plate, we can seed 100,000 cells for next day infection and treatment. 
+* For 12 well plate, we can seed 150,000 cells for next day infection and treatment. 
 
 
 Infection and treatment
@@ -103,4 +103,5 @@ I would suggest distribute the media in each well into multiple microcentrifuge 
 Plaque assay
 ------------
 
-Do a regular plaque assay for media harvested from each well in the antiviral assay. 
+Do a regular :ref:`plaque assay <plaque assay>` with media harvested from each well in the antiviral assay. Then quantify by manually counting the number of plques. 
+
