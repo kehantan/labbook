@@ -4,7 +4,7 @@ Plaque assay
 ============
 
 * Plaque assay is used to quantify the virus titer in a virus sample. I seperate this protocol into different sections, each section indicates that after that procedure was completed, you need to wait until another day to proceed to the next section. 
-* This protocol demonstrate plaque assay in 6 well plate. For plaque in 12 well plate, the procedures are the same, just the volume of liquids, number of cells, and volume of reagents used are different. 
+* This protocol demonstrate plaque assay in 6 well plate. For plaque in 12 well plate or well plate of other sizes, the procedures are the same, just the volume of liquids, number of cells, and volume of reagents used are different. 
 
 
 Section 1 - Trypsininse, cell count, seed cells
@@ -48,18 +48,18 @@ After 24 hrs incubation, infect cells with virus.
 * Virus stock
 * :ref:`Phosphate buffer saline (PBS) <pbs>`
 
-Dilution of virus
-~~~~~~~~~~~~~~~~~
+Virus stock serial dilution
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Before the actual infection procedure, we need to prepare a serial diultion from the virus stock. 
 
 #. Prepare microcentrifuge tube equivalent to the number of dilutions you wanted to do. 
-#. Take virus sample from -80 :math:`^{\circ}`\ C. 
-#. Thaw virus sample in 37 :math:`^{\circ}`\ C water bath. 
+#. Take virus sample from -80 C. 
+#. Thaw virus sample in 37 C water bath. 
 #. Bring the virus sample into the BSC.
 #. Do a serial dilution of the virus stock by diluting the virus with 2% DMEM in microcentrifuge tube. We usually do 10x serial dilution. 
 
-**10 x Serial Dilution**
+**10x Serial Dilution**
 
 #. Label 10 microcentrifuge tube. 
 
@@ -72,7 +72,7 @@ Before the actual infection procedure, we need to prepare a serial diultion from
 #. Mix well by either pipette repeatedly or using a vortex.
 #. Repeat the process for each tube until the last tube.
 
-*Note:* Assuming infecting Vero cells in 6 well plate, which uses 300 uL of virus containing media, so prepare 500 uL of virus containing media makes sense. If infecting Vero cells in 12 well plate, which would use only 100 uL of virus containing media, reduce the volume to 250 uL makes more sense, so we don't waste the media. 25 uL virus + 225 uL 2% DMEM. 
+*Note:* Assuming we are infecting Vero cells with virus in 6 well plate, which uses 300 uL of virus containing media, so diluting the virus to final volume of 500 uL is sufficient. If infecting Vero cells in a 12 well plate, which would use only 100 uL of virus containing media, we can reduce the volume to 300 uL so we don't waste the media. 30 uL of virus stock + 270 uL fresh 2% DMEM. 
 
 Infection
 ~~~~~~~~~
@@ -100,14 +100,9 @@ Infection
 
     Remember to vortex the mircocentrifuge tube to mix the virus before adding the virus to the well. 
 
-#. Incubate the 6 well plate at 37 :math:`^{\circ}`\ C for 1 hour. Tilt the plate every 20 mins. 
+#. Incubate the 6 well plate at 37 C for 1 hour. Tilt the plate every 20 mins. 
 #. After 1 hour, overlay the infected cell layer with agarose. 
 
-        Test indent. 
-
-        Test indent. 
-
-            Test indent. 
 
 Agarose overlay
 ~~~~~~~~~~~~~~~

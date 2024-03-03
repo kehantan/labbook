@@ -61,18 +61,15 @@ For antiviral assay, our cells should be at 70% confluency at the day of infecti
 Infection and treatment
 -----------------------
 
-Before the actual infection and treatment, we should prepare few things: 
+Before the actual infection and treatment, we should prepare 2 things: 
 
 #. Different concentrations of the compound we wanted to test. 
+
+    We would dilute the compounds we wanted to test to the desired concentrations with 2% DMEM. The final volume of the compound we prepare should be 1500 uL. This volume was intended to be used with 6 well plate, we can be reduce the volume accordingly if we are using well plates of other sizes.
+
 #. Dilution of virus stock to the concentration we wanted to work with. 
 
-**Different concentrations of compound we wanted to test**
-
-We usually dilute the compounds we wanted to test to the desired concentrations with 2% DMEM. The final volume of the compound we prepare should be 1500 uL. This volume was intended to be used with 6 well plate, we can be reduce the volume accordingly if we are using well plates of other sizes.
-
-**Dilution of virus stock to the concentration we wanted to work with**
-
-We need to know the pfu/mL of the virus stock and determine the MOI we wanted to use in order for this to work. We usually to 10 times dilution with 2% DMEM. 
+    We need to know the pfu/mL of the virus stock and determine the MOI we wanted to use in order for this to work. We usually to 10 times dilution with 2% DMEM to the diluted concentration of virus stock we wanted to work with. 
 
 **Procedure**
 
@@ -80,7 +77,7 @@ We need to know the pfu/mL of the virus stock and determine the MOI we wanted to
 #. Wash cells with PBS. 
 #. Add correct amount of diluted virus stock to designated wells. 
 #. Add corerct amount of diluted compound into designated wells.
-#. Incubate. 37C, 1 hr. 
+#. Incubate. 37C, 1 hr. Tilt well plate every 20 mins. 
 #. Wash cells with PBS. 
 #. Add the remaining amount of compound-containing media into the disignated wells. 
 #. Incubate. 37C, 48 hr. 
@@ -90,7 +87,7 @@ Harvest
 
 Observe the well plate every 24 hrs for formation of CPE. Usually the media in the well plates can be harvested after 48 hours or when there are high number of CPE. 
 
-I would suggest distribute the media in each well into multiple microcentrifuge tube so we can do multiple plaque assays later on. 
+Distribute the media in each well into multiple microcentrifuge tube so we can do multiple plaque assays later on. 
 
 **Procedure**
 
@@ -104,4 +101,3 @@ Plaque assay
 ------------
 
 Do a regular :ref:`plaque assay <plaque assay>` with media harvested from each well in the antiviral assay. Then quantify by manually counting the number of plques. 
-
