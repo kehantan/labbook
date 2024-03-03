@@ -8,6 +8,6 @@ We usually change media when:
 
 **Procedure**
 
-#. Remove existing media from culture flask. 
+#. Remove existing media from culture flask with serological pipette. 
 #. Put in fresh media. 
-#. Incubate. 
+#. Place culture flask into incubator. 
