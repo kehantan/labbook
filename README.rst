@@ -6,5 +6,3 @@ This is a lab book for:
 * Recipes for buffers and solutions
 
 You are welcome to contribute. 
-
-To reach me: tankehan321@gmail.com
