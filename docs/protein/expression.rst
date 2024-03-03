@@ -3,6 +3,8 @@
 Protein expression
 ==================
 
+**Objective:** To culture bacteria that will express the target recombinant protein. 
+
 * This procedure has to be carried out in laminar flow. 
 * Do not use the laminar flow in cell culture room, as it could result in contamination. 
 * Remember to plan experiments ahead and book laminar flow and orbital shaker for bacteria work.
