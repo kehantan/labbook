@@ -66,35 +66,14 @@ Now we need to calculate how much media we need. The concept is similar to the p
 
 Similar to above, :code:`10 concentrations` were used in calculation instead of 8 for some extra headroom. 
 
-
 Section 1 - Trypsinise, cell count, seed cells
 ----------------------------------------------
 
 **Trypsinise**
 
-**Requires**
-
-* :ref:`Complete DMEM (10%) <10 dmem>`
-* TrypLE
-* :ref:`Phosphate buffer saline (1x PBS) <pbs>`
-* Centrifuge tube (15 mL)
-
-Assume cells were cultured in a T25 flask to 70% to 90% confluency. 
-
 First step is to detach the cells from the culture flask. Refer to :ref:`trypsinise <My target>`. 
 
 **Cell counting**
-
-**Requires**
-
-* Cell counter
-* Counting chamber
-* 96 well plate for mixing cells with trypan blue
-
-    You can use anything that works well for you, microcentrifuge tube, parafilm, etc. 
-
-* Trypan blue
-* Calculator 
 
 We need to know the number of cells since we want to seed a specific number of cells into each well. Refer to :ref:`cell count <cell count>`.  
 

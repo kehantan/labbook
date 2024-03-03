@@ -1,6 +1,8 @@
 Protease inhibition assay
 =========================
 
+**Objective:** To check the inhibition activity of a compound against the target protease. 
+
 Reference for protease assay protocol: :cite:p:`ihssen_fluorogenic_2021`. 
 There are several standard curve that need to be plotted before we carry out protease assay with the compounds that we wanted to test.  
 

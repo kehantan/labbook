@@ -3,9 +3,12 @@
 Plaque assay
 ============
 
-* Plaque assay is used to quantify the virus titer in a virus sample. I seperate this protocol into different sections, each section indicates that after that procedure was completed, you need to wait until another day to proceed to the next section. 
-* This protocol demonstrate plaque assay in 6 well plate. For plaque in 12 well plate or well plate of other sizes, the procedures are the same, just the volume of liquids, number of cells, and volume of reagents used are different. 
 
+**Objective:** To quantify the virus titer in a virus sample. 
+
+I seperate this protocol into different sections, each section indicates that after that procedure was completed, you need to wait until another day to proceed to the next section. 
+
+This protocol demonstrate plaque assay in 6 well plate. For plaque in 12 well plate or well plate of other sizes, the procedures are the same, just the volume of liquids, number of cells, and volume of reagents used are different. 
 
 Section 1 - Trypsininse, cell count, seed cells
 -----------------------------------------------
@@ -103,19 +106,20 @@ Infection
 #. Incubate the 6 well plate at 37 C for 1 hour. Tilt the plate every 20 mins. 
 #. After 1 hour, overlay the infected cell layer with agarose. 
 
-
 Agarose overlay
 ~~~~~~~~~~~~~~~
 
 #. Prepare agarose by heating the solidified agarose in a microwave oven. 
   
-    Heat until the agarose melts and boils, but do not let agarose bubble for too long, as it will evaporate the water content in the agarose. Let the agarose bubbling for 1 or 2 seconds should be sufficient. 
+    * Heat until the agarose melts and boils, but do not let agarose bubble for too long, as it will evaporate the water content in the agarose. 
+    * Let the agarose bubbling for 1 or 2 seconds should be sufficient. 
+    * Swirl the bottle and check if there are unmelted agarose or solid chunks of agarose in the bottle. 
 
-#. In a 15 ml centrifuge tube, add 9 mL of 2% DMEM and 1 mL of agarose. 
+#. In a 15 ml centrifuge tube, add 9 mL of 2% DMEM and 1 mL of agarose to make a 10 mL agarose overlay. 
 
-    Mix the agarose and 2% DMEM by repeating pipette. You can also invert the tube few times to mix the agarose and media. 
+    Mix the agarose and 2% DMEM by repeating pipette. We can also invert the tube few times to mix the agarose and media evenly. 
 
-    *Note:* 10 mL of agarose is sufficient for a 6 well plate, where each well have 1.5 mL of agarose + 2% DMEM mixture. For 12 well plate, use 1 mL of agarose + 2% DMEM mixture for each well, so have to prepare 13 mL of agarose + 2% DMEM mixture: 1.3 mL agarose + 11.7 mL 2% DMEM.  
+    *Note:* 10 mL of agarose overlay mixture is sufficient for a 6 well plate. For 12 well plate, we can prepare 13 mL of agarose overlay mixture by adding 1.3 mL of agarose to 11.7 mL of fresh 2% DMEM.  
 
 #. Remove existing media from the 6 well plate. 
 
@@ -124,18 +128,16 @@ Agarose overlay
 #. Wash the cells 2 times with PBS.
 #. Dispense 1.5 mL of agarose and 2% DMEM mixture into each well. 
 
-    You can use a serological pipette for this step 
-
-    Dispense the mixture from the wall of each well
+    * You can use a serological pipette for this step 
+    * Dispense the mixture from the wall of each well
 
 #. Leave the 6 well plate in room temperature for 10 to 15 mins.
 #. Agarose should hardens after around 10 mins. 
 
-    You can slightly tilt the plate to check if the agarose solidifies. 
+    * Slightly tilt the plate to check if the agarose solidifies. 
+    * Do not tilt the plate at an overly steep angle as the agarose will torn apart upon its own weight. 
 
-    Do not tilt the plate at an overly steep angle as the agarose will torn apart upon its own weight. 
-
-#. Transfer the 6 well plate into CO2 incubator. 
+#. Transfer the 6 well plate into incubator. 
 
 It usually takes 24 hrs for the CPE to form, and another 24 hrs for the cell infected with virus to die. So usually after 48 hrs of incubation, we can fix and stain the plaque. 
 
@@ -159,27 +161,28 @@ We use crystal violet to stain the cells that are attached to the 6 well plate. 
 
 #. Remove PFA after 1 hr. 
 
-    Using a micropipette, remove the PFA and discard into waste bottle labelled 'chemical waste'. The bottle is stored under the laminar flow cabinet in the lab.
+    * Using a micropipette, remove the PFA and discard into waste bottle labelled 'chemical waste'. 
+    * The chemical waste bottle is stored under the laminar flow cabinet in the lab.
 
-#. Rinse the plate in a bucket of water for a few times to wash away the agarose. 
+#. Rinse the plate in a bucket of water for a few times to wash away the agarose overlay. 
 
     Fill a bucket with tap water first, then immerse the plate into the bucket. Wait for 1 or 2 seconds, then take out the plate. Repeat the process for a few times. 
 
 #. Decant excess water from 6 well plate by slightly tapping the plate facing downwards against a paper towel. 
 #. Stain the wells with crystal violet for 2 to 3 mins. 
 
-    No fix volume required, just need to cover the cell layer. 300 uL should be enough. 
+    * No fix volume required, just need to cover the cell layer. 300 uL should be enough. 
+    * Dispense from the wall of each well. 
+    * Tilt the plate to make sure crystal violet covers the all areas within the wells. 
 
-    Dispense from the wall of each well. 
-
-#. Tilt the plate to make sure crystal violet covers the all areas within the wells. 
+#. Tilt the plate for 1 to 2 mins. 
 #. Remove the crystal violet.
 
     We usually reuse the crystal violet, so pipette the crystal violet in the wells back into the tube which stores crystal violet 
 
 #. Rinse the plate in a bucket of water for a few times to wash away excess crystal violet. 
 
-    This action is similar to how we rinse away the agarose.  
+    This action is similar to how we rinse away the agarose overlay.  
 
 #. Decant excess water from 6 well plate by slightly tapping the plate facing downwards against a paper towel. 
 #. Leave the plate on bench to air dry. 
