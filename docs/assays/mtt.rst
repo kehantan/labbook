@@ -162,15 +162,12 @@ Prepare the compounds with different concentrations before removing media from t
 
     Incubate for how long depends on your study. You can optimise by doing different timepoint, e.g.: 12, 24, 36, 48 hrs and compare the results.     
 
-
 Section 3 - MTT, read absorbance
 --------------------------------
 
-Add MTT
-~~~~~~~
-
-* This is the step where the actual MTT reagent was added. 
-* This procedure can be carried out either in the biosafety cabinet or at bench. 
+* This is the step where the actual MTT reagent will be added. 
+* This procedure can be carried out either in the biosafety cabinet or at bench.
+* Remember to reduce as much light source as possible (i.e.: turn off lights in lab or in BSC) as MTT is light sensitive. 
 
 **Requires**
 
@@ -183,11 +180,13 @@ Add MTT
 #. Take MTT working solution from freezer and warm to room temperature in water bath before use. 
 #. Add 10 uL of MTT into each well.
 
-    Don't have to remove media on this step
+    * Don't have to remove media on this step
+    * The MTT concentration we used in this lab is 5 mg/mL.
+    * There are other concentration of MTT used, you can find this out from the literature. 
 
 #. Incubate. 37 :math:`^{\circ}`\ C, 5% CO2, 3 hrs.
 
-    There are no strict rules for how long the incubation period should be. You can try to optimise. For my experiment, I use 3 hrs. Reduce the incubation time if you find 3 hrs is too long. 
+    There are no strict rules for how long the incubation period should be. You can try to optimise. For my experiment, I use 3 hrs. Reduce the incubation time if you think 3 hrs is too long. 
 
 #. After 3 hrs, remove the 96 well plate from incubator.
 
@@ -197,8 +196,7 @@ Add MTT
 #. Add 100 uL of DMSO into each well. 
 #. Place 96 well plate on shaker and shake for 1 hr.
 
-    This step is to solubilise the formazan crystal. You can reduce the time for shaking, as long as the crystals are completely dissolve in DMSO. You can observe the plate under microscope to see if there are still undissolved crystals. 
-
+    This step is to solubilise the formazan crystal. You can reduce the time for shaking, as long as the crystals are completely dissolve in DMSO. You can observe the plate under microscope to see if there are undissolved crystals. 
 
 Read absorbance
 ~~~~~~~~~~~~~~~
@@ -213,7 +211,7 @@ Read the absorbance with a plate reader.
 
 #. Read plate at 570 nm. 
 
-    There are different protocols that uses different wavelength, you may adjust accordingly. 
+    There are different protocols that uses different wavelength, you may adjust according to literature. 
 
 Clean up
 --------

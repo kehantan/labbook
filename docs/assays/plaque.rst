@@ -3,7 +3,6 @@
 Plaque assay
 ============
 
-
 **Objective:** To quantify the virus titer in a virus sample. 
 
 I seperate this protocol into different sections, each section indicates that after that procedure was completed, you need to wait until another day to proceed to the next section. 
