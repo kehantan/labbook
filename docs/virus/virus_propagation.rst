@@ -57,3 +57,4 @@ Harvest
 * The volume of virus stock do not have to be 500 uL. Depends on the experiments, we can reduce the volume to make more tubes of virus stock. 
 
 .. image:: images/make_virus_stock.png
+    :width: 400
