@@ -1,7 +1,7 @@
 Thawing cells
 =============
 
-Thawing cells from either -80 :math:`^{\circ}`\ C or from liquid nitrogen (LN2). 
+**Objective:** Revive the cells from cryopreserved state. 
 
 **Requires**
 
@@ -10,9 +10,10 @@ Thawing cells from either -80 :math:`^{\circ}`\ C or from liquid nitrogen (LN2).
 
 **Procedure**
 
+#. Warm complete DMEM in water bath to room temperature. 
 #. Dispense 5 mL of complete DMEM into a T25 culture flask.
 #. Take out cryovial from -80 :math:`^{\circ}`\ C  or LN2 tank.
-#. Thaw the cryovial with cells in 37 :math:`^{\circ}`\ C water bath.
+#. Thaw the cryovial containing cells in 37 :math:`^{\circ}`\ C water bath.
    
      Thawing cells rapidly ensures high cell viability.
 

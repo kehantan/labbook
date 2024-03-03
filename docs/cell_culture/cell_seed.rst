@@ -1,7 +1,9 @@
 Cell seeding
 ============
 
-Cell seeding simply means we place the cell into the container we want the cells to grow (well plate, culture flask, etc.). 
+**Objective:** Seed cells for further experiments.
+
+Cell seeding simply means placing the cell into the container we want the cells to grow (well plate, culture flask, etc.) for further experiments or maintaining the cell lines. 
 
 The number of cells to seed depends on several factors: 
 
@@ -11,7 +13,7 @@ The number of cells to seed depends on several factors:
 
     Example: Due to scheduling reasons, we might want to seed the cells on Monday, but we only want to conduct the experiment on the cells on Wednesday. Although I would suggest to always seed the cells one day before your actual experiments whenever possible. 
 
-**Some seeding values we used in our lab**
+**Some seeding values we used in our lab for Vero cells**
 
 For MTT assay:
 

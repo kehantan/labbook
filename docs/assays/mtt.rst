@@ -1,13 +1,17 @@
 MTT assay
 =========
 
-MTT assay is a very common assay, you can find a lot of published articles that optimised MTT assays for different purposes. You don't have to strictly follow the parameters in this protocol. The parameters used in this protocol are the ones that is good enough for my experiments with Vero cells. If you are using other cell lines, refer to other sources for different parameters like: the amount of different reagent being used, the time of incubation, etc. The general protocol for MTT with Vero cells was described by :footcite:t:`guillen2022effect`.
+**Objective:** To find the toxicity level of a compound toward a cell line. 
+
+MTT assay is a very common assay, you can find a lot of published articles that optimised MTT assays for different purposes. You don't have to strictly follow the parameters in this protocol. The parameters used in this protocol are the ones that is good enough for my experiments with Vero cells. If you are using other cell lines, refer to other sources for different parameters like: the amount of different reagent being used, the time of incubation, etc. 
+
+The general protocol for MTT with Vero cells was described by :footcite:t:`guillen2022effect`.
 
 There are some parameters that you will need to find out before starting MTT assay. Some common questions you will immediately bump into when you first trying to do MTT assay including:
 
 #. *How many cells to seed in each well?*
 
-    The common approach is to refer to the published research articles related to the cell lines you are working with to get an idea on how many cells you should seed. If you cannot get the information you can do some optimisation yourself by trying out any range between 1,000 to 5,000 cells/well. Some general rule is that your negative control (untreated cells) well's absorbance should not be too high (exceeds 1.0) at the day of reading the plate. Some published research articles uses cell confluency as a guidelines instead of number of cells seeded. 
+    The common approach is to refer to the published research articles related to the cell lines you are working with to get an idea on how many cells you should seed. If you cannot get the information you can do some optimisation yourself by trying out any range between 1,000 to 10,000 cells/well. Some general rule is that your negative control (untreated cells) well's absorbance should not be too high (exceeds 1.0) at the day of reading the plate. Some published research articles uses cell confluency as a guidelines instead of number of cells seeded. 
 
 #. *How many different concentrations you wanted to test with your compound?*
 

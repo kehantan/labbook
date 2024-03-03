@@ -3,7 +3,7 @@
 Trypsinise
 ==========
 
-Trypsinise is a procedure to remove adherent cells from the culture flask, so we can proceed to other procedures such as cell counting and cell seeding. 
+**Objective:** To detach adherent cells from the culture flask. 
 
 **Requires**
 
@@ -16,15 +16,15 @@ Trypsinise is a procedure to remove adherent cells from the culture flask, so we
 
 Check the cells under microscope before procedure to confirm the cell is at desired confluency. 
 
-#. Remove media from culture flask. 
+#. Remove existing media from culture flask with serological pipette. 
 #. Dispense PBS into culture flask. 
 
     There are no fix volume, main purpose is to rinse the cells and remove DMEM from the cells.
         
-    For T25 flask I usually use around 600 uL, while for T75 flask I usually use around 1 ml
+    For T25 flask I usually use around 500 uL, while for T75 flask I usually use around 1 ml
 
-#. Remove PBS
-#. Dispense TrypLE
+#. Remove PBS.
+#. Dispense TrypLE.
 
     There are no fix volume, main purpose is to detach the cells from the culture flask. Dispense enough volume to cover all the cells. 
     
