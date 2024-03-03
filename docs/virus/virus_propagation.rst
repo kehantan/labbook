@@ -56,4 +56,4 @@ Harvest
 * The harvested virus stock need to have its virus titer quantified. We do this by using :ref:`plaque assay <plaque assay>`. 
 * The volume of virus stock do not have to be 500 uL. Depends on the experiments, we can reduce the volume to make more tubes of virus stock. 
 
-
+.. image:: images/make_virus_stock.png
