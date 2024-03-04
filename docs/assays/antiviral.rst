@@ -25,7 +25,6 @@ Before starting antiviral assay, we should have several information ready.
 
     This requires some trial and error. For pure synthesised organic compounds I usually start with smaller value like 10, 20, 30, 40, 50 ug/mL. The concentration could be adjusted to higer value depends on the type of compounds to be tested, ie: peptides, plant extracts, etc. 
 
-
 **Planning**
 
 We can have some planning on which well we want to use for what (i.e.: negative control, virus control, different concentrations). We can plan this before or after we seed the well plates with cells and we can make the arrangement however we like. 
@@ -48,7 +47,6 @@ I would typically do
 
 This is merely a suggestion, you can tailor the arrangement however you like according to the need of your experiments, but always remember to include negative control and virus control wells. 
 
-
 Cell seeding
 ------------
 
@@ -56,7 +54,6 @@ For antiviral assay, our cells should be at 70% confluency at the day of infecti
 
 * For 6 well plate, we can seed 450,000 cells for next day infection and treatment. 
 * For 12 well plate, we can seed 150,000 cells for next day infection and treatment. 
-
 
 Infection and treatment
 -----------------------
@@ -95,7 +92,6 @@ Distribute the media in each well into multiple microcentrifuge tube so we can d
 #. Aliquot the exist media in the well plates into different microcentrifuge tube.
 #. Snap freeze the microcentrifuge tube in liguid nitrogen. 
 #. Store at -80 C. 
-
 
 Plaque assay
 ------------
