@@ -1,9 +1,6 @@
 Plaque assay results
 ====================
 
-Expected results
-----------------
-
 Plaque assays should form plaques, which is a small, clear area that surrounded by cells. After stained with crystal violet, the cells surrounding the plaques should be purple in colour. In theory, the lower the virus dilution (virus is less diluted), the more virus particles there is, so more plaques would form; the higher the dilution (virus is more diluted), the less virus particles there are, so less plaques would form. 
 
 Assuming you are getting plaques and not other problems like cells detaching due to other technical issues, there are several outcomes that you would get from a well in plaque assay:
@@ -12,7 +9,7 @@ Assuming you are getting plaques and not other problems like cells detaching due
 #. You get individual plaques, no overlapping. Each plaque is surrounded by non infected cells. However, there are too many plaques, which can be difficult to count. 
 #. You get individual plaques, no overlapping. Each plaque is surrounded by non infected cells and there are around 100 plaques in each well. This is the most ideal outcome we want, where there is plaque formation and there are not too many to a point that they are difficult to count. 
 
-Pick wells that have countable plaques (whether a well is consider countable or uncountable is very subjective, choose whichever you are comfortable with. If you do different plates of plaque assay with the same virus sample I would generally suggest choose at least 3 wells from all the well plates). 
+Pick wells that have countable plaques and count the plaques for the wells. Whether a well is consider countable or uncountable is very subjective, choose whichever you are comfortable with. If you do different plates of plaque assay with the same virus sample I would suggest choose at least 3 wells from all the well plates. You could choose more if desired.  
 
 Calculations
 ------------
@@ -33,7 +30,7 @@ After you get the pfu/mL for the first well, repeat the process for the nother 2
 
 Then this is the final virus titer for that particular batch of your virus stock. 
 
-**Questions**
+**FAQ**
 
 #. Would the same batch of virus stock but from different microcentrifuge tube have different titer? 
 

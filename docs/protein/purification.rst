@@ -6,8 +6,9 @@ Protein extraction and purification
     Split into smaller sections if needed 
 
 
-Protein purification is quite a long procedure where multiple samples will be collected for further testing. All the samples (I mean ALL, both supernatant and precipitate) will be stored until the target protein was obtained. Therefore, it is important to clearly label every tubes/containers used. 
+**Objective:** To purify expressed protein from bacteria. 
 
+Protein purification is quite a long procedure where multiple samples will be collected for further testing. All the samples (I mean ALL, both supernatant and precipitate) will be stored until the target protein was obtained. Therefore, it is important to clearly label every tubes/containers used. 
 
 **Requires**
 
@@ -22,15 +23,12 @@ Protein purification is quite a long procedure where multiple samples will be co
 * Buffer D 
 * Rotator
 
-
 Buffers 
 -------
 
-Before begin, prepare the buffers. Preferrably at least one day before use, because adjusting pH of buffers takes quite some time. Some buffer also need to be pre-cool, like Buffer D. 
-
+Before we begin, we need to prepare the buffers needed for this process, preferrably at least one day before use, because adjusting pH of buffers takes quite some time. Some buffer also need to be pre-cool, like Buffer D. 
 
 **Lysis buffer**
-
 
 **Buffer B**
 
@@ -45,7 +43,6 @@ Before begin, prepare the buffers. Preferrably at least one day before use, beca
 +--------+-------------------+-------+----------+---------+
 | Top up with water until            | 100 mL   | 60 mL   |
 +------------------------------------+----------+---------+
-
 
 **Buffer C**
 
@@ -63,7 +60,6 @@ Before begin, prepare the buffers. Preferrably at least one day before use, beca
 | Top up with water until               | 100 mL   | 10 mL    |  
 +---------------------------------------+----------+----------+
 
-
 **Buffer D** 
 
 We would need at least 3 L of buffer D for one purification. 
@@ -78,18 +74,17 @@ We would need at least 3 L of buffer D for one purification.
 | Top up with water up to            | 100 mL  | 4000 mL |     
 +------------------------------------+---------+---------+
 
-
 The bacterial pellet from the end of :ref:`expression <protein-expression>` procedure was stored at -80 :math:`^{\circ}`\ C. Extraction and purification would proceed from there.  
-
 
 Protein extraction
 ------------------
 
+This step is to break the bacteria cells and release all the expressed proteins.
+
 #. From the bacterial pellet from 500 mL culture. 
 
-    Recap: The bacterial pellet from the 500 mL culture was seperated into 2 x 50 mL centrifuge tube. 
-    
-    We would use both tube for protein extraction and purification
+    * Recap: The bacterial pellet from the 500 mL culture was seperated into 2 x 50 mL centrifuge tube. 
+    * We would use both tube for protein extraction and purification
 
 #. Add 5 mL of lysis buffer into each centrifuge tube and suspend the pellet completely. Use a vortex if necessary. 
 
@@ -98,9 +93,8 @@ Protein extraction
 #. Combine the suspension of both tube into a single 50 mL centrifuge tube. 
 #. Leave the centrifuge tube at room temperature for 30 mins.
 
-    Optional: Rotate the centrifuge tube at 60 rpm with a rotator. 
-    
-    Can prepare Ni-NTA while waiting for the incubation. 
+    * Optional: Rotate the centrifuge tube at 60 rpm with a rotator. 
+    * Can prepare Ni-NTA while waiting for the incubation. 
 
 #. Homogenise using ultrasonic homogeniser at 8000 rpm, 4 :math:`^{\circ}`\ C for 15 mins. 
 
@@ -116,12 +110,10 @@ Protein extraction
 #. Transfer the sonicated suspension into a new 50 mL centrifuge tube. 
 #. Centrifuge. 8000 rpm, 4 :math:`^{\circ}`\ C, 15 mins.  
 
-
 Protein purification
 --------------------
 
-Continue after the centrifuge from last section. 
-
+Continue after the centrifuge from last section. This step is the actual protein purification step. 
 
 **Preparation of Ni-NTA resin**
 
@@ -139,7 +131,6 @@ Continue after the centrifuge from last section.
 #. Centrifuge. 500 x g (or 3,000 rpm), 5 min.
 #. Remove supernatant. 
 #. Keep the 50 mL centrifuge with Ni-NTA in ice until later use. 
-
 
 **Protein purification from prepared pellet (after lysis)**
 
@@ -161,9 +152,8 @@ Continue after the centrifuge from last section.
 
 #. Collect pellet. 
 
-    To make SDS-PAGE sample of pellet, add 1 mL of lysis buffer or Buffer B to pellet and mix using vortex. 
-
-    Leave the pellet on ice for 1 hr, then collect 100 uL of suspended pellet for SDS-PAGE (**sample #3**)
+    * To make SDS-PAGE sample of pellet, add 1 mL of lysis buffer or Buffer B to pellet and mix using vortex. 
+    * Leave the pellet on ice for 1 hr, then collect 100 uL of suspended pellet for SDS-PAGE (**sample #3**)
 
 #. Add the collected supernatant to Ni-NTA resin
 
@@ -202,10 +192,10 @@ Continue after the centrifuge from last section.
 
     SDS-PAGE for this uses about 12-15% gel.
 
-
 SDS-PAGE 
 --------
 
+*Update needed*
 
 Dialysis
 --------
@@ -214,7 +204,6 @@ Dialysis
 * This procedure needs to be carried out in cold room.
 * Pre-cool Buffer D to 4 :math:`^{\circ}`\ C, so bring the buffer into cold room at least 1 hr before starting the procedure. 
 * Other equipments needed in the cold room including magnetic stirrer and retort stand. 
-
 
 **Procedure** 
 

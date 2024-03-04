@@ -1,6 +1,8 @@
 SDS-PAGE
 ========
 
+**Objective:** To run SDS-PAGE and check for fractions with target protein in protein purification process. 
+
 * A single run of SDS-PAGE will usually eats up a whole day. This does not include time required to prepare all the buffers and gathering all required reagent. So plan the experiment accordingly and prepare the buffers at least 1 day before the actual procedure. 
 
 Prepare gel 
@@ -172,9 +174,8 @@ Running gel
 
 #. Set the power supply unit. 
 
-    300 V, 50 amp, around 70 mins.
-
-    For some older units, the voltage might not be constantly sitting at 300 V. It is alright as long as the amp is stable. 
+    * 300 V, 50 amp, around 70 mins.
+    * For some older units, the voltage might not be constantly sitting at 300 V. It is alright as long as the amp is stable. 
 
 #. Start the electrophoresis. 
 

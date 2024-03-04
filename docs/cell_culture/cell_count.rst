@@ -9,7 +9,6 @@ Purpose of cell counting is important for knowing if we have enough cells for ou
 
 **Requires**
 
-* Centrifuge tube (15 mL)
 * Counting chamber
 * Counter
 * Trypan blue

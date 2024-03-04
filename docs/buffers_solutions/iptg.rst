@@ -1,6 +1,5 @@
 .. _iptg:
 
-
 IPTG stock
 ==========
 

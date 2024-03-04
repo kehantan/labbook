@@ -15,7 +15,7 @@ MTT working solution
 
     MTT powder can be found in fridge (4 :math:`^{\circ}`\ C)
 
-* Distilled water 
+* Distilled water or PBS
 * Centrifuge tube (15 mL)
 * Syringe
 * Syringe filter (0.22 um)
@@ -24,10 +24,14 @@ MTT working solution
 **Procedure**
 
 #. Weight 0.05 g (50 mg) of MTT powder and transfer into a 15 mL centrifuge tube. 
-#. Add 10 mL of distilled water in to the centrifuge tube. 
+#. Add 10 mL of distilled water in to the centrifuge tube.
+
+    We can use either distilled water or PBS to dissolve MTT powder. 
+
 #. Vortex the solution until MTT is completely dissolve. 
 
-    Dissolve as much MTT powder as possible. Usually the powder would not dissolve completely, leaving behind some small chunks of solids. This is ok, we can filter it out in the next step. 
+    * Dissolve as much MTT powder as possible. Usually the powder would not dissolve completely, leaving behind some small chunks of solids. This is ok, we can filter it out in the next step.
+    * Or you can use a sonicator to break all the clumps. 
 
 #. Filter with syringe filter. 
 #. Wrap the centrifuge tube with aluminium foil. 

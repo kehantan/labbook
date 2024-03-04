@@ -27,6 +27,9 @@ Infection
 
 *Note: Dengue virus usually causes the cells to exhibits cytopathic effect (CPE) in 24 hrs. At 48 hrs, most cells should be dead and detached from the base of the flask. You can wait another day (at 72 hrs) to harvest the virus, but don't leave it too long (more than 3 days) in the incubator, there is a very high chance of contamination.* 
 
+.. image:: images/make_virus_stock.png
+    :width: 600
+
 Harvest
 -------
 
@@ -56,5 +59,5 @@ Harvest
 * The harvested virus stock need to have its virus titer quantified. We do this by using :ref:`plaque assay <plaque assay>`. 
 * The volume of virus stock do not have to be 500 uL. Depends on the experiments, we can reduce the volume to make more tubes of virus stock. 
 
-.. image:: images/make_virus_stock.png
-    :width: 400
+.. image:: images/virus_infection_harvest.png
+    :width: 600

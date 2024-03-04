@@ -33,8 +33,8 @@ Complete DMEM (10%)
 
 #. Seal with parafilm. Store in fridge (4 :math:`^{\circ}`\ C).
 
-
 **Note**
 
 * Final concentration for sodium pyruvate is usually 1 mM.
+* Add or not to add sodium pyruvate depends on if the manufacturer had added in their commerciallised product. 
 * The volume of sodium pyruvate to add into complete DMEM depends on the concentration of the sodium pyruvate stock solution. Adjust the volume of DMEM to compensate the volume changes in sodium pyruvate.
