@@ -1,9 +1,9 @@
 .. _aps:
 
-10% APS
-=======
+10% Ammonium persulfate (APS)
+=============================
 
-* 10% Ammonium persulfate (APS)
+**Objective:** To prepare 10% APS for SDS-PAGE. 
 
 **Requires**
 

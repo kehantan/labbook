@@ -1,7 +1,7 @@
 Bradford assay
 ==============
 
-**Objective:** Quantify concentration of protein in a sample.
+**Objective:** To quantify concentration of protein in a sample.
 
 **Requires**
 

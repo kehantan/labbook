@@ -1,8 +1,10 @@
 TrypLE
 ======
 
+**Objective:** To aliquot TrypLE into smaller vial from stock solution. 
+
 * TrypLE comes as stock solution in a bottle. 
-* Aliquote it into a smaller volume and store in the fridge (4 :math:`^{\circ}`\ C) for future use. 
+* Aliquote it into a smaller volume and store in the fridge (4 :math:`^{\circ}`\ C) for future use, no dilution required. 
 * Aliquote TrypLE in the biosafety cabinet to prevent contamination. 
 
 **Requires**

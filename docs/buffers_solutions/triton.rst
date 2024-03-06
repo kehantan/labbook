@@ -1,7 +1,9 @@
 Triton X-100 stock
 ==================
 
-* Our lab usually purchased the commercially available 100% Triton X-100. Dilute to 10% concentration with distilled water.
+**Objective:** To prepare 10% Triton X-100 solution from 100% stock solution. 
+
+* Our lab purchase the commercially available 100% Triton X-100. This protocol shows the process of diluting to 10% concentration with distilled water.
 * Can be prepared on bench 
 * This protocol prepare 10 mL of 10% Triton X-100 stock solution
 

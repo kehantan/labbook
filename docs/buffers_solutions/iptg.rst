@@ -3,9 +3,10 @@
 IPTG stock
 ==========
 
-* This protocol is for preparing 250 mM IPTG stock solution 
-* Final volume: 10 mL 
-* MW: 238.31 g/mol
+**Objective:** To prepare IPTG stock solution from IPTG powder. 
+
+* This protocol is for preparing IPTG stock solution at concentration of 250 mM with final volume of 10 mL 
+* IPTG MW: 238.31 g/mol
 
 **Requires**
 

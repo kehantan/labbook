@@ -3,7 +3,8 @@
 Running buffer
 ==============
 
-* Running buffers are used for SDS PAGE
+**Objective:** To prepare running buffer for SDS PAGE.
+
 * This protocol prepares running buffer in 1x concentration, another way is to prepare 10x and dilute to 1x when we wanted to use.
 * Volume = 1 L 
 * pH 8.3 (pH of final solution should be around 8.3, no adjustment required)

@@ -3,6 +3,8 @@
 DMEM
 =====
 
+**Objective:** To prepare DMEM solution from DMEM powder. 
+
 * In this lab, we prepare 1 L of DMEM solution from powder. We then aliquote from 1 L of DMEM to smaller vial (50 mL centrifuge tube) and add FBS, Pen-Strep, and sodium pyruvate to make complete DMEM. 
 * Read the packaging or search the data sheet online before preparing DMEM. Because at different times we might order different brands of DMEM powder and different manufacturer would left out different ingredients such as sodium bicarbonate or HEPES. We need to measure the amount of the missing ingredients and manually add them when preparing the media. 
 * DMEM can be prepared on bench, but filter in BSC. 
@@ -10,7 +12,7 @@ DMEM
 **Requires**
 
 * Autoclaved Milli-Q water (1 L)
-* Vacuum filter cup with 0.22 um filter 
+* Vacuum filter cup with 0.22 um pore size 
 * DMEM powder
 * Sodium bicarbonate (NaHCO3)
 * Magnetic stirrer

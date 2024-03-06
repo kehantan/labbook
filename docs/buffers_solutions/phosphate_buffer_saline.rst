@@ -3,8 +3,9 @@
 Phosphate buffer saline (PBS)
 =============================
 
-* This protocol is dilution for 10 x liquid stock D-PBS into 1x. 
-* PBS need to be prepared in biosafety cabinet.
+**Objective:** To dilute 10x stock D-PBS into 1x working PBS. 
+
+* PBS need to be prepared in biosafety cabinet to avoid contamination.
   
 **Requires**
 
@@ -20,11 +21,9 @@ Phosphate buffer saline (PBS)
 **Procedure**
 
 #. Dispense 5 mL of D-PBS into a 50 mL centrifuge tube. 
-#. Add 45 mL of distilled water/Milli-Q water in the same 50 mL centrifuge tube. 
-
-    To dilute 10x D-PBS to 1x
-
-#. Filter with 0.22 um filter using syringe into a new 50 mL centrifuge tube.
+#. Add 45 mL of distilled water/Milli-Q water in the same 50 mL centrifuge tube to dilute 10x D-PBS to 1x. 
+#. Mix well. 
+#. Filter the diluted PBS with 0.22 um filter using syringe into a new 50 mL centrifuge tube.
 #. Label the centrifuge tube. 
 
     Label example: :code:`1x PBS, name initials, date prepared`

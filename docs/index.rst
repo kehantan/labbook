@@ -17,6 +17,7 @@ Contents
    protein
    virus
    serial_dilution
+   waste
    misc
    where_to
 

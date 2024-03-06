@@ -1,7 +1,7 @@
 Before we begin cell culture
 ============================
 
-**Some ground rules**
+**Ground rules**
 
 Maintain good aseptic technique is important throughout the whole process of cell culture. 
 

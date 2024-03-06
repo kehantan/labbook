@@ -3,9 +3,11 @@
 MTT working solution
 ====================
 
+**Objective:** To prepare MTT working solution from MTT powder. 
+
 * MTT comes in powder form. 
 * Concentration of MTT we use in this lab is 5 mg/mL
-* MTT stock solution can be prepared on bench. 
+* MTT solution can be prepared on bench. 
 * We usually prepare 10 mL of MTT working solution in 15 mL centrifuge tube and store in freezer (-20 :math:`^{\circ}`\ C).
 * MTT solution is sensitive to light. So we need to wrap the prepared solution in aluminium foil before storing in freezer. 
 

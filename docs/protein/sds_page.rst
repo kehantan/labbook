@@ -1,9 +1,12 @@
+.. _sds-page:
+
 SDS-PAGE
 ========
 
 **Objective:** To run SDS-PAGE and check for fractions with target protein in protein purification process. 
 
 * A single run of SDS-PAGE will usually eats up a whole day. This does not include time required to prepare all the buffers and gathering all required reagent. So plan the experiment accordingly and prepare the buffers at least 1 day before the actual procedure. 
+* SDS-PAGE for this uses about 12-15% gel.
 
 Prepare gel 
 -----------

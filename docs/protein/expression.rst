@@ -9,13 +9,11 @@ Protein expression
 * Do not use the laminar flow in cell culture room, as it could result in contamination. 
 * Remember to plan experiments ahead and book laminar flow and orbital shaker for bacteria work.
 
-
 **Requires**
 
 * Transformed BL21
 * BL21 cell + Plasmid
 * :ref:`IPTG stock solution <iptg>`
-
 
 **Procedure**
 
@@ -39,7 +37,6 @@ Prepare LB agar
 
 #. Wrap in plastic bag and store on bench. 
 
-
 Prepare LB broth
 ----------------
 
@@ -53,7 +50,6 @@ To prepare LB broth, just follow the instructions on the LB broth bottle.
 
 For the ease of work, aside from preparing a 1 L LB broth for large scale culture, we can also prepare another LB broth in a 500 mL bottle used for various purpose such as small scale culture (initial culture of BL21 bacterial in 15 mL centrifuge tube before transfer to the 1 L broth) and as a blank for measuring the OD of the cultured bacteria. 
 
-
 Subculture E. coli
 ------------------
 
@@ -64,6 +60,7 @@ Subculture E. coli
 * Plastic inoculation loop
 * Bunsen burner
 
+**Procedure** 
 
 #. Aliquote 2 x 10 mL from 1 L LB broth into seperate 15 mL centrifuge tube. 
 #. Aliquote 5 mL of broth into a 15 mL centrifuge tube. 
@@ -73,7 +70,6 @@ Subculture E. coli
 #. Pick a single *E. coli* colony from agar plate and mix with LB broth in the 15 mL centrifuge tube.
 #. Pick a single *E. coli* colony from agar plate and streak on new LB agar plate. 
 #. Shake the centrifuge tube. 24 hrs, 37 :math:`^{\circ} C`, 180 rpm.
-
 
 Large scale culture
 -------------------
@@ -86,6 +82,7 @@ Large scale culture
 * :ref:`IPTG stock solution <iptg>`
 * Refrigerated centrifuge 
 
+**Procedure**
 
 #. Decant the 2 15 mL centrifuge tube culture into the 1 L LB broth. 
 #. Shake. 1 to 3 hrs, 37 :math:`^{\circ}`\ C, 180 rpm. 
@@ -99,9 +96,8 @@ Large scale culture
 #. Shake. 2 hrs, 37 :math:`^{\circ}`\ C, 180 rpm.
 #. Centrifuge. 3000 rpm, 10 mins. 
 
-    Centrifuge with the chiller centrifuge in Bilik Kultur Tisu. Each bucket can hold 1 50 mL centrifuge tube. 
-
-    Remember to book the machine before use, and pre-cool at least 20 mins before use 
+    * Centrifuge with the chiller centrifuge in Bilik Kultur Tisu 1. Each bucket can hold 1 50 mL centrifuge tube. 
+    * Remember to book the machine before use, and pre-cool at least 20 mins before use 
 
 #. Decant supernatant. 
 #. Wash pellet with PBS. 
@@ -114,6 +110,5 @@ Large scale culture
 #. Label the centrifuge tube.
 #. Store pellet at -80 :math:`^{\circ}`\ C.
 
-    Bacterial pellet can be stored in -80 :math:`^{\circ}`\ C for months wihtout problem. 
-
-    Wrap the centrifuge tube in plastic bag before storing in -80 :math:`^{\circ}`\ C to prevent contamination of other samples.  
+    * Bacterial pellet can be stored in -80 :math:`^{\circ}`\ C for months wihtout problem. 
+    * Wrap the centrifuge tube in plastic bag before storing in -80 :math:`^{\circ}`\ C to prevent contamination of other samples.  

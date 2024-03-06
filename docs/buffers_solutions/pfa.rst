@@ -3,8 +3,8 @@
 Paraformaldehyde (PFA)
 ======================
 
-* To make 3.7% PFA from 37% PFA
-* Mainly used to fix plaque assay
+**Objective:** To prepare 3.7% paraformaldehyde from 37% PFA for fixing plaque assay. 
+
 * Can prepare at bench 
 
 **Requires**

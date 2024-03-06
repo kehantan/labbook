@@ -1,6 +1,8 @@
 Bicinchoninic acid assay (BCA)
 ==============================
 
+**Objective:** To quantify concentration of protein in a sample using BCA. 
+
 * We use kit for this assay. Can refer the procedure from manufacturer website or the manual provided in the box.  
 * This procedure can be carried out on bench. 
 
@@ -9,6 +11,8 @@ Bicinchoninic acid assay (BCA)
 * PCR centrifuge tube 
 * Microcentrifuge tube (1.5 mL)
 * 96 well plate
+* Distilled water 
+* BCA kit 
 * Microplate reader that can read absorbance
 
     Book in Bilik alat 1. 
@@ -17,7 +21,7 @@ Bicinchoninic acid assay (BCA)
 
 **Prepare BCA reagent solution**
 
-Before we run the experiment, we have to prepare Reagent A:Reagent B:Reagent C in ratio of 25:24:1. Calculate how much reagent needed for your experiments.
+Before we run the experiment, we have to prepare Reagent A:Reagent B:Reagent C in ratio of 25:24:1. This information can be found on manufacturer's website. Calculate how much reagent needed for your experiments.
 
 **Prepare serial dilution of sample**
 
@@ -30,11 +34,7 @@ Before we run the experiment, we have to prepare Reagent A:Reagent B:Reagent C i
 
 **Prepare different concentration of standard solution**
 
-Prepare different concentration of BCA stanadard (Albumin). 
-
-    25, 125, 250, 500, 750, 1000, 1500, 2000 ug/mL
-
-To prepare different concentrations of standard solution, dilute the standard solution that included in the kit with distilled water.  
+We would prepare different concentration of BCA stanadard (Albumin): 25, 125, 250, 500, 750, 1000, 1500, 2000 ug/mL. To prepare different concentrations of standard solution, dilute the standard solution that included in the kit with distilled water.  
 
 #. Prepare and label 8 microcentrifuge tubes. 
 #. Dispense appropriate amount of distilled water into each microcentrifuge tube. 

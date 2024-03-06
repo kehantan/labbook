@@ -3,6 +3,8 @@
 10% SDS
 =======
 
+**Objective:** To prepare 10% SDS from SDS powder. 
+
 * 10% SDS w/v
   
 **Requires**
@@ -23,4 +25,3 @@
 #. Top up with distilled water until 100 mL of final volume. 
 #. Label. 
 #. Store at bench. 
-

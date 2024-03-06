@@ -17,7 +17,7 @@ Thawing cells
    
      Thawing cells rapidly ensures high cell viability.
 
-#. Optional step to remove cryopreservant and non-viable cells: resuspend cells in medium and briefly centrifuge (150–300 x g for 3 to 5 mins). Resuspend cell pellet in fresh medium.
+#. *Optional step:* to remove cryopreservant and non-viable cells: resuspend cells in medium and briefly centrifuge (150–300 x g for 3 to 5 mins). Resuspend cell pellet in fresh medium.
 #. Transfer freshly thawed cells into culture flask with micropipette.
 #. Label the flask.  
 

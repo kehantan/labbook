@@ -1,6 +1,8 @@
 Cryopreservation
 ================
 
+**Objective:** To cryopreserve excessive cells for furture experiments. 
+
 Our lab uses 500 uL of cell suspension for each cryopreservation tube. Depending on the final volume of your cell suspension, you can estimate how many tubes you can cryo. For example, if the final volume of cell suspension is 3 mL, then you can cryo up to 6 tubes. 
 
 **Requires**

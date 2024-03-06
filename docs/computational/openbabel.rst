@@ -1,9 +1,10 @@
 Open Babel
 ==========
+
 Open Babel is a very handy tool for computational chemistry which have multiple functions. Some of the functions that I regularly used including:
 
 * convert between different file formats (e.g.: from .pdb to .mol)
-* generate 3D coordinates with option ``--gen3d``
+* generate 3D coordinates 
 * energy minimise a molecule
 
 **Installation**
@@ -28,12 +29,10 @@ In the terminal, type
 
     ``obabel -i <type of input file> <name of input file> -o <type of output file> -O <name of output file> [options]``
 
-For example, 
+For example, to convert a pdb file into a mol2 file:
 
     ``obabel -i pdb ligand.pdb -o mol2 -O ligand.mol2``
 
-Sometimes when you download a ligand file in sdf format, it does have 3D coordinates. You can do 
+Sometimes when you download a ligand file in sdf format, it does have 3D coordinates. You can use the ``--gen3d`` option to generate a pdb file with 3D coordinates 
 
     ``obabel -i sdf ligand.sdf -o pdb -O ligand.pdb --gen3d``
-
-to generate a pdb file with 3D coordinates
