@@ -30,7 +30,8 @@ Prepare gel
 #. Prepare 2 small beaker for resolving gel and stacking gel. Prepare 1 larger beaker for distilled water. 
 #. Prepare the resolving and stacking gel solution according to the table, but leave out TEMED.
 
-    The sequence is to cast resolving gel first then only cast stacking gel. Can prepare the resolving gel first, then prepare stacking gel. You can prepare and cast the resolving gel first, then prepare the stacking gel while waiting for the resolving gel to solidify. 
+    * The sequence is to cast resolving gel first then only cast stacking gel. 
+    * Can prepare the resolving gel first, then prepare stacking gel immediately after. Another option is to prepare and cast the resolving gel first, then prepare the stacking gel while waiting for the resolving gel to solidify. 
 
 Cast gel
 --------
@@ -45,17 +46,15 @@ Cast gel
 
 **Procedure**
 
-Setup
-~~~~~
+**Setup**
 
-Refer to Youtube videos on how to setup the gel casting apparatus. 
+Refer to YouTube videos on how to setup the gel casting apparatus. 
 
 #. Put short glass plate infront of tall glass plate, with the opening in the middle of the two plates. 
 #. Place the glass plate sandwich into casting frame. 
 
-    Make sure the bottom of glass plates are aligned with the casting frame and flat. 
-
-    The glass plates should only go into the casting frame in one way. 
+    * Make sure the bottom of glass plates are aligned with the casting frame and flat. 
+    * The glass plates should only go into the casting frame in one way. 
 
 #. Secure the casting frame on the casting stand with the clip on the top. 
 #. With a wash bottle filled with distilled water, dispense small amount of distilled water to the bottom of the glass plates. 
@@ -68,8 +67,7 @@ Refer to Youtube videos on how to setup the gel casting apparatus.
 
 #. After the distilled water was removed, the gel is ready to cast. 
 
-Casting resolving gel
-~~~~~~~~~~~~~~~~~~~~~
+**Casting resolving gel**
 
 #. Add TEMED into the resolving gel solution. 
 #. Pipette the resolving gel solution into the glass sandwich via the opening.
@@ -83,8 +81,7 @@ Casting resolving gel
 
     Can either remove with a filter paper of just decant the water into sink
 
-Casting stacking gel
-~~~~~~~~~~~~~~~~~~~~
+**Casting stacking gel**
 
 #. Add TEMED into the stacking gel solution. 
 #. Pipette the stacking gel solution into the glass sandwich via the opening.
@@ -199,7 +196,6 @@ Fixing
 
 
 **Procedure**
-
 
 
 Staining

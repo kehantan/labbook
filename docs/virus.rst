@@ -7,4 +7,3 @@ Virus related stuff.
    :maxdepth: 1
 
    virus/virus_propagation
-   virus/virus_waste
