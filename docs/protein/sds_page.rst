@@ -28,7 +28,7 @@ Prepare gel
 **Procedure** 
 
 #. Prepare 2 small beaker for resolving gel and stacking gel. Prepare 1 larger beaker for distilled water. 
-#. Prepare the resolving and stacking gel solution according to the table, but leave out TEMED.
+#. Prepare the resolving and stacking gel solution according to the table, but leave out APS and TEMED.
 
     * The sequence is to cast resolving gel first then only cast stacking gel. 
     * Can prepare the resolving gel first, then prepare stacking gel immediately after. Another option is to prepare and cast the resolving gel first, then prepare the stacking gel while waiting for the resolving gel to solidify. 
@@ -40,9 +40,9 @@ Cast gel
 
 * Casting frame 
 * Casting stand
-* Tall glass plate
-* Short glass plate 
+* Tall and short glass plate
 * Wash bottle filled with distilled water
+* Comb
 
 **Procedure**
 
@@ -50,16 +50,16 @@ Cast gel
 
 Refer to YouTube videos on how to setup the gel casting apparatus. 
 
-#. Put short glass plate infront of tall glass plate, with the opening in the middle of the two plates. 
+#. Put short glass plate infront of tall glass plate, with the gap sandwiched in the middle of the two plates. 
 #. Place the glass plate sandwich into casting frame. 
 
     * Make sure the bottom of glass plates are aligned with the casting frame and flat. 
-    * The glass plates should only go into the casting frame in one way. 
+    * The glass plates should only be able to go into the casting frame in one orientation. 
 
 #. Secure the casting frame on the casting stand with the clip on the top. 
 #. With a wash bottle filled with distilled water, dispense small amount of distilled water to the bottom of the glass plates. 
 
-    This step is to make sure there are no leakage and the setup is secured
+    This step is to make sure there are no leakage and to make sure the setup is secured.
 
 #. Remove the distilled water. 
 
@@ -69,9 +69,10 @@ Refer to YouTube videos on how to setup the gel casting apparatus.
 
 **Casting resolving gel**
 
-#. Add TEMED into the resolving gel solution. 
-#. Pipette the resolving gel solution into the glass sandwich via the opening.
-#. Fill the resolving gel to about 2 cm from the top of the glass sandwich. 
+#. Add APS and TEMED into the resolving gel solution. 
+#. Mix the resolving gel solution well by repeating pipette a few times. 
+#. Pipette the resolving gel solution into the gap between the two glass plates.
+#. Fill the resolving gel to about 2 cm from the top of the opening of the glass sandwich. 
 #. Add distilled water on top of resolving gel. 
 #. Let it sit for about 30 mins. The resolving gel should solidifies after 30 mins. 
 
@@ -79,43 +80,17 @@ Refer to YouTube videos on how to setup the gel casting apparatus.
 
 #. Remove the water on top of the resolving gel. 
 
-    Can either remove with a filter paper of just decant the water into sink
+    Can either remove with a filter paper of just decant the water into sink.
 
 **Casting stacking gel**
 
-#. Add TEMED into the stacking gel solution. 
-#. Pipette the stacking gel solution into the glass sandwich via the opening.
-#. Fill the stacking gel to the top of the glass sandwich. 
-#. Place the comb into the stacking gel. 
+#. Add APS and TEMED into the stacking gel solution. 
+#. Mix the stacking gel solution well by repeating pipette a few times. 
+#. Pipette the stacking gel solution into the gap between the glass plates.
+#. Fill the stacking gel on top of the resolving gel until the opening of the glass sandwich.  
+#. Make sure the well on the comb is the number of wells you need. Insert the comb into the stacking gel. 
 #. Let it sit for about 30 mins. The stacking gel should solidifies after 30 mins. 
 #. After 30 mins, slowly remove the comb. The gel should be ready to assemble and load with samples. 
-
-Prepare sample
---------------
-
-**Requires**
-
-* PCR tubes
-* Thermal cycler
-* Sample buffer
-
-**Procedure**
-
-#. Prepare PCR tube and label them. 
-
-    Depending on how many samples you wanted to load into the gel. 
-
-#. Aliquot sample and sample buffer into the PCR tubes at a 1:1 ratio. 
-
-    This requires optimisation. 5 to 10 uL could work. E.g.: 10 uL of sample + 10 uL of sample buffer
-
-#. Spin down with a PCR centrifuge. 
-
-    Spin for about 15 secs
-
-#. Load the PCR tubes with samples into the thermal cycler. 
-#. Set the thermal cycler. 95 :math:`^{\circ}`\ C, 5 mins. 
-#. Run the thermal cycler.
 
 Assemble setup
 --------------
@@ -125,25 +100,60 @@ Assemble setup
 * Casted gel
 * Dummy plate
 * Buffer tank
-* Clamp 
+* Cassette
 * :ref:`Running buffer <running buffer>`
 
 **Procedure**
 
 #. Remove the casting frame that contains the casted gel from the casting stand. 
-#. Release the clamp of casting frame and remove the glass plates from the casting frame. 
-#. Place the glass plates into one side of the cassette. Place dummy plates on the other side of the cassette. 
-#. Secure the glass plates and the dummy plate with the clamps on both sides. 
-#. Insert the clamps into the buffer tank
-#. Fill the inner compartment (between glass plates and dummy plate) with running buffer until the brim. Fill the buffer tank (outside of the cassette) with running buffer until the marker on the buffer tank. 
+#. Release the clamp of casting frame and remove the glass plates from the casting frame.
+#. Place the glass plates into one side of the cassette. If you are only running one gel, place a dummy plate on the other side of the cassette.
 
-    The marker on the buffer tank shows the buffer level for at least 2 plates. I usually just fill up to the '2 gel' marker even I am only running 1 gel
+    Make sure the lower glass plate facing the inside of the cassette. Direction is important, this allows a closed circuit to form.  
+
+#. Secure the glass plates and the dummy plate with the clamps on both sides. 
+#. Insert the cassette into the buffer tank.
+#. Fill the inner compartment of the cassete (the space between glass plates and dummy plate) with running buffer until the brim. Fill the buffer tank (outside of the cassette) with running buffer until the marker on the buffer tank. 
+
+    The marker on the buffer tank shows the buffer level for at least 2 plates. I usually just fill up to the '2 gel' marker even I am only running 1 gel.
+
+Prepare sample
+--------------
+
+**Requires**
+
+* PCR tubes
+* Thermal cycler
+* Sample buffer
+* :math:`{\beta}`-mercaptoethanol/BME
+
+**Procedure**
+
+#. Prepare PCR tube and label them. 
+
+    Depending on how many samples you wanted to load into the gel. 
+
+#. Aliquot sample and sample buffer into the PCR tubes at a 1:1 ratio. 
+
+    E.g.: 10 uL of sample + 10 uL of sample buffer
+
+#. Add BME to each sample. 5% of total sample volume.
+
+    * E.g.: 5% of 20 uL of final sample volume (10 uL sample + 10 uL sample buffer) = 1 uL BME
+    * BME has strong fishy smell and is toxic. Prepare sample in fume hood. 
+
+#. Spin down with a PCR centrifuge. Spin for about 15 secs.
+#. Load the PCR tubes with samples into the thermal cycler. 
+#. Set the thermal cycler. 95 :math:`^{\circ}`\ C, 5 mins. 
+#. Run the thermal cycler.
+
+*Note:* It is best to prepare the sample just before loading. From experience, it will be easier to load when the sample is stil warm. It will be more difficult to load the samples after they cooled down. 
 
 Sample loading
 --------------
 
 * Depends on the gel you casted (there are different thickness for the gels), the volume of the sample wells can varies. 
-* I usually just use 10 uL that consist of sample + sample buffer mixture at a ratio of 1:1 
+* I usually just use 10 uL of the sample prepare on previouse steps. 
 
 **Requires**
 
@@ -179,11 +189,9 @@ Running gel
 
 #. Start the electrophoresis. 
 
-    Many tiny bubbles will bee seen raising from the bottom of the gel to the surface 
+    Many tiny bubbles will bee seen raising from the bottom of the gel to the surface.
 
-#. Observe the progress of the eletrophoresis every 15 mins to make sure not to overrun. 
-
-    Stop the electrophoresis when the ladder reaches about 1 cm from the bottom of the gel. 
+#. Observe the progress of the eletrophoresis every 15 mins to make sure not to overrun. Stop the electrophoresis when the ladder reaches about 1 cm from the bottom of the gel. 
 
 Fixing
 ------

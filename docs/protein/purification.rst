@@ -30,7 +30,25 @@ Before we begin, we need to prepare the buffers needed for this process, preferr
 
 **Lysis buffer**
 
+In this protocol, we need at least 25 mL of lysis buffer, so prepare around 30 mL. 
+
++-------------------------------+-------+-------+
+|                               | Stock | 30 mL |
++===========+===================+=======+=======+
+| 50 mM     | Tris-HCl (pH 8.0) | 1M    |       |
++-----------+-------------------+-------+-------+
+| 300 mM    | NaCl (MW 58.443)  |       |       |
++-----------+-------------------+-------+-------+
+| 0.1%      | Triton X-100      | 10%   |       |
++-----------+-------------------+-------+-------+
+| 1 mM      | PMSF              | 10 mM |       |
++-----------+-------------------+-------+-------+
+| 100 ug/mL | Lysozyme          |       |       |
++-----------+-------------------+-------+-------+
+
 **Buffer B**
+
+It's not strictly necessary, but it is best to prepare 2 buffer B: one for bench use, another to pre-cool in cold room. 
 
 +----------------------------+-------+----------+---------+
 |                            | Stock | 100 mL   | 60 mL   |     
@@ -67,7 +85,7 @@ We would need at least 3 L of buffer D for one purification.
 +----------------------------+-------+---------+---------+
 |                            | Stock | 100 mL  | 4000 mL |
 +========+===================+=======+=========+=========+
-| 100 mM | Tris-HCl (pH 7.5) | 1 M   | 10 mL   | 400 mL  |
+| 100 mM | Tris-HCl (pH 8.0) | 1 M   | 10 mL   | 400 mL  |
 +--------+-------------------+-------+---------+---------+
 | 300 mM | NaCL (MW 58.44)   |       | 1.753 g | 70.12 g |
 +--------+-------------------+-------+---------+---------+
