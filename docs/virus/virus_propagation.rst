@@ -8,9 +8,9 @@ Infection
 
 **Requires**
 
-* 2% DMEM
+* :ref:`2% DMEM <2 dmem>`
 * Virus stock
-* PBS
+* :ref:`PBS <pbs>`
 
 **Procedure**
 

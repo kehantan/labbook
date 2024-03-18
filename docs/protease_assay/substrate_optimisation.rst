@@ -5,7 +5,7 @@ Substrate optimisation
 
 **Requires**
 
-* 96 well black plate 
+* 96 well plate, black
 * Substrate (MCA)
 * Stock buffer (1M Tris-HCl, pH 8.0)
 * Purified protease
@@ -20,3 +20,5 @@ Prepare working buffer solution (200 mM Tris-HCl, pH 8.0) from stock buffer solu
 #. To prepare 10 mL of working buffer solution, add 2 mL of stock buffer solution into 8 mL of Milli-Q water. 
 
 *Prepare substrate dilution*
+
+From 

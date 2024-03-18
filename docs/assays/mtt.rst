@@ -134,7 +134,6 @@ After all the calculations we can begin our cell seeding procedure.
 
 *Note:* Technically, 35 uL + 3,500 uL = 3,535 uL. If we want to be absolute accurate we should be doing 35 + 3,465 uL = 3,500 uL. But for convenience's sake, we would assume the small difference is negligible.
 
-
 Section 2 - Treatment
 ---------------------
 
@@ -146,6 +145,7 @@ Prepare the compounds with different concentrations before removing media from t
 
 **Requires**
 
+* :ref:`Complete DMEM <10 dmem>`
 * Multichannel micropipette 
 * Microcentrifuge tube
 
@@ -174,16 +174,18 @@ Section 3 - MTT, read absorbance
 * :ref:`MTT working solution <mtt stock>`
 * DMSO 
 * Multichannel micropipette
+* Aluminium foil
 
 **Procedure**
 
 #. Take MTT working solution from freezer and warm to room temperature in water bath before use. 
 #. Add 10 uL of MTT into each well.
 
-    * Don't have to remove media on this step
+    * Don't have to remove media on this step.
     * The MTT concentration we used in this lab is 5 mg/mL.
-    * There are other concentration of MTT used, you can find this out from the literature. 
+    * There are other concentrations of MTT used, find out from the literature whichever that suits your experiments. 
 
+#. Wrap well plate in aluminium foil to keep the MTT from light. 
 #. Incubate. 37 :math:`^{\circ}`\ C, 5% CO2, 3 hrs.
 
     There are no strict rules for how long the incubation period should be. You can try to optimise. For my experiment, I use 3 hrs. Reduce the incubation time if you think 3 hrs is too long. 
@@ -217,7 +219,6 @@ Clean up
 --------
 
 * After reading the absorbance, the plate can be disposed into the yellow bin in the lab. 
-
 
 **References**
 

@@ -6,7 +6,7 @@ SDS-PAGE
 **Objective:** To run SDS-PAGE and check for fractions with target protein in protein purification process. 
 
 * A single run of SDS-PAGE will usually eats up a whole day. This does not include time required to prepare all the buffers and gathering all required reagent. So plan the experiment accordingly and prepare the buffers at least 1 day before the actual procedure. 
-* SDS-PAGE for this uses about 12-15% gel.
+* SDS-PAGE for this protocol uses about 12-15% gel.
 
 Prepare gel 
 -----------
@@ -130,9 +130,6 @@ Prepare sample
 **Procedure**
 
 #. Prepare PCR tube and label them. 
-
-    Depending on how many samples you wanted to load into the gel. 
-
 #. Aliquot sample and sample buffer into the PCR tubes at a 1:1 ratio. 
 
     E.g.: 10 uL of sample + 10 uL of sample buffer
@@ -142,7 +139,7 @@ Prepare sample
     * E.g.: 5% of 20 uL of final sample volume (10 uL sample + 10 uL sample buffer) = 1 uL BME
     * BME has strong fishy smell and is toxic. Prepare sample in fume hood. 
 
-#. Spin down with a PCR centrifuge. Spin for about 15 secs.
+#. Spin down with a PCR centrifuge for about 15 secs.
 #. Load the PCR tubes with samples into the thermal cycler. 
 #. Set the thermal cycler. 95 :math:`^{\circ}`\ C, 5 mins. 
 #. Run the thermal cycler.
@@ -164,15 +161,13 @@ Sample loading
 #. Aspirate 5 uL of ladder with micropipette. 
 #. Place the micropipette tip directly on the top of the first well of the gel. 
 #. Dispense the sample slowly. The ladder sample should drop directly into the wells.
-#. Repeat the steps again, aspirate 10 uL of sample + sample buffer mixture and dispense into each well.   
+#. Repeat the steps again, aspirate 10 uL of the prepared sample and dispense into each well.   
 
 Running gel
 -----------
 
 **Requires**
 
-* Buffer tank
-* :ref:`Running buffer <running buffer>`
 * Electrodes
 * Power supply unit 
 
@@ -184,7 +179,7 @@ Running gel
 
 #. Set the power supply unit. 
 
-    * 300 V, 50 amp, around 70 mins.
+    * 300 V, 50 amp, around 60 mins.
     * For some older units, the voltage might not be constantly sitting at 300 V. It is alright as long as the amp is stable. 
 
 #. Start the electrophoresis. 
@@ -193,56 +188,79 @@ Running gel
 
 #. Observe the progress of the eletrophoresis every 15 mins to make sure not to overrun. Stop the electrophoresis when the ladder reaches about 1 cm from the bottom of the gel. 
 
-Fixing
-------
+Remove gel
+----------
 
-* Before staining, we fix the gel
+Remove gel from the glass plate 
 
 **Requires**
 
-* Fixing solution 
-
+* Small plastic container that can fit the gel
+* Squeeze bottle with distilled water
 
 **Procedure**
 
+#. Lift the cassette from the tank. 
+#. Release the clamp. 
+#. Remove the dummy plate. 
+#. Decant buffer from inner compartment into the tank. 
+#. Remove the glass plates. 
+#. Carefully pry open the glass plates and lift the shorter glass plate. 
+#. Remove the stacking gel by slicing it off with the glass plate. 
+#. Rinse with distilled water using a squeeze bottle. 
+#. Hold the glass plate with gel above a plastic container. Carefully seperating the gel from the glass plate by lifting the gel with a pipette tip. Rinse with distilled water at the same time. 
+#. Tilt the glass plate at an angle and rinse with distilled water, the gel should slide into the plastic container.
+
+Fixing
+------
+
+**Requires**
+
+* :ref:`Fixing solution <fixing>`
+
+**Procedure**
+
+#. After transferring the gel into the plastic container. Fill the container with fixing solution. 
+#. Remove fixing solution. 
 
 Staining
 --------
 
 **Requires**
 
-* Coomasie blue
+* :ref:`Coomassie blue staining solution <coomassie>`
 * Rocking platform
-* Plastic container
 
 **Procedure**
 
-#. Get a plastic container. 
 #. Fill the plastic container with Coomasie blue stain to about 1 cm of height.
-#. Place the gell into the container. 
-#. Rock the container on the rocking platform. 
+#. Place the container on the rocking platform. 
+#. Stain the gel for about 30 mins.  
+#. Remove the staining solution after 30 mins. 
 
-    Depends on the concentration of the stain and amount of protein present in the sample for SDS-PAGE. It might take 30 mins to several hours
-
+*Note:* Can pour the staining solution back into the centrifuge tube for reuse.  
 
 Destaining
 ----------
 
 **Requires**
 
+* :ref:`Destaining solution <destaining>`
 * Kim wipes 
-* Distilled water 
+* Distilled water
+* Rocking platform
 
 **Procedure**
 
-#. Fill the plastic container with distilled water 
-#. Put Kim wipes at the side of the container
-#. Place the plastic container on the rocker. 
+#. Fill the plastic container with distilled water. 
+#. Put Kim wipes at the side of the container.
+#. Place the plastic container on the rocking platform.
+#. Destaining overnight. 
 
 Clean up
 --------
 
-* The remaining gel solution in the small beaker from resolving gel and stacking gel would solidify over time. When this happens, break the gel (with any stuff you could find, like pipette tips or spatula) then dispose in the yellow bin. **DO NOT** throw in the sink. 
+* The remaining gel solution in the small beaker from resolving gel and stacking gel would solidify over time. When this happens, break the gel (with any stuff you could find, like pipette tips or spatula) then dispose in the yellow bin. **DO NOT** throw in the sink, the solidified gel will clog up the piping system. 
 * Buffers can be flush down the sink. 
-* wash all apparatus and leave it to dry at the rack beside the sink.
-* Distilled water stained with Coomasie blue can be discard into the sink. 
+* Wash all apparatus and leave it to dry at the rack beside the sink.
+* Distilled water used for destaining can be discard into the sink. 

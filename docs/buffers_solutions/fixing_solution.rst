@@ -1,3 +1,5 @@
+.. _fixing:
+
 Gel-fixing solution
 ===================
 

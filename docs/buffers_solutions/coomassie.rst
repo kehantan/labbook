@@ -1,5 +1,7 @@
-Coomassie stain
-===============
+.. _coomassie:
+
+Coomassie staining solution
+===========================
 
 **Objective:** To prepare 0.1% (w/v) Coomassie staining solution for SDS PAGE. 
 
