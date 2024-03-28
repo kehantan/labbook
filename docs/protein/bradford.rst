@@ -24,9 +24,9 @@ Bradford assay
 #. Incubated at room temperature, 5 mins.
 #. Read absorbance at 590 nm and 450 nm. 
 
-    We take 2 reading because we need to linearise the standard curve. 
+    We take 2 reading because we need to linearise the standard curve. See section below.  
 
 Linearisation of Bradford assay 
 -------------------------------
 
-If we only read the absorbance at 590 nm and try to plot a standard curve, we would not get a linear graph as expected. At higher BSA concentration (approaching 1 mg/mL), the line would curved to a plateau. That is why we take 2 readings at different wavelength (590 and 450) and calculate the ratio of A\ :sub:`590`\ /A\ :sub:`450`\ . This modification is adopted from :cite:t:`ernst_linearization_2010`.
+If we only read the absorbance at 590 nm and try to plot a standard curve, we would not get a linear graph as expected. At higher BSA concentration (approaching 1 mg/mL), the line would curved to a plateau. That is why we take 2 readings at different wavelength (590 and 450) and calculate the ratio of A\ :sub:`590`\ /A\ :sub:`450`\ . This approach correct the slight curved line to linear a line. This modification is adopted from :cite:t:`ernst_linearization_2010`.
