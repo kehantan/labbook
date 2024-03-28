@@ -20,6 +20,7 @@ Bradford assay
     We would only need 10 uL/well, but I usually prepare around 100 uL for easier handling. 
 
 #. In a clear 96 well plate, add 10 uL of BSA or protein sample into 190 uL of Bradford reagent. Mix well by repeat pipetting. 
+#. Include wells for blank by pipette 200 uL of solvent (depends on what solvent you use for dissolving the BSA, can be distilled water, MilliQ water, or PBS) into empty wells. 
 #. Incubated at room temperature, 5 mins.
 #. Read absorbance at 590 nm and 450 nm. 
 
