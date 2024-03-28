@@ -29,4 +29,4 @@ Bradford assay
 Linearisation of Bradford assay 
 -------------------------------
 
-If we only read the absorbance at 590 nm and try to plot a standard curve, we would not get a linear graph as expected. At higher BSA concentration (approaching 1 mg/mL), the line would curved to a plateau. That is why we take 2 readings at different wavelength (590 and 450) and calculate the ratio of A\ :sub:`590`\ /A\ :sub:`450`\ . This modification is adopted from :cite:t:`ernernst_linearization_2010`.
+If we only read the absorbance at 590 nm and try to plot a standard curve, we would not get a linear graph as expected. At higher BSA concentration (approaching 1 mg/mL), the line would curved to a plateau. That is why we take 2 readings at different wavelength (590 and 450) and calculate the ratio of A\ :sub:`590`\ /A\ :sub:`450`\ . This modification is adopted from :cite:t:`ernst_linearization_2010`.
