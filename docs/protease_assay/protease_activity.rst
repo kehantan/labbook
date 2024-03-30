@@ -22,6 +22,6 @@ Prepare stock solutions and buffers before we actually start the procedure, pref
 #. In a black 96 well plate, add 10 uL of substrate into 90 uL of protease of different concentrations. 
 #. Incubate. 37 C, 30 mins. 
 #. Read plate at 350 nm emission and 440 nm excitation.
-#. If the curve does not reach a plateau, incubate another 30 mins. 
+#. If the curve does not reach a plateau, incubate another 30 mins, then read the plate again. 
 
 *Note:* Plot the curve of protease activity, find the Vmax and Km value. Use the Km value as the concentration for substrate optimisation.
