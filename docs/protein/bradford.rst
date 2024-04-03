@@ -32,3 +32,13 @@ Linearisation of Bradford assay
 If we only read the absorbance at 590 nm and try to plot a standard curve, we would not get a linear graph as expected. At higher BSA concentration (approaching 1 mg/mL), the line would curved to a plateau near the 1000 ug/mL region. That is why we take 2 readings at different wavelength (590 and 450) and calculate the absorbance ratio of A\ :sub:`590`\ /A\ :sub:`450`\ . This approach correct the slightly curved line to a linear line. This modification is adopted from :cite:t:`ernst_linearization_2010`.
 
 There are other wavelength used like 595 nm and 490 nm reported in other literature, but I find the standard curve calculated from readings with 590 nm and 450 nm wavelength works the best to give the highest R\ :sup:`2` value when plotted. 
+
+Standard plot
+-------------
+
+#. Get absorbance for 590 nm and 450 nm, including blank. 
+#. Minus off all the absorbance (including 0 ug/mL BSA) against blank. 
+#. Devide the absorbance of 950 nm by absorbance of 450 nm to get the A\ :sub:`590`\ /A\ :sub:`450`\ ratio. 
+#. Plot the points as a scatter plot. 
+
+*Note:* The absorbance reading for the first data point, 0 ug/mL don't need to be 0. I don't minus the other absorbance reading against the absorbance reading from 0 ug/mL. 

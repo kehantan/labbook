@@ -3,7 +3,7 @@ Antiviral assay
 
 **Objective:** To test antiviral properties of a compound. 
 
-The reference for antiviral protocol can be found in articles published by :cite:t:`lani2016antiviral,florez2022vitro`. 
+The reference for antiviral protocol can be found in articles published by :cite:t:`lani2016antiviral,florez2022vitro,marin2021curcumin`. 
 
 We should do a regular plaque assay to quantify the virus titer of the virus stock before we do antiviral assay, because we need to fix the multiplicity of infection (MOI) to a number. For example, 
 
