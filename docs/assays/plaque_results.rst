@@ -16,7 +16,7 @@ Calculations
 
 The number we wanted to get here is plaque forming unit per mL (pfu/mL). Count the number of plaques in one of the wells you choosen , and put the number into the formula:
 
-:math:`\frac{\text{Number of plaques}}{\text{Dilution factor} \times \text{Volume of virus sample used}} = \text{X pfu/mL}`
+:math:`\frac{\text{Number of plaques}}{\text{Dilution factor} \times \text{Volume of virus sample used, in mL}} = \text{X pfu/mL}`
 
 :math:`\text{Number of plaques}` = The number of the plaques that you counted 
 

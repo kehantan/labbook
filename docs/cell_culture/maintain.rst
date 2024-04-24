@@ -63,19 +63,19 @@ Cell counting is optional if you are just subculturing cells. For subculture, yo
 
 **Numbers of cells to seed in flask**
 
-This is just a guideline based on the cell line I worked with, Vero cells. The actual duplication speed of cells can be subjected to various factors like: cell type, cell condition, passage number, growth environment, etc. 
+This is just a guideline based on the cell line I worked with, Vero cells. The actual duplication speed of cells can be subjected to various factors like: cell line, cell condition, passage number, growth environment, etc. 
 
-In a T25 culture flask, to reach 80% cell confluency in
+In a T25 culture flask, to reach around 80% cell confluency in:
 
 * next day, you will need to seed about 800,000 cells
 * 3 days, you will need to seed about 500,000 cells
-* next week, you will need to seed about 25,000 cells
+* 7 days, you will need to seed about 25,000 cells
 
-In a T75 culture flask, to reach 80% cell confluency in
+In a T75 culture flask, to reach around 80% cell confluency in:
 
 * next day, you will need to seed about 1,500,000 cells 
 * 3 days, you will need to seed about 800,000 cells
-* next week, you will need to seed about 50,000 cells 
+* 7 days, you will need to seed about 50,000 cells 
 
 **Refrences**
 

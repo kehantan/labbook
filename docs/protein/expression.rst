@@ -65,7 +65,7 @@ Subculture E. coli
 #. Aliquote 2 x 10 mL from 1 L LB broth into seperate 15 mL centrifuge tube. 
 #. Aliquote 5 mL of broth into a 15 mL centrifuge tube. 
 
-    To be used as blank for later experiments.
+    To be used as blank later. 
 
 #. Pick a single *E. coli* colony from agar plate and mix with LB broth in the 15 mL centrifuge tube.
 #. Pick a single *E. coli* colony from agar plate and streak on new LB agar plate. 
@@ -88,9 +88,8 @@ Large scale culture
 #. Shake. 1 to 3 hrs, 37 :math:`^{\circ}`\ C, 180 rpm. 
 #. Check OD at 600 nm. 
 
-    Previous step mentioned shake for 1 to 3 hours, but check OD every hour to make sure the reading falls around 0.5.
-
-    Access to spectrophotometer: Faculty of Pharmacy.
+    * Previous step mentioned shake for 1 to 3 hours, but check OD every hour to make sure the reading falls around 0.5.
+    * Access to spectrophotometer: Faculty of Pharmacy.
 
 #. Add 1 mL IPTG (50 mM) to the 1 L LB broth culture. 
 #. Shake. 2 hrs, 37 :math:`^{\circ}`\ C, 180 rpm.
