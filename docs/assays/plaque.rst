@@ -142,7 +142,7 @@ When working with virus samples, our lab have different procedure to dispose the
 Section 3 - Fix and stain 
 -------------------------
 
-It usually takes 24 hrs for the CPE to form, and another 24 hrs for the cell infected with virus to die. So usually after 48 hrs of incubation, we can fix and stain the plaque. 
+It usually takes 24 hrs for the cells to exhibits CPE, and another 24 hrs for the cell infected with virus to die. So usually after 48 hrs of incubation, we can fix and stain the plaque. 
 
 We use crystal violet to stain the cells that are attached to the well plate. The dead cells would detached from the well plate and get washed away, leaving behind a clear spot after staining. 
 
