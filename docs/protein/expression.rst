@@ -95,15 +95,17 @@ Large scale culture
 #. Shake. 2 hrs, 37 :math:`^{\circ}`\ C, 180 rpm.
 #. Centrifuge. 3000 rpm, 10 mins. 
 
-    * Centrifuge with the chiller centrifuge in Bilik Kultur Tisu 1. Each bucket can hold 1 50 mL centrifuge tube. 
+    * Centrifuge with the chiller centrifuge in Bilik Kultur Tisu 1. Each bucket can only hold 1 50 mL centrifuge tube, therefore need to split the 1 L culture into multiple 50 mL centrifgue tube. 
     * Remember to book the machine before use, and pre-cool at least 20 mins before use 
 
 #. Decant supernatant. 
 #. Wash pellet with PBS. 
 
-    Although there are no problem using PBS for cell culture, it is best to prepare another PBS for bacteria work to reduce possibilities of contamination. 
+    * Although there are no problem using PBS for cell culture, it is best to prepare another PBS for bacteria work to reduce possibilities of contamination. 
+    * No fixed volume, use adequte anount of PBS.
 
-#. Transfer suspension into 50 mL centrifuge tube. 
+#. Resuspend pellet in PBS. 
+#. Transfer suspension into new 50 mL centrifuge tube. 
 #. Centrifuge. 
 #. Decant supernatant. 
 #. Label the centrifuge tube.
