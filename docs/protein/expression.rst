@@ -43,12 +43,12 @@ Prepare LB broth
 To prepare LB broth, just follow the instructions on the LB broth bottle.
 
 #. Dissolve powder in 500 mL distilled water, in Erlenmeyer flask. 
-#. Dispense 1 mL of Kanamycin stock solution (300 mg/mL) into LB broth. 
+#. Dispense 500 uL of Kanamycin stock solution (30 mg/mL) into LB broth. 
 #. Cover flask with aluminium foil, tighten with rubber band, and store on bench. 
   
     To reduce risk of contamination, can use 2 L bottle. 
 
-For the ease of work, aside from preparing a 1 L LB broth for large scale culture, we can also prepare another LB broth in a 500 mL bottle used for various purpose such as small scale culture (initial culture of BL21 bacterial in 15 mL centrifuge tube before transfer to the 1 L broth) and as a blank for measuring the OD of the cultured bacteria. 
+**Note:** For the ease of work, aside from preparing a 1 L LB broth for large scale culture, we can also prepare another LB broth in a 500 mL bottle used for various purpose such as small scale culture (initial culture of BL21 bacterial in 15 mL centrifuge tube before transfer to the 1 L broth) and as a blank for measuring the OD of the cultured bacteria. 
 
 Subculture E. coli
 ------------------
