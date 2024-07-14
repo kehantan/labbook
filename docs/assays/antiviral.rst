@@ -3,7 +3,7 @@ Antiviral assay
 
 **Objective:** To test antiviral properties of a compound. 
 
-The reference for antiviral protocol can be found in articles published by :cite:t:`lani2016antiviral,florez2022vitro,marin2021curcumin`. 
+The reference for antiviral protocol can be found in articles published here :footcite:p:`lani2016antiviral,florez2022vitro,marin2021curcumin`. 
 
 We should do a regular plaque assay to quantify the virus titer of the virus stock before we do antiviral assay, because we need to fix the multiplicity of infection (MOI) to a number. For example, 
 
@@ -98,3 +98,8 @@ Plaque assay
 ------------
 
 Do a regular :ref:`plaque assay <plaque assay>` with media harvested from each well in the antiviral assay. Then quantify by manually counting the number of plques. Get the pfu/mL from the plaque assay. 
+
+References 
+----------
+
+.. footbibliography::

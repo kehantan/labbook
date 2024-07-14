@@ -5,7 +5,7 @@ MTT assay
 
 MTT assay is a very common assay, you can find a lot of published articles that optimised MTT assays for different purposes. You don't have to strictly follow the parameters in this protocol. The parameters used in this protocol are the ones that is good enough for my experiments with Vero cells. If you are using other cell lines, refer to other sources for different parameters like: the amount of different reagent being used, the time of incubation, etc. 
 
-The general protocol for MTT with Vero cells was described by :footcite:t:`guillen2022effect,marin2021curcumin`.
+The general protocol for MTT with Vero cells was described here :footcite:p:`guillen2022effect,marin2021curcumin`.
 
 There are some parameters that you will need to find out before starting MTT assay. Some common questions you will immediately bump into when you first trying to do MTT assay including:
 
@@ -240,6 +240,7 @@ Clean up
 
 After reading the absorbance, the plate can be disposed into the yellow bin in the lab. 
 
-**References**
+References
+----------
 
 .. footbibliography:: 
