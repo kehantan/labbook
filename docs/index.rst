@@ -20,6 +20,7 @@ Contents
    waste
    misc
    where_to
+   unit_conversion
 
 .. toctree:: 
    :maxdepth: 1

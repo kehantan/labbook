@@ -114,12 +114,10 @@ To calculate how much media we need,
 
     .. code-block::
         
-        10 concentrations * 5 well/concentration * 100 uL/well = 5,000 uL (5 mL)`
 
 To summarise, we need to put **167 uL of cell suspension** into **5,000 uL of complete DMEM**. 
 
 After all the calculations we can begin our cell seeding procedure. 
-
 **Requires**
 
 * 96 well plate 
