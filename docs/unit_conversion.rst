@@ -5,4 +5,4 @@ Converting ug/mL to uM.
 
 .. math::
 
-    uM = {\frac{ug/mL}{\text{MW in g/mol}}}*1000
+    uM = {\frac{ug/mL}{\text{Molecular weight in} g/mol}}*1000
