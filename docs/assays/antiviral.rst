@@ -99,6 +99,16 @@ Plaque assay
 
 Do a regular :ref:`plaque assay <plaque assay>` with media harvested from each well in the antiviral assay. Then quantify by manually counting the number of plques. Get the pfu/mL from the plaque assay. 
 
+Calculate percentage of inhibition
+----------------------------------
+
+:math:`\text{Percentage of inhibition (%)}=\frac{C-T}{C}*100%`
+
+C = Virus control
+T = Treated
+
+:footcite:p:`low2021antiviral`
+
 References 
 ----------
 
