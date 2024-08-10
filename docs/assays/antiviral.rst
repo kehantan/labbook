@@ -102,7 +102,7 @@ Do a regular :ref:`plaque assay <plaque assay>` with media harvested from each w
 Calculate percentage of inhibition
 ----------------------------------
 
-:math:`\text{Percentage of inhibition (%)}=\frac{C-T}{C}\times 100%`
+:math:`\text{Percentage of inhibition (%)}=\frac{C-T}{C}\times 100\%`
 
 C = Virus control; T = Treated
 

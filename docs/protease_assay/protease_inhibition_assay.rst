@@ -18,4 +18,9 @@ There are several standard curve that need to be plotted before we carry out pro
 
 **Procedure**
 
-#. Prepare substrate standard 
+#. Prepare substrate standard
+#. Mix enzyme of fixed concentration into each well. 
+#. Mix compound of different concentration into each well. 
+#. Incubate for 30 mins. 
+#. Add substrate of fixed concentration. 
+#. Incubate another 30/60 mins. 
