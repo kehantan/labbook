@@ -1,3 +1,5 @@
+.. _tris-hcl-stock:
+
 Tris-HCl stock solution
 =======================
 
@@ -27,7 +29,7 @@ Tris-HCl stock solution
 
     Label example: :code:`Tris-HCl pH 7.5, name initials, date prepared`
 
-#. Seal the bottle with parafilm and store in 4 :math:`^{\circ}`\ C. 
+#. Seal the bottle with parafilm and store in 4 C. 
 
 **Note:**
 

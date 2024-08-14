@@ -1,7 +1,7 @@
-.. _destaining:
+.. _gel-destaining:
 
-Destaining solution
-===================
+Gel-destaining solution
+=======================
 
 **Objective:** To prepare destaining solution for SDS PAGE. 
 
@@ -18,7 +18,5 @@ Final concentration of destaining solution:
 
 **Procedure**
 
-#. Add 25 mL of methanol to 15 mL of water. 
-#. Add 5 mL acetic acid. 
+#. Add 50 mL of methanol and 10 mL of acetic acid to 40 mL of water. 
 #. Mix well. 
-#. Adjust the total volume to 50 mL with water. 

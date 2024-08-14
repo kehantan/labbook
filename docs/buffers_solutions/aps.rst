@@ -5,16 +5,17 @@
 
 **Objective:** To prepare 10% APS for SDS-PAGE. 
 
+Usually I would prepare APS freshly before needed instead of prepare it beforehand and store in fridge. 
+
 **Requires**
 
 * APS powder
 * Distilled water 
-* Centrifuge tube (15 mL)
+* Microcentrifuge tube (1.5 mL)
 
 **Procedure**
 
-#. Weight 1 g of APS powder into a 15 mL centrifuge tube. 
-#. Add distilled water to a final volume of 10 mL.
+#. Weight 0.1 g of APS powder into a 1.5 mL microcentrifuge tube. 
+#. Add 1 mL of distilled water into the tube.
 #. Dissolve APS powder completely. Use vortex if necessary. 
 #. Label. 
-#. Store in fridge (4 :math:`^{\circ}`\ C). 

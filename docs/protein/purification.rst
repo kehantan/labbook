@@ -1,7 +1,7 @@
 Protein extraction and purification
 ===================================
 
-**Objective:** To purify expressed protein from bacteria. 
+**Objective:** To extract and purify expressed protein from bacteria. 
 
 Protein purification is quite a long procedure where multiple samples will be collected for further testing. All the samples (I mean **ALL**, both supernatant and precipitate) will be stored until the target protein was obtained. Therefore, it is important to clearly label every tubes/containers used. 
 
@@ -21,7 +21,7 @@ Protein purification is quite a long procedure where multiple samples will be co
 Buffers 
 -------
 
-Before we begin, we need to prepare the buffers needed for this process, preferrably at least one day before use, because adjusting pH of buffers takes quite some time. Some buffer also need to be pre-cool, like Buffer D. 
+Before we begin, we need to prepare the buffers needed for this process, preferrably at least one day before use, because even though we are preparing from stock solution, weighing and stirring can take up significant amount time. Also, buffer D need to be pre-cooled in the cold room. 
 
 **Lysis buffer**
 
@@ -45,7 +45,7 @@ In this protocol, we need at least 25 mL of lysis buffer, so prepare around 30 m
 
 **Buffer B**
 
-It's not strictly necessary, but it is best to prepare 2 buffer B: one for bench use, another to pre-cool in cold room. 
+It's not strictly necessary, but it is best to prepare 2 buffer B: one for bench use, another to pre-cooled in cold room. 
 
 +----------------------------+-------+----------+---------+
 |                            | Stock | 100 mL   | 60 mL   |     
@@ -60,6 +60,8 @@ It's not strictly necessary, but it is best to prepare 2 buffer B: one for bench
 +------------------------------------+----------+---------+
 
 **Buffer C**
+
+Buffer C need to be pre-cooled in cold room, we only use Buffer C in cold room. 
 
 +-------------------------------+-------+----------+----------+
 |                               | Stock | 100 mL   | 10 mL    |

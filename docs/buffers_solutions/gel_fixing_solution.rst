@@ -1,11 +1,9 @@
-.. _fixing:
+.. _gel-fixing:
 
 Gel-fixing solution
 ===================
 
 **Objective:** To prepare fixing solution for SDS-PAGE.
-
-* This is fixing solution for SDS PAGE
 
 **Requires**
 
@@ -15,6 +13,5 @@ Gel-fixing solution
 
 **Procedure**
 
-#. Add 25 mL of 95% ethanol to 15 mL of distilled water.
-#. Add 5 mL of acetic acid. 
-#. Adjust the volume to 50 mL with distilled water. 
+#. Add 50 mL of 95% ethanol and 10 mL of acetic acid into 40 mL of distilled water. 
+#. Mix well. 

@@ -48,7 +48,7 @@ Cast gel
 
 **Setup**
 
-Refer to YouTube videos on how to setup the gel casting apparatus. 
+Can refer to YouTube videos on how to setup the gel casting apparatus. 
 
 #. Put short glass plate infront of tall glass plate, with the gap sandwiched in the middle of the two plates. 
 #. Place the glass plate sandwich into casting frame. 
@@ -59,15 +59,17 @@ Refer to YouTube videos on how to setup the gel casting apparatus.
 #. Secure the casting frame on the casting stand with the clip on the top. 
 #. With a wash bottle filled with distilled water, dispense small amount of distilled water to the bottom of the glass plates. 
 
-    This step is to make sure there are no leakage and to make sure the setup is secured.
+    * This step is to make sure the setup is secured and there are no leakage.
 
 #. Remove the distilled water. 
 
-    Can either remove with a filter paper or just decant the water into sink. 
+    * Can either remove with a filter paper or just decant the water into sink. 
 
 #. After the distilled water was removed, the gel is ready to cast. 
 
 **Casting resolving gel**
+
+In theory, we can prepare 10% APS beforehand and store it in 4 C, but I usually encounter problem with gel not solidify when using not freshly prepared APS.  
 
 #. Add APS and TEMED into the resolving gel solution. 
 #. Mix the resolving gel solution well by repeating pipette a few times. 
@@ -76,11 +78,11 @@ Refer to YouTube videos on how to setup the gel casting apparatus.
 #. Add distilled water on top of resolving gel. 
 #. Let it sit for about 30 mins. The resolving gel should solidifies after 30 mins. 
 
-    One way to check it is by looking through the casted gel. The distilled water and the gel should form 2 seperate layers, with a barely visible fine line between the layers.  
+    * One way to check it is by looking through the casted gel. The distilled water and the gel should form 2 seperate layers, with a barely visible fine line between the layers.  
 
 #. Remove the water on top of the resolving gel. 
 
-    Can either remove with a filter paper of just decant the water into sink.
+    * Can either remove with a filter paper of just decant the water into sink.
 
 **Casting stacking gel**
 
@@ -109,13 +111,13 @@ Assemble setup
 #. Release the clamp of casting frame and remove the glass plates from the casting frame.
 #. Place the glass plates into one side of the cassette. If you are only running one gel, place a dummy plate on the other side of the cassette.
 
-    Make sure the lower glass plate facing the inside of the cassette. Direction is important, this allows a closed circuit to form.  
+    * Make sure the lower glass plate facing the inside of the cassette. Direction is important, this allows a closed circuit to form.  
 
 #. Secure the glass plates and the dummy plate with the clamps on both sides. 
 #. Insert the cassette into the buffer tank.
 #. Fill the inner compartment of the cassete (the space between glass plates and dummy plate) with running buffer until the brim. Fill the buffer tank (outside of the cassette) with running buffer until the marker on the buffer tank. 
 
-    The marker on the buffer tank shows the buffer level for at least 2 plates. I usually just fill up to the '2 gel' marker even I am only running 1 gel.
+    * The marker on the buffer tank shows the buffer level for at least 2 plates. I usually just fill up to the '2 gel' marker even I am only running 1 gel.
 
 Prepare sample
 --------------
@@ -125,14 +127,14 @@ Prepare sample
 * PCR tubes
 * Thermal cycler
 * Sample buffer
-* :math:`{\beta}`-mercaptoethanol/BME
+* :math:`{\beta}`-mercaptoethanol (BME)
 
 **Procedure**
 
 #. Prepare PCR tube and label them. 
 #. Aliquot sample and sample buffer into the PCR tubes at a 1:1 ratio. 
 
-    E.g.: 10 uL of sample + 10 uL of sample buffer
+    * E.g.: 10 uL of sample + 10 uL of sample buffer
 
 #. Add BME to each sample. 5% of total sample volume.
 
@@ -184,7 +186,7 @@ Running gel
 
 #. Start the electrophoresis. 
 
-    Many tiny bubbles will bee seen raising from the bottom of the gel to the surface.
+    * Many tiny bubbles will bee seen raising from the bottom of the gel to the surface.
 
 #. Observe the progress of the eletrophoresis every 15 mins to make sure not to overrun. Stop the electrophoresis when the ladder reaches about 1 cm from the bottom of the gel. 
 
@@ -216,7 +218,7 @@ Fixing
 
 **Requires**
 
-* :ref:`Fixing solution <fixing>`
+* :ref:`Fixing solution <gel-fixing>`
 
 **Procedure**
 
