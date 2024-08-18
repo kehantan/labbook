@@ -38,3 +38,5 @@
 
 * Final concentration for sodium pyruvate is usually 1 mM.
 * The volume of sodium pyruvate to add into complete DMEM depends on the concentration of the sodium pyruvate stock solution. Adjust the volume of DMEM to compensate the volume changes in sodium pyruvate.
+
+test
