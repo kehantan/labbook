@@ -12,3 +12,4 @@ Protein stuff.
    protein/sds_page   
    protein/bca
    protein/bradford
+   protein/estimate_protein_weight

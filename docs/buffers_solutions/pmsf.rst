@@ -1,12 +1,16 @@
-PMSF stock
-==========
+PMSF stock solution 
+===================
 
-**Objective:** To prepare sotck PMSF solution for protein purification. 
+**Objective:** To prepare stock PMSF solution for protein purification. 
 
-* The concentration of PMSF solution is 0.2 M 
-* This stock solution can be prepared on bench.
 * Phenylmethylsulfonyl fluoride (PMSF) stock was used to prepare lysis buffer for protein purification. 
+* The final concentration of PMSF in a 30 mL lysis buffer for protein purification is 1 mM, so we prepare a 10 mM PMSF stock solution.  
+* This stock solution can be prepared on bench.
 * PMSF is not soluble in water, so have to use isopropyl alcohol. 
+* It is best to prepare PMSF before use as it could take some time for the crystals to dissolve completely. 
+* PMSF stock can be store in freezer (-20 C) for future use, but I would not recommend doing so.
+* While the PMSF starts to thaw from freeze, there will be small crystals floating around. Let the PMSF reach room temperature and the crystals will reduce or dissolve completely again. Vortex if necessary. 
+* This recipe only shows the preparation of PMSF stock solution enough for 1 round of protease purification, upscale if necessary. 
 
 **Requires**
 
@@ -18,11 +22,6 @@ PMSF stock
 
 **Procedure**
 
-#. Dissolve 0.3484 g of PMSF powder in 5 mL of isopropyl alcohol. Vortex if necessary. 
-#. Top up the solution with isopropyl alcohol until final volume of 10 mL. 
-#. Filter with 0.22 um syringe filter.  
-#. Label and store in freezer (-20 :math:`^{\circ}`\ C). 
-
-* It is best to prepare PMSF before use as it could take some time for the crystals to dissolve completely. 
-* Store in freezer (-20 :math:`^{\circ}`\ C).
-* While the PMSF starts to thaw from freeze, there will be small crystals floating around. Let the PMSF reach room temperature and the crystals will reduce or dissolve completely again. 
+#. Dissolve 0.0087 g (8.71 mg) of PMSF powder in 5 mL of isopropyl alcohol. 
+#. Mix well, vortex if necessary. 
+#. Filter with 0.22 um syringe filter. 

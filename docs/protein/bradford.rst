@@ -1,7 +1,9 @@
-Bradford assay
-==============
+.. _bradford std:
 
-**Objective:** To quantify concentration of protein in a sample.
+Bradford assay standard 
+=======================
+
+**Objective:** To plot a standard graph for protein concentration quantification.
 
 **Requires**
 
@@ -17,14 +19,17 @@ Bradford assay
 #. Dilute BSA powder in distilled water to make stock solution of BSA (5 mg/mL). 
 #. Prepare a series of BSA standard solutions of known concentrations (e.g. 0, 200, 400, 600, 800, and 1000 ug/mL) by diluting the BSA stock solution in distilled water.
 
-    We would only need 10 uL/well, but I usually prepare around 100 uL for easier handling. 
+    * We would only need 10 uL/well, but I usually prepare around 100 uL for easier handling. 
 
 #. In a clear 96 well plate, add 10 uL of BSA or protein sample into 190 uL of Bradford reagent. Mix well by repeat pipetting. 
 #. Include wells for blank by pipette 200 uL of solvent (depends on what solvent you use for dissolving the BSA, can be distilled water, MilliQ water, or PBS) into empty wells. 
+
+    * Distilled water was used for blank instead of bradford reagent. This decision was made according to the reference below.  
+
 #. Incubated at room temperature, 5 mins.
 #. Read absorbance at 590 nm and 450 nm. 
 
-    We take 2 reading because we need to linearise the standard curve. See section below.  
+    * We take 2 reading because we need to linearise the standard curve. See section below.  
 
 Linearisation of Bradford assay 
 -------------------------------
@@ -36,9 +41,13 @@ There are other wavelength used like 595 nm and 490 nm reported in other literat
 Standard plot
 -------------
 
+* The standard plot only need to be done once, after the standard plot is established, use the standard plot to determine the concentration of protein in purified protein sample. 
+* The standard plot only concerns the absorbance of the BSA part, we can ommit the absorbance of sample first if we only want to plot the standard graph. 
+
 #. Get absorbance for 590 nm and 450 nm, including blank. 
 #. Minus off all the absorbance (including 0 ug/mL BSA) against blank. 
-#. Devide the absorbance of 950 nm by absorbance of 450 nm to get the A\ :sub:`590`\ /A\ :sub:`450`\ ratio. 
+#. Devide the absorbance of 590 nm by absorbance of 450 nm to get the A\ :sub:`590`\ /A\ :sub:`450`\ ratio. 
 #. Plot the points as a scatter plot. 
 
-*Note:* The absorbance reading for the first data point, 0 ug/mL don't need to be 0. I don't minus the other absorbance reading against the absorbance reading from 0 ug/mL. 
+* The absorbance reading for the first data point, 0 ug/mL don't need to be 0. I don't minus the other absorbance reading against the absorbance reading from 0 ug/mL.
+* The R\ :sup:`2` should be 0.99.  

@@ -29,3 +29,4 @@ Recipes for various buffers and solutions.
    buffers_solutions/gel_washing_solution
    buffers_solutions/gel_destaining_solution
    buffers_solutions/coomassie
+   buffers_solutions/lysozyme
