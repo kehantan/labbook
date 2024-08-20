@@ -25,7 +25,8 @@ Before we begin, we need to prepare the buffers needed for this process, preferr
 
 **Lysis buffer**
 
-In this protocol, we need at least 25 mL of lysis buffer, so prepare around 30 mL should be sufficient for 1 round of purification. 
+* In this protocol, we need at least 25 mL of lysis buffer, so prepare around 30 mL should be sufficient for 1 round of purification. 
+* It is best to prepare PMSF and lysozyme stock before use. By personal experience, storing PMSF and lysozyme stock in freezer for future use can have some detrimental effect on purification of protease.  
 
 +-------------------------------+--------------+--------+
 |                               | Stock        | 30 mL  |
