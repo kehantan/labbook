@@ -110,12 +110,12 @@ Protein extraction
 
 #. Prepare for sample homogenisation. Refer to :ref:`section below <homogenisation_prep>` for preparation of homogenisation procedure.
 #. Pour suspension into small plastic beaker. Place the plastic beaker into ice. 
-#. Homogenise the sample using sonicator. 
+#. Homogenise the suspension using sonicator. 
 
-    * Sonicator settings in mol med: output 10-20, duty cycle 70%, 2 sec on, 0.5 sec off, for 1-2 mins, on ice.   
+    * Sonicator settings in Mol Med: output 10-20, duty cycle 70%, 2 sec on, 0.5 sec off, for 1-2 mins, on ice.   
     * Sonicator settings in FOP: Amp 35% (The max amp for the probe is 40%), 2 sec on, 0.5 sec off, for 1-2 mins, on ice. 
-    * It is difficult to say what is the optimum settings for the sonicator. The general rule is that the suspension should froth after sonication. However, there can be cases where the suspension does not froth at all after 8 mins of sonication, while another suspension froth seconds after the sonification starts, both suspension from the same batch of sample, using same settings, same container, same condition and all. 
-    * Some optimisation could be done like amount of suspension to sonicate each time. I had tried 20 mL, 10 mL, 8 mL. I find that using smaller volume, the suspension froth more easily, so perhaps it works better by splitting one batch into smaller portion for each sonication, like using 8 mL or 5 mL for each sonication.  
+    * It is difficult to say what is the optimum settings for the sonicator. The general rule is that the suspension should form a layer of froth after sonication. However, there can be cases where the suspension does not froth at all after 8 mins of sonication, while another suspension froth seconds after the sonification starts, both suspension from the same batch of sample, using same settings, same container, same condition and all. 
+    * Some optimisation could be done like amount of suspension to sonicate each time. I had tried 20 mL, 10 mL, 8 mL. I find that using smaller volume, the suspension forms froth more easily, so perhaps it works better by splitting one batch into smaller portion for each sonication, like using 8 mL or 5 mL for each sonication. I split into seperate portion consists of 10 mL of suspension. 
 
 #. Transfer the homogenised suspension into a new 50 mL centrifuge tube. 
 #. Centrifuge. 8000 rpm, 4 C, 15 mins.  

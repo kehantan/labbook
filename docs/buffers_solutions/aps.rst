@@ -5,7 +5,7 @@
 
 **Objective:** To prepare 10% APS for SDS-PAGE. 
 
-Usually I would prepare APS freshly before needed instead of prepare it beforehand and store in fridge. 
+* Usually I would prepare APS freshly before use instead of prepare it beforehand and store in fridge. 
 
 **Requires**
 

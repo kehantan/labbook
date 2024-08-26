@@ -76,9 +76,10 @@ In theory, we can prepare 10% APS beforehand and store it in 4 C, but I usually 
 #. Pipette the resolving gel solution into the gap between the two glass plates.
 #. Fill the resolving gel to about 2 cm from the top of the opening of the glass sandwich. 
 #. Add distilled water on top of resolving gel. 
-#. Let it sit for about 30 mins. The resolving gel should solidifies after 30 mins. 
+#. Let it sit for about 40 to 45 mins. The resolving gel should solidifies after 40 mins. 
 
-    * One way to check it is by looking through the casted gel. The distilled water and the gel should form 2 seperate layers, with a barely visible fine line between the layers.  
+    * One way to check it is by looking through the casted gel. The distilled water and the gel should form 2 seperate layers, with a barely visible fine line between the layers.
+    * Another way is to tilt the casting frame a bit, you should see the water on top of resolving gel flow out and the resolving gel forming a solid layer.   
 
 #. Remove the water on top of the resolving gel. 
 
@@ -111,6 +112,7 @@ Assemble setup
 #. Release the clamp of casting frame and remove the glass plates from the casting frame.
 #. Place the glass plates into one side of the cassette. If you are only running one gel, place a dummy plate on the other side of the cassette.
 
+    * There are two types of cassette. If you are running only one gel, use the cassette with the electrode sticking out. If you use the one without electrode sticking up, the gel won't run, the power supply will give error when you press start.  
     * Make sure the lower glass plate facing the inside of the cassette. Direction is important, this allows a closed circuit to form.  
 
 #. Secure the glass plates and the dummy plate with the clamps on both sides. 
@@ -139,11 +141,11 @@ Prepare sample
 #. Add BME to each sample. 5% of total sample volume.
 
     * E.g.: 5% of 20 uL of final sample volume (10 uL sample + 10 uL sample buffer) = 1 uL BME
-    * BME has strong fishy smell and is toxic. Prepare sample in fume hood. 
+    * BME has strong fishy smell and is toxic. Prepare sample in fume hood. Turn on ventilation fan, fan inside lab, and switch on fume hood fan few mins before adding BME to sample.
 
 #. Spin down with a PCR centrifuge for about 15 secs.
 #. Load the PCR tubes with samples into the thermal cycler. 
-#. Set the thermal cycler. 95 :math:`^{\circ}`\ C, 5 mins. 
+#. Set the thermal cycler. 95 C, 5 mins. 
 #. Run the thermal cycler.
 
 *Note:* It is best to prepare the sample just before loading. From experience, it will be easier to load when the sample is stil warm. It will be more difficult to load the samples after they cooled down. 
@@ -177,7 +179,8 @@ Running gel
 
 #. Make sure the electrodes are correctly attached.
 
-    Red to red, black to black
+    * Red to red, black to black.
+    * Make sure the cassette is in the correct slot. The top cover can only go in one orientation. 
 
 #. Set the power supply unit. 
 
@@ -188,12 +191,12 @@ Running gel
 
     * Many tiny bubbles will bee seen raising from the bottom of the gel to the surface.
 
-#. Observe the progress of the eletrophoresis every 15 mins to make sure not to overrun. Stop the electrophoresis when the ladder reaches about 1 cm from the bottom of the gel. 
+#. Observe the progress of the eletrophoresis about every 15 to 20 mins to make sure not to overrun. Stop the electrophoresis when the ladder reaches about 1 cm from the bottom of the gel. 
 
 Remove gel
 ----------
 
-Remove gel from the glass plate 
+* Remove gel from the glass plate 
 
 **Requires**
 
@@ -219,11 +222,30 @@ Fixing
 **Requires**
 
 * :ref:`Fixing solution <gel-fixing>`
+* Rocking platform 
 
 **Procedure**
 
-#. After transferring the gel into the plastic container. Fill the container with fixing solution. 
-#. Remove fixing solution. 
+#. After transferring the gel into the plastic container, cover the gel with fixing solution.
+#. Place the containeer on rocking platform for about 10 mins to 1 hr.
+#. Decant fixing solution back into its bottle. 
+
+Washing
+-------
+
+**Requires**
+
+* :ref:`Gel-washing solution <gel-washing>`
+* Rocking platform 
+
+**Procedure**
+
+#. Cover the gel with gel washing solution.
+#. Place the container on the rocking platform. 
+#. Let the washing solution sit for about 2 hrs to overnight. 
+#. Decant the washing solution.   
+
+*Note:* Washing solution can be reuse, just pour it back into its container. 
 
 Staining
 --------
@@ -237,10 +259,10 @@ Staining
 
 #. Fill the plastic container with Coomasie blue stain to about 1 cm of height.
 #. Place the container on the rocking platform. 
-#. Stain the gel for about 30 mins.  
-#. Remove the staining solution after 30 mins. 
+#. Stain the gel for about 30 mins to 3 hrs.  
+#. Remove the staining solution. 
 
-*Note:* Can pour the staining solution back into the centrifuge tube for reuse.  
+*Note:* Staining solution can be reuse, just pour it back into its container.  
 
 Destaining
 ----------
@@ -249,20 +271,39 @@ Destaining
 
 * :ref:`Destaining solution <destaining>`
 * Kim wipes 
-* Distilled water
 * Rocking platform
 
 **Procedure**
 
-#. Fill the plastic container with distilled water. 
-#. Put Kim wipes at the side of the container.
+#. Cover the gel with destaining solution.
+
+    * Can pour more destaining solution into the plastic container, as Kim wipes may absorb some of the solution. 
+
+#. Surround the gel with Kim wipes.
 #. Place the plastic container on the rocking platform.
-#. Destaining overnight. 
+#. Destain overnight. 
+#. Decant the destaining solution. 
+
+*Note:* I usually don't reuse destaining solution. 
+
+Storage
+-------
+
+* For long term storage, it is best to store the gel in gel-storing solution. 
+* It is normal for the edges of the gel to deform when it is dry. 
+
+**Requires**
+
+* Gel-storage solution 
+* Plastic container 
+
+**Procedure**
+
+#. Cover the gel with storage solution. 
 
 Clean up
 --------
 
 * The remaining gel solution in the small beaker from resolving gel and stacking gel would solidify over time. When this happens, break the gel (with any stuff you could find, like pipette tips or spatula) then dispose in the yellow bin. **DO NOT** throw in the sink, the solidified gel will clog up the piping system. 
-* Buffers can be flush down the sink. 
+* Running buffers can be pour back into a bottle and reuse, but I do not recommend using it more than 5 times. Or you can flush the buffer down the sink. 
 * Wash all apparatus and leave it to dry at the rack beside the sink.
-* Distilled water used for destaining can be discard into the sink. 

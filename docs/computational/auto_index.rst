@@ -13,7 +13,7 @@ Create a file which contains all the input we want, i.e.: :code:`chain B & r 51`
     23|24|25 
     q
 
-*Note:* Remeber to put the :code:`q`` at the end of the index entry file, or GROMACS will exit without actually creating the index group.  
+*Note:* Remeber to put the :code:`q` at the end of the index entry file, or GROMACS will exit without actually creating the index group.  
 
 Then run the :code:`make_ndx` module in GROMACS by supplying the :code:`index_entry.txt` file.
 
