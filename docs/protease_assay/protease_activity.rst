@@ -23,29 +23,44 @@ Then we need to do some calculations to know:
 
 **Requires** 
 
-* Buffer (Tris-HCl, pH 8.0, 200 mM)
+* Stock buffer (Tris-HCl, pH 8.0, 1M)
 * Purified protease
 * MCA substrate
 * Black 96 well plate 
 
 **Procedure**
 
+    **Prepare working buffer** 
+
+        Dilute the stock Tris-HCl buffer (1M, pH 8.0) with distilled water to the concentration of working buffer (200 uM) 
+
 #. Purified protease is stored in -80 C. Thaw before use.
-#. Prepare different concentrations of protease (0 to 20 uM) by diluting the protease stock with buffer. 
+#. Do a 1/2 fold serial dilution starting from maximum of 20 uM with buffer. 
 #. In a black 96 well plate, add substrate into protease of different concentrations based on calculations. 
 #. Incubate. 37 C, 30 mins. 
 #. Read plate at 350 nm excitation and 440 nm emission. 
 #. If the curve does not reach a plateau, incubate another 30 mins, then read the plate again. 
 
+    * but sometimes the curve does not reach plateau
+
 **Analysis**
+
+You can plot a curve using the relative fluoresence unit (RFU) directly, graphpad prism will still calculate a Km value for you. But since we have to process the data anyway, we just convert all the RFU into reaction velocity with unit of uM/mins.  
 
 Plot the curve of protease activity, find the Vmax and Km value. Use the Km value as the concentration for substrate optimisation.
 
-#. In MS Excel, minus all RFU from the well with 0 uM of protease (means the wells that only have buffer and substrate)
+#. In MS Excel, arrange the values accordingly. 
+#. First step is to minus all RFU values from other wells with the RFU from the well with 0 uM of protease (means the wells that only have buffer and substrate).
+#. Divide the value with the gradient of substrate standard curve. 
+#. Divide the value with time, in mins (30 mins, 60 mins, 120 mins, etc.). 
+
+    * If the RFU values were obtained at 60 mins mark, then divide all values by 60.
+    * Values obtained from this step will be the reaction velocity, with the unit of uM/mins.  
+
 #. Copy the value into GraphPad Prism. Analyse using non-linear regression, Michaelis-Menten module. 
-#. The curve should have at least 3 points on plateau. 
-#. Go back to MS Excel, using the values after minus blank, devide all value by the slope of MCA standard curve. 
-#. Then devide the values by time, e.g.: 30 mins, 45 mins, etc. 
-#. That is the reaction velocity. 
+#. Ideally, the curve should have at least 3 points on plateau. 
 #. Plot the reaction velocity in GraphPad Prism, analyse using non-linear regression, Michaelis-Menten module. 
-#. Km from reaction velocity should be the same as the Km from the RFU. 
+
+    * If you plot the Michaelis-Menten plot using both RFU and reaction velocity, both graph should give you the same Km value.
+
+After getting the protease optimisation curve, we can proceed to do the substrate optimisation curve. 
