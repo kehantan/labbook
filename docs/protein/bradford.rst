@@ -3,7 +3,7 @@
 Bradford assay standard 
 =======================
 
-**Objective:** To plot a standard graph for protein concentration quantification.
+**Objective:** To plot a standard graph for protein concentration quantification and calculate the concentration of protein in a given sample.
 
 **Requires**
 
@@ -19,12 +19,17 @@ Bradford assay standard
 #. Dilute BSA powder in distilled water to make stock solution of BSA (5 mg/mL). 
 #. Prepare a series of BSA standard solutions of known concentrations (e.g. 0, 200, 400, 600, 800, and 1000 ug/mL) by diluting the BSA stock solution in distilled water.
 
-    * We would only need 10 uL/well, but I usually prepare around 100 uL for easier handling. 
+    * We would only need 10 uL/well, but I usually prepare around 50 uL for easier handling. 
 
-#. In a clear 96 well plate, add 10 uL of BSA or protein sample into 190 uL of Bradford reagent. Mix well by repeat pipetting. 
+#. In a 96 well clear plate, add 10 uL of BSA or protein sample into 190 uL of Bradford reagent. Mix well by repeat pipetting. 
 #. Include wells for blank by pipette 200 uL of solvent (depends on what solvent you use for dissolving the BSA, can be distilled water, MilliQ water, or PBS) into empty wells. 
 
     * Distilled water was used for blank instead of bradford reagent. This decision was made according to the reference below.  
+
+#. Add 10 uL of protein sample into 190 uL of Bradford reagent. 
+
+    * If the absorbance for protein sample well is outside the range of the BSA standard, we will have to dilute the protein sample. 
+    * Usually I would do 1/2 fold dilution. Dilute the protein sample until the sample's absorbance value falls within the BSA standard. 
 
 #. Incubated at room temperature, 5 mins.
 #. Read absorbance at 590 nm and 450 nm. 

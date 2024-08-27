@@ -5,12 +5,10 @@ Protease activity assay
 
 This step is required before we do protease inhibition assay with compounds.  
 
-Prepare stock solutions and buffers before we actually start the procedure, preferably one day before the experiment day. Usually the buffers and stock solutions can be stored in 4 C for future use. 
-
 Before we begin the procedure we need to 
 
 * find out the concentration of protease we purified, in uM. 
-* Prepare MCA stock solution 
+* Prepare MCA stock solution.
 
 Usually MCA comes in powder form, stored in a brown coloured glass vial. 
 
@@ -24,19 +22,19 @@ Then we need to do some calculations to know:
 **Requires** 
 
 * Stock buffer (Tris-HCl, pH 8.0, 1M)
-* Purified protease
+* Purified protease with known concentrations 
 * MCA substrate
-* Black 96 well plate 
+* 96 well black plate 
 
 **Procedure**
 
-    **Prepare working buffer** 
+    *Prepare working buffer*
 
         Dilute the stock Tris-HCl buffer (1M, pH 8.0) with distilled water to the concentration of working buffer (200 uM) 
 
 #. Purified protease is stored in -80 C. Thaw before use.
-#. Do a 1/2 fold serial dilution starting from maximum of 20 uM with buffer. 
-#. In a black 96 well plate, add substrate into protease of different concentrations based on calculations. 
+#. Do a 1/2 fold serial dilution starting from maximum of 20 uM with working buffer. 
+#. In a 96 well black plate, add substrate into protease of different concentrations based on calculations. 
 #. Incubate. 37 C, 30 mins. 
 #. Read plate at 350 nm excitation and 440 nm emission. 
 #. If the curve does not reach a plateau, incubate another 30 mins, then read the plate again. 
@@ -45,9 +43,7 @@ Then we need to do some calculations to know:
 
 **Analysis**
 
-You can plot a curve using the relative fluoresence unit (RFU) directly, graphpad prism will still calculate a Km value for you. But since we have to process the data anyway, we just convert all the RFU into reaction velocity with unit of uM/mins.  
-
-Plot the curve of protease activity, find the Vmax and Km value. Use the Km value as the concentration for substrate optimisation.
+You can plot a curve using the relative fluoresence unit (RFU) directly, graphpad prism will still calculate a Km value for you. But since we have to process the data anyway, we just convert all the RFU into reaction velocity.  
 
 #. In MS Excel, arrange the values accordingly. 
 #. First step is to minus all RFU values from other wells with the RFU from the well with 0 uM of protease (means the wells that only have buffer and substrate).
@@ -61,6 +57,7 @@ Plot the curve of protease activity, find the Vmax and Km value. Use the Km valu
 #. Ideally, the curve should have at least 3 points on plateau. 
 #. Plot the reaction velocity in GraphPad Prism, analyse using non-linear regression, Michaelis-Menten module. 
 
+    * The graphpad prism will automatically calculate the Vmax and Km value for us. We will need the Km value for substrate optimisation. 
     * If you plot the Michaelis-Menten plot using both RFU and reaction velocity, both graph should give you the same Km value.
 
 After getting the protease optimisation curve, we can proceed to do the substrate optimisation curve. 

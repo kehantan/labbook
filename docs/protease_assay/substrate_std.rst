@@ -14,8 +14,6 @@ Substrate standard
 
 **Procedure**
 
-#. Prepare different concentration of substrate by diluting stock substrate in working buffer solution in a black 96 well plate. 
-
-    * I usually do 1/2 fold serial dilution starting from 500 uM substrate concentration.  
-
+#. Do 1/2 fold serial dilution of stock substrate using working buffer solution in a black 96 well plate. 
 #. Read plate at 350 nm for excitation and 440 nm for emission. 
+#. Plot the graph using graphpad prism. 

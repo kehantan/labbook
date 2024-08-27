@@ -7,3 +7,4 @@ Calculate the Rf manually with a ruler.
 
 Note that if you follow the guide on fixing, washing, and staining gel protocol from ATCC, the gel will shrink its size. Put the gel in storage solution to restore the gel to its originial size before taking measurement to avoid errors. 
 
+Estimated protease weight in this NS2B/NS3 construct is around 29 kDa. 
