@@ -27,7 +27,7 @@ Substrate optimisation
 #. Add fixed amount of protease into 96 well black plate. 
 #. Add 10 uL of different concentration of substrate into respective wells. 
 #. Incubate for 30 mins at 37 C. 
-#. Read plate at 50 nm excitation and 440 nm emission.
+#. Read plate at 350 nm excitation and 440 nm emission.
 #. If the curve does not quite reach plateau incubate another 30 mins and read the plate again. 
 
 **Analysis**
