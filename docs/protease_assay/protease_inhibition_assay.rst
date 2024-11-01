@@ -54,4 +54,4 @@ If I wanted to test the compound at 1,600, 800, 400, and 200 ug/mL, I will prepa
 
 #. Minus the RFU of the non-treated wells (0 ug/mL compound) to all the RFU of the treated wells. 
 #. Divide all the values of the treated wells (after minus from non-treated) to the RFU of the non-treated wells. 
-#. Convert the values into percentage by :math:`\times 100`. 
+#. Convert the values into percentage by :math:`\times 100%`. 
