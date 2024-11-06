@@ -101,10 +101,11 @@ Calculate virus volume to use
 
     :math:`0.1 \times 450,000 = 45,000`
 
-* Assume virus titer of the virus stock = :math:`1 \times 10^{6} \text{pfu}/mL` 
+* Assume virus titer of the virus stock = :math:`1 \times 10^{6} \text{pfu}/mL`, then using the formulat above
 
-* Virus need is supposedly the number of cells in each well, but since it is impractical to count each cell in the well, we just assumes that the number of cells in the well is the number of cells seeded, although that is not true, but we make assumptions. 
-* Virus titer is determined from plaque assay, in pfu/mL
+    :math:`\frac{45,000}{1 \times 10^{6}} = 0.045 mL (45 uL)`
+
+* Virus need is supposedly the number of cells in each well at the day of infection, but it is impractical to count the cells in each well, so we just assumes that the number of cells in the well is the number of cells seeded, although that is not true. 
 
 **Requires**
 
@@ -118,8 +119,6 @@ Calculate virus volume to use
 * Micropipette (1000 uL)
 * Micropipette tips 
 * Waste beaker 
-
-
 
 Infection and treatment
 -----------------------
@@ -147,17 +146,19 @@ Before the actual infection and treatment, we need have 2 information ready:
 #. Add the 1000 uL of compound-containing media into their assigned wells. 
 #. Incubate. 37C, 48 hr. 
 
-Harvest
--------
+Section 3 - Harvest
+-------------------
 
-Observe the well plate every 24 hrs for formation of CPE. Usually the media in the well plates can be harvested after 48 hours or when there are high number of CPE. 
-
-Distribute the media in each well into multiple microcentrifuge tube so we do not have to thaw and freeze the sample repeatedly. 
+* Observe the well plate every 24 hrs for formation of CPE. 
+* The media in the well plates can be harvested at 48 hours. 
 
 **Procedure**
 
-#. Label the microcentrifuge tube. 
+#. Label microcentrifuge tube. 
 #. Aliquot the existing media in the well plates into different microcentrifuge tube.
+
+    * Distributing the media in each well into multiple microcentrifuge tube so we do not have to thaw and freeze the sample repeatedly when we need to do plaque assays. 
+
 #. Snap freeze the microcentrifuge tube in liguid nitrogen. 
 #. Store at -80 C. 
 
