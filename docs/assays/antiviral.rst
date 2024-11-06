@@ -1,33 +1,73 @@
 Antiviral assay
 ===============
 
-**Objective:** To test antiviral properties of a compound. 
+**Objective:** To test antiviral properties of a compound using cell based assay. 
 
-The protocol for antiviral had been published :footcite:p:`lani2016antiviral,florez2022vitro,marin2021curcumin`. 
+* The protocol for antiviral had been published :footcite:p:`lani2016antiviral,florez2022vitro,marin2021curcumin`. 
+* This protocol was separated into different sections, each section indicates that after that procedure was completed, have to wait until the next day (or after 2 days) to proceed to the next section. 
+* This protocol demonstrate plaque assay in 6 well plate. For plaque in 12 well plate or well plate of other sizes, the procedures are the same, just the volume of liquids, number of cells, and volume of reagents used are different. 
 
-We should do a regular plaque assay to quantify the virus titer of the virus stock before we do antiviral assay, because we need to fix the multiplicity of infection (MOI) to a number. For example, 
+* Before starting antiviral assay, several informations are required.
 
-* MOI = 1, 1 virus particle for each cell
-* MOI = 2, 2 virus particle for each cell
-* MOI = 0.5, 1 virus particle for every 2 cells, etc. 
+    * Virus titer of the virus stock, in pfu/ml
 
-Before starting antiviral assay, we should have several information ready.
+        This information can be obtain from doing plaque assay using the virus stock.
 
-#. Virus titer of the virus stock, in pfu/ml
+    * MOI to use
 
-    This information can be obtain from a regular plaque assay. This is why we need to do a regular plaque assay before doing antiviral assay. 
+        Refer to published articles for the MOI suitable for the experiments. Common MOI to use including 1, 0.5, 0.1.    
 
-#. MOI you wanted to use
+    * Concentration of compound to be tested
 
-    Refer to published articles for the MOI we wanted to use for our experiments.   
+        This requires some trial and error. For organically synthesised small molecule compounds, I usually start with 50 ug/mL then serial dilute 1/2 to 6 to 7 concentrations. The concentration could be adjusted to higer value depends on the type of compounds to be tested, ie: peptides, plant extracts, etc. 
 
-#. Concentration of compound we wanted to test
+Section 1 - Trypsininse, cell count, seed cells
+-----------------------------------------------
 
-    This requires some trial and error. For pure synthesised organic compounds I usually start with smaller value like 10, 20, 30, 40, 50 ug/mL. The concentration could be adjusted to higer value depends on the type of compounds to be tested, ie: peptides, plant extracts, etc. 
+* For antiviral assay, cells should be at around 70% confluency at the day of infection and treatment. 
 
-**Planning**
+    * For 6 well plate, seed 450,000 cells for next day infection and treatment. 
+    * For 12 well plate, seed 150,000 cells for next day infection and treatment. 
 
-We can have some planning on which well we want to use for what (i.e.: negative control, virus control, different concentrations). We can plan this before or after we seed the well plates with cells and we can make the arrangement however we like. 
+**Requires**
+
+* :ref:`Complete DMEM <10 dmem>`
+* Trypsin 
+* PBS
+* Clear 6 well plate
+* Micropipette (10 uL to 1000 uL)
+* Micropipette tips
+* Waste beaker 
+* Serological pipette (5 mL, 10 mL)
+* Counter
+* Cell counting chamber  
+
+**Procedure**
+
+#. Trypsinise the cells in culture flask. Refer to :ref:`trypsinise <My target>`.
+#. Count the number of cells. Refer to :ref:`cell count <cell count>`. 
+
+    * Check if there are enough cells for seeding in a 6 well plate at 450,000 cells/well. 
+    * :code:`6 well * 450,000 cells = 2,700,000 cells needed`
+    * If there are not enough cells, consider seed at another day, or seed less wells.  
+
+#. Dispense 1.5 mL of 10% DMEM in each well in the 6 well plate.
+
+    * 1 mL of 10% DMEM in each well if using 12 well plate 
+
+#. Dispense correct amount of cells into each well. 
+#. Tilt the well plate back and forth and side to side to distribute the cells evenly across the base of the wells. 
+#. Incubate. 37 C, 24 hrs. 
+
+Section 2 - Infection
+---------------------
+
+* Before infection, check the cell confluency in the 6 well plate. The cells should be around 70% confluency. 
+
+Planning well plate layout
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* It is always best to plan the layout of the well plate before starting the antiviral assay. 
 
 Imagine a 6 well plate 
 
@@ -46,20 +86,40 @@ I would typically do
 
 This is merely a suggestion, you can tailor the arrangement however you like according to the need of your experiments, but always remember to include negative control and virus control wells. 
 
-Cell seeding
-------------
-
-For antiviral assay, our cells should be at around 70% confluency at the day of infection and treatment. 
-
-* For 6 well plate, we can seed 450,000 cells for next day infection and treatment. 
-* For 12 well plate, we can seed 150,000 cells for next day infection and treatment. 
-
 Calculate virus volume to use
------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-:math:`frac{\text{Virus need}}{\text{Virus titer}} = X mL`
+:math:`frac{\text{Virus need (MOI)}}{\text{Virus titer}} = X mL`
 
-Virus need is the umber of cells we seed. We assume that the number of cells in the well is the number of cells seeded, although that is not true. 
+* MOI = multiplicity of infection
+
+    * MOI = 1, 1 virus particle for each cell 
+    * MOI = 0.5, 1 virus particle for every 2 cells 
+    * MOI = 0.1, 1 virus particle for every 10 cells  
+
+* If 450,000 cells seeded in each well, MOI = 0.1 is to be used, then 45,000 virus particles needed for each well  
+
+    :math:`0.1 \times 450,000 = 45,000`
+
+* Assume virus titer of the virus stock = :math:`1 \times 10^6 \text{pfu}/mL` 
+
+* Virus need is supposedly the number of cells in each well, but since it is impractical to count each cell in the well, we just assumes that the number of cells in the well is the number of cells seeded, although that is not true, but we make assumptions. 
+* Virus titer is determined from plaque assay, in pfu/mL
+
+**Requires**
+
+* :ref:`2% DMEM <2 dmem>`
+* Microcentrifuge tube 
+* Centrifuge tube (15 mL)
+* :ref:`Agarose (5%) <agarose>`
+* Virus stock
+* :ref:`Phosphate buffer saline (PBS) <pbs>`
+* Serological pipette (5 mL, 10 mL)
+* Micropipette (1000 uL)
+* Micropipette tips 
+* Waste beaker 
+
+
 
 Infection and treatment
 -----------------------

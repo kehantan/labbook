@@ -5,9 +5,8 @@ Plaque assay
 
 **Objective:** To quantify the virus titer in a virus sample. 
 
-This protocol was separated into different sections, each section indicates that after that procedure was completed, we have to wait until the next day (or after 2 days) to proceed to the next section. 
-
-This protocol demonstrate plaque assay in 6 well plate. For plaque in 12 well plate or well plate of other sizes, the procedures are the same, just the volume of liquids, number of cells, and volume of reagents used are different. 
+* This protocol was separated into different sections, each section indicates that after that procedure was completed, have to wait until the next day (or after 2 days) to proceed to the next section. 
+* This protocol demonstrate plaque assay in 6 well plate. For plaque in 12 well plate or well plate of other sizes, the procedures are the same, just the volume of liquids, number of cells, and volume of reagents used are different. 
 
 Section 1 - Trypsininse, cell count, seed cells
 -----------------------------------------------
@@ -53,7 +52,7 @@ Section 1 - Trypsininse, cell count, seed cells
 Section 2 - Infection
 ---------------------
 
-* Before infection, check the cell confluency. The cells should be around 90% confluency. 
+* Before infection, check the cell confluency in the 6 well plate. The cells should be around 90% confluency. 
 
 *Note:* For steps involving virus, avoid using serological pipette, as our lab policy requires virus waste to be handled seperately and autoclaved before disposal. Autoclaving and disposing serological pipette can be a bit challenging due to its length.
 
