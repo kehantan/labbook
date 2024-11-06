@@ -89,7 +89,7 @@ This is merely a suggestion, you can tailor the arrangement however you like acc
 Calculate virus volume to use
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-:math:`frac{\text{Virus need (MOI)}}{\text{Virus titer}} = X mL`
+:math:`\frac{\text{Virus need (MOI)}}{\text{Virus titer}} = X mL`
 
 * MOI = multiplicity of infection
 
@@ -101,7 +101,7 @@ Calculate virus volume to use
 
     :math:`0.1 \times 450,000 = 45,000`
 
-* Assume virus titer of the virus stock = :math:`1 \times 10^6 \text{pfu}/mL` 
+* Assume virus titer of the virus stock = :math:`1 \times 10^{6} \text{pfu}/mL` 
 
 * Virus need is supposedly the number of cells in each well, but since it is impractical to count each cell in the well, we just assumes that the number of cells in the well is the number of cells seeded, although that is not true, but we make assumptions. 
 * Virus titer is determined from plaque assay, in pfu/mL
