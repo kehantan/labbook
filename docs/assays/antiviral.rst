@@ -54,10 +54,17 @@ For antiviral assay, our cells should be at around 70% confluency at the day of 
 * For 6 well plate, we can seed 450,000 cells for next day infection and treatment. 
 * For 12 well plate, we can seed 150,000 cells for next day infection and treatment. 
 
+Calculate virus volume to use
+-----------------------------
+
+:math:`frac{\text{Virus need}}{\text{Virus titer}} = X mL`
+
+Virus need is the umber of cells we seed. We assume that the number of cells in the well is the number of cells seeded, although that is not true. 
+
 Infection and treatment
 -----------------------
 
-Before the actual infection and treatment, we should prepare 2 things: 
+Before the actual infection and treatment, we need have 2 information ready: 
 
 #. Different concentrations of the compound we wanted to test. 
 
