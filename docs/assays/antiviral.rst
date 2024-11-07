@@ -50,9 +50,9 @@ Section 1 - Trypsininse, cell count, seed cells
     * :code:`6 well * 450,000 cells = 2,700,000 cells needed`
     * If there are not enough cells, consider seed at another day, or seed less wells.  
 
-#. Add 1500 uL of 10% DMEM in each well in the 6 well plate.
+#. Add 1500 uL of 10% DMEM into each well in the 6 well plate.
 
-    * 1000 uL of 10% DMEM in each well if using 12 well plate 
+    * 1000 uL of 10% DMEM into each well if using 12 well plate 
 
 #. Add correct amount of cells into each well. 
 #. Tilt the well plate back and forth and side to side to distribute the cells evenly across the base of the wells. 
@@ -71,7 +71,7 @@ Section 2 - Infection and treatment
 Plan well plate layout
 ~~~~~~~~~~~~~~~~~~~~~~
 
-* Below shows a layout of a 6 well plate 
+* Below is a layout of a 6 well plate 
 
 (A1) (A2) (A3) 
 
@@ -81,11 +81,8 @@ Plan well plate layout
 
     * A1 = Negative control (Cells without virus infection)
     * B1 = Virus control (Cells with virus infection, but not treated with compound)
-    * A2 = Compound X concentration 1 (Cells with virus infection and treated with compound)
-    * B2 = Compound X concentration 2 (Cells with virus infection and treated with compound)
-    * A3 = Compound X concentration 3 (Cells with virus infection and treated with compound)
-    * B3 = Compound X concentration 4 (Cells with virus infection and treated with compound)
-
+    * A2, A3, B2, B3 = Cells infected with virus infection and treated with compound
+    
 * This is merely a suggestion, you can tailor the arrangement however you like according to the need of your experiments, but always remember to include negative control and virus control wells. 
 
 Calculate virus volume to use for infection
@@ -149,19 +146,19 @@ Plan serial dilution of compounds
     V1 - :math:`10^{-9}`, V2 - :math:`10^{-8}`, V3 - :math:`10^{-7}`, V4 - :math:`10^{-6}`
 
 #. Add 450 uL of 2% DMEM into each microcentrifuge tube.
-#. From the virus stock, transfer 50 uL virus into the first microcentrifuge tube (:math:`10^{-9}`. Mix well by repeat pipetting or using a vortex. 
-#. Transfer 50 uL from first microcentrifuge tube to second microcentrifuge tube. Mix well by repeat pipetting or using a vortex. 
-#. Repeat the process until the last tube.  
+#. From the virus stock, transfer 50 uL virus into the microcentrifuge tube labelled V1. Mix well by repeat pipetting or using a vortex. 
+#. Transfer 50 uL from V1 to V2. Mix well by repeat pipetting or using a vortex. 
+#. Repeat the process until the last tube. 50 uL from V4 can be discard.   
 #. Set the tubes aside for later use. 
 
 **Compound dilution** 
 
-#. Prepare and label 4 centrifuge tube. 
+#. Prepare and label four 15 mL centrifuge tube. 
 
     C1 - 50, C2 - 25, C3 - 12.5, C4 - 6.25
 
-#. Add 3000 uL of 2% DMEM into first tube (50). 
-#. Add 7.5 uL of stock compound (20,000 ug/mL) into the first tube. Mix well by repeat pipetting or using a vortex. 
+#. Add 3000 uL of 2% DMEM into C1, add 1500 uL of 2% DMEM into C2, C3, and C4. 
+#. From stock solution of compound (20,000 ug/mL), transfer 7.5 uL into C1. Mix well by repeat pipetting or using a vortex. 
 #. Transfer 1500 uL of solution from the first centrifuge tube to second centrifuge tube. Mix well by repeat pipetting or using a vortex. 
 #. Repeat the process for the remaining centrifuge tube. 
 #. Set the centrifuge tube aside for later use. 
@@ -178,17 +175,22 @@ Plan serial dilution of compounds
 
 #. Remove existing media from the 6 well plate. 
 #. Wash cells with PBS. 
-#. Add 300 uL of diluted compound into corrensponding well that was labelled earlier.
+#. Add 300 uL of 2% DMEM into NC and VC well. 
+#. Transfer 300 uL of solution from centrifuge tube C1 into well labelled C1. Repeat for C2, C3, and C4. 
 #. Add the calculated amount of diluted virus stock to assigned wells.
 
-    * In this example, 45 uL of diluted virus with dilution factor of :math:`10^{-6}` into each well. 
+    * In this example, 45 uL of V4 into each well, except NC well. 
     * Use different pipette tips for each well. 
 
 #. Incubate. 37 C, 1 hr. Tilt well plate every 20 mins. 
 #. After 1 hr, remove the well plate from incubator. 
-#. Remove existing media in the well plate. 
+#. Remove existing media in the well plate.
+
+    * Use different pipette tips for each well. 
+
 #. Wash cells with PBS. 
-#. Add the 1000 uL of compound-containing media into their assigned wells. 
+#. Add 1000 uL of 2% DMEM into NC and VC well. 
+#. Add 1000 uL of solution from centrifuge tube C1 into well labelled C1. Repeat for C2, C3, and C4. 
 #. Incubate. 37 C, 48 hr. 
 
 Section 3 - Harvest
@@ -199,12 +201,10 @@ Section 3 - Harvest
 
 **Procedure**
 
-#. Label microcentrifuge tube. 
-#. Aliquot the existing media in the well plates into different microcentrifuge tube.
-
-    * Distributing the media in each well into multiple microcentrifuge tube so we do not have to thaw and freeze the sample repeatedly when we need to do plaque assays. 
-
-#. Snap freeze the microcentrifuge tube in liguid nitrogen. 
+#. Label 4 microcentrifuge tube VC-1, VC-2, VC-3, VC-4. Include date and name initials on the tube. 
+#. In each microcentrifuge tube labelled VC-1, VC-2, VC-3, and VC-4, transfer 250 uL of existing media in VC well into each tube.
+#. Repeat the same steps for each concentration, except for NC well. Media in NC well can be discarded. 
+#. Snap freeze all the microcentrifuge tube in liguid nitrogen. 
 #. Store at -80 C. 
 
 Plaque assay
