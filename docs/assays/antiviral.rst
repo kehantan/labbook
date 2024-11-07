@@ -101,9 +101,9 @@ Calculate virus volume to use
 
     :math:`0.1 \times 450,000 = 45,000`
 
-* Assume virus titer of the virus stock = :math:`1 \times 10^{6} \text{pfu}/mL`, then using the formulat above
+* Assume virus titer of the virus stock = :math:`1 \times 10^{6}\ \text{pfu}/mL`, then using the formula above, we can determined that we need 45 uL of virus stock in each well. 
 
-    :math:`\frac{45,000}{1 \times 10^{6}} = 0.045 mL (45 uL)`
+    :math:`\frac{45,000}{1 \times 10^{6}} = 0.045 mL (45 \micro L)`
 
 * Virus need is supposedly the number of cells in each well at the day of infection, but it is impractical to count the cells in each well, so we just assumes that the number of cells in the well is the number of cells seeded, although that is not true. 
 
