@@ -158,7 +158,7 @@ Plan serial dilution of compounds
 
 #. Add 3000 uL of 2% DMEM into **C1**, add 1500 uL of 2% DMEM into **C2**, **C3**, and **C4**. 
 #. From stock solution of compound (20,000 ug/mL), transfer 7.5 uL into **C1**. Mix well by repeat pipetting or using a vortex. 
-#. Transfer 1500 uL of solution from **C1** to **C2**. Mix well by repeat pipetting or using a vortex. 
+#. Transfer 1500 uL of solution from **C1* to **C2**. Mix well by repeat pipetting or using a vortex. 
 #. Repeat the process for the remaining centrifuge tube. 
 #. Set the centrifuge tube aside for later use. 
 
