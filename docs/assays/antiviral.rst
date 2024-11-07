@@ -109,8 +109,7 @@ Calculate virus volume to use for infection
 
     :math:`\frac{45,000}{1 \times 10^{6}} = 0.045 mL (45 \micro L)`
 
-* 45 uL is a feasible volume to work with
-* So, from :math:`1 \times 10^{10}` to :math:`1 \times 10^{6}`, we need to do 10 times dilution for 4 times.
+* 45 uL is a feasible volume to work with. So, from :math:`1 \times 10^{10}` to :math:`1 \times 10^{6}`, we need to do 10 times dilution for 4 times.
 
     :math:`1 \times 10^{10}` (Virus stock) > :math:`1 \times 10^{9}` > :math:`1 \times 10^{8}` > :math:`1 \times 10^{7}` > :math:`1 \times 10^{6}`
 
@@ -146,9 +145,9 @@ Plan serial dilution of compounds
     V1 - :math:`10^{-9}`, V2 - :math:`10^{-8}`, V3 - :math:`10^{-7}`, V4 - :math:`10^{-6}`
 
 #. Add 450 uL of 2% DMEM into each microcentrifuge tube.
-#. From the virus stock, transfer 50 uL virus into the microcentrifuge tube labelled V1. Mix well by repeat pipetting or using a vortex. 
-#. Transfer 50 uL from V1 to V2. Mix well by repeat pipetting or using a vortex. 
-#. Repeat the process until the last tube. 50 uL from V4 can be discard.   
+#. From the virus stock, transfer 50 uL virus into the microcentrifuge tube labelled **V1**. Mix well by repeat pipetting or using a vortex. 
+#. Transfer 50 uL from **V1** to **V2**. Mix well by repeat pipetting or using a vortex. 
+#. Repeat the process until the last tube. 50 uL from **V4** can be discard.   
 #. Set the tubes aside for later use. 
 
 **Compound dilution** 
@@ -157,9 +156,9 @@ Plan serial dilution of compounds
 
     C1 - 50, C2 - 25, C3 - 12.5, C4 - 6.25
 
-#. Add 3000 uL of 2% DMEM into C1, add 1500 uL of 2% DMEM into C2, C3, and C4. 
-#. From stock solution of compound (20,000 ug/mL), transfer 7.5 uL into C1. Mix well by repeat pipetting or using a vortex. 
-#. Transfer 1500 uL of solution from the first centrifuge tube to second centrifuge tube. Mix well by repeat pipetting or using a vortex. 
+#. Add 3000 uL of 2% DMEM into **C1**, add 1500 uL of 2% DMEM into **C2**, **C3**, and **C4**. 
+#. From stock solution of compound (20,000 ug/mL), transfer 7.5 uL into **C1**. Mix well by repeat pipetting or using a vortex. 
+#. Transfer 1500 uL of solution from **C1** to **C2**. Mix well by repeat pipetting or using a vortex. 
 #. Repeat the process for the remaining centrifuge tube. 
 #. Set the centrifuge tube aside for later use. 
 
