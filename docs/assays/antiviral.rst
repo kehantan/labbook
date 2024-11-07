@@ -50,26 +50,26 @@ Section 1 - Trypsininse, cell count, seed cells
     * :code:`6 well * 450,000 cells = 2,700,000 cells needed`
     * If there are not enough cells, consider seed at another day, or seed less wells.  
 
-#. Dispense 1.5 mL of 10% DMEM in each well in the 6 well plate.
+#. Add 1500 uL of 10% DMEM in each well in the 6 well plate.
 
-    * 1 mL of 10% DMEM in each well if using 12 well plate 
+    * 1000 uL of 10% DMEM in each well if using 12 well plate 
 
-#. Dispense correct amount of cells into each well. 
+#. Add correct amount of cells into each well. 
 #. Tilt the well plate back and forth and side to side to distribute the cells evenly across the base of the wells. 
 #. Incubate. 37 C, 24 hrs. 
 
 Section 2 - Infection and treatment 
 -----------------------------------
 
-* Before infection, 
+* Before starting any procedure, 
 
-    * check the cell confluency in the 6 well plate. The cells should be around 70% confluency. 
+    * check the cell confluency in the 6 well plate under microscope. The cells should be around 70% confluency. 
     * plan well plate layout 
     * determine MOI to be used 
-    * serial dilute the compound to be tested
+    * plan a 1/2 serial dilution for the compound to be tested
 
-Planning well plate layout
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+Plan well plate layout
+~~~~~~~~~~~~~~~~~~~~~~
 
 * Below shows a layout of a 6 well plate 
 
@@ -103,13 +103,27 @@ Calculate virus volume to use for infection
 
     :math:`0.1 \times 450,000 = 45,000`
 
-* Assume virus titer of the virus stock = :math:`1 \times 10^{10}\ \text{pfu}/mL`, then using the formula above, we can determined that we need 45 uL of virus stock in each well. 
+* Assume virus titer of the virus stock = :math:`1 \times 10^{10}\ \text{pfu}/mL`, then using the formula above, we can determined that we need to put 0.0045 uL of virus stock in each well. 
 
-    :math:`\frac{45,000}{1 \times 10^{10}} = 4.5 \times 10^{-6} mL (0.0045 \micro L)`
+    :math:`\frac{45,000}{1 \times 10^{10}} = 4.5 \times 10^{-6} mL (0.0045 uL)`
 
-* 0.0045 uL is not feasible to aspirate with micropipette, so to circumvent this issue, dilute the virus sample to a reasonable concentration. 
-* 
+* However, 0.0045 uL is not feasible to aspirate with micropipette, so to circumvent this issue, dilute the virus sample to a reasonable concentration. 
+* Repeat the formula again, this time, use :math:`1 \times 10^{6}` for the virus titer.
+
+    :math:`\frac{45,000}{1 \times 10^{6}} = 0.045 mL (45 \micro L)`
+
+* 45 uL is a feasible volume to work with
+* So, from :math:`1 \times 10^{10}` to :math:`1 \times 10^{6}`, we need to do 10 times dilution for 4 times.
+
+    :math:`1 \times 10^{10}` (Virus stock) > :math:`1 \times 10^{9}` > :math:`1 \times 10^{8}` > :math:`1 \times 10^{7}` > :math:`1 \times 10^{6}`
+
 * Virus need is supposedly the number of cells in each well at the day of infection, but it is impractical to count the cells in each well, so we just assumes that the number of cells in the well is the number of cells seeded, although that is not true. 
+
+Plan serial dilution of compounds
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* Assume stock solution of compound to be tested was prepared at concentration of 20,000 ug/mL (20 mg/mL).
+* We would perform 1/2 serial dilution with 50 ug/mL as highest concentration and final volume of 1500 uL. 
 
 **Requires**
 
@@ -123,13 +137,53 @@ Calculate virus volume to use for infection
 * Micropipette (1000 uL)
 * Micropipette tips 
 * Waste beaker 
+* Vortex
+* Rack
 
 **Procedure**
 
-#. Remove existing media from well plate. 
+**Virus dilution** 
+
+#. Label 4 microcentrifuge tube with different dilution factor.
+
+    V1 - :math:`10^{-9}`, V2 - :math:`10^{-8}`, V3 - :math:`10^{-7}`, V4 - :math:`10^{-6}`
+
+#. Add 450 uL of 2% DMEM into each microcentrifuge tube.
+#. From the virus stock, transfer 50 uL virus into the first microcentrifuge tube (:math:`10^{-9}`. Mix well by repeat pipetting or using a vortex. 
+#. Transfer 50 uL from first microcentrifuge tube to second microcentrifuge tube. Mix well by repeat pipetting or using a vortex. 
+#. Repeat the process until the last tube.  
+#. Set the tubes aside for later use. 
+
+**Compound dilution** 
+
+#. Prepare and label 4 centrifuge tube. 
+
+    C1 - 50, C2 - 25, C3 - 12.5, C4 - 6.25
+
+#. Add 3000 uL of 2% DMEM into first tube (50). 
+#. Add 7.5 uL of stock compound (20,000 ug/mL) into the first tube. Mix well by repeat pipetting or using a vortex. 
+#. Transfer 1500 uL of solution from the first centrifuge tube to second centrifuge tube. Mix well by repeat pipetting or using a vortex. 
+#. Repeat the process for the remaining centrifuge tube. 
+#. Set the centrifuge tube aside for later use. 
+
+**Infection and treatement** 
+
+#. Label each well on the 6 well plate. 
+
+    (NC) (C1) (C3)
+
+    (VC) (C2) (C4)
+    
+    * NC = Negative control; VC = Virus control
+
+#. Remove existing media from the 6 well plate. 
 #. Wash cells with PBS. 
-#. Add 350 uL of diluted compound into their assigned wells.
-#. Add the calculated amount of diluted virus stock to assigned wells. 
+#. Add 300 uL of diluted compound into corrensponding well that was labelled earlier.
+#. Add the calculated amount of diluted virus stock to assigned wells.
+
+    * In this example, 45 uL of diluted virus with dilution factor of :math:`10^{-6}` into each well. 
+    * Use different pipette tips for each well. 
+
 #. Incubate. 37 C, 1 hr. Tilt well plate every 20 mins. 
 #. After 1 hr, remove the well plate from incubator. 
 #. Remove existing media in the well plate. 
