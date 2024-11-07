@@ -167,9 +167,11 @@ Plan serial dilution of compounds
 
 #. Label each well on the 6 well plate. 
 
-    (NC) (C1) (C3)
-
-    (VC) (C2) (C4)
+    +====+====+====+
+    | NC | C1 | C3 |
+    +----+----+----+
+    | VC | C2 | C4 |
+    +====+====+====+
     
     * NC = Negative control; VC = Virus control
 

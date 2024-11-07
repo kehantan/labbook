@@ -41,11 +41,11 @@ Section 1 - Trypsininse, cell count, seed cells
     * :code:`6 well * 600,000 cells = 3,600,000 cells needed`
     * If there are not enough cells, consider seed at another day, or seed less wells.  
 
-#. Dispense 1.5 mL of 10% DMEM in each well in the 6 well plate.
+#. Add 1500 uL of 10% DMEM into each well in the 6 well plate.
 
-    * 1 mL of 10% DMEM in each well if using 12 well plate 
+    * 1000 uL of 10% DMEM into each well if using 12 well plate 
 
-#. Dispense correct amount of cells into each well. 
+#. Add correct amount of cells into each well. 
 #. Tilt the well plate back and forth and side to side to distribute the cells evenly across the base of the wells. 
 #. Incubate. 37 C, 24 hrs. 
 
@@ -74,18 +74,14 @@ Virus stock serial dilution
 
 * Before the actual infection procedure, we need to prepare a serial diultion from the virus stock. 
 
-**10x Serial Dilution**
+**10x Serial Dilution of virus stock**
 
-#. Label 5 microcentrifuge tube. 
-
-    Label example: :math:`10^{-1}`, :math:`10^{-2}`, :math:`10^{-3}` ... 
-
-#. Dispense 450 uL of 2% DMEM into each tube. 
-#. Retrieve virus stock from -80 C. 
-#. Thaw virus stock in 37 C water bath. 
-#. Take 50 uL of virus stock and dispense into the first tube (:math:`10^{-1}`). Mix well by either pipette repeatedly or using a vortex.
-#. Transfer 50 uL of diluted virus from first tube to second tube (:math:`10^{-2}`). Mix well by either pipette repeatedly or using a vortex.
-#. Repeat the process for each tube until the last tube.
+#. Label 5 microcentrifuge tube: D1 - :math:`10^{-1}`, D2 - :math:`10^{-2}`, D3 - :math:`10^{-3}`, D4 - :math:`10^{-4}`, D5 - :math:`10^{-5}`.
+#. Add 450 uL of 2% DMEM into each tube. 
+#. Retrieve virus stock from -80 C and thaw virus stock in 37 C water bath. 
+#. Transfer 50 uL of virus stock into D1. Mix well by either pipette repeatedly or using a vortex.
+#. Transfer 50 uL of diluted virus from D1 to D2. Mix well by either pipette repeatedly or using a vortex.
+#. Repeat the process for each tube until the last tube. 50 uL from D5 can be discarded. 
 
 *Note 1:* Assuming we are infecting Vero cells with virus in 6 well plate, which uses 300 uL of virus containing media, so diluting the virus to final volume of 500 uL is sufficient. If infecting Vero cells in a 12 well plate, which would use only 100 uL of diluted virus, we can reduce the volume to 300 uL so we don't waste the media. 30 uL of virus stock + 270 uL fresh 2% DMEM.
 
@@ -94,25 +90,33 @@ Virus stock serial dilution
 Infection
 ~~~~~~~~~
 
-#. Label each well.
+#. Label each well in 6 well plate.
 
-    Label example: NC, :math:`10^{-1}`, :math:`10^{-2}`, :math:`10^{-3}` ...
+    +======================+======================+======================+
+    | NC                   | D2 - :math:`10^{-2}` | D4 - :math:`10^{-4}` |
+    +----------------------+----------------------+----------------------+
+    | D1 - :math:`10^{-1}` | D3 - :math:`10^{-3}` | D5 - :math:`10^{-4}` |
+    +======================+======================+======================+
+
+    * NC = Negative control
 
 #. Remove existing media from each well with serological pipette. 
 
     * Aspirate media from the edge of the well to prevent scratching on the cell layer.
     * For this step we can still use serological pipette because the virus is not introduced to the wells yet. 
 
-#. Wash cells with PBS. Dispense 300 uL of PBS into each well from the wall of the wells. Tilt the plate side to side and back and forth a few times to properly wash the cells. Remove PBS after washing cells. 
+#. Wash cells with PBS. 
 
-   * There are actually no fixed amount to use, just need to cover the cell layer.
+    * Add 300 uL of PBS into each well from the wall of the wells. 
+    * Tilt the plate side to side and back and forth a few times to properly wash the cells, make sure all the cells are covered by PBS. 
+    * Remove PBS after washing cells. 
+    * There are actually no fixed amount to use, just need to cover the cell layer.
    
-#. Add 300 uL of 2% DMEM in negative control well.
-#. Add 300 uL of diluted virus into their corresponding wells according to the labels on the well plate. 
-
-    * Mix the virus before adding the virus to the wells by using a vortex or repeat pipetting. 
-
-#. Incubate the 6 well plate at 37 C for 1 hour. Tilt the plate every 20 mins. 
+#. Add 300 uL of 2% DMEM into NC well.
+#. Mix the virus by using a vortex or repeat pipetting. Transfer 300 uL of diluted virus from D1 tube into D1 well.
+#. Repeat the process for D2, D3, D4, and D5 tube. 
+#. Tilt the plate back and forth and side to side to make sure the virus covers all the cells in the 6 well plate. 
+#. Incubate. 37 C, 1 hour. Tilt the plate every 20 mins. 
 #. 10 minutes before the infection period ends, prepare agarose overlay. 
 
 *Note:* The section using 300 uL of liquid throughout the procedure, this is assuming the cells were cultured in a 6 well plate. The volume can be reduced to 150 uL if using 12 well plate. Adjust the volume accordingly if any other sizes of well plates were used. 
@@ -127,17 +131,18 @@ Agarose overlay
     * Swirl the bottle and check if there are unmelted agarose or solid chunks of agarose in the bottle.
     * BEWARE! Handle melted agarose with care, use mittens if necessary, extremely hot! 
 
-#. In a 15 ml centrifuge tube, add 2 mL of melted agarose into 8 mL of 2% DMEM to make a 10 mL agarose overlay at a 2:8 ratio. Mix the agarose and 2% DMEM either by repeating pipetting or invert the centrifuge tube few times.
+#. In a 15 ml centrifuge tube, add 2 mL of melted agarose into 8 mL of 2% DMEM to make a 10 mL agarose overlay at a 2:8 ratio. Mix the agarose and 2% DMEM mixture either by repeating pipetting or invert the centrifuge tube few times.
 
 #. Remove existing media from the 6 well plate. 
 
     * Don't use serological pipette for this step, use micropipette. 
+    * Use different pipette tips for each well to prevent cross contamination. 
 
 #. Wash cells with PBS. Dispense 300 uL of PBS into each well from the wall of the wells. Tilt the plate side to side and back and forth a few times to properly wash the cells. Remove PBS after washing the cells. 
 
     * Use different micropipette tips for each well to prevent cross contamination. 
 
-#. Dispense 1.5 mL of agarose overlay into each well. 
+#. Add 1.5 mL of agarose overlay into each well. 
 
     * Serological pipette can be used for this step. 
     * Dispense the mixture from the wall of each well.
@@ -161,7 +166,8 @@ Agarose overlay
 Section 3 - Fix and stain 
 -------------------------
 
-* It usually takes 24 hrs for the cells to exhibits CPE, and 48 hrs for the cell infected with virus to die and form plaques. So usually after 48 hrs of incubation, we can fix and stain the well plate to show the plaques. 
+* It usually takes 24 hrs for the cells to exhibits CPE, and 48 hrs for the cell infected with virus to die and form plaques. 
+* After 48 hrs of incubation, we can fix and stain the well plate to show the plaques. 
 
 **Requires**
 
@@ -174,7 +180,7 @@ Section 3 - Fix and stain
 
 **Procedure**
 
-#. Dispense 3.7% PFA into each well to fix the cells for 15 - 60 mins.
+#. Add 300 uL of 3.7% PFA into each well to fix the cells for 15 - 60 mins.
     
     * Use the micropipette for bench use.
     * There are no fix volume, just need to cover the cell layer. 300 uL should be enough. 
@@ -193,10 +199,9 @@ Section 3 - Fix and stain
     * Decant the agarose directly into the yellow bin beside the sink if possible to prevent the sink from clogging up.   
 
 #. Decant excess water from 6 well plate by slightly tapping the well plate facing downwards against a paper towel. 
-#. Stain the wells with crystal violet for 2 to 3 mins. 
+#. Add 300 uL of crystal violet into each well. 
 
     * No fix volume required, just need to cover the cell layer. 300 uL should be sufficient. 
-    * Dispense from the wall of each well. 
     * Tilt the plate to make sure crystal violet covers the all areas within the wells. 
 
 #. Tilt the plate for 1 to 2 mins. 
