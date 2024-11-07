@@ -3,11 +3,13 @@ Antiviral assay
 
 **Objective:** To test antiviral properties of a compound using cell based assay. 
 
-* The protocol for antiviral had been published :footcite:p:`lani2016antiviral,florez2022vitro,marin2021curcumin`. 
-* This protocol was separated into different sections, each section indicates that after that procedure was completed, have to wait until the next day (or after 2 days) to proceed to the next section. 
-* This protocol demonstrate plaque assay in 6 well plate. For plaque in 12 well plate or well plate of other sizes, the procedures are the same, just the volume of liquids, number of cells, and volume of reagents used are different. 
+The protocol for antiviral had been published :footcite:p:`lani2016antiviral,florez2022vitro,marin2021curcumin`. 
 
-* Before starting antiviral assay, several informations are required.
+This protocol was separated into different sections, each section indicates that after that procedure was completed, have to wait until the next day (or after 2 days) to proceed to the next section. 
+
+This protocol demonstrate plaque assay in 6 well plate. For plaque in 12 well plate or well plate of other sizes, the procedures are the same, just the volume of liquids, number of cells, and volume of reagents used are different. 
+
+Before starting antiviral assay, several informations are required.
 
     * Virus titer of the virus stock, in pfu/ml
 
@@ -24,7 +26,7 @@ Antiviral assay
 Section 1 - Trypsininse, cell count, seed cells
 -----------------------------------------------
 
-* For antiviral assay, cells should be at around 70% confluency at the day of infection and treatment. 
+For antiviral assay, cells should be at around 70% confluency at the day of infection and treatment. 
 
     * For 6 well plate, seed 450,000 cells for next day infection and treatment. 
     * For 12 well plate, seed 150,000 cells for next day infection and treatment. 
@@ -33,7 +35,7 @@ Section 1 - Trypsininse, cell count, seed cells
 
 * :ref:`Complete DMEM <10 dmem>`
 * Trypsin 
-* PBS
+* :ref:`Phosphate buffer saline (PBS) <pbs>`
 * Clear 6 well plate
 * Micropipette (10 uL to 1000 uL)
 * Micropipette tips
@@ -62,14 +64,19 @@ Section 1 - Trypsininse, cell count, seed cells
 Section 2 - Infection
 ---------------------
 
-* Before infection, check the cell confluency in the 6 well plate. The cells should be around 70% confluency. 
+Before infection, 
+
+* check the cell confluency in the 6 well plate. The cells should be around 70% confluency. 
+* plan well plate layout 
+* determine MOI to be used 
+* serial dilute the compound to be tested
 
 Planning well plate layout
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* It is always best to plan the layout of the well plate before starting the antiviral assay. 
+It is always best to plan the layout of the well plate before starting the antiviral assay. 
 
-Imagine a 6 well plate 
+Below shows a layout of a 6 well plate 
 
 (A1) (A2) (A3) 
 
@@ -86,26 +93,26 @@ I would typically do
 
 This is merely a suggestion, you can tailor the arrangement however you like according to the need of your experiments, but always remember to include negative control and virus control wells. 
 
-Calculate virus volume to use
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Calculate virus volume to use for infection
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 :math:`\frac{\text{Virus need (MOI)}}{\text{Virus titer}} = X mL`
 
-* MOI = multiplicity of infection
+MOI = multiplicity of infection
 
     * MOI = 1, 1 virus particle for each cell 
     * MOI = 0.5, 1 virus particle for every 2 cells 
     * MOI = 0.1, 1 virus particle for every 10 cells  
 
-* If 450,000 cells seeded in each well, MOI = 0.1 is to be used, then 45,000 virus particles needed for each well  
+If 450,000 cells seeded in each well, MOI = 0.1 is to be used, then 45,000 virus particles needed for each well  
 
     :math:`0.1 \times 450,000 = 45,000`
 
-* Assume virus titer of the virus stock = :math:`1 \times 10^{6}\ \text{pfu}/mL`, then using the formula above, we can determined that we need 45 uL of virus stock in each well. 
+Assume virus titer of the virus stock = :math:`1 \times 10^{6}\ \text{pfu}/mL`, then using the formula above, we can determined that we need 45 uL of virus stock in each well. 
 
     :math:`\frac{45,000}{1 \times 10^{6}} = 0.045 mL (45 \micro L)`
 
-* Virus need is supposedly the number of cells in each well at the day of infection, but it is impractical to count the cells in each well, so we just assumes that the number of cells in the well is the number of cells seeded, although that is not true. 
+Virus need is supposedly the number of cells in each well at the day of infection, but it is impractical to count the cells in each well, so we just assumes that the number of cells in the well is the number of cells seeded, although that is not true. 
 
 **Requires**
 
