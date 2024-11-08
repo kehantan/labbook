@@ -77,8 +77,6 @@ Plan well plate layout
 
 (B1) (B2) (B3) 
 
-* I would typically do 
-
     * A1 = Negative control (Cells without virus infection)
     * B1 = Virus control (Cells with virus infection, but not treated with compound)
     * A2, A3, B2, B3 = Cells infected with virus infection and treated with compound
@@ -102,9 +100,9 @@ Calculate virus volume to use for infection
 
 * Assume virus titer of the virus stock = :math:`1 \times 10^{10}\ \text{pfu}/mL`, then using the formula above, we can determined that we need to put 0.0045 uL of virus stock in each well. 
 
-    :math:`\frac{45,000}{1 \times 10^{10}} = 4.5 \times 10^{-6} mL (0.0045 uL)`
+    :math:`\frac{45,000}{1 \times 10^{10}} = 4.5 \times 10^{-6} mL (0.0045\ uL)`
 
-* However, 0.0045 uL is not feasible to aspirate with micropipette, so to circumvent this issue, dilute the virus sample to a reasonable concentration. 
+* However, 0.0045 uL is not feasible to aspirate with micropipette, so to work around this issue, dilute the virus sample to a reasonable concentration. 
 * Repeat the formula again, this time, use :math:`1 \times 10^{6}` for the virus titer.
 
     :math:`\frac{45,000}{1 \times 10^{6}} = 0.045 mL (45 uL)`
@@ -200,6 +198,13 @@ Section 3 - Harvest
 * Observe the well plate every 24 hrs for formation of CPE and detachment of cells. 
 * The media in the well plates can be harvested at 48 hours. 
 
+**Requires**
+
+* Micropipette (1000 uL)
+* Micropipette tips
+* Microcentrifuge tube
+* Waste beaker
+
 **Procedure**
 
 #. Label 4 microcentrifuge tube VC-1, VC-2, VC-3, VC-4. Include date and name initials on the tube. 
@@ -221,7 +226,7 @@ Calculate percentage of inhibition
 
 C = Virus control; T = Treated
 
-Citation for this calculation had been published :footcite:p:`low2021antiviral`.
+Reference here :footcite:p:`low2021antiviral` for publication regarding this calculation.
 
 References 
 ----------

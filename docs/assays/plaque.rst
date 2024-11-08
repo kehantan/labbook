@@ -226,15 +226,15 @@ Refer to :ref:`virus waste <virus waste>` management.
 Plaque assay results
 --------------------
 
-Plaques in plaque assay is formed due to a small, clear area surrounded by cells. After stained with crystal violet, the cells surrounding the plaques should be purple in colour. In theory, the lower the virus dilution (virus is less diluted), the more virus particles there is, so more plaques would form; the higher the dilution (virus is more diluted), the less virus particles there are, so less plaques would form. 
+After stained with crystal violet, the cells surrounding the plaques should be purple in colour, while the plaque remains clear due to absence of cells within the plaques. In theory, the lower the virus dilution (virus is less diluted), the more virus particles there is, so more plaques would form; the higher the dilution (virus is more diluted), the less virus particles there are, so less plaques would form. 
 
-Assuming proper plaques were observed in a well plate and not other problems like cells detaching due to other technical issues, there are several outcomes that can be observed from a well in plaque assay:
+Several outcomes that can be observed from a well in plaque assay:
 
-* Too many plaques that they overlapped with each other, resulting in large clear area, indicating large amount of cells detached. This means the virus titer is too high for this well.  
-* Individual plaques obtained, little to no overlapping between each plaques. Each plaque is surrounded by non infected cells. However, there are too many plaques, which can be difficult to count. 
-* Individual plaques obtained, little to no overlapping between each plaques. Each plaque is surrounded by non infected cells and there are around 100 plaques in each well. This is the most ideal outcome, where there are plaques and there are not too many that they are difficult to count. 
+    * Too many plaques that they overlapped with each other, resulting in large clear area, indicating large amount of cells detached. This means the virus titer is too high for this well.  
+    * Individual plaques obtained, little to no overlapping between each plaques. Each plaque is surrounded by non infected cells. However, there are too many plaques, which can be difficult to count. 
+    * Individual plaques obtained, little to no overlapping between each plaques. Each plaque is surrounded by non infected cells and there are around 100 plaques in each well. Plaques can be observed but not to many until it is difficult to count. This is the ideal scenario. 
 
-Pick wells that have countable plaques and count the number of plaques for that well. Whether number of plaques in a well is consider countable or uncountable is very subjective, choose whichever well that is countable.
+Pick wells that have countable plaques and count the number of plaques for that well. Whether number of plaques in a well is consider countable or uncountable can be subjective, choose whichever well that is countable.
 
 Calculations
 ------------
@@ -243,11 +243,9 @@ After counting the number of plaques in a well, put the number into the formula:
 
 :math:`\frac{\text{Number of plaques}}{\text{Dilution factor} \times \text{Volume of virus sample used}} = \text{X pfu/mL}`
 
-:math:`\text{Number of plaques}` = The number of the plaques counted 
-
-:math:`\text{Dilution factor}` = The dilution factor used for the virus sample. E.g.: :math:`10^{-6}`, :math:`10^{-7}`, :math:`10^{-8}`, etc
-
-:math:`\text{Volume of virus sample used}` = If following this protocol, it would be 300 uL, or 0.3 mL 
+    * Number of plaques = The number of the plaques counted 
+    * Dilution factor = The dilution factor used for the virus sample. E.g.: :math:`1 \times 10^{-6}`, :math:`1 \times 10^{-7}`, :math:`1 \times 10^{-8}`, etc
+    * Volume of virus sample used = Volume of virus sample added to each well during infection, in mL. If following this protocol, it would be 0.3 mL (300 uL). 
 
 After the pfu/mL for the first well was obtained, repeat the process for another 2 wells and average the numbers
 
