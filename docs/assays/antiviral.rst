@@ -86,7 +86,7 @@ Plan well plate layout
 Calculate virus volume to use for infection
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-:math:`\frac{\text{Virus need (MOI)}}{\text{Virus titer}} = X mL`
+:math:`\frac{\text{Virus need (MOI)}}{\text{Virus titer}} = X\ mL`
 
 * MOI = multiplicity of infection
 
@@ -100,12 +100,12 @@ Calculate virus volume to use for infection
 
 * Assume virus titer of the virus stock = :math:`1 \times 10^{10}\ \text{pfu}/mL`, then using the formula above, we can determined that we need to put 0.0045 uL of virus stock in each well. 
 
-    :math:`\frac{45,000}{1 \times 10^{10}} = 4.5 \times 10^{-6} mL (0.0045\ uL)`
+    :math:`\frac{45,000}{1 \times 10^{10}} = 4.5 \times 10^{-6} mL (0.0045 \mu L)`
 
 * However, 0.0045 uL is not feasible to aspirate with micropipette, so to work around this issue, dilute the virus sample to a reasonable concentration. 
 * Repeat the formula again, this time, use :math:`1 \times 10^{6}` for the virus titer.
 
-    :math:`\frac{45,000}{1 \times 10^{6}} = 0.045 mL (45 uL)`
+    :math:`\frac{45,000}{1 \times 10^{6}} = 0.045 mL (45 \mu L)`
 
 * 45 uL is a feasible volume to work with. So, from :math:`1 \times 10^{10}` to :math:`1 \times 10^{6}`, we need to do 10 times dilution for 4 times.
 
