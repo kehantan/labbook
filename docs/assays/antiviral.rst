@@ -140,7 +140,7 @@ Plan serial dilution of compounds
 
 #. Label 4 microcentrifuge tube with different dilution factor.
 
-    V1 - :math:`10^{-9}`, V2 - :math:`10^{-8}`, V3 - :math:`10^{-7}`, V4 - :math:`10^{-6}`
+    V1 - 10:sup:`-9`, V2 - 10:sup:`-8`, V3 - 10:sup:`-7`, V4 - 10:sup:`-6`
 
 #. Add 450 uL of 2% DMEM into each microcentrifuge tube.
 #. From the virus stock, transfer 50 uL virus into the microcentrifuge tube labelled V1. Mix well by repeat pipetting or using a vortex. 
