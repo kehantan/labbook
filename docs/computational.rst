@@ -10,7 +10,7 @@ The visual guides/tutorials is available on `google drive <https://drive.google.
 .. toctree::
    :maxdepth: 1
 
-   computational/begin_computational
+   computational/workflow
    computational/molecular_docking
    computational/molecular_dynamics
    computational/homology_model

@@ -5,9 +5,7 @@ Protein expression
 
 **Objective:** To culture bacteria that will express the target recombinant protein. 
 
-* This procedure has to be carried out in laminar flow. 
-* Do not use the laminar flow in cell culture room, as it could result in contamination. 
-* Remember to plan experiments ahead and book laminar flow and orbital shaker for bacteria work.
+* Protein expression  
 
 **Requires**
 
@@ -15,40 +13,62 @@ Protein expression
 * BL21 cell + Plasmid
 * :ref:`IPTG stock solution <iptg>`
 
-**Procedure**
+Section 1 - Preparation
+-----------------------
 
 Prepare LB agar
----------------
+~~~~~~~~~~~~~~~
 
-* LB agar was used for culture of the transformed BL21 bacteria. 
-* To prepare LB agar, just follow the instructions on the LB agar bottle. 
+* To prepare LB agar, follow the instructions on the LB agar bottle. 
+* This procedure can be carried out on lab bench.
 
+**Requires** 
 
-#. Dissolve powder in 250 mL distilled water. 
-#. Dispense 25 uL of Kanamycin stock solution into LB agar solution.
+* LB agar powder 
+* Petri dish 
+* Schott bottle (500 mL)
+* Distilled water 
+* Autoclave
+* Kanamycin stock solution (30 mg/mL)
+* Bunsen burner
+* Lighter
+
+**Procedure**
+
+#. In a 500 mL bottle, dissolve LB powder in 250 mL distilled water. 
+#. Add 250 uL of Kanamycin stock solution into LB agar solution. Final concentration of Kanamycin = 30 ug/mL
 #. Stir with magnetic stirrer until powder completely dissolve. 
 #. Autoclave.
 
-    Recommend: Set the autoclave mode to 'warm' instead or 'normal'. This would keep the agar at 60 :math:`^{\circ}`\ C after autoclave is complete so the agar would not solidifies. 
+    * Set the autoclave mode to 'warm' instead or 'normal'. This would keep the agar at 60 :math:`^{\circ}`\ C after autoclave is complete so the agar would not solidifies. 
 
 #. Pour agar into petri dish. 
-
-    If the autoclave mode was set to 'normal', remove the agar from autoclave as soon as possible and pour into petri dish to prevents the agar from solidifies in the flask/bottle.
-
 #. Wrap in plastic bag and store on bench. 
 
 Prepare LB broth
-----------------
+~~~~~~~~~~~~~~~~
 
-To prepare LB broth, just follow the instructions on the LB broth bottle.
+* To prepare LB broth, follow the instructions on the LB broth bottle.
+* This procedure can be carry out on lab bench.  
 
-#. Dissolve powder in 500 mL distilled water, in Erlenmeyer flask. 
-#. Dispense 500 uL of Kanamycin stock solution (30 mg/mL) into LB broth. 
-#. Cover flask with aluminium foil, tighten with rubber band, and store on bench. 
-  
-    To reduce risk of contamination, can use 2 L bottle. 
+**Requires**
 
-**Note:** For the ease of work, aside from preparing a 1 L LB broth for large scale culture, we can also prepare another LB broth in a 500 mL bottle used for various purpose such as small scale culture (initial culture of BL21 bacterial in 15 mL centrifuge tube before transfer to the 1 L broth) and as a blank for measuring the OD of the cultured bacteria. 
+* Erlenmeyer flask (2 L)
+* Weighting balance
+* Spatula 
+* LB broth powder 
+* Distilled water 
+* Measuring cylinder (1 L)
+* Kanamycin stock solution (30 mg/mL)
+
+**Procedure**
+
+#. In a 2 L Erlenmeyer flask, dissolve 12.5 g of LB powder in 500 mL distilled water. Cover the mouth of the flask with aluminium foil. 
+#. Autoclave. 120 C, 15 mins. 
+#. Wait until the LB broth cools down, then add 500 uL of Kanamycin stock solution into LB broth. 
+#. Cover the mouth of the flask with aluminium foil and store on bench. 
+
+**Note:** For the ease of work, aside from preparing a 1 L LB broth for large scale culture, we can also prepare another LB broth in a 500 mL bottle used for various purpose such as small scale culture and as a blank for measuring the OD of the cultured bacteria. 
 
 Subculture E. coli
 ------------------

@@ -7,5 +7,4 @@ Assays
 
    assays/mtt
    assays/plaque
-   assays/plaque_results
    assays/antiviral

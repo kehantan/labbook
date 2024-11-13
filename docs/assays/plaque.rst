@@ -21,9 +21,10 @@ Section 1 - Trypsininse, cell count, seed cells
 
 **Requires**
 
-* :ref:`Complete DMEM <10 dmem>`
+* :ref:`10% DMEM <10 dmem>`
 * Trypsin 
-* PBS
+* :ref:`Phosphate buffer saline (PBS) <pbs>`
+* Trypan blue 
 * Clear 6 well plate
 * Micropipette (10 uL to 1000 uL)
 * Micropipette tips
@@ -72,9 +73,9 @@ Section 2 - Infection
 Virus stock serial dilution
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* Before the actual infection procedure, we need to prepare a serial diultion from the virus stock. 
+* Before the actual infection procedure, prepare a serial diultion from the virus stock. 
 
-**10x Serial Dilution of virus stock**
+**10x Serial dilution of virus stock**
 
 #. Label 5 microcentrifuge tube: D1 - :math:`10^{-1}`, D2 - :math:`10^{-2}`, D3 - :math:`10^{-3}`, D4 - :math:`10^{-4}`, D5 - :math:`10^{-5}`.
 #. Add 450 uL of 2% DMEM into each tube. 
@@ -93,9 +94,9 @@ Infection
 #. Label each well in 6 well plate.
 
     +----------------------+----------------------+----------------------+
-    | NC                   | D2 - :math:`10^{-2}` | D4 - :math:`10^{-4}` |
+    | NC                   | W2 - :math:`10^{-2}` | W4 - :math:`10^{-4}` |
     +----------------------+----------------------+----------------------+
-    | D1 - :math:`10^{-1}` | D3 - :math:`10^{-3}` | D5 - :math:`10^{-5}` |
+    | W1 - :math:`10^{-1}` | W3 - :math:`10^{-3}` | W5 - :math:`10^{-5}` |
     +----------------------+----------------------+----------------------+
 
     * NC = Negative control
@@ -113,8 +114,7 @@ Infection
     * There are actually no fixed amount to use, just need to cover the cell layer.
    
 #. Add 300 uL of 2% DMEM into NC well.
-#. Mix the virus by using a vortex or repeat pipetting. Transfer 300 uL of diluted virus from D1 tube into D1 well.
-#. Repeat the process for D2, D3, D4, and D5 tube. 
+#. Mix the virus by using a vortex or repeat pipetting. Transfer 300 uL of diluted virus from D1 into W1, D2 into W2, and so on.
 #. Tilt the plate back and forth and side to side to make sure the virus covers all the cells in the 6 well plate. 
 #. Incubate. 37 C, 1 hour. Tilt the plate every 20 mins. 
 #. 10 minutes before the infection period ends, prepare agarose overlay. 
@@ -167,7 +167,8 @@ Section 3 - Fix and stain
 -------------------------
 
 * It usually takes 24 hrs for the cells to exhibits CPE, and 48 hrs for the cell infected with virus to die and form plaques. 
-* After 48 hrs of incubation, we can fix and stain the well plate to show the plaques. 
+* After 48 hrs of incubation, fix and stain the well plate to show the plaques.
+* Fixing and staining of 6 well plate can be done on bench or laminar flow in lab. 
 
 **Requires**
 
@@ -177,6 +178,7 @@ Section 3 - Fix and stain
 * Micropipette tips
 * Bucket/large beaker for washing
 * Paper towel 
+* Waste beaker 
 
 **Procedure**
 
