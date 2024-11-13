@@ -71,18 +71,20 @@ Prepare LB broth
 **Note:** For the ease of work, aside from preparing a 1 L LB broth for large scale culture, we can also prepare another LB broth in a 500 mL bottle used for various purpose such as small scale culture and as a blank for measuring the OD of the cultured bacteria. 
 
 Subculture E. coli
-------------------
+~~~~~~~~~~~~~~~~~~
 
 **Requires**
 
 * Centrifuge tube (15 mL)
-* Transformed *E. coli* cultured on plate 
+* Transformed *E. coli* cultured on agar plate 
 * Plastic inoculation loop
 * Bunsen burner
+* Lighter 
 
 **Procedure** 
 
-#. Aliquote 2 x 10 mL from 1 L LB broth into seperate 15 mL centrifuge tube. 
+#. Ligth up bunsen burner. 
+#. Prepare two 15 mL centrifuge tube. Add 10 mL of LB broth into each tube.
 #. Aliquote 5 mL of broth into a 15 mL centrifuge tube. 
 
     To be used as blank later. 
@@ -91,45 +93,43 @@ Subculture E. coli
 #. Pick a single *E. coli* colony from agar plate and streak on new LB agar plate. 
 #. Shake the centrifuge tube. 24 hrs, 37 :math:`^{\circ} C`, 180 rpm.
 
-Large scale culture
--------------------
+Section 2 - Large scale culture
+-------------------------------
 
 **Requires**
 
 * Spectrophotometer
 * 2 L Erlenmeyer flask
 * 2 L orbital shaker
-* :ref:`IPTG stock solution <iptg>`
+* :ref:`IPTG stock solution (250 mM)<iptg>`
 * Refrigerated centrifuge 
 
 **Procedure**
 
-#. Decant the 2 15 mL centrifuge tube culture into the 1 L LB broth. 
-#. Shake. 1 to 3 hrs, 37 :math:`^{\circ}`\ C, 180 rpm. 
-#. Check OD at 600 nm. 
+#. Add the small scale culture from 15 mL centrifuge tube culture into the 500 mL LB broth prepared in section 1. 
+#. Shake. 1 to 3 hrs, 37 C, 180 rpm. 
+#. Check OD at 600 nm every 1 hour. 
+#. When OD is around 0.5 - 0.6, add 1 mL of IPTG stock solution to the LB broth culture.
 
-    * Previous step mentioned shake for 1 to 3 hours, but check OD every hour to make sure the reading falls around 0.5.
-    * Access to spectrophotometer: Faculty of Pharmacy.
+    * IPTG final concentration in LB broth = 0.5 mM
 
-#. Add 1 mL IPTG (50 mM) to the 1 L LB broth culture. 
-#. Shake. 2 hrs, 37 :math:`^{\circ}`\ C, 180 rpm.
-#. Centrifuge. 3000 rpm, 10 mins. 
+#. Shake. 2 hrs, 37 C, 180 rpm.
+#. Centrifuge. 4000 rpm, 4 C, 10 mins. 
 
-    * Centrifuge with the chiller centrifuge in Bilik Kultur Tisu 1. Each bucket can only hold 1 50 mL centrifuge tube, therefore need to split the 1 L culture into multiple 50 mL centrifgue tube. 
-    * Remember to book the machine before use, and pre-cool at least 20 mins before use 
+    * 4 C is preferrable, if not, room temp is fine. 
 
-#. Decant supernatant. 
+#. Remove supernatant. 
 #. Wash pellet with PBS. 
 
-    * Although there are no problem using PBS for cell culture, it is best to prepare another PBS for bacteria work to reduce possibilities of contamination. 
+    * Prepare another PBS for bacteria work to prevent contamination with PBS for cell culture use. 
     * No fixed volume, use adequte anount of PBS.
 
 #. Resuspend pellet in PBS. 
 #. Transfer suspension into new 50 mL centrifuge tube. 
-#. Centrifuge. 
-#. Decant supernatant. 
+#. Centrifuge. 3000 rpm, 4C, 10 mins.  
+#. Remove supernatant. 
 #. Label the centrifuge tube.
-#. Store pellet at -80 :math:`^{\circ}`\ C.
+#. Store pellet at -80 C.
 
-    * Bacterial pellet can be stored in -80 :math:`^{\circ}`\ C for months wihtout problem. 
-    * Wrap the centrifuge tube in plastic bag before storing in -80 :math:`^{\circ}`\ C to prevent contamination of other samples.  
+    * Bacterial pellet can be stored in -80 C for months wihtout problem. 
+    * Wrap the centrifuge tube in plastic bag before storing in -80 C to prevent contamination of other samples.  
