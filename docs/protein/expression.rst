@@ -5,22 +5,17 @@ Protein expression
 
 **Objective:** To culture bacteria that will express the target recombinant protein. 
 
-* Protein expression  
+* Approximate time for total procedure: 10 hrs  
 
-**Requires**
-
-* Transformed BL21
-* BL21 cell + Plasmid
-* :ref:`IPTG stock solution <iptg>`
-
-Section 1 - Preparation
------------------------
+Section 1 - Preparation and small scale culture 
+-----------------------------------------------
 
 Prepare LB agar
 ~~~~~~~~~~~~~~~
 
 * To prepare LB agar, follow the instructions on the LB agar bottle. 
 * This procedure can be carried out on lab bench.
+* If there are already extra agar plates prepared then this step can be skipped, but check the plates before use. Avoid using contaminated agar plates or agar plates with water vapour condenstaion inside.  
 
 **Requires** 
 
@@ -40,10 +35,10 @@ Prepare LB agar
 #. Stir with magnetic stirrer until powder completely dissolve. 
 #. Autoclave.
 
-    * Set the autoclave mode to 'warm' instead or 'normal'. This would keep the agar at 60 :math:`^{\circ}`\ C after autoclave is complete so the agar would not solidifies. 
+    * Set the autoclave mode to 'warm' instead or 'normal'. This would keep the agar at 60 C after autoclave is complete so the agar would not solidifies. 
 
 #. Pour agar into petri dish. 
-#. Wrap in plastic bag and store on bench. 
+#. Wait until agar plate is cooled down, then wrap in plastic bag and store on bench. 
 
 Prepare LB broth
 ~~~~~~~~~~~~~~~~
@@ -68,10 +63,10 @@ Prepare LB broth
 #. Wait until the LB broth cools down, then add 500 uL of Kanamycin stock solution into LB broth. 
 #. Cover the mouth of the flask with aluminium foil and store on bench. 
 
-**Note:** For the ease of work, aside from preparing a 1 L LB broth for large scale culture, we can also prepare another LB broth in a 500 mL bottle used for various purpose such as small scale culture and as a blank for measuring the OD of the cultured bacteria. 
+**Note:** For the ease of work, aside from preparing LB broth for large scale culture, prepare another smaller volume of LB broth in a 500 mL bottle used for various purpose such as small scale culture and as a blank for measuring the OD of the cultured bacteria. 
 
-Subculture E. coli
-~~~~~~~~~~~~~~~~~~
+Small scale culture
+~~~~~~~~~~~~~~~~~~~
 
 **Requires**
 
@@ -82,16 +77,14 @@ Subculture E. coli
 * Lighter 
 
 **Procedure** 
-
-#. Ligth up bunsen burner. 
+ 
 #. Prepare two 15 mL centrifuge tube. Add 10 mL of LB broth into each tube.
 #. Aliquote 5 mL of broth into a 15 mL centrifuge tube. 
 
     To be used as blank later. 
 
 #. Pick a single *E. coli* colony from agar plate and mix with LB broth in the 15 mL centrifuge tube.
-#. Pick a single *E. coli* colony from agar plate and streak on new LB agar plate. 
-#. Shake the centrifuge tube. 24 hrs, 37 :math:`^{\circ} C`, 180 rpm.
+#. Shake the centrifuge tube. 24 hrs, 37 C, 180 rpm.
 
 Section 2 - Large scale culture
 -------------------------------
@@ -103,6 +96,10 @@ Section 2 - Large scale culture
 * 2 L orbital shaker
 * :ref:`IPTG stock solution (250 mM)<iptg>`
 * Refrigerated centrifuge 
+* PBS 
+* Centrifuge tube (50 mL)
+* Micropipette (1000 uL)
+* Micropipette tip (1000 uL)
 
 **Procedure**
 
@@ -114,18 +111,18 @@ Section 2 - Large scale culture
     * IPTG final concentration in LB broth = 0.5 mM
 
 #. Shake. 2 hrs, 37 C, 180 rpm.
+#. Transfer culture from flask into multiple 50 mL centrifuge tube. 
 #. Centrifuge. 4000 rpm, 4 C, 10 mins. 
 
     * 4 C is preferrable, if not, room temp is fine. 
 
 #. Remove supernatant. 
-#. Wash pellet with PBS. 
+#. Resuspend pellet in 2000 uL PBS.  
 
     * Prepare another PBS for bacteria work to prevent contamination with PBS for cell culture use. 
-    * No fixed volume, use adequte anount of PBS.
 
-#. Resuspend pellet in PBS. 
-#. Transfer suspension into new 50 mL centrifuge tube. 
+#. Combine all resusupended pellet into two 50 mL centrifuge tube.
+#. Top up PBS to 50 mL in each tube.  
 #. Centrifuge. 3000 rpm, 4C, 10 mins.  
 #. Remove supernatant. 
 #. Label the centrifuge tube.
