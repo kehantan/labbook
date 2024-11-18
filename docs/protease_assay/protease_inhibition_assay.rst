@@ -61,11 +61,7 @@ Protease inhibition assay
 #. Retrieve well plate from incubator. 
 #. Add 1.6 uL of substrate into each well.
 #. Incubate. 120 mins, 37 C.  
-#. Read plate at 350 nm excitation and 440 nm emission. 
-
-The final volume of liquid in each well should be 100 uL. You can adjust to 200 uL since the well can fit, but beware that you will also need to increase the amount of protease (which is very precious), amount of compound, amount of substrate, which might not be very sufficient for 200 uL. 
-
-If I wanted to test the compound at 1,600, 800, 400, and 200 ug/mL, I will prepare different tube by diluting stock solution of the compound to concentration of 16,000, 8,000, 4,000, and 2,000 ug/mL with DMSO. This is so that when I add 10 uL of the 1,600 ug/mL, it will be diluted by 10 times by the protease, buffer, and substrate, which makes the final volume of the compound to become 1,600 ug/mL. This is same with substrate. This is to make the volume consistant, where only 10 uL of compound and 10 uL of substrate will be added in each experiment.   
+#. Read plate at 350 nm excitation and 440 nm emission.   
 
 **Analysis**
 
