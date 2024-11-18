@@ -65,7 +65,7 @@ Protease inhibition assay
 
 **Analysis**
 
-:math:`\text{Inhibition (%)} = \frac{\text{NT}-\text{T}}{\text{NT}}\times 100%`
+:math:`\text{Inhibition (%)} = \frac{\text{NT}-\text{T}}{\text{NT}}\times 100\%`
 
 * NT = Non-treated
 * T = Treated
