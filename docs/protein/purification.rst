@@ -3,8 +3,6 @@ Protein extraction and purification
 
 **Objective:** To extract and purify expressed protein from bacteria. 
 
-Protein purification is quite a long procedure where multiple samples will be collected for further testing. All the samples (I mean **ALL**, both supernatant and precipitate) will be stored until the target protein was obtained. Therefore, it is important to clearly label every tubes/containers used. 
-
 **Requires**
 
 * Ice box filled with ice
@@ -21,7 +19,7 @@ Protein purification is quite a long procedure where multiple samples will be co
 Buffers 
 -------
 
-Before we begin, we need to prepare the buffers needed for this process, preferrably at least one day before use, because even though we are preparing from stock solution, weighing and stirring can take up significant amount time. Also, buffer D need to be pre-cooled in the cold room. 
+* Prepare the buffers preferrably at least one day before use, because even though we are preparing from stock solution, weighing and stirring can take up significant amount time. Also, buffer D need to be pre-cooled in the cold room. 
 
 **Lysis buffer**
 
@@ -98,7 +96,7 @@ Protein extraction
 ------------------
 
 #. From the bacterial pellet from 500 mL culture. 
-#. Add 5 mL of lysis buffer into each centrifuge tube and suspend the pellet completely. Use a vortex if necessary. 
+#. Add 12.5 mL of lysis buffer into each centrifuge tube and suspend the pellet completely. Use a vortex if necessary. 
 
     * It is normal for the suspension to become slimy when lysis buffer was added.
 
