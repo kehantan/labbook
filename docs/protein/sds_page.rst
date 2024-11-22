@@ -13,7 +13,7 @@ Prepare gel
 
 * Two gels need to be prepared: resolving gel and stacking gel. 
 * The protocol can be found in BIO-RAD's 'Handcasting Polyacrylamide Gels' documentation 
-* Depending on the number of gels to be run, we do not need to prepare the amount as stated in the documentation. We can half the amount stated in the documentation. 
+* Depending on the number of gels to be run, the amount stated in the documentation can be halved. 
 
 **Requires**
 
@@ -24,6 +24,9 @@ Prepare gel
 * :ref:`10% APS <aps>`
 * Distilled water
 * TEMED 
+* Micropipette and tips (1000 uL, 100 uL, 10 uL)
+* Small beaker (25 mL)
+* Microcentrifuge tube
 
 **Procedure** 
 
@@ -48,7 +51,7 @@ Cast gel
 
 **Setup**
 
-Can refer to YouTube videos on how to setup the gel casting apparatus. 
+* Can refer to YouTube videos on how to setup the gel casting apparatus. 
 
 #. Put short glass plate infront of tall glass plate, with the gap sandwiched in the middle of the two plates. 
 #. Place the glass plate sandwich into casting frame. 
@@ -57,39 +60,29 @@ Can refer to YouTube videos on how to setup the gel casting apparatus.
     * The glass plates should only be able to go into the casting frame in one orientation. 
 
 #. Secure the casting frame on the casting stand with the clip on the top. 
-#. With a wash bottle filled with distilled water, dispense small amount of distilled water to the bottom of the glass plates. 
-
-    * This step is to make sure the setup is secured and there are no leakage.
-
-#. Remove the distilled water. 
-
-    * Can either remove with a filter paper or just decant the water into sink. 
-
-#. After the distilled water was removed, the gel is ready to cast. 
+#. With a wash bottle filled with distilled water, dispense small amount of distilled water to the bottom of the glass plates. Make sure the setup is secured and there are no leakage at the bottom.
+#. Remove the distilled water by decanting the water directly into the sink or using a filter paper. 
+#. After the distilled water was removed, the gel is ready to be cast. 
 
 **Casting resolving gel**
 
-In theory, we can prepare 10% APS beforehand and store it in 4 C, but I usually encounter problem with gel not solidify when using not freshly prepared APS.  
+* 10% APS can be beforehand and stored in 4 C for later use, but I usually encounter problem with gel not solidify, so it is preferrable to freshly prepare APS before casting gel. 
 
-#. Add APS and TEMED into the resolving gel solution. 
-#. Mix the resolving gel solution well by repeating pipette a few times. 
-#. Pipette the resolving gel solution into the gap between the two glass plates.
+#. Add APS and TEMED into the resolving gel mixture. Mix well by repeating pipette. 
+#. Add resolving gel mixture into the gap between the two glass plate.
 #. Fill the resolving gel to about 2 cm from the top of the opening of the glass sandwich. 
 #. Add distilled water on top of resolving gel. 
-#. Let it sit for about 40 to 45 mins. The resolving gel should solidifies after 40 mins. 
+#. Let it sit for about 45 to 60 mins. The resolving gel should solidifies after 45 mins. 
 
     * One way to check it is by looking through the casted gel. The distilled water and the gel should form 2 seperate layers, with a barely visible fine line between the layers.
     * Another way is to tilt the casting frame a bit, you should see the water on top of resolving gel flow out and the resolving gel forming a solid layer.   
 
-#. Remove the water on top of the resolving gel. 
-
-    * Can either remove with a filter paper of just decant the water into sink.
+#. Remove the water on top of the resolving gel by decanting the water into sink or with a filter paper. 
 
 **Casting stacking gel**
 
-#. Add APS and TEMED into the stacking gel solution. 
-#. Mix the stacking gel solution well by repeating pipette a few times. 
-#. Pipette the stacking gel solution into the gap between the glass plates.
+#. Add APS and TEMED into the stacking gel solution. Mix well by repeating pipette. 
+#. Add stacking gel mixture into the gap between the glass plates.
 #. Fill the stacking gel on top of the resolving gel until the opening of the glass sandwich.  
 #. Make sure the well on the comb is the number of wells you need. Insert the comb into the stacking gel. 
 #. Let it sit for about 30 mins. The stacking gel should solidifies after 30 mins. 
@@ -108,15 +101,15 @@ Assemble setup
 
 **Procedure**
 
-#. Remove the casting frame that contains the casted gel from the casting stand. 
+#. Remove the casting frame from the casting stand. 
 #. Release the clamp of casting frame and remove the glass plates from the casting frame.
 #. Place the glass plates into one side of the cassette. If you are only running one gel, place a dummy plate on the other side of the cassette.
 
     * There are two types of cassette. If you are running only one gel, use the cassette with the electrode sticking out. If you use the one without electrode sticking up, the gel won't run, the power supply will give error when you press start.  
-    * Make sure the lower glass plate facing the inside of the cassette. Direction is important, this allows a closed circuit to form.  
+    * Make sure the lower glass plate facing the inside of the cassette. If using dummy plate, there are texts engraved on the plate to indicate which side of the plate should be facing inwards. Direction is important, this allows a closed circuit to form.  
 
 #. Secure the glass plates and the dummy plate with the clamps on both sides. 
-#. Insert the cassette into the buffer tank.
+#. Insert the cassette into the buffer tank. Match the colour, black to black, red to red. 
 #. Fill the inner compartment of the cassete (the space between glass plates and dummy plate) with running buffer until the brim. Fill the buffer tank (outside of the cassette) with running buffer until the marker on the buffer tank. 
 
     * The marker on the buffer tank shows the buffer level for at least 2 plates. I usually just fill up to the '2 gel' marker even I am only running 1 gel.
@@ -134,9 +127,9 @@ Prepare sample
 **Procedure**
 
 #. Prepare PCR tube and label them. 
-#. Aliquot sample and sample buffer into the PCR tubes at a 1:1 ratio. 
+#. Add sample and sample buffer into the PCR tubes at a 1:1 ratio. 
 
-    * E.g.: 10 uL of sample + 10 uL of sample buffer
+    * 10 uL of sample + 10 uL of sample buffer. 
 
 #. Add BME to each sample. 5% of total sample volume.
 
@@ -148,8 +141,6 @@ Prepare sample
 #. Set the thermal cycler. 95 C, 5 mins. 
 #. Run the thermal cycler.
 
-*Note:* It is best to prepare the sample just before loading. From experience, it will be easier to load when the sample is stil warm. It will be more difficult to load the samples after they cooled down. 
-
 Sample loading
 --------------
 
@@ -159,13 +150,12 @@ Sample loading
 **Requires**
 
 * Ladder 
+* Micropipette and tips (10 uL)
 
 **Procedure**
 
-#. Aspirate 5 uL of ladder with micropipette. 
-#. Place the micropipette tip directly on the top of the first well of the gel. 
-#. Dispense the sample slowly. The ladder sample should drop directly into the wells.
-#. Repeat the steps again, aspirate 10 uL of the prepared sample and dispense into each well.   
+#. Add 3 uL of ladder into the first well in the gel. 
+#. Add 10 uL of the prepared sample into each remaining well.   
 
 Running gel
 -----------
@@ -184,19 +174,14 @@ Running gel
 
 #. Set the power supply unit. 
 
-    * 300 V, 50 amp, around 60 mins.
+    * 300 V, 50 amp, 75 mins.
     * For some older units, the voltage might not be constantly sitting at 300 V. It is alright as long as the amp is stable. 
 
 #. Start the electrophoresis. 
-
-    * Many tiny bubbles will bee seen raising from the bottom of the gel to the surface.
-
 #. Observe the progress of the eletrophoresis about every 15 to 20 mins to make sure not to overrun. Stop the electrophoresis when the ladder reaches about 1 cm from the bottom of the gel. 
 
 Remove gel
 ----------
-
-* Remove gel from the glass plate 
 
 **Requires**
 
@@ -228,7 +213,7 @@ Fixing
 
 #. After transferring the gel into the plastic container, cover the gel with fixing solution.
 #. Place the containeer on rocking platform for about 10 mins to 1 hr.
-#. Decant fixing solution back into its bottle. 
+#. Remove fixing solution.
 
 Washing
 -------
@@ -243,9 +228,7 @@ Washing
 #. Cover the gel with gel washing solution.
 #. Place the container on the rocking platform. 
 #. Let the washing solution sit for about 2 hrs to overnight. 
-#. Decant the washing solution.   
-
-*Note:* Washing solution can be reuse, just pour it back into its container. 
+#. Remove washing solution.   
 
 Staining
 --------
@@ -257,12 +240,10 @@ Staining
 
 **Procedure**
 
-#. Fill the plastic container with Coomasie blue stain to about 1 cm of height.
+#. Cover the gel with Coomasie blue stain.
 #. Place the container on the rocking platform. 
 #. Stain the gel for about 30 mins to 3 hrs.  
 #. Remove the staining solution. 
-
-*Note:* Staining solution can be reuse, just pour it back into its container.  
 
 Destaining
 ----------
@@ -276,15 +257,10 @@ Destaining
 **Procedure**
 
 #. Cover the gel with destaining solution.
-
-    * Can pour more destaining solution into the plastic container, as Kim wipes may absorb some of the solution. 
-
 #. Surround the gel with Kim wipes.
 #. Place the plastic container on the rocking platform.
 #. Destain overnight. 
 #. Decant the destaining solution. 
-
-*Note:* I usually don't reuse destaining solution. 
 
 Storage
 -------
@@ -305,5 +281,6 @@ Clean up
 --------
 
 * The remaining gel solution in the small beaker from resolving gel and stacking gel would solidify over time. When this happens, break the gel (with any stuff you could find, like pipette tips or spatula) then dispose in the yellow bin. **DO NOT** throw in the sink, the solidified gel will clog up the piping system. 
-* Running buffers can be pour back into a bottle and reuse, but I do not recommend using it more than 5 times. Or you can flush the buffer down the sink. 
+* Running buffers can be pour back into a bottle and reuse, but I do not recommend using it more than 5 times. 
+* The buffer can be discard into the sink. 
 * Wash all apparatus and leave it to dry at the rack beside the sink.
