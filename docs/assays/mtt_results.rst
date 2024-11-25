@@ -2,7 +2,7 @@ MTT results
 ===========
 
 * The raw reading you obtain is the absorbance reading. 
-* Depending on which machine you use, most machine allows the results to be easily export to Microsoft Excel file (.xls). If not you will have to convert them manually into an Excel sheet, or you can directly input them into whatever software you use (e.g.: GraphPad Prism). 
+* Depending on which machine you use, most machine allows the results to be easily export to Microsoft Excel file. If not you will have to convert them manually into an Excel sheet, or you can directly input them into whatever software you use (e.g.: GraphPad Prism). 
 * How to put the results together is purely up to your own preference. I usually use Excel. 
 
 #. Average all the reading from the 3 wells of each concentrations (including blank and negative control wells). 
@@ -10,7 +10,5 @@ MTT results
 #. Devide average absorbance reading of each concentrations by the average absorbance reading of negative control. 
 #. Plot the graph. 
 
-Ideally, negative control should have the highest absorbance reading. Followed by reduced absorbance reading as the concentration of compound used to treat the cells going up, due to toxicity of the tested compounds against the cells. However, of course, this will not always be the case. 
-
-If you follow the protocol, we repeat the same concentrations for 5 times (5 wells). The five wells allows some room for error. If you have 1 well which the value is an outlier, you can ignore that and choose the other four and average them. 
-
+* Under typical condition, negative control should have the highest absorbance reading. Followed by reduced absorbance reading as the concentration of compound used to treat the cells going up, due to toxicity of the tested compounds against the cells. However, this will not always be the case.
+* Final interpretation of the results depends on experiment design and what to expect. 

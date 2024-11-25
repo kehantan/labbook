@@ -25,16 +25,19 @@ Prepare gel
 * Distilled water
 * TEMED 
 * Micropipette and tips (1000 uL, 100 uL, 10 uL)
-* Small beaker (25 mL)
+* Small volume beaker (25 mL)
 * Microcentrifuge tube
+* Waste beaker 
 
 **Procedure** 
 
-#. Prepare 2 small beaker for resolving gel and stacking gel. Prepare 1 larger beaker for distilled water. 
+#. Prepare APS before preparing gel. Refer :ref:`here <aps>` for recipe. 
+#. Prepare 2 small beaker for resolving gel and stacking gel.
 #. Prepare the resolving and stacking gel solution according to the table, but leave out APS and TEMED.
 
     * The sequence is to cast resolving gel first then only cast stacking gel. 
-    * Can prepare the resolving gel first, then prepare stacking gel immediately after. Another option is to prepare and cast the resolving gel first, then prepare the stacking gel while waiting for the resolving gel to solidify. 
+    * Can prepare the resolving gel first, then prepare stacking gel immediately after. 
+    * Another option is to prepare and cast the resolving gel first, then prepare the stacking gel while waiting for the resolving gel to solidify. 
 
 Cast gel
 --------
@@ -49,7 +52,7 @@ Cast gel
 
 **Procedure**
 
-**Setup**
+**Gel casting setup**
 
 * Can refer to YouTube videos on how to setup the gel casting apparatus. 
 
@@ -65,8 +68,6 @@ Cast gel
 #. After the distilled water was removed, the gel is ready to be cast. 
 
 **Casting resolving gel**
-
-* 10% APS can be beforehand and stored in 4 C for later use, but I usually encounter problem with gel not solidify, so it is preferrable to freshly prepare APS before casting gel. 
 
 #. Add APS and TEMED into the resolving gel mixture. Mix well by repeating pipette. 
 #. Add resolving gel mixture into the gap between the two glass plate.

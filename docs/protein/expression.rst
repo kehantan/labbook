@@ -3,9 +3,7 @@
 Protein expression
 ==================
 
-**Objective:** To culture bacteria that will express the target recombinant protein. 
-
-* Approximate time for total procedure: 10 hrs  
+**Objective:** To culture bacteria that will express the target recombinant protein.  
 
 Section 1 - Preparation and small scale culture 
 -----------------------------------------------

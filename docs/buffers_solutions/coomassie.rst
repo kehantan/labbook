@@ -5,12 +5,18 @@ Coomassie staining solution
 
 **Objective:** To prepare 0.1% (w/v) Coomassie staining solution for SDS PAGE. 
 
+* This protocol prepares 400 mL of Coomassie staining solution. 
+
 **Requires**
 
 * Coomassie blue powder
 * Methanol 
 * Acetic acid 
 * Distilled water or MilliQ water 
+* Measuring cylinder
+* Bottle (500 mL)
+* Filter (0.45 um)
+* Syringe
 
 **Procedure**
 

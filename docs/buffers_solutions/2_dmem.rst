@@ -5,7 +5,7 @@
 
 * 2% DMEM is used for cell culture related to virus. 
 * Prepare 2% DMEM in biosafety cabinet. 
-* 2% indicates this culture media contain a total of 2% FBS in volume
+* 2% indicates this culture media contain a total of 2% FBS in final volume
 
 **Requires**
 
@@ -14,27 +14,33 @@
 * :ref:`DMEM <dmem>`
 * Centrifuge tube (50 mL)
 * Sodium pyruvate (if required)
+* Micropipette and tips (1000 uL)
+* Waste beaker
+* Serological pipette 
+* Pipette gun
 
 **Procedures**
 
-#. Into 50 mL centrifuge tube, aliquote:
+#. Into 50 mL centrifuge tube, add:
 
-   * 48 mL of DMEM
+   +-----------+---------+
+   | DMEM      | 48.5 mL |
+   +-----------+---------+
+   | FBS       |    1 mL |
+   +-----------+---------+
+   | Pen-Strep |  0.5 mL |
+   +-----------+---------+
 
-      We only have 25 mL serological pipette, so to prepare 48 mL, we can split into 24 mL twice 
-
-   * 1 mL of FBS
-   * 500 uL of Pen-strep
-   * 500 uL of sodium pyruvate 
+    * If DMEM does not have sodium pyrubate added, reduce 0.5 mL of DMEM and add 0.5 mL of sodium pyruvate. 
 
 #. Mix well. 
 #. Label the centrifuge tube.
 
    Label example: :code:`2% DMEM, name initials, date prepared`
 
-#. Seal with parafilm. Store in fridge (4 :math:`^{\circ}`\ C).
+#. Seal with parafilm and store in fridge (4 C).
 
 **Note**
 
-* Final concentration for sodium pyruvate is usually 1 mM.
+* Final concentration for sodium pyruvate is 1 mM.
 * The volume of sodium pyruvate to add into complete DMEM depends on the concentration of the sodium pyruvate stock solution. Adjust the volume of DMEM to compensate the volume changes in sodium pyruvate.

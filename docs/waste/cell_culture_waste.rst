@@ -18,8 +18,6 @@ There are some department policy for waste management that our lab is required t
 
 **REMEMBER**
 
-You don't have to follow the rules very strictly, but I would advice you to adhere to the rules whenever possible. 
-
-This is a typical scenario that would happen in our lab: Someone already using the waste beaker for cell culture, you can always use the one labelled 'for virus use'. You don't have to wait for the other person to finish only proceed to use the waste beaker for cell culture work. 
-
-It is always important to use common sense and logic when working in the lab. If unsure, discuss with lab mates or supervisor. 
+* You don't have to follow the rules very strictly, but I would advice you to adhere to the rules whenever possible. 
+* This is a typical scenario that would happen in our lab: Someone already using the waste beaker for cell culture, you can always use the one labelled 'for virus use'. You don't have to wait for the other person to finish only proceed to use the waste beaker for cell culture work. 
+* It is always important to use common sense and logic when working in the lab. If unsure, discuss with lab mates or supervisor. 

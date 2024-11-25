@@ -3,29 +3,22 @@
 Phosphate buffer saline (PBS)
 =============================
 
-**Objective:** To dilute 10x stock D-PBS into 1x working PBS. 
-
-* PBS need to be prepared in biosafety cabinet to avoid contamination.
+**Objective:** To make PBS. 
   
 **Requires**
 
-* 10x D-PBS 
-
-    D-PBS can be found in the grey colour cabinet
-
-* Milli-Q water or distilled water 
-* Syringe
-* Syringe filter (0.22 um) 
-* Centrifuge tube (50 mL)
+* PBS tablet 
+* Distilled water 
+* Bottle (500 mL)
 
 **Procedure**
 
-#. Dispense 5 mL of D-PBS into a 50 mL centrifuge tube. 
-#. Add 45 mL of distilled water/Milli-Q water in the same 50 mL centrifuge tube to dilute 10x D-PBS to 1x. 
+#. Add 200 mL of distilled water into empty bottle.  
+#. Add 1 PBS tablet into the distilled water.
 #. Mix well. 
-#. Filter the diluted PBS with 0.22 um filter using syringe into a new 50 mL centrifuge tube.
-#. Label the centrifuge tube. 
+#. Label. 
 
     Label example: :code:`1x PBS, name initials, date prepared`
 
+#. Autoclave. 120 C, 15 mins. 
 #. Seal with parafilm and store at bench.

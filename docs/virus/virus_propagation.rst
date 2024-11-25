@@ -21,11 +21,9 @@ Infection
 #. Retrieve virus stock from -80 C. 
 #. Thaw virus stock in water bath at 37 C. 
 #. Add virus stock into culture flask.
-#. Incubate. 37 C, 48 hrs.
+#. Incubate. 37 C, 72 to 120 hrs (3 to 5 days).
 #. Monitor daily under microscope for CPE formation and detachment of cells.
 #. When more than 90% of the cells detached from the culture flask, the virus is ready for harvest. 
-
-*Note: Dengue virus usually causes the cells to exhibits cytopathic effect (CPE) in 24 hrs. At 48 hrs, most cells should be dead and detached from the base of the flask. You can wait another day (at 72 hrs) to harvest the virus, but don't leave it too long (more than 3 days) in the incubator, there is a very high chance of contamination.* 
 
 Harvest
 -------
@@ -37,22 +35,21 @@ Harvest
 
 **Procedure**
 
-#. Label 10 microcentrifuge tube. 
+#. Prepare and label microcentrifuge tube. 
 
     Label example: :code:`Virus type, passage number, date, name initials`
 
 #. Take out the culture flask infected with virus. 
-#. Transfer all existing media that contain dead cells and virus into a 15 ml centrifuge tube. 
+#. Transfer all existing media into a 15 ml centrifuge tube. 
 #. Centrifuge. 1500 rpm, 5 mins. 
-#. Aliquote 500 uL of supernatant into the labelled microcentrifuge tube, this is our virus stock. Be careful when aliquot to not disturb the sediments. 
+#. Transfer 500 uL of supernatant into the labelled microcentrifuge tube. Be careful not to disturb the sediments when transferring the media. 
 #. Seal the microcentrifuge tube with parafilm. 
 #. Snap freeze the microcentrifuge tube by submerge into liquid nitrogen for about 30 secs - 1 min. 
 #. Store the snap frozen microcentrifuge tube in -80 C. 
 
 **Note** 
 
-* In a T25 culture flask with 5 ml of 2% DMEM, there should be enough media to aliquote 10 microcentrifuge tube.
-* To make more virus, we can use larger flask like T75 and adjust the media volume accordingly. 
+* A T25 flask with 5 mL media should be enough for around 10 tubes of virus stock. A T75 flask with 10 mL media can give more tubes, around 20 tubes.  
 * The harvested virus stock need to have its virus titer quantified using :ref:`plaque assay <plaque assay>`. 
 * The volume of virus stock do not have to be 500 uL. Depends on the experiments, we can reduce the volume to make more tubes of virus stock. 
 

@@ -190,7 +190,7 @@ Protein purification
     * Collect 100 uL of supernatant for SDS-PAGE (**sample #4**)
 
 #. Add 10 mL Buffer B into the Ni-NTA resin and mix well. 
-#. Centrifuge. 500 x g (or 3,000 rpm), 4 :math:`^{\circ}`\ C, 5 mins.
+#. Centrifuge. 500 x g (or 3,000 rpm), 4 C, 5 mins.
 #. Remove supernatant. 
 
     * Collect 100 uL of supernatant for SDS-PAGE (**sample #5**)
@@ -212,28 +212,38 @@ Protein purification
 
     * Collect 100 uL for SDS-PAGE (**sample #9-#12**)
 
-#. Run SDS-PAGE for all 12 samples. Refer to :ref:`SDS-PAGE <sds-page>` for the protocol. 
+#. Run SDS-PAGE for all 12 samples. 
+
+SDS-PAGE for protein purification
+---------------------------------
+
+* Refer to :ref:`SDS-PAGE <sds-page>` for the protocol. 
 
 Dialysis
 --------
 
-* Dialysis was done with Thermo Fisher Scientific Slide-A-lyzer Dialysis Cassette.
 * This procedure needs to be carried out in cold room.
-* Pre-cool Buffer D to 4 C, bring the buffer into cold room at least 30 mins before starting the procedure. 
-* Other equipments needed in the cold room including magnetic stirrer and retort stand. 
 * Select 2 to 3 fractions containing the target protein based on the result from SDS-PAGE.  
+
+**Requires**
+
+* Thermo Fisher Scientific Slide-A-lyzer Dialysis Cassette, 3,500 MWCO
+* Beaker (1 L)
+* Magnetic stirrer
+* Retort stand
+* Syringe
+* Needle 
+* Microcentrifuge tube (1.5 mL)
 
 **Procedure** 
 
-#. Submerge the cassette in to Buffer D for 10 to 15 mins. 
+#. Pre-cool Buffer D to 4 C at least 30 mins before starting dialysis. 
+#. Submerge the cassette in to Buffer D for 15 to 30 mins. 
 #. Remove the cassette from the buffer. 
-#. Using a syringe and needle, aspirate the fractions selected and inject into the cassette. 
+#. Using a syringe and needle, transfer the fractions from centrifuge tube into the cassette. 
 #. Submerge the cassette into Buffer D. 
 #. Leave the set up in the cold room for 1 hr. 
 #. After 1 hr, change to fresh buffer D. Leave the set up for another 1 hr. 
 #. After 1 hr, change to fresh buffer D. Leave the set up overnight. 
 #. Collect the dialysised solution from cassette into multiple microcentrifuge tube. 
-
-    * I usually put 0.5 mL into each microcentrifuge tube. 
-
-#. Store the purified protein suspension at -80 C. 
+#. Store the purified protein at -80 C. 

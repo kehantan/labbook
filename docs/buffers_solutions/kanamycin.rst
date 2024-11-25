@@ -8,11 +8,12 @@ Kanamycin stock solution
 
 **Requires**
 
-* Kanamycin, powder form
-* 15 ml centrifuge tube 
+* Kanamycin powder
+* Centrifuge tube (15 mL) 
 * Distilled water/Milli-Q water 
 * 0.22 um filter
 * Syringe
+* Vortex
 
 **Procedure**
 
@@ -24,4 +25,4 @@ Kanamycin stock solution
 
     Label example: :code:`Kanamycin 300 mg/mL, name initials, date prepared`
 
-#. Seal with parafilm and store in freezer (-20 :math:`^{\circ}`\ C).
+#. Seal with parafilm and store in freezer (-20 C).

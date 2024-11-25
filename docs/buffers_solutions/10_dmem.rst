@@ -3,7 +3,8 @@
 Complete DMEM (10%)
 ===================
 
-* Complete DMEM is commonly used for cell culture. The recipe can be modified according to needs. 
+* Complete DMEM is commonly used for cell culture.
+* Recipe can be modified according to different needs. 
 * Prepare complete DMEM in the biosafety cabinet.
 
 **Requires**
@@ -13,28 +14,33 @@ Complete DMEM (10%)
 * DMEM
 * Centrifuge tube (50 mL)
 * Sodium pyruvate (if required)
+* Micropipette and tips (1000 uL)
+* Waste beaker 
+* Serological pipette 
+* Pipette gun 
 
 **Procedure**
 
-#. Into a 50 mL centrifuge tube, aliquote: 
+#. Into a 50 mL centrifuge tube, add:
 
-   * 44 mL of DMEM
+   +-----------+---------+
+   | DMEM      | 44.5 mL |
+   +-----------+---------+
+   | FBS       |    5 mL |
+   +-----------+---------+
+   | Pen-Strep |  0.5 mL |
+   +-----------+---------+
 
-      We only have 25 mL serological pipette, so to prepare 44.5 mL, we can pipette 22 mL twice 
-
-   * 5 mL of FBS
-   * 500 uL of Pen-Strep 
-   * 500 uL of sodium pyruvate
+   * If DMEM does not come with sodium pyruvate added, reduce 0.5 mL of DMEM and add 0.5 mL of sodium pyruvate instead. 
 
 #. Mix well. 
 #. Label the centrifuge tube. 
 
    Label example: :code:`Complete DMEM, name initials, date prepared`
 
-#. Seal with parafilm. Store in fridge (4 :math:`^{\circ}`\ C).
+#. Seal with parafilm and store in fridge (4 C).
 
 **Note**
 
-* Final concentration for sodium pyruvate is usually 1 mM.
-* Add or not to add sodium pyruvate depends on if the manufacturer had added in their commerciallised product. 
+* Final concentration for sodium pyruvate is 1 mM.
 * The volume of sodium pyruvate to add into complete DMEM depends on the concentration of the sodium pyruvate stock solution. Adjust the volume of DMEM to compensate the volume changes in sodium pyruvate.
