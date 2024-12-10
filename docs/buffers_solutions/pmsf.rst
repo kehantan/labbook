@@ -19,7 +19,7 @@ PMSF stock solution
 
 **Procedure**
 
-#. Dissolve 0.0104514 g of PMSF powder in 2 mL of isopropyl alcohol. 
+#. Dissolve 0.0087095 g of PMSF powder in 5 mL of isopropyl alcohol. 
 #. Mix well, vortex if necessary. 
 #. Filter with 0.22 um syringe filter. 
 #. Label. 
