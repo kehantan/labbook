@@ -7,7 +7,7 @@ PMSF stock solution
 * This stock solution can be prepared on bench.
 * PMSF is not soluble in water, so have to use isopropyl alcohol. Other solvent like DMSO can also be used. 
 * PMSF is sensitive and can degrade easily in water, prepare freshly before use.  
-* PMSF MW = 174.19 g/mmol
+* PMSF MW = 174.19 g/mol
 
 **Requires**
 
