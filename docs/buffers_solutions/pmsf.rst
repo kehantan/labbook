@@ -3,14 +3,11 @@ PMSF stock solution
 
 **Objective:** To prepare stock PMSF solution for protein purification. 
 
-* Phenylmethylsulfonyl fluoride (PMSF) stock was used to prepare lysis buffer for protein purification. 
-* The final concentration of PMSF in a 30 mL lysis buffer for protein purification is 1 mM, so we prepare a 10 mM PMSF stock solution.  
+* PMSF 30 mM, final volume 2 mL. 
 * This stock solution can be prepared on bench.
-* PMSF is not soluble in water, so have to use isopropyl alcohol. 
-* It is best to prepare PMSF before use as it could take some time for the crystals to dissolve completely. 
-* PMSF stock can be store in freezer (-20 C) for future use, but I would not recommend doing so.
-* While the PMSF starts to thaw from freeze, there will be small crystals floating around. Let the PMSF reach room temperature and the crystals will reduce or dissolve completely again. Vortex if necessary. 
-* This recipe only shows the preparation of PMSF stock solution enough for 1 round of protease purification, upscale if necessary. 
+* PMSF is not soluble in water, so have to use isopropyl alcohol. Other solvent like DMSO can also be used. 
+* PMSF is sensitive and can degrade easily in water, prepare freshly before use.  
+* PMSF MW = 174.19 g/mmol
 
 **Requires**
 
@@ -22,6 +19,7 @@ PMSF stock solution
 
 **Procedure**
 
-#. Dissolve 0.0087 g (8.71 mg) of PMSF powder in 5 mL of isopropyl alcohol. 
+#. Dissolve 0.0104514 g of PMSF powder in 2 mL of isopropyl alcohol. 
 #. Mix well, vortex if necessary. 
 #. Filter with 0.22 um syringe filter. 
+#. Label. 

@@ -3,9 +3,8 @@
 2% DMEM 
 =======
 
-* 2% DMEM is used for cell culture related to virus. 
+* DMEM with 2% FBS, final volume 50 mL.  
 * Prepare 2% DMEM in biosafety cabinet. 
-* 2% indicates this culture media contain a total of 2% FBS in final volume
 
 **Requires**
 
@@ -44,3 +43,4 @@
 
 * Final concentration for sodium pyruvate is 1 mM.
 * The volume of sodium pyruvate to add into complete DMEM depends on the concentration of the sodium pyruvate stock solution. Adjust the volume of DMEM to compensate the volume changes in sodium pyruvate.
+* Recipe can be modified according to different needs. 

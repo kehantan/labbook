@@ -3,7 +3,9 @@
 5% agarose (w/v)
 ================
 
-**Objective:** To prepare 5% agarose for plaque assay use. 
+**Objective:** To prepare 5% agarose (w/v) for plaque assay use. 
+
+* 5% agarose (w/v), final volume 100 mL 
 
 **Requires**
 

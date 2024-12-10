@@ -5,7 +5,7 @@
 
 **Objective:** To prepare 10% APS for SDS-PAGE. 
 
-* 10% APS (w/v) final volume 1 mL
+* 10% APS (w/v), final volume 1 mL
 
 **Requires**
 

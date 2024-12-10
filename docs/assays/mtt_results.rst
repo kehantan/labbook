@@ -10,5 +10,7 @@ MTT results
 #. Devide average absorbance reading of each concentrations by the average absorbance reading of negative control. 
 #. Plot the graph. 
 
+:math:`\text{Inhibition} (%) = \frac{NC-T}{NC} \times 100\%` 
+
 * Under typical condition, negative control should have the highest absorbance reading. Followed by reduced absorbance reading as the concentration of compound used to treat the cells going up, due to toxicity of the tested compounds against the cells. However, this will not always be the case.
 * Final interpretation of the results depends on experiment design and what to expect. 
