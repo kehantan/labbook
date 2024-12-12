@@ -3,7 +3,7 @@ Virus propagation
 
 **Objective:** To propagate virus to make virus stock for virus related experiments. 
 
-* Reference :footcite:p:`medina2012dengue`
+* This protocol is modified from :cite:t:`medina2012dengue` :footcite:p:`medina2012dengue`
 
 Infection
 ---------
