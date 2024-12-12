@@ -3,6 +3,8 @@ Virus propagation
 
 **Objective:** To propagate virus to make virus stock for virus related experiments. 
 
+* Reference :footcite:p:`medina2012dengue`
+
 Infection
 ---------
 
@@ -55,3 +57,8 @@ Harvest
 
 .. image:: images/virus_infection_harvest.png
     :width: 600
+
+References
+----------
+
+.. footbibliography::
