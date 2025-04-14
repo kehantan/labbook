@@ -3,65 +3,76 @@ MTT assay
 
 **Objective:** To find the toxicity level of a compound toward a cell line. 
 
-MTT assay is a very common assay, you can find a lot of published articles that optimised MTT assays for different purposes. You don't have to strictly follow the parameters in this protocol. The parameters used in this protocol are the ones that is good enough for my experiments with Vero cells. If you are using other cell lines, refer to other sources for different parameters like: the amount of different reagent being used, the time of incubation, etc. 
+MTT assay is a very common assay, you can find a lot of published articles that optimised MTT assays for different purposes. You don't have to strictly follow the parameters in this protocol. The parameters used in this protocol are the ones that is good enough for my experiments. If you are using other cell lines, refer to other sources for different parameters. 
 
-The general protocol for MTT with Vero cells was described here :footcite:p:`guillen2022effect,marin2021curcumin`.
+Some important parameters to take note of including: 
 
-There are some parameters that you will need to find out before starting MTT assay. Some common questions you will immediately bump into when you first trying to do MTT assay including:
+    * Number of cells to seed in each well 
+    * the amount of reagent to use (PBS, trypsin, DMEM, DMSO, MTT, etc.)
+    * time of incubation (12, 24, 36, 48 hrs, etc.) 
+
+The general protocol for MTT with Vero cells was described by :cite:t:`guillen2022effect,marin2021curcumin` :footcite:p:`guillen2022effect,marin2021curcumin`.
+
+There are some parameters that you will need to find out before starting MTT assay. Some common questions you will immediately encounter when you first trying to do MTT assay including:
 
 #. *How many cells to seed in each well?*
 
     * The common approach is to refer to the published research articles related to the cell lines you are working with to get an idea on how many cells you should seed. 
     * If you cannot get the information you can do some optimisation yourself by trying out any range between 1,000 to 50,000 cells/well. 
     * Some general rule is that your negative control (untreated cells) well's absorbance should not be too high (exceeds 1.0) at the day of reading the plate. 
-    * Some published research articles uses cell confluency as a guidelines instead of number of cells seeded. 
 
 #. *How many different concentrations you wanted to test with your compound?*
 
-    * If you have no idea what concentration you wanted to use, you can try out by using a larger range of concentrations first. 
+    * Concentrations of compound to test depending on the solubility of the compound in DMSO or other solvent (like water), different compound has different solubility in DMSO. Even if the compound is completely soluble in DMSO, it may precipiate when attempt to dilute with DMEM. 
+    * If you have no idea what compound concentrations to use, you can try out by using a larger range of concentrations first. 
     * I typically start with 200 ug/mL and half it for each dilution step (200, 100, 50 ug/mL, etc.). My rationale is that it is easier to find your compound's optimum concentration by screening it with a wider range. If you screen your compound at a narrower range like 20, 40, 60 ug/mL, etc., you might need to do more assays to find out the optimum concentration. So start from wider range, then narrow down if necessary. 
 
-#. *Other common questions including 'How long I should incubate? How much reagent I should use?'*
+#. *Other common questions including 'How long I should incubate? How much MTT reagent I should use?'*
 
     * The list of questions are non-exhaustive and can be difficult answer as these parameters are related to multiple factors like what cell lines you are dealing with, what is the purpose of the experiments, etc. 
     * Fortunately, there are a lot of resources you can refer online, or you can simply ask around other lab members who had experience with cell lines that you are using. 
     * For most part, the parameters should be transferrable from one cell line to another. 
 
-The whole MTT assay is a long procedure that can span multiple days. It takes 3 seperate days to complete 1 round of MTT. A typical MTT assay would looks like this:
+The whole MTT assay is a long procedure that can span multiple days. It takes 3 seperate days to complete 1 round of MTT. A typical MTT assay workflow would looks like this:
 
     * Day 1 - trypsinise, count, and seed cells in a 96 well plate 
-    * Day 2 - treatment, meaning treating the cells with our compound
-    * Day 3 - the day for actually adding the MTT reagent and to read the absorbance
+    * Day 2 - treatment, meaning treating the cells with compounds
+    * Day 3 - the day for actually adding the MTT reagent to the well plates and read the absorbance
 
-The days indicate above does not necessary mean consecutive days, it just means the procedure will be done in different days. With this information you can plan your experiments accordingly. 
+The days indicate above does not necessary mean consecutive days, it just means each stage of the procedure will have be done in different days. With this information you can plan your experiments accordingly (maybe you want to avoid coming on weekends, public holidays, etc.). 
 
 Planning
 --------
 
-Before we actually start the procedure, there are several things we need to plan out. 
+Before we actually start the procedure, we need to plan out some stuff.  
 
 * Number of cells we need 
 * Amount of media we need 
 
-For my case, I use 5,000 cells in 100 uL of complete DMEM per well. 
+*For my case, I use 5,000 cells in 100 uL of complete DMEM per well.*
 
 Number of cells we need
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-Our goal is to have 100 uL of mixture that contains 10% DMEM + 5,000 cells in each well.
+Our goal is to have 100 uL of mixture that contains 10% DMEM + number of cells needed in each well.
 
-Assume we want to test 8 different concentrations (including negative control) of our compound on the cells, then 
+Assume 
 
-    .. code-block:: 
-        
-        Total cells needed = 10 concentrations * 5 wells/concentration * 5,000 cells/well = 250,000 cells
+    * we are testing 8 different concentrations (including negative control) of our compound on the cells
+    * 5,000 cells in each well
+    
+then:
 
-You will notice that even we wanted to test 8 different concentration, but the formula above state :code:`10 concentrations`. This is due to the inevitable deviations during pipetting and handling of liquids. If we prepare just enough cell suspension for the exact number of concentrations we want, we might end up not having enough cells for the last few wells, so prepare a little extra amount for some headroom. Usually adding 3 to 5 concentrations extra is sufficient enough.
+Total cells needed = 10 concentrations :math:`\times` 5 wells/concentration :math:`\times` 5,000 cells/well = 250,000 cells
+
+You will notice that even we wanted to test 8 different concentration, but the formula above state :code:`10 concentrations`. This is due to the inevitable deviations or minute errors during pipetting and handling of liquids. If we prepare just enough cell suspension for the exact number of concentrations we want, we might end up not having enough cells for the last few wells, so prepare a little extra amount for some headroom. Usually adding 3 to 5 concentrations extra is sufficient.
 
 Amount of media we need
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-Now we need to calculate how much media we need. The concept is similar to the previous step
+Now we need to calculate how much media we need. The concept is similar to above section
+
+Assume 
 
     .. code-block:: 
     
