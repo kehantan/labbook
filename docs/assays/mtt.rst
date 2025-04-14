@@ -63,7 +63,9 @@ Assume
     
 then:
 
-Total cells needed = 10 concentrations :math:`\times` 5 wells/concentration :math:`\times` 5,000 cells/well = 250,000 cells
+    .. code-block::
+
+        Total cells needed = 10 concentrations :math:`\times` 5 wells/concentration :math:`\times` 5,000 cells/well = 250,000 cells
 
 You will notice that even we wanted to test 8 different concentration, but the formula above state :code:`10 concentrations`. This is due to the inevitable deviations or minute errors during pipetting and handling of liquids. If we prepare just enough cell suspension for the exact number of concentrations we want, we might end up not having enough cells for the last few wells, so prepare a little extra amount for some headroom. Usually adding 3 to 5 concentrations extra is sufficient.
 
@@ -72,7 +74,7 @@ Amount of media we need
 
 Now we need to calculate how much media we need. The concept is similar to above section
 
-Assume 
+We need 100 uL of complete DMEM in each well
 
     .. code-block:: 
     
