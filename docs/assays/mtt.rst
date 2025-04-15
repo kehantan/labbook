@@ -5,13 +5,13 @@ MTT assay
 
 MTT assay is a very common assay, you can find a lot of published articles that optimised MTT assays for different purposes. You don't have to strictly follow the parameters in this protocol. The parameters used in this protocol are the ones that is good enough for my experiments. If you are using other cell lines, refer to other sources for different parameters. 
 
+The general protocol for MTT with Vero cells was described by :cite:t:`guillen2022effect,marin2021curcumin` :footcite:p:`guillen2022effect,marin2021curcumin`.
+
 Some important parameters to take note of including: 
 
     * Number of cells to seed in each well 
     * the amount of reagent to use (PBS, trypsin, DMEM, DMSO, MTT, etc.)
     * time of incubation (12, 24, 36, 48 hrs, etc.) 
-
-The general protocol for MTT with Vero cells was described by :cite:t:`guillen2022effect,marin2021curcumin` :footcite:p:`guillen2022effect,marin2021curcumin`.
 
 There are some parameters that you will need to find out before starting MTT assay. Some common questions you will immediately encounter when you first trying to do MTT assay including:
 
@@ -19,11 +19,10 @@ There are some parameters that you will need to find out before starting MTT ass
 
     * The common approach is to refer to the published research articles related to the cell lines you are working with to get an idea on how many cells you should seed. 
     * If you cannot get the information you can do some optimisation yourself by trying out any range between 1,000 to 50,000 cells/well. 
-    * Some general rule is that your negative control (untreated cells) well's absorbance should not be too high (exceeds 1.0) at the day of reading the plate. 
-
+    
 #. *How many different concentrations you wanted to test with your compound?*
 
-    * Concentrations of compound to test depending on the solubility of the compound in DMSO or other solvent (like water), different compound has different solubility in DMSO. Even if the compound is completely soluble in DMSO, it may precipiate when attempt to dilute with DMEM. 
+    * Concentrations of compound to test depending on the solubility of the compound in DMSO or other solvent (like water), different compound has different solubility in DMSO. Even if the compound is completely soluble in DMSO, it may precipiate when attempt to dilute with DMEM during serial dilution. 
     * If you have no idea what compound concentrations to use, you can try out by using a larger range of concentrations first. 
     * I typically start with 200 ug/mL and half it for each dilution step (200, 100, 50 ug/mL, etc.). My rationale is that it is easier to find your compound's optimum concentration by screening it with a wider range. If you screen your compound at a narrower range like 20, 40, 60 ug/mL, etc., you might need to do more assays to find out the optimum concentration. So start from wider range, then narrow down if necessary. 
 
@@ -88,17 +87,18 @@ Day 1 - Trypsinise, cell count, seed cells
 Trypsinise
 ~~~~~~~~~~
 
-First step is to detach the cells from the culture flask. Refer to :ref:`trypsinise <My target>`, or schematics `here <https://docs.google.com/presentation/d/1WAZBeQPEUU6PuxkwagS-NYxyo6RRvontbTaCUIdG4M0/edit?usp=sharing>`_. 
+First step is to detach the cells from the culture flask. Refer to :ref:`trypsinise <My target>`.
 
 .. image:: images/Trypsinise.png
-    :width: 500
+    :width: 600
 
 Cell counting
 ~~~~~~~~~~~~~
 
 We need to know the number of cells since we want to seed a specific number of cells into each well. Refer to :ref:`cell count <cell count>`.  
 
-Refer `here <https://docs.google.com/presentation/d/1B-mUqOvZyQCm4kstZ4LvbzPROZjmtUsIbbwQflX_IwE/edit?usp=sharing>`_ for schematics for cell counting. 
+.. image:: images/Cell counting.png
+    :width: 600
 
 After counting the cells, we should get value of :code:`X cells/mL`. Compare the counted cell number before we begin the experiment and the calculated cells number. We should have sufficient cells for seeding. 
 
