@@ -95,6 +95,8 @@ Cell counting
 
 We need to know the number of cells since we want to seed a specific number of cells into each well. Refer to :ref:`cell count <cell count>`.  
 
+Refer `here <https://docs.google.com/presentation/d/1B-mUqOvZyQCm4kstZ4LvbzPROZjmtUsIbbwQflX_IwE/edit?usp=sharing>`_ for schematics for cell counting. 
+
 After counting the cells, we should get value of :code:`X cells/mL`. Compare the counted cell number before we begin the experiment and the calculated cells number. We should have sufficient cells for seeding. 
 
 Cell seeding
