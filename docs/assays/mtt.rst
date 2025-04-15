@@ -3,6 +3,9 @@ MTT assay
 
 **Objective:** To find the toxicity level of a compound toward a cell line. 
 
+.. image:: images/MTT assay.png
+    :width: 600
+
 MTT assay is a very common assay, you can find a lot of published articles that optimised MTT assays for different purposes. You don't have to strictly follow the parameters in this protocol. The parameters used in this protocol are the ones that is good enough for my experiments. If you are using other cell lines, refer to other sources for different parameters. 
 
 The general protocol for MTT with Vero cells was described by :cite:t:`guillen2022effect,marin2021curcumin` :footcite:p:`guillen2022effect,marin2021curcumin`.
@@ -47,8 +50,6 @@ Before we actually start the procedure, we need to plan out some stuff.
 
 * Number of cells we need 
 * Amount of media we need 
-
-*For my case, I use 5,000 cells in 100 uL of complete DMEM per well.*
 
 Number of cells we need
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -97,7 +98,7 @@ Cell counting
 
 We need to know the number of cells since we want to seed a specific number of cells into each well. Refer to :ref:`cell count <cell count>`.  
 
-.. image:: images/Cell counting.png
+.. image:: images/Cell\ counting.png
     :width: 600
 
 After counting the cells, we should get value of :code:`X cells/mL`. Compare the counted cell number before we begin the experiment and the calculated cells number. We should have sufficient cells for seeding. 
