@@ -88,7 +88,7 @@ Day 1 - Trypsinise, cell count, seed cells
 Trypsinise
 ~~~~~~~~~~
 
-First step is to detach the cells from the culture flask. Refer to :ref:`trypsinise <My target>`. 
+First step is to detach the cells from the culture flask. Refer to :ref:`trypsinise <My target>`, or schematics `here <https://docs.google.com/presentation/d/1WAZBeQPEUU6PuxkwagS-NYxyo6RRvontbTaCUIdG4M0/edit?usp=sharing>`_. 
 
 Cell counting
 ~~~~~~~~~~~~~
