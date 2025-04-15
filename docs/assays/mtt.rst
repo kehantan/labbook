@@ -90,6 +90,9 @@ Trypsinise
 
 First step is to detach the cells from the culture flask. Refer to :ref:`trypsinise <My target>`, or schematics `here <https://docs.google.com/presentation/d/1WAZBeQPEUU6PuxkwagS-NYxyo6RRvontbTaCUIdG4M0/edit?usp=sharing>`_. 
 
+.. image:: images/Trypsinise.png
+    :width: 500
+
 Cell counting
 ~~~~~~~~~~~~~
 
