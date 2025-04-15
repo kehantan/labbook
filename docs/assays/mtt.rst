@@ -65,7 +65,7 @@ then:
 
     .. code-block::
 
-        Total cells needed = 10 concentrations :math:`\times` 5 wells/concentration :math:`\times` 5,000 cells/well = 250,000 cells
+        Total cells needed = 10 concentrations * 5 wells/concentration * 5,000 cells/well = 250,000 cells
 
 You will notice that even we wanted to test 8 different concentration, but the formula above state :code:`10 concentrations`. This is due to the inevitable deviations or minute errors during pipetting and handling of liquids. If we prepare just enough cell suspension for the exact number of concentrations we want, we might end up not having enough cells for the last few wells, so prepare a little extra amount for some headroom. Usually adding 3 to 5 concentrations extra is sufficient.
 
