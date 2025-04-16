@@ -15,7 +15,6 @@ Contents
    assays
    protease_assay
    protein
-   virus
    serial_dilution
    waste
    misc

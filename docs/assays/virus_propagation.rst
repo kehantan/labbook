@@ -5,14 +5,23 @@ Virus propagation
 
 * This protocol is modified from :cite:t:`medina2012dengue` :footcite:p:`medina2012dengue`
 
+Schematic workflow of virus stock propagation can be found `here <https://docs.google.com/presentation/d/1lOgmzR994GQ58x71DpZQRM5FnC0vAgz6pWhuMVsuZg0/edit?usp=sharing>`_ 
+
 Infection
 ---------
 
 **Requires**
 
 * :ref:`2% DMEM <2 dmem>`
-* Virus stock
+* Virus stock 
 * :ref:`PBS <pbs>`
+* Serological pipette 
+* Pipette gun 
+* Micropipette (100-1000 uL)
+* Pipette tips (1000 uL)
+* Waste beaker
+* Paper towel
+* Rack
 
 **Procedure**
 
@@ -23,7 +32,7 @@ Infection
 #. Retrieve virus stock from -80 C. 
 #. Thaw virus stock in water bath at 37 C. 
 #. Add virus stock into culture flask.
-#. Incubate. 37 C, 72 to 120 hrs (3 to 5 days).
+#. Incubate. 37 C, 3 to 5 days.
 #. Monitor daily under microscope for CPE formation and detachment of cells.
 #. When more than 90% of the cells detached from the culture flask, the virus is ready for harvest. 
 
@@ -37,7 +46,7 @@ Harvest
 
 **Procedure**
 
-#. Prepare and label microcentrifuge tube. 
+#. Prepare and label multiple microcentrifuge tube. 
 
     Label example: :code:`Virus type, passage number, date, name initials`
 

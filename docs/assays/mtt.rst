@@ -6,16 +6,11 @@ MTT assay
 .. image:: images/MTT\ assay.png
     :width: 600
 
-MTT assay in `schematics <https://docs.google.com/presentation/d/1bVLtRDbeNUYgCIJIff3_kx7cVitiwAFbNoAo2k-QTZA/edit?usp=sharing>`_. 
+Schematics of MTT assay general workflow can be found `here <https://docs.google.com/presentation/d/1bVLtRDbeNUYgCIJIff3_kx7cVitiwAFbNoAo2k-QTZA/edit?usp=sharing>`_. 
+
+The general protocol for MTT with Vero cells was described by :footcite:t:`guillen2022effect,marin2021curcumin`.
 
 MTT assay is a very common assay, you can find a lot of published articles that optimised MTT assays for different purposes. You don't have to strictly follow the parameters in this protocol. The parameters used in this protocol are the ones that is good enough for my experiments. If you are using other cell lines, refer to other sources for different parameters. 
-
-The general protocol for MTT with Vero cells was described by 
-
-:cite:t:`guillen2022effect,marin2021curcumin` 
-:cite:p:`guillen2022effect,marin2021curcumin` 
-:footcite:t:`guillen2022effect,marin2021curcumin`.
-:footcite:p:`guillen2022effect,marin2021curcumin`.
 
 Some important parameters to take note of including: 
 
