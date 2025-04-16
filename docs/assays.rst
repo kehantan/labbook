@@ -8,3 +8,4 @@ Assays
    assays/mtt
    assays/plaque
    assays/antiviral
+   assays/virus_propagation

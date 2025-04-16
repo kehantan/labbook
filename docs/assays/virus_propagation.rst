@@ -3,7 +3,7 @@ Virus propagation
 
 **Objective:** To propagate virus to make virus stock for virus related experiments. 
 
-* This protocol is modified from :cite:t:`medina2012dengue` :footcite:p:`medina2012dengue`
+* This protocol is modified from :footcite:t:`medina2012dengue`
 
 Schematic workflow of virus stock propagation can be found `here <https://docs.google.com/presentation/d/1lOgmzR994GQ58x71DpZQRM5FnC0vAgz6pWhuMVsuZg0/edit?usp=sharing>`_ 
 
@@ -53,16 +53,15 @@ Harvest
 #. Take out the culture flask infected with virus. 
 #. Transfer all existing media into a 15 ml centrifuge tube. 
 #. Centrifuge. 1500 rpm, 5 mins. 
-#. Transfer 500 uL of supernatant into the labelled microcentrifuge tube. Be careful not to disturb the sediments when transferring the media. 
+#. Transfer 200-500 uL of supernatant into each labelled microcentrifuge tube. Be careful not to disturb the sediments when transferring the media. 
 #. Seal the microcentrifuge tube with parafilm. 
-#. Snap freeze the microcentrifuge tube by submerge into liquid nitrogen for about 30 secs - 1 min. 
+#. Snap freeze the microcentrifuge tube by submerge into liquid nitrogen for about 20-30 secs. 
 #. Store the snap frozen microcentrifuge tube in -80 C. 
 
 **Note** 
 
 * A T25 flask with 5 mL media should be enough for around 10 tubes of virus stock. A T75 flask with 10 mL media can give more tubes, around 20 tubes.  
 * The harvested virus stock need to have its virus titer quantified using :ref:`plaque assay <plaque assay>`. 
-* The volume of virus stock do not have to be 500 uL. Depends on the experiments, we can reduce the volume to make more tubes of virus stock. 
 
 .. image:: images/virus_infection_harvest.png
     :width: 600

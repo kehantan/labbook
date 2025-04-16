@@ -61,7 +61,9 @@ Prepare LB broth
 #. Wait until the LB broth cools down, then add 500 uL of Kanamycin stock solution into LB broth. 
 #. Cover the mouth of the flask with aluminium foil and store on bench. 
 
-**Note:** For the ease of work, aside from preparing LB broth for large scale culture, prepare another smaller volume of LB broth in a 500 mL bottle used for various purpose such as small scale culture and as a blank for measuring the OD of the cultured bacteria. 
+**Note:** 
+
+For the ease of work, aside from preparing LB broth for large scale culture, prepare another smaller volume of LB broth in a 500 mL bottle used for various purpose such as small scale culture and as a blank for measuring the OD of the cultured bacteria. 
 
 Small scale culture
 ~~~~~~~~~~~~~~~~~~~

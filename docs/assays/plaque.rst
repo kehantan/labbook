@@ -7,6 +7,7 @@ Plaque assay
 
 * This protocol was separated into different sections, each section indicates that after that procedure was completed, have to wait until the next day (or after 2 days) to proceed to the next section. 
 * This protocol demonstrate plaque assay in 6 well plate. For plaque in 12 well plate or well plate of other sizes, the procedures are the same, just the volume of liquids, number of cells, and volume of reagents used are different. 
+* Schematics of plaque assay can be found `here <https://docs.google.com/presentation/d/12KLdlDftXJ22pbflFmYKli6ztxyudEKHW6V2Ocw5Nhg/edit?usp=sharing>`_
 
 Section 1 - Trypsininse, cell count, seed cells
 -----------------------------------------------
@@ -161,7 +162,7 @@ Agarose overlay
 
 *Note1:* 10 mL of agarose overlay mixture is sufficient for a 6 well plate. For 12 well plate, we can prepare 13 mL of agarose overlay mixture by adding 2.6 mL of agarose to 10.4 mL of fresh 2% DMEM. The ratio of agarose to 2% DMEM used in this protocol is 2:8. There are some optimisation required depends on the condition of the agarose. Ratio of agarose to 2% DMEM can be reduced to 1.5:8.5 or increased to 3:7. But keep in mind that too much agarose can cause the overlay to be too solid, which will create plaques with very tiny size; whereas too less agarose can cause the overlay to be too fluid, which creates plaques with larger sizes. Either outcome might alter the plaque size too much to a point where the plaques can be difficult to count, which is undesirable.  
 
-*Note 2:* When working with virus samples, our lab have specific procedure to dispose the virus related waste. Refer to section :ref:`below  <clean_up>`.
+*Note 2:* When working with virus samples, our lab have specific procedure to dispose the virus related waste. Refer to section :ref:`below <clean_up>`.
 
 Section 3 - Fix and stain 
 -------------------------

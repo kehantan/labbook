@@ -136,7 +136,7 @@ After all the calculations we can begin our cell seeding procedure.
 
 * 96 well plate 
 * Cell reservoir
-* Multi channel micropipette
+* Multichannel micropipette
 
 **Procedure**
 
@@ -181,10 +181,7 @@ Prepare the compounds with different concentrations before removing media from t
 #. Remove media from 96 well plate with multichannel micropipette. 
 #. Dispense 100 uL of fresh complete DMEM in negative control wells. 
 #. Dispense 100 uL of compound diluted in complete DMEM into respective wells. 
-#. Incubate. 37 :math:`^{\circ}`\ C, 5% CO2.
-
-    * Incubate for how long depends on your study. You can optimise by doing different timepoint, e.g.: 12, 24, 36, 48 hrs and compare the results.
-    * For my study, I use 48 hrs. 
+#. Incubate. 37 C, 5% CO2.
 
 Day 3 - Add MTT, read absorbance
 --------------------------------
@@ -198,17 +195,17 @@ Add MTT
 
 **Requires**
 
-* :ref:`MTT working solution <mtt stock>`
+* :ref:`MTT solution <mtt stock>`
 * DMSO 
 * Multichannel micropipette
 * Aluminium foil
 
 **Procedure**
 
-#. Take MTT solution from freezer and warm to room temperature in water bath before use. 
+#. Take MTT solution from freezer and warm to room temperature in water bath or let it sit at bench before use. 
 #. Add 10 uL of MTT into each well.
 
-    * Don't have to remove media on this step.
+    * Do not have to remove media on this step.
     * The MTT concentration we used in this lab is 5 mg/mL.
     * There are other concentrations of MTT used, find out from the literature whichever that suits your experiments. 
 
@@ -225,7 +222,7 @@ Add MTT
 #. Remove media along with remaining MTT solution with multichannel micropipette.  
 #. Add 100 uL of DMSO into each well with a multichannel micropipette. 
 
-    You can use a reservoir for DMSO.  
+    * You can use a reservoir for DMSO.  
 
 #. Place 96 well plate on shaker and shake for 1 hr.
 
