@@ -6,6 +6,8 @@ MTT assay
 .. image:: images/MTT\ assay.png
     :width: 600
 
+MTT assay in `schematics <https://docs.google.com/presentation/d/1bVLtRDbeNUYgCIJIff3_kx7cVitiwAFbNoAo2k-QTZA/edit?usp=sharing>`_. 
+
 MTT assay is a very common assay, you can find a lot of published articles that optimised MTT assays for different purposes. You don't have to strictly follow the parameters in this protocol. The parameters used in this protocol are the ones that is good enough for my experiments. If you are using other cell lines, refer to other sources for different parameters. 
 
 The general protocol for MTT with Vero cells was described by :cite:t:`guillen2022effect,marin2021curcumin` :footcite:p:`guillen2022effect,marin2021curcumin`.
@@ -61,7 +63,7 @@ then:
 
     .. code-block::
 
-        Total cells needed = 10 concentrations * 5 wells/concentration * 5,000 cells/well = 250,000 cells
+        Total cells needed = 10 concentrations * 5 wells/concentration * 5,000 cells/well = 250,000 cells (25*10^4 cells)
 
 You will notice that even we wanted to test 8 different concentration, but the formula above state :code:`10 concentrations`. This is due to the inevitable deviations or minute errors during pipetting and handling of liquids. If we prepare just enough cell suspension for the exact number of concentrations we want, we might end up not having enough cells for the last few wells, so prepare a little extra amount for some headroom. Usually adding 3 to 5 concentrations extra into the calculation is sufficient.
 
@@ -102,24 +104,18 @@ After counting the cells, we should get value of :code:`X cells/mL`. Compare the
 Cell seeding
 ~~~~~~~~~~~~
 
-We now need to seed specific number of cells into each well.
+After we know how much cells we have, we now need to know how much cells we need to take from the cell suspension and dilute in complete DMEM to make the final mixture we want. We need to:
 
-Each well should have final volume of 100 uL of liquid, which contains a mixture of complete DMEM + 5,000 cells.
+* Calculate the volume of cell suspension we need to take
+* Calculate the amount of complete DMEM we need 
 
-After we know how much cells we have, we now need to know how much cells we need to take from the cell suspension and dilute in complete DMEM to make the final mixture we want. What we should do now:
+To calculate the volume of cell suspension we need to take, 
 
-* Calculate the volume of cell suspension we need to aspirate
-* How much complete DMEM we need 
-
-To calculate the volume of cell suspension we need to aspirate, 
-
-    Assume we have: :code:`150*10^4 cells/mL`
+    Assume after counting the cells, we have: :code:`150*10^4 cells/mL`
     
-    But we only need: :code:`250,000 cells` <-- Remember we calculate this value before we begin the procedure 
-    
-    So we first convert the :code:`250,000 cells` to the :code:`10^4` 'format', which is :code:`25x10^4`
+    But we only need: :code:`25*10^4 cells` <-- Remember we calculate this value before we begin the procedure 
 
-    Then, :code:`25/150` to know how much volume (in mL) of cell suspension we need to aspirate from the cell suspension in the 15 mL centrifuge tube. 
+    So, :code:`25/150` to know how much volume (in mL) of cell suspension we need to aspirate from the cell suspension in the 15 mL centrifuge tube. 
     
     In this case, :code:`0.167 mL`. Convert to uL, then the volume we should take is :code:`167 uL`
 
@@ -135,6 +131,7 @@ To calculate how much media we need,
 To summarise, we need to put **167 uL of cell suspension** into **5,000 uL of complete DMEM**. 
 
 After all the calculations we can begin our cell seeding procedure. 
+
 **Requires**
 
 * 96 well plate 
@@ -144,16 +141,16 @@ After all the calculations we can begin our cell seeding procedure.
 **Procedure**
 
 #. Mix the cell suspension with either repeat pipetting or vortex. 
-#. Dispense appropriate amount of complete DMEM into the cell reservoir. 
+#. Add appropriate amount of complete DMEM into the cell reservoir. 
 
     In this example, we should dispense 5,000 uL (5 mL) of complete DMEM into the cell resesrvoir.
 
-#. Aspirate required volume of cell suspension and mix with complete DMEM in the cell reservoir.
+#. Take required volume of cell suspension and mix with complete DMEM in the cell reservoir.
 
     In this example, add 167 uL of cell suspension into the cell reservoir.
 
 #. Mix the cells and media evenly by repeat pipetting using multichannel micropiptte. 
-#. Aspirate 100 uL of cells and complete DMEM mixture from the cell reservoir with multichannel micropipette and add into 96 well plate. 
+#. Take 100 uL of cells and complete DMEM mixture from the cell reservoir with multichannel micropipette and add into 96 well plate. 
 #. Incubate the seeded 96 well plate for 24 hrs. 
 
 *Note:* Technically, 167 uL of cell suspension + 5,000 uL of complete DMEM = 5,167 uL. If we want to be absolute accurate we should be doing 167 uL cell suspension + 4,833 uL complete DMEM = 5,000 uL. But for convenience's sake, we would assume the small difference is negligible.

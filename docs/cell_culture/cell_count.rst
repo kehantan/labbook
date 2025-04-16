@@ -52,4 +52,4 @@ Counting large number of cells under microscope can be tiring and strain your ey
 
 **Note:**
 
-This protocol is not a strict instruction, just some suggestions which can help ease your workflow. You can of course, adjust the volume of cell suspension according to your need. 
+This protocol is not a strict instruction, just some suggestions which can help ease your workflow. You can of course, adjust the parameters (volume of cell suspension, dilution factor, etc.) according to your needs. 
