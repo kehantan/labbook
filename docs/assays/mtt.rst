@@ -3,7 +3,7 @@ MTT assay
 
 **Objective:** To find the toxicity level of a compound toward a cell line. 
 
-.. image:: images/MTT assay.png
+.. image:: images/MTT\ assay.png
     :width: 600
 
 MTT assay is a very common assay, you can find a lot of published articles that optimised MTT assays for different purposes. You don't have to strictly follow the parameters in this protocol. The parameters used in this protocol are the ones that is good enough for my experiments. If you are using other cell lines, refer to other sources for different parameters. 
