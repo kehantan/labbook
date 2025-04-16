@@ -5,8 +5,6 @@ Cell count
 
 **Objective:** To get an estimation of how many cells we had collected from a culture flask. 
 
-Purpose of cell counting is important for knowing if we have enough cells for our experiments, or count how many cells we need to put into each well in our well plates. 
-
 **Requires**
 
 * Counting chamber
@@ -34,9 +32,7 @@ The formula for calculating number of cells exists in 1 mL of cell suspension
 
 :math:`\frac{\text{sum of cells from 4 quadrant} \times 10^4 \times \text{Dilution factor}}{4} =` :code:`X cells/mL`
 
-After counting the cells, we should get value of :code:`X cells/mL`. Compare the number of cells required you calculated before you begin the experiment and the number of cells you just calculated. You should have sufficient cells for seeding. 
-
-In case there are not sufficient cells for all your experiments, you might want to consider lower the number of cells to seed, or reduce the number of plates you wanted to seed. 
+After counting the cells, we should get value of :code:`X cells/mL`. Compare the number of cells required we calculated before we begin the experiment and the number of cells we just calculated. We should have sufficient cells for seeding. In case there are not sufficient cells for all our experiments, we can consider lowering the number of cells to seed, or reduce the number of plates to seed. 
 
 **Dilution for cell count**
 
