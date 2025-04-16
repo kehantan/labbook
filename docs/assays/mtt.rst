@@ -46,19 +46,15 @@ The days indicate above does not necessary mean consecutive days, it just means 
 Planning
 --------
 
-Before we actually start the procedure, we need to plan out some stuff.  
-
-* Number of cells we need 
-* Amount of media we need 
+Before we actually start the procedure, we need to calculate **number of cells** and **amount of media** we need to use for one 96 well plate, with each well contains 100 uL of mixture that contains complete DMEM + number of cells we want for each well.  
 
 Number of cells we need
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-Our goal is to have 100 uL of mixture that contains 10% DMEM + number of cells needed in each well.
+Assume for 1 compound, we are testing 
 
-Assume 
-
-    * we are testing 8 different concentrations (including negative control) of our compound on the cells
+    * 8 different concentrations (including negative control) on the cells 
+    * 5 wells for each concentration (supposedly we only need 3 for technical replicates, but extra wells were included)
     * 5,000 cells in each well
     
 then:
@@ -67,7 +63,7 @@ then:
 
         Total cells needed = 10 concentrations * 5 wells/concentration * 5,000 cells/well = 250,000 cells
 
-You will notice that even we wanted to test 8 different concentration, but the formula above state :code:`10 concentrations`. This is due to the inevitable deviations or minute errors during pipetting and handling of liquids. If we prepare just enough cell suspension for the exact number of concentrations we want, we might end up not having enough cells for the last few wells, so prepare a little extra amount for some headroom. Usually adding 3 to 5 concentrations extra is sufficient.
+You will notice that even we wanted to test 8 different concentration, but the formula above state :code:`10 concentrations`. This is due to the inevitable deviations or minute errors during pipetting and handling of liquids. If we prepare just enough cell suspension for the exact number of concentrations we want, we might end up not having enough cells for the last few wells, so prepare a little extra amount for some headroom. Usually adding 3 to 5 concentrations extra into the calculation is sufficient.
 
 Amount of media we need
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -133,6 +129,8 @@ To calculate how much media we need,
 
     .. code-block::
         
+        Total media needed = 10 concentrations * 5 wells/concentration * 100 uL/well = 5,000 uL <-- This was also calculated before we begin the procedure
+
 
 To summarise, we need to put **167 uL of cell suspension** into **5,000 uL of complete DMEM**. 
 
