@@ -19,6 +19,6 @@ Triton X-100 stock
 #. Add 1 mL of 100% Triton X-100 solution. 
 #. Pipette repeatedly to mix Triton X-100 with distilled water. Use a vortex if necessary. 
 
-    Triton X-100 is very viscous and can be a little bit difficult to mix with water at the beginning. Vortex will also cause excessive bubbling. However, the bubbles will disappear after left to stand for some time. 
+    * Triton X-100 is very viscous and can be a little bit difficult to mix with water at the beginning. Vortex will also cause excessive bubbling. However, the bubbles will disappear after left to stand for some time. 
 
 #. Top up with distilled water until final volume is 10 mL. 

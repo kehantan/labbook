@@ -8,6 +8,10 @@ Protein expression
 Section 1 - Preparation and small scale culture 
 -----------------------------------------------
 
+:ref:`LB agar <lb agar>`
+
+:ref:`LB broth <lb broth>`
+
 Prepare LB agar
 ~~~~~~~~~~~~~~~
 

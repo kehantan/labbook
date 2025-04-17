@@ -49,3 +49,8 @@ Bradford assay for protein sample
 #. Divide the absorbance value at 590 nm by absorbance value at 450 nm. 
 #. Plug the value into the formula obatined from BSA standard curve. Find the corresponding protein concentration from BSA standard curve.
 #. If the absorbance value for the protein sample exceeds the range of the BSA standard curve, dilute the protein sample and measure again. 
+
+References
+----------
+
+.. footbibliography::

@@ -30,3 +30,5 @@ Recipes for various buffers and solutions.
    buffers_solutions/gel_destaining_solution
    buffers_solutions/coomassie
    buffers_solutions/lysozyme
+   buffers_solutions/lb_agar
+   buffers_solutions/lb_broth
