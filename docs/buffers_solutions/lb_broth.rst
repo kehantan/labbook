@@ -5,10 +5,12 @@ Prepare LB broth
 
 * To prepare LB broth, follow the instructions on the LB broth bottle.
 * This procedure can be carry out on lab bench.  
+* Schemactics for preparing LB broth can be found `here <https://docs.google.com/presentation/d/1qZ7I4THBtuevUjca72BpT-3oJ3MLoqcnKhC-mZUu5pg/edit?usp=sharing>`_
 
 **Requires**
 
 * Erlenmeyer flask (2 L)
+* Bottle (100 mL, autoclaved) 
 * Weighting balance
 * Weighting boat
 * Spatula 
@@ -21,7 +23,11 @@ Prepare LB broth
 
 #. In a 2 L Erlenmeyer flask, dissolve 12.5 g of LB powder in 500 mL distilled water. Cover the mouth of the flask with aluminium foil. 
 #. Autoclave. 120 C, 15 mins. 
-#. Wait until the LB broth cools down, then add 500 uL of Kanamycin stock solution into LB broth. 
+#. Wait until the LB broth cools down, then add 500 uL of Kanamycin stock solution into LB broth.
+#. Take around 50 mL of LB broth and store in a clean bottle.
+
+    * To be used as a blank for OD measuring in protein expression. 
+
 #. Cover the mouth of the flask with aluminium foil and store on bench. 
 
 **Note:** 

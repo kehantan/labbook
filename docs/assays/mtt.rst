@@ -39,11 +39,11 @@ There are some parameters that you will need to find out before starting MTT ass
 
 The whole MTT assay is a long procedure that can span multiple days. It takes 3 seperate days to complete 1 round of MTT. A typical MTT assay workflow would looks like this:
 
-    * Day 1 - trypsinise, count, and seed cells in a 96 well plate 
-    * Day 2 - treatment, meaning treating the cells with compounds
-    * Day 3 - the day for actually adding the MTT reagent to the well plates and read the absorbance
+    * :ref:`Part 1 <mtt-part1>` - trypsinise, count, and seed cells in a 96 well plate 
+    * :ref:`Part 2 <mtt-part2>` - treatment, meaning treating the cells with compounds
+    * :ref:`Part 3 <mtt-part3>` - adding the MTT reagent to the well plates and read the absorbance
 
-The days indicate above does not necessary mean consecutive days, it just means each stage of the procedure will have be done in different days. With this information you can plan your experiments accordingly (maybe you want to avoid coming on weekends, public holidays, etc.). 
+After completing 1 part, you might have to wait around 24 hrs or more to proceed to the next part. With this information you can plan your experiments accordingly (maybe you want to avoid coming on weekends, public holidays, etc.). 
 
 Planning
 --------
@@ -56,7 +56,7 @@ Number of cells we need
 Assume for 1 compound, we are testing 
 
     * 8 different concentrations (including negative control) on the cells 
-    * 5 wells for each concentration (supposedly we only need 3 for technical replicates, but extra wells were included)
+    * 5 wells for each concentration (supposedly we only need 3 for technical replicates, but extra wells were included to compensate for possibly outliers or errors)
     * 5,000 cells in each well
     
 then:
@@ -80,7 +80,9 @@ We need 100 uL of complete DMEM in each well
 
 Similar to above, :code:`10 concentrations` were used in calculation instead of 8 for some extra headroom. 
 
-Day 1 - Trypsinise, cell count, seed cells
+.. _mtt-part1:
+
+Part 1 - Trypsinise, cell count, seed cells
 ------------------------------------------
 
 Trypsinise
@@ -115,6 +117,8 @@ To calculate the volume of cell suspension we need to take,
     
     But we only need: :code:`25*10^4 cells` <-- Remember we calculate this value before we begin the procedure 
 
+    :math:`25 \times 10^4 \text{cells/mL}`
+
     So, :code:`25/150` to know how much volume (in mL) of cell suspension we need to aspirate from the cell suspension in the 15 mL centrifuge tube. 
     
     In this case, :code:`0.167 mL`. Convert to uL, then the volume we should take is :code:`167 uL`
@@ -137,17 +141,19 @@ After all the calculations we can begin our cell seeding procedure.
 * 96 well plate 
 * Cell reservoir
 * Multichannel micropipette
+* Pipette tips (Yellow, 200 uL)
+* Waste beaker 
 
 **Procedure**
 
 #. Mix the cell suspension with either repeat pipetting or vortex. 
 #. Add appropriate amount of complete DMEM into the cell reservoir. 
 
-    In this example, we should dispense 5,000 uL (5 mL) of complete DMEM into the cell resesrvoir.
+    * In this example, we should dispense 5,000 uL (5 mL) of complete DMEM into the cell resesrvoir.
 
 #. Take required volume of cell suspension and mix with complete DMEM in the cell reservoir.
 
-    In this example, add 167 uL of cell suspension into the cell reservoir.
+    * In this example, add 167 uL of cell suspension into the cell reservoir.
 
 #. Mix the cells and media evenly by repeat pipetting using multichannel micropiptte. 
 #. Take 100 uL of cells and complete DMEM mixture from the cell reservoir with multichannel micropipette and add into 96 well plate. 
@@ -155,35 +161,38 @@ After all the calculations we can begin our cell seeding procedure.
 
 *Note:* Technically, 167 uL of cell suspension + 5,000 uL of complete DMEM = 5,167 uL. If we want to be absolute accurate we should be doing 167 uL cell suspension + 4,833 uL complete DMEM = 5,000 uL. But for convenience's sake, we would assume the small difference is negligible.
 
-Day 2 - Treatment
+.. _mtt-part2:
+
+Part 2 - Treatment
 -----------------
 
-Treatment is where we treat our seeded cells with the compounds we wanted to test. 
-
-Before treatment, calculate the concentration of compound we need. Usually we do serial dilution, but we can also do each concentration seperately if it is too confusing. There are serial dilution calculator online that can help us to calculate the dilution. Refer to :ref:`serial dilution <serial dilution>` section. 
-
-Prepare the compounds with different concentrations before removing media from the 96 well plate, so we can immediately dispense the compound into the 96 well plate after removing the media. If the cells are left too long whithout media they would dry up and dies, which will affect our results. 
+* Treatment is where we treat our seeded cells with the compounds we wanted to test. 
+* Before treatment, calculate the concentration of compound we need. Usually we do serial dilution, but you can also do each concentration seperately if it is too confusing. There are serial dilution calculator online that can help us to calculate the dilution. Refer to :ref:`serial dilution <serial dilution>` section. 
+* Assume we seeded cells in 5 different wells for each concentration in the previous step, we would need enough volume of complete DMEM+compound. In this case, :math:`100 uL * 5 wells = 500 uL`, but again, to compansate for pipette error, we can prepare 700 uL, a 200 uL extra. This means after the serial dilution, we should have 700 uL of complete DMEM+compound, with final concentration the we wanted to test in each microcentrifuge tube. 
 
 **Requires**
 
 * :ref:`Complete DMEM <10 dmem>`
-* Multichannel micropipette 
+* Multichannel micropipette (10-200 uL)
+* Micropipette (2-10 uL, 10-100 uL, 100-1000 uL)
 * Microcentrifuge tube
+* Waste beaker 
+* Pipette tips (White, 10 uL, Yellow, 200 uL, Blue, 1000 uL) 
 
 **Procedure**
 
 #. Prepare different concentration of compound by diluting the compound in complete DMEM.
 
-    * We need 100 uL for each well, total of 5 well per concentration. 
-    * Supposedly :math:`\text{5 wells} \times 100 \mu L` should only requires 500 uL, but we would prepare extra volume to compansate handling errors. 
-    * In this case, we prepare 600 uL, a 100 uL extra.  
+    * Prepare the compounds with different concentrations before removing media from the 96 well plate, so we can immediately dispense the compound into the 96 well plate after removing the media. If the cells are left too long whithout media they would dry up and dies.
 
 #. Remove media from 96 well plate with multichannel micropipette. 
 #. Dispense 100 uL of fresh complete DMEM in negative control wells. 
 #. Dispense 100 uL of compound diluted in complete DMEM into respective wells. 
 #. Incubate. 37 C, 5% CO2.
 
-Day 3 - Add MTT, read absorbance
+.. _mtt-part3:
+
+Part 3 - Add MTT, read absorbance
 --------------------------------
 
 * This is the step where the actual MTT reagent will be added. 

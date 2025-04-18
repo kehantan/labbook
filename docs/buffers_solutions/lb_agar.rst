@@ -5,7 +5,7 @@ LB agar
 
 * To prepare LB agar, follow the instructions on the LB agar bottle. 
 * This procedure can be carried out on lab bench.
-* If there are already extra agar plates prepared then this step can be skipped, but check the plates before use. Avoid using contaminated agar plates or agar plates with water vapour condenstaion inside.  
+* If there are already extra agar plates prepared then this step can be skipped, but check the plates before use. Avoid using contaminated agar plates or agar plates with water vapour condensation inside.  
 
 **Requires** 
 
@@ -14,12 +14,13 @@ LB agar
 * Schott bottle (500 mL)
 * Spatula
 * Weighting scale 
-* Weighting 
+* Weighting boat
 * Distilled water 
 * Autoclave
 * :ref:`Kanamycin (30 mg/mL) <kanamycin>` 
 * Bunsen burner
 * Lighter
+* Measuring cylinder
 
 **Procedure**
 
