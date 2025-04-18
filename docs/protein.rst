@@ -6,6 +6,7 @@ Protein stuff.
 .. toctree::
    :maxdepth: 1
 
+   protein/bacteria_glycerol_stock
    protein/bacteria_culture
    protein/expression
    protein/purification
