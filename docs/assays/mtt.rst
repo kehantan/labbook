@@ -67,6 +67,8 @@ then:
 
 You will notice that even we wanted to test 8 different concentration, but the formula above state :code:`10 concentrations`. This is due to the inevitable deviations or minute errors during pipetting and handling of liquids. If we prepare just enough cell suspension for the exact number of concentrations we want, we might end up not having enough cells for the last few wells, so prepare a little extra amount for some headroom. Usually adding 3 to 5 concentrations extra into the calculation is sufficient.
 
+:math:`\text{Total cells needed} = 10 \text{concentrations} \times 5\text{wells}/\text{concentration} \times 5000 \text{cells}/\text{well} = 250000 \text{cells}`
+
 Amount of media we need
 ~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -130,7 +132,6 @@ To calculate how much media we need,
     .. code-block::
         
         Total media needed = 10 concentrations * 5 wells/concentration * 100 uL/well = 5,000 uL <-- This was also calculated before we begin the procedure
-
 
 To summarise, we need to put **167 uL of cell suspension** into **5,000 uL of complete DMEM**. 
 
