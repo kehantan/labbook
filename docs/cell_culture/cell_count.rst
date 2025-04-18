@@ -5,38 +5,45 @@ Cell count
 
 **Objective:** To get an estimation of how many cells we had collected from a culture flask. 
 
+This protocol is not a strict instruction, just some suggestions which can help ease your workflow. You can of course, adjust the parameters (volume of cell suspension, dilution factor, etc.) according to your needs. 
+
 **Requires**
 
 * Counting chamber
 * Counter
 * Trypan blue
-* 96 well plate (for mixing trypan blue and the cell suspension)
-
-    You can use anything that works well for you, microcentrifuge tube, parafilm, etc. 
+* 96 well plate (For mixing trypan blue and the cell suspension. You can use anything that works well for you, microcentrifuge tube, parafilm, etc.) 
 
 **Procedure**
 
 #. Before cell counting, you need to trypsinise your cells from the culture flask. Refer to :ref:`trypsinise <My target>`.
-#. Pipette 10 uL of trypan blue into one well of the 96 well plate.
-#. Pipette 10 uL of cell suspension obtained from trypsinisation to the well that have trypan blue. Mix by repeat pipetting. 
+#. Add 10 uL of trypan blue into one well of the 96 well plate.
+#. Add 10 uL of cell suspension obtained from trypsinisation to the same well that have trypan blue. Mix by repeat pipetting. 
 
-    This example uses 1:1 ratio of cell suspension (10 uL) vs trypan blue (10 uL) for dilution. Refer below for more details on different approach in diluting the cell suspension for cell counting. 
+    * This example uses 1:1 ratio of cell suspension (10 uL) vs trypan blue (10 uL) for dilution. You can use other dilution factor like 1:4, 1:9, etc.
 
 #. Take 10 uL of the trypan blue and cell mixture and dispense into the counting chamber.
 
-    A counting chamber set up typically consist of a counting chamber with a glass cover slip on top. Dispense the trypan blue + cell mixture from the edge of cover slip. The capillary action will spread the mixture evenly across the counting area. 
+    * A counting chamber set up typically consist of a counting chamber with a glass cover slip on top. Dispense the trypan blue + cell mixture from the edge of cover slip. The capillary action will spread the mixture evenly across the counting area. 
 
 #. Count the cells using microscope. 
 
-The formula for calculating number of cells exists in 1 mL of cell suspension
+Calculations
+------------
 
-:math:`\frac{\text{sum of cells from 4 quadrant} \times 10^4 \times \text{Dilution factor}}{4} =` :code:`X cells/mL`
+The formula for calculating number of cells in 1 mL of cell suspension
 
-After counting the cells, we should get value of :code:`X cells/mL`. Compare the number of cells required we calculated before we begin the experiment and the number of cells we just calculated. We should have sufficient cells for seeding. In case there are not sufficient cells for all our experiments, we can consider lowering the number of cells to seed, or reduce the number of plates to seed. 
+:math:`\frac{\text{sum of cells from 4 quadrant} \times 10^4 \times \text{Dilution factor}}{4} = X \text{cells}/mL`
+
+We would get value of :code:`X cells/mL`. 
+
+Compare the number of cells required we calculated before we begin the experiment and the number of cells in 1 mL cell suspension we just calculated to confirm if we have sufficient cells for seeding. 
+
+In case there are not sufficient cells for all our experiments, we can consider lowering the number of cells to seed, or reduce the number of plates to seed. 
 
 **Dilution for cell count**
 
-Counting large number of cells under microscope can be tiring and strain your eyes, so to mitigate this issue, we can dilute the cell suspension to ease the process of cell counting. There are two approach for dilution:
+Counting large number of cells under microscope can be tiring and strain your eyes. We can dilute the cell suspension to make the cell counting process easier. There are two approach for dilution:
 
 * Dilute the cell suspension by adding more fresh DMEM
 
@@ -50,6 +57,4 @@ Counting large number of cells under microscope can be tiring and strain your ey
     * This approach reduce the amount of fresh complete DMEM used.
     * If using this approach, just use :math:`\times 5` for dilution factor in the formula. Insert the correct dilution factor into the formula if other dilution factor was used.  
 
-**Note:**
 
-This protocol is not a strict instruction, just some suggestions which can help ease your workflow. You can of course, adjust the parameters (volume of cell suspension, dilution factor, etc.) according to your needs. 

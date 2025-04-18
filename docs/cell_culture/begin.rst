@@ -3,9 +3,7 @@ Before we begin cell culture
 
 **Ground rules**
 
-Maintain good aseptic technique is important throughout the whole process of cell culture. 
-
-The biosafety cabinet (BSC) is our main working bench for cell culture work. To reduce possibilities of contamination, adhere to aseptic techniques as much as possible. The regulars including always wear gloves and lab coat. 
+Maintain good aseptic technique is important throughout the whole process of cell culture. The biosafety cabinet (BSC) is our main working bench for cell culture work. To reduce possibilities of contamination, adhere to aseptic techniques as much as possible. The regulars including always wear gloves and lab coat. 
 
 Before putting anything into the BSC, we need to spray them with 70% ethanol (including our hands). If you remove your gloved hands from the BSC, touched something else outside the BSC, spray 70% ethanol on your gloved hands before putting it back into the BSC. 
 
@@ -22,14 +20,13 @@ Before putting anything into the BSC, we need to spray them with 70% ethanol (in
 * Permanent Marker
 * 96 well plate for mixing trypan blue and cell suspension for cell count
 
-    It doesn't necessarily have to be a 96 well plate. You can use anything that you find useful, some people use microcentrifuge tube, some people use parafilm. This is up to your preference.  
+    * It doesn't necessarily have to be a 96 well plate. You can use anything that you find useful, some people use microcentrifuge tube, some people use parafilm. This is up to your preference.  
 
 * Counting chamber (Neubauer chamber)
 
-    You can place the whole counting chamber, including its box together into the BSC, or you can just place only the counting chamber in to the BSC. This is up to your preference. 
+    * You can place the whole counting chamber, including its box together into the BSC, or you can just place only the counting chamber in to the BSC. This is up to your preference. 
 
 * Well plates (96, 24, 12, etc.)
-* Cell scraper
 * Others
 
 These are the common items needed for cell culture, find out which one is required for your procedure before you start your work. 
@@ -43,7 +40,7 @@ Common reagents we would be using for cell culture including:
 * Trypan blue
 * Phosphate buffer saline (PBS)
 
-Reagents like complete DMEM and TrypLE are stored in the fridge, you could either leave the reagents on the bench or warm them in water bath. Usually it takes 5 to 10 mins to completely warm the reagents. Trypan blue and PBS are stored at the bench, so no warming required.
+Reagents like complete DMEM and TrypLE are stored in the fridge, you could either leave the reagents on the bench or warm them in water bath. Usually it takes 5 to 10 mins to completely warm the reagents. Wipe the reagent container dry if you warm them in water bath, the water from water bath is a very common source of contamination. Trypan blue and PBS are stored at the bench, so no warming required.
 
 **Preparation for cell culture work**
 
