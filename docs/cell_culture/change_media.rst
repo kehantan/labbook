@@ -6,8 +6,14 @@ We usually change media when:
 * 24 hrs after reviving new cells, to remove excess DMSO
 * When media turned yellow, but we don't want to subculture the flask yet 
 
+**Materials**
+
+* Serological pipette 
+* Pipette gun 
+* Complete DMEM 
+
 **Procedure**
 
 #. Remove existing media from culture flask with serological pipette. 
-#. Put in fresh media. 
+#. Add in sufficient amount of fresh media. 
 #. Place culture flask into incubator. 

@@ -8,12 +8,12 @@ Tris-HCl stock solution
 * This protocol shows how to prepare Tris-HCl stock solution at concentration of 1 M with pH 8.5.
 * Tris-HCl MW: 157.6 g/mol 
 
-**Requires**
+**Materials**
 
 * Tris-HCl powder 
 * Distilled water/Milli-Q water
-* Empty 1 L bottle 
-* Vacuum filter cup with 0.22 um filter
+* Schott bottle (1 L) 
+* Vacuum filter cup (0.22 um)
 * Vacuum pump
 * Magnetic stirrer
 * 5 M NaOH
@@ -27,7 +27,7 @@ Tris-HCl stock solution
 #. Filter with vacuum filter cup into a new 1 L bottle. 
 #. Label the bottle. 
 
-    Label example: :code:`Tris-HCl pH 7.5, name initials, date prepared`
+    * Label example: :code:`Tris-HCl pH 7.5, name initials, date prepared`
 
 #. Seal the bottle with parafilm and store in 4 C. 
 

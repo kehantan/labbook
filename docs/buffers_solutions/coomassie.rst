@@ -7,7 +7,7 @@ Coomassie staining solution
 
 * This protocol prepares 400 mL of Coomassie staining solution. 
 
-**Requires**
+**Materials**
 
 * Coomassie blue powder
 * Methanol 

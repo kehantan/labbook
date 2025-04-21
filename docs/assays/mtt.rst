@@ -108,6 +108,8 @@ After counting the cells, we should get value of :code:`X cells/mL`. Compare the
 Cell seeding
 ~~~~~~~~~~~~
 
+:ref:`cell seeding for MTT assay <cell seed mtt>`
+
 After we know how much cells we have, we now need to know how much cells we need to take from the cell suspension and dilute in complete DMEM to make the final mixture we want. We need to:
 
 * Calculate the volume of cell suspension we need to take
@@ -141,9 +143,11 @@ After all the calculations we can begin our cell seeding procedure.
 
 * 96 well plate 
 * Cell reservoir
+* Micropipette
 * Multichannel micropipette
-* Pipette tips (Yellow, 200 uL)
-* Waste beaker 
+* Pipette tips 
+* Serological pipette 
+* Pipette gun 
 
 **Procedure**
 
@@ -175,10 +179,10 @@ Part 2 - Treatment
 
 * :ref:`Complete DMEM <10 dmem>`
 * Multichannel micropipette (10-200 uL)
-* Micropipette (2-10 uL, 10-100 uL, 100-1000 uL)
+* Micropipette 
 * Microcentrifuge tube
 * Waste beaker 
-* Pipette tips (White, 10 uL, Yellow, 200 uL, Blue, 1000 uL) 
+* Pipette tips 
 
 **Procedure**
 
@@ -187,9 +191,9 @@ Part 2 - Treatment
     * Prepare the compounds with different concentrations before removing media from the 96 well plate, so we can immediately dispense the compound into the 96 well plate after removing the media. If the cells are left too long whithout media they would dry up and dies.
 
 #. Remove media from 96 well plate with multichannel micropipette. 
-#. Dispense 100 uL of fresh complete DMEM in negative control wells. 
-#. Dispense 100 uL of compound diluted in complete DMEM into respective wells. 
-#. Incubate. 37 C, 5% CO2.
+#. Add 100 uL of fresh complete DMEM in negative control wells. 
+#. Add 100 uL of compound diluted in complete DMEM into respective wells. 
+#. Incubate. 24 hrs, 37 C, 5% CO2.
 
 .. _mtt-part3:
 
@@ -205,7 +209,7 @@ Add MTT
 
 **Materials**
 
-* :ref:`MTT solution <mtt stock>`
+* :ref:`MTT solution (5 mg/mL) <mtt stock>`
 * DMSO 
 * Multichannel micropipette
 * Aluminium foil
@@ -215,15 +219,15 @@ Add MTT
 #. Take MTT solution from freezer and warm to room temperature in water bath or let it sit at bench before use. 
 #. Add 10 uL of MTT into each well.
 
-    * Do not have to remove media on this step.
+    * Do not need to remove media on this step.
     * The MTT concentration we used in this lab is 5 mg/mL.
-    * There are other concentrations of MTT used, find out from the literature whichever that suits your experiments. 
+    * Other concentrations of MTT can be used, find out from the literature whichever concentration of MTT that suits your experiments. 
 
-#. Wrap well plates in aluminium foil to keep the MTT from light. 
+#. Wrap well plates in aluminium foil to keep the MTT reagent from light. 
 #. Incubate. 37 C, 5% CO2, 3 hrs.
 
     * There are no strict rules for how long the incubation period should be, you can try to optimise. 
-    * For my experiment, I use 3 hrs. Reduce the incubation time if you think 3 hrs is too long. But keep consistant, i.e.: if you decided to incubate for 2 hrs, then incubate 2 hrs everytime you do MTT assay.  
+    * For my experiment, I use 3 hrs. Reduce the incubation time if you think 3 hrs is too long. But be consistant, if you decided to incubate for 2 hrs, then incubate 2 hrs everytime you do MTT assay.  
 
 #. After 3 hrs, remove the 96 well plate from incubator.
 
@@ -252,7 +256,7 @@ Read the absorbance with a plate reader.
 
 #. Read plate at 570 nm. 
 
-    There are different protocols that uses different wavelength, you may adjust according to literature. 
+    * There are different protocols that uses different wavelength, you may adjust according to literature. 
 
 Clean up
 ~~~~~~~~

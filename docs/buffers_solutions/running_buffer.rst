@@ -21,7 +21,7 @@ Running buffer
 | 0.1%   | SDS       | 1 g       |
 +--------+-----------+-----------+
 
-**Requires**
+**Materials**
 
 * Tris base powder
 * Glycine powder 

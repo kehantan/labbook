@@ -3,7 +3,7 @@ Revive bacteria culture from glycerol stock
 
 * Schematics for reviving bacteria culture from glycerol stock can be found `here <https://docs.google.com/presentation/d/1faH6C6zyaiaK3ScqnFdbJSIXXMqFBbPZSShDzIiWg2c/edit?usp=sharing>`_.
 
-**Requires**
+**Materials**
 
 * Bacteria stock
 * Bunsen burner 

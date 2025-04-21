@@ -5,7 +5,7 @@ Phosphate buffer saline (PBS)
 
 **Objective:** To make PBS. 
   
-**Requires**
+**Materials**
 
 * PBS tablet 
 * Distilled water 
@@ -18,7 +18,9 @@ Phosphate buffer saline (PBS)
 #. Mix well. 
 #. Label. 
 
-    Label example: :code:`1x PBS, name initials, date prepared`
+    * Label example: :code:`1x PBS, name initials, date prepared`
 
 #. Autoclave. 120 C, 15 mins. 
 #. Seal with parafilm and store at bench.
+
+**Note:** Different PBS tablet need to be dissolved with different amount of distilled water, refer to manual.

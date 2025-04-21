@@ -7,7 +7,7 @@
 * Prepare 2% DMEM in biosafety cabinet. 
 * Schematics for preparing 2% DMEM can be found `here <https://docs.google.com/presentation/d/1XIx-L6bWyaaJ7a30QiGjVbNT-d0Omj4--MuUFlvaePM/edit?usp=sharing>`_. 
 
-**Requires**
+**Materials**
 
 * FBS
 * Pen-Strep

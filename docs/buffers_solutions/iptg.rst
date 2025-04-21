@@ -8,7 +8,7 @@ IPTG stock
 * This protocol is for preparing IPTG stock solution at concentration of 250 mM with volume of 10 mL 
 * IPTG MW: 238.31 g/mol
 
-**Requires**
+**Materials**
 
 * IPTG powder
 * Distilled water

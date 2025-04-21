@@ -84,7 +84,7 @@ Protein extraction
 
 * Estimated time needed: 2 hr
 
-**Requires**
+**Materials**
 
 * Ice box filled with ice
 * Plastic bucket filled with ice 
@@ -225,7 +225,7 @@ Dialysis
 * This procedure needs to be carried out in cold room.
 * Select 2 to 3 fractions containing the target protein based on the result from SDS-PAGE.  
 
-**Requires**
+**Materials**
 
 * Thermo Fisher Scientific Slide-A-lyzer Dialysis Cassette, 3,500 MWCO
 * Beaker (1 L)

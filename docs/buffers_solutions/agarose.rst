@@ -7,7 +7,7 @@
 
 * 5% agarose (w/v), final volume 100 mL 
 
-**Requires**
+**Materials**
 
 * Agarose powder
 * Milli-Q water/distilled water

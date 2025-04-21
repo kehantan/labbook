@@ -10,7 +10,7 @@ Gel-destaining solution
     * 50% (v/v) methanol 
     * 10% (v/v) acetic acid
 
-**Requires**
+**Materials**
 
 * Methanol
 * Acetic acid

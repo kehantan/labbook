@@ -7,7 +7,7 @@ Paraformaldehyde (PFA)
 
 * Can prepare at bench 
 
-**Requires**
+**Materials**
 
 * 37% PFA
 * Distilled water/Milli-Q water

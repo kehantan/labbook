@@ -1,7 +1,7 @@
 Bacteria stock
 ==============
 
-**Requires**
+**Materials**
 
 * 70-80% glycerol
 * Plastic loop

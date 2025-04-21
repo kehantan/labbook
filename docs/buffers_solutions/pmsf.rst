@@ -9,7 +9,7 @@ PMSF stock solution
 * PMSF is sensitive and can degrade easily in water, prepare freshly before use.  
 * PMSF MW = 174.19 g/mol
 
-**Requires**
+**Materials**
 
 * Centrifuge tube (15 mL)
 * Isopropyl alcohol

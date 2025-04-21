@@ -7,7 +7,7 @@
 
 * 10% APS (w/v), final volume 1 mL
 
-**Requires**
+**Materials**
 
 * APS powder
 * Distilled water 

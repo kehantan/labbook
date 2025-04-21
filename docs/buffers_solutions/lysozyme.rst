@@ -6,7 +6,7 @@ Lysozyme stock solution
 * Final concentration of lysozyme required for 30 mL of lysis buffer is 100 ug/mL, so prepare 10,000 ug/mL stock solution of 1 mL.
 * I recommend preparing fresh lysozyme solution before use, storing lysozyme in freezer over long period of time may impact its effectiveness.
 
-**Requires**
+**Materials**
 
 * Microcentrifuge tube (1.5 mL)
 * Distilled water 

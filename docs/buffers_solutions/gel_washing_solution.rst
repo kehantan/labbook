@@ -5,7 +5,7 @@ Gel-washing solution
 
 **Objective:** To prepare washing solution for SDS-PAGE.
 
-**Requires**
+**Materials**
 
 * Methanol 
 * MilliQ water or distilled water  

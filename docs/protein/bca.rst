@@ -6,7 +6,7 @@ Bicinchoninic acid assay (BCA)
 * We use kit for this assay. Can refer the procedure from manufacturer website or the manual provided in the box.  
 * This procedure can be carried out on bench. 
 
-**Requires**
+**Materials**
 
 * PCR centrifuge tube 
 * Microcentrifuge tube (1.5 mL)

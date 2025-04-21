@@ -7,7 +7,7 @@
 
 * 10% SDS w/v
   
-**Requires**
+**Materials**
 
 * SDS powder
 * Distilled water 
@@ -20,7 +20,7 @@
 #. Add 80 mL of distilled water into the bottle. 
 #. Stir until the solution is clear. 
 
-    This would take quite some time, about 30 mins for the solution to turn completely clear
+    * This would take quite some time, about 30 mins for the solution to turn completely clear
 
 #. Top up with distilled water until 100 mL of final volume. 
 #. Label. 

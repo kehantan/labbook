@@ -7,12 +7,14 @@ Cell count
 
 This protocol is not a strict instruction, just some suggestions which can help ease your workflow. You can of course, adjust the parameters (volume of cell suspension, dilution factor, etc.) according to your needs. 
 
-**Requires**
+**Materials**
 
 * Counting chamber
 * Counter
 * Trypan blue
 * 96 well plate (For mixing trypan blue and the cell suspension. You can use anything that works well for you, microcentrifuge tube, parafilm, etc.) 
+* Micropipette
+* Pipette tips 
 
 **Procedure**
 
@@ -28,6 +30,9 @@ This protocol is not a strict instruction, just some suggestions which can help 
 
 #. Count the cells using microscope. 
 
+.. image:: images/Cell\ counting.png
+    :width: 600
+
 Calculations
 ------------
 
@@ -37,24 +42,8 @@ The formula for calculating number of cells in 1 mL of cell suspension
 
 We would get value of :code:`X cells/mL`. 
 
-Compare the number of cells required we calculated before we begin the experiment and the number of cells in 1 mL cell suspension we just calculated to confirm if we have sufficient cells for seeding. 
-
-In case there are not sufficient cells for all our experiments, we can consider lowering the number of cells to seed, or reduce the number of plates to seed. 
+Compare the number of cells required we calculated before we begin the experiment and the number of cells in 1 mL cell suspension we just calculated to make sure we have sufficient cells for seeding. In case there are not sufficient cells for all the experiments, can consider lowering the number of cells to seed, or reduce the number of plates to seed. 
 
 **Dilution for cell count**
 
-Counting large number of cells under microscope can be tiring and strain your eyes. We can dilute the cell suspension to make the cell counting process easier. There are two approach for dilution:
-
-* Dilute the cell suspension by adding more fresh DMEM
-
-    * At the end of :ref:`trypsinise <My target>` section, the protocol advice resuspend the cell pellet in 1 mL of fresh complete DMEM. 
-    * You can add more fresh complete DMEM to the cell suspension to final volume of 2 or 3 mL.
-    * For these cases, the :code:`X cells/mL` is the number of cells in 1 mL of cell suspension. To know the total number of cells in the cell suspension, you will have to :math:`\times 2` or :math:`\times 3` depending on how much volume of complete DMEM you added. 
-
-* Dilute with trypan blue 
-
-    * Add 10 uL of cell suspension into 40 uL of trypan blue, this is 1:4 ratio of cell suspension (10 uL) vs trypan blue (40 uL), the dilution factor is 5. You can use other ratio you like. 
-    * This approach reduce the amount of fresh complete DMEM used.
-    * If using this approach, just use :math:`\times 5` for dilution factor in the formula. Insert the correct dilution factor into the formula if other dilution factor was used.  
-
-
+Counting large number of cells under microscope can be tiring and straining for the eyes. Therefore, instead of using 1:1 trypan blue to cell suspension ratio, we can use 1:4 (adding 10 uL of cell suspension into 40 uL of trypan blue), making the dilution factor become 5. When calculating the number of cells in the cell suspension, use :math:`\times 5` for dilution factor in the formula. You can also use other suitable ratio, just remember to use the correct dilution factor in the formula.

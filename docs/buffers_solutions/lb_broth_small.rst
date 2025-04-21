@@ -8,7 +8,7 @@ LB broth (Small volume)
 * Schemactics for preparing LB broth can be found `here <https://docs.google.com/presentation/d/1qZ7I4THBtuevUjca72BpT-3oJ3MLoqcnKhC-mZUu5pg/edit?usp=sharing>`_
 * This is a small volume LB broth for small scale culture and as a blank for OD reading during protein expression. Usually prepare small volume and large volume LB broth together if intend to do protein expression. 
 
-**Requires**
+**Materials**
 
 * Schott bottle (100 mL) 
 * Weighting balance

@@ -6,7 +6,7 @@ Complete DMEM (10%)
 * Complete DMEM with 10% FBS, final volume 50 mL.
 * Prepare complete DMEM in the biosafety cabinet.
 
-**Requires**
+**Materials**
 
 * FBS
 * Pen-Strep

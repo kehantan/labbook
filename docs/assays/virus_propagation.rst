@@ -10,7 +10,7 @@ Schematic workflow of virus stock propagation can be found `here <https://docs.g
 Infection
 ---------
 
-**Requires**
+**Materials**
 
 * :ref:`2% DMEM <2 dmem>`
 * Virus stock 
@@ -39,16 +39,18 @@ Infection
 Harvest
 -------
 
-**Requires**
+**Materials**
 
 * Centrifuge tube (15 ml)
 * Microcentrifuge tube 
+* Micropipette 
+* Pipette tips 
 
 **Procedure**
 
 #. Prepare and label multiple microcentrifuge tube. 
 
-    Label example: :code:`Virus type, passage number, date, name initials`
+    * Label example: :code:`Virus type, passage number, date, name initials`
 
 #. Take out the culture flask infected with virus. 
 #. Transfer all existing media into a 15 ml centrifuge tube. 

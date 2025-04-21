@@ -8,7 +8,7 @@ Kanamycin stock solution
 * To make Kanamycin stock at 30 mg/mL, total volume of 10 mL 
 * Kanamycin molar mass = 484.499 g/mol 
 
-**Requires**
+**Materials**
 
 * Kanamycin powder
 * Centrifuge tube (15 mL) 

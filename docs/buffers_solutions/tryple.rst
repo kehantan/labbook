@@ -7,9 +7,10 @@ TrypLE
 * Aliquote it into a smaller volume and store in the fridge (4 :math:`^{\circ}`\ C) for future use, no dilution required. 
 * Aliquote TrypLE in the biosafety cabinet to prevent contamination. 
 
-**Requires**
+**Materials**
 
 * Centrifuge tube (15 mL)
+
 * Serological pipette (10 mL)
 
 **Procedure**

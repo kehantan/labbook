@@ -7,7 +7,7 @@ Triton X-100 stock
 * Can be prepared on bench 
 * This protocol prepare 10 mL of 10% Triton X-100 stock solution
 
-**Requires**
+**Materials**
 
 * Triton X-100 (100%)
 * Distilled water

@@ -7,7 +7,7 @@ NaOH stock solution
 * NaOH MW: 39.997 g/mol
 * This is mainly used for adjusting pH of Tris-HCl. 
 
-**Requires**
+**Materials**
 
 * NaOH pellet
 * 1 L empty bottle

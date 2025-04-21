@@ -7,7 +7,7 @@ Bradford assay standard
 
 * The standard plot only need to be done once, after the standard plot is established, use the standard plot to determine the concentration of protein in purified protein sample. 
 
-**Requires**
+**Materials**
 
 * Microcentrifuge tube
 * Distilled water, MilliQ water, or PBS
