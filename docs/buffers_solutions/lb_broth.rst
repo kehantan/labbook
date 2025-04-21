@@ -1,4 +1,4 @@
-.. _lb broth:
+.. _lb broth large:
 
 LB broth (Large volume)
 =======================

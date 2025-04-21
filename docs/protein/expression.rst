@@ -5,98 +5,57 @@ Protein expression
 
 **Objective:** To culture bacteria that will express the target recombinant protein.  
 
-Section 1 - Preparation and small scale culture 
------------------------------------------------
+**Workflow**
 
-:ref:`LB agar <lb agar>`
+#. Agar plate culture
+#. Small scale culture 
+#. Large scale culture
 
-:ref:`LB broth <lb broth>`
+Each step requires 24 hrs/a day until we can proceed to next step. 
 
-Prepare LB agar
-~~~~~~~~~~~~~~~
+Agar plate culture
+------------------
 
-* To prepare LB agar, follow the instructions on the LB agar bottle. 
-* This procedure can be carried out on lab bench.
-* If there are already extra agar plates prepared then this step can be skipped, but check the plates before use. Avoid using contaminated agar plates or agar plates with water vapour condenstaion inside.  
+**Materials** 
 
-**Requires** 
-
-* LB agar powder 
-* Petri dish 
-* Schott bottle (500 mL)
-* Distilled water 
-* Autoclave
-* Kanamycin stock solution (30 mg/mL)
-* Bunsen burner
+* :ref:`LB agar plate <lb agar>`(Need to prepare at least 1 day before)
+* Transformed bacteria glycerol stock (*E.coli*, BL21 strain)
+* Inoculating loop
 * Lighter
+* Bunsen burner
 
 **Procedure**
 
-#. In a 500 mL bottle, dissolve LB powder in 250 mL distilled water. 
-#. Add 250 uL of Kanamycin stock solution into LB agar solution. Final concentration of Kanamycin = 30 ug/mL
-#. Stir with magnetic stirrer until powder completely dissolve. 
-#. Autoclave.
-
-    * Set the autoclave mode to 'warm' instead or 'normal'. This would keep the agar at 60 C after autoclave is complete so the agar would not solidifies. 
-
-#. Pour agar into petri dish. 
-#. Wait until agar plate is cooled down, then wrap in plastic bag and store on bench. 
-
-Prepare LB broth
-~~~~~~~~~~~~~~~~
-
-* To prepare LB broth, follow the instructions on the LB broth bottle.
-* This procedure can be carry out on lab bench.  
-
-**Requires**
-
-* Erlenmeyer flask (2 L)
-* Weighting balance
-* Spatula 
-* LB broth powder 
-* Distilled water 
-* Measuring cylinder (1 L)
-* Kanamycin stock solution (30 mg/mL)
-
-**Procedure**
-
-#. In a 2 L Erlenmeyer flask, dissolve 12.5 g of LB powder in 500 mL distilled water. Cover the mouth of the flask with aluminium foil. 
-#. Autoclave. 120 C, 15 mins. 
-#. Wait until the LB broth cools down, then add 500 uL of Kanamycin stock solution into LB broth. 
-#. Cover the mouth of the flask with aluminium foil and store on bench. 
-
-**Note:** 
-
-For the ease of work, aside from preparing LB broth for large scale culture, prepare another smaller volume of LB broth in a 500 mL bottle used for various purpose such as small scale culture and as a blank for measuring the OD of the cultured bacteria. 
+#. Sterilise inoculating loop by passing the loop 2-3 times through the bunsen burner flame. 
+#. Take a loop full of the *E.coli* glycerol stock and streak on agar plate. 
+#. Incubate. 24 hrs, 37 C.   
 
 Small scale culture
-~~~~~~~~~~~~~~~~~~~
+-------------------
 
-**Requires**
+**Materials**
 
 * Centrifuge tube (15 mL)
 * Transformed *E. coli* cultured on agar plate 
 * Plastic inoculation loop
 * Bunsen burner
 * Lighter 
+* :ref:`Small volume LB broth <lb_broth_small>` (Need to prepare at least 1 day before)
 
 **Procedure** 
  
-#. Prepare two 15 mL centrifuge tube. Add 10 mL of LB broth into each tube.
-#. Aliquote 5 mL of broth into a 15 mL centrifuge tube. 
+#. Prepare two 15 mL centrifuge tube.
+#. Add 10 mL of LB broth into each 15 mL centrifuge tube.
+#. Pick multiple *E. coli* single colony from agar plate and mix with LB broth in the 15 mL centrifuge tube.
+#. Shake the centrifuge tube in incubator shaker. 24 hrs, 37 C, 180 rpm.
 
-    To be used as blank later. 
+Large scale culture
+-------------------
 
-#. Pick a single *E. coli* colony from agar plate and mix with LB broth in the 15 mL centrifuge tube.
-#. Shake the centrifuge tube. 24 hrs, 37 C, 180 rpm.
-
-Section 2 - Large scale culture
--------------------------------
-
-**Requires**
+**Materials**
 
 * Spectrophotometer
-* 2 L Erlenmeyer flask
+* :ref:`LB broth in 2 L Erlenmeyer flask <lb broth large>` (Need to prepare at least 1 day before)
 * 2 L orbital shaker
 * :ref:`IPTG stock solution (250 mM)<iptg>`
 * Refrigerated centrifuge 
@@ -107,7 +66,7 @@ Section 2 - Large scale culture
 
 **Procedure**
 
-#. Add the small scale culture from 15 mL centrifuge tube culture into the 500 mL LB broth prepared in section 1. 
+#. Add the small scale culture from 15 mL centrifuge tube culture into the 500 mL LB broth in the 2 L Erlenmeyer flask. 
 #. Shake. 1 to 3 hrs, 37 C, 180 rpm. 
 
     * Might need to extend the shaking if target OD is not reached. 

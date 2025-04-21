@@ -137,7 +137,7 @@ To summarise, we need to put **167 uL of cell suspension** into **5,000 uL of co
 
 After all the calculations we can begin our cell seeding procedure. 
 
-**Requires**
+**Materials**
 
 * 96 well plate 
 * Cell reservoir
@@ -171,7 +171,7 @@ Part 2 - Treatment
 * Before treatment, calculate the concentration of compound we need. Usually we do serial dilution, but you can also do each concentration seperately if it is too confusing. There are serial dilution calculator online that can help us to calculate the dilution. Refer to :ref:`serial dilution <serial dilution>` section. 
 * Assume we seeded cells in 5 different wells for each concentration in the previous step, we would need enough volume of complete DMEM+compound. In this case, :math:`100 uL * 5 wells = 500 uL`, but again, to compansate for pipette error, we can prepare 700 uL, a 200 uL extra. This means after the serial dilution, we should have 700 uL of complete DMEM+compound, with final concentration the we wanted to test in each microcentrifuge tube. 
 
-**Requires**
+**Materials**
 
 * :ref:`Complete DMEM <10 dmem>`
 * Multichannel micropipette (10-200 uL)
@@ -203,7 +203,7 @@ Part 3 - Add MTT, read absorbance
 Add MTT
 ~~~~~~~
 
-**Requires**
+**Materials**
 
 * :ref:`MTT solution <mtt stock>`
 * DMSO 
@@ -244,7 +244,7 @@ Read absorbance
 
 Read the absorbance with a plate reader. 
 
-**Requires**
+**Materials**
 
 * Plate reader
 

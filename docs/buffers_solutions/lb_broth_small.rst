@@ -1,4 +1,4 @@
-.. _lb broth:
+.. _lb broth small:
 
 LB broth (Small volume)
 =======================

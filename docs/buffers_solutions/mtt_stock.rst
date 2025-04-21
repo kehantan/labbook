@@ -12,7 +12,7 @@ MTT reagent
 * MTT solution is sensitive to light. Wrap the prepared solution in aluminium foil before storing in freezer. 
 * Schematics for preparing MTT solution can be found `here <https://docs.google.com/presentation/d/1IIiZSPVcTfXI2qt4P9eORFXnCTqsc18I3t5ufM8Zi7M/edit?usp=sharing>`_.
 
-**Requires**
+**Materials**
 
 * MTT powder 
 * Distilled water or PBS

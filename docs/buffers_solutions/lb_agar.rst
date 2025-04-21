@@ -7,7 +7,7 @@ LB agar
 * This procedure can be carried out on lab bench.
 * If there are already extra agar plates prepared then this step can be skipped, but check the plates before use. Avoid using contaminated agar plates or agar plates with water vapour condensation inside.  
 
-**Requires** 
+**Materials** 
 
 * LB agar powder 
 * Petri dish 
