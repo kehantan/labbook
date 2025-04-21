@@ -109,8 +109,11 @@ Section 2 - Large scale culture
 
 #. Add the small scale culture from 15 mL centrifuge tube culture into the 500 mL LB broth prepared in section 1. 
 #. Shake. 1 to 3 hrs, 37 C, 180 rpm. 
+
+    * Might need to extend the shaking if target OD is not reached. 
+
 #. Check OD at 600 nm every 1 hour. 
-#. When OD is around 0.5 - 0.6, add 1 mL of IPTG stock solution to the LB broth culture.
+#. When OD is around 0.5 - 0.6, add 1 mL of IPTG stock solution (250 mM) to the LB broth culture.
 
     * IPTG final concentration in LB broth = 0.5 mM
 
@@ -123,7 +126,7 @@ Section 2 - Large scale culture
 #. Remove supernatant. 
 #. Resuspend pellet in 2000 uL PBS.  
 
-    * Prepare another PBS for bacteria work to prevent contamination with PBS for cell culture use. 
+    * Prepare another PBS for bacteria work. Seperate bacteria work PBS with cell culture PBS to prevent contamination. 
 
 #. Combine all resusupended pellet into two 50 mL centrifuge tube.
 #. Top up PBS to 50 mL in each tube.  

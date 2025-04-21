@@ -1,9 +1,9 @@
 .. _mtt stock:
 
-MTT working solution
-====================
+MTT reagent
+===========
 
-**Objective:** To prepare MTT working solution from MTT powder. 
+**Objective:** To prepare MTT reagent from MTT powder. 
 
 * MTT comes in powder form. 
 * Concentration of MTT we use in this lab is 5 mg/mL
@@ -15,9 +15,6 @@ MTT working solution
 **Requires**
 
 * MTT powder 
-
-    MTT powder can be found in fridge (4 C)
-
 * Distilled water or PBS
 * Centrifuge tube (15 mL)
 * Syringe
