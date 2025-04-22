@@ -119,7 +119,7 @@ To calculate the volume of cell suspension we need to take,
 
     Assume after counting the cells, we have: :math:`150 \times 10^4 \text{cells}/mL`
     
-    But we only need: *:math:`25 \times 10^4 \text{cells}`* <-- Remember we calculate this value before we begin the procedure 
+    But we only need **:math:`25 \times 10^4 \text{cells}`** <-- Remember we calculate this value before we begin the procedure 
 
     :math:`25 \times 10^4 \text{cells/mL}`
 

@@ -3,12 +3,12 @@ Standard passaging (subculture)
 
 **Objective:** Maintain cells in incubator.  
 
-* This protocol uses Vero cells as an example, which is an adherent cells. 
+* This protocol uses Vero cells as an example.
 * The general protocol for cell culture can be found in :footcite:t:`phelan2007techniques`. 
 * Protocol for maintenance of Vero cells specifically can be found in :footcite:t:`ammerman2008growth`. 
 * In our lab, we usually maintain the passage of cells between 15 to 35. 
 
-**Requires**
+**Materials**
 
 * :ref:`Complete DMEM <10 dmem>`
 * :ref:`Phosphate buffer saline (1x PBS) <pbs>`
@@ -41,7 +41,7 @@ Cell counting is optional if you are just subculturing cells. For subculture, yo
 * Count the cells and seed the exact number of cells you want; OR 
 * To save some work, you can just split the previous culture into different portions depending on the percentage of confluency you need for your experiments and the days you want to conduct the experiments. 
 
-    Example: You have 1 mL of cell suspension after trypsinisation. To split 1:3, put around 333.33 uL of cell suspension into new culture flask with complete DMEM. You can also use other ratio like 1:5 or 1:10 split. To get the correct confluency using splitting by ratio method requires some trial and error and some experience. 
+    * Example: You have 1 mL of cell suspension after trypsinisation. To split 1:3, put around 300 uL of cell suspension into new culture flask with complete DMEM. You can also use other ratio like 1:5 or 1:10 split. To get the correct confluency using splitting by ratio method requires some trial and error and some experience. 
 
 **Cell seeding**
 

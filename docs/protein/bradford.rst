@@ -13,7 +13,7 @@ Bradford assay standard
 * Distilled water, MilliQ water, or PBS
 * Bovine serum albumin (BSA)
 * Bradford reagent 
-* 96 well clear plate
+* 96 well plate, clear
 * Microplate reader 
   
 **Procedure**
@@ -45,7 +45,7 @@ Bradford assay for protein sample
 ---------------------------------
 
 #. Add 10 uL of protein sample into 190 uL of Bradford reagent. 
-#. Rread absorbance at 590 nm and 450 nm. 
+#. Read absorbance at 590 nm and 450 nm. 
 #. Divide the absorbance value at 590 nm by absorbance value at 450 nm. 
 #. Plug the value into the formula obatined from BSA standard curve. Find the corresponding protein concentration from BSA standard curve.
 #. If the absorbance value for the protein sample exceeds the range of the BSA standard curve, dilute the protein sample and measure again. 
