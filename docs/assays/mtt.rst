@@ -67,7 +67,7 @@ then:
 
 You will notice that even we wanted to test 8 different concentration, but the formula above state :code:`10 concentrations`. This is due to the inevitable deviations or minute errors during pipetting and handling of liquids. If we prepare just enough cell suspension for the exact number of concentrations we want, we might end up not having enough cells for the last few wells, so prepare a little extra amount for some headroom. Usually adding 3 to 5 concentrations extra into the calculation is sufficient.
 
-:math:`\text{Total cells needed} = 10 \text{concentrations} \times 5\text{wells}/\text{concentration} \times 5000 \text{cells}/\text{well} = 250000 \text{cells}`
+:math:`\text{Total cells needed} = 10\ \text{concentrations} \times 5\ \text{wells}/\text{concentration} \times 5,000\ \text{cells}/\text{well} = 250,000\ \text{cells}`
 
 Amount of media we need
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -123,7 +123,7 @@ To calculate the volume of cell suspension we need to take,
 
     :math:`25 \times 10^4 \text{cells/mL}`
 
-    So, :code:`25/150` to know how much volume (in mL) of cell suspension we need to aspirate from the cell suspension in the 15 mL centrifuge tube. 
+    So, to know how much volume (in mL) of cell suspension we need to aspirate from the cell suspension in the 15 mL centrifuge tube. 
     
     In this case, :code:`0.167 mL`. Convert to uL, then the volume we should take is :code:`167 uL`
 
