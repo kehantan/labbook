@@ -5,6 +5,9 @@ Trypsinise
 
 **Objective:** To detach adherent cells from the culture flask. 
 
+.. image:: images/MTT\ assay.png
+    :width: 600
+
 **Materials**
 
 * TrypLE 
@@ -26,10 +29,10 @@ Trypsinise
     * For T25 flask I usually use around 500 uL, while for T75 flask I usually use around 1 ml.
 
 #. Remove PBS.
-#. Dispense TrypLE.
+#. Add TrypLE.
 
     * There are no fix volume, main purpose is to detach the cells from the culture flask. Add enough volume to cover all the cells. 
-    * For T25 flask I usually use around 600 uL, while for T75 flask I usually use around 1 mL
+    * For T25 flask I usually use around 600 uL, while for T75 flask I usually use around 1 mL.
 
 #. Incubate the culture flask for about 3 to 5 mins, but don't incubate for more than 10 mins.
 
@@ -47,7 +50,7 @@ Trypsinise
 
 #. Add complete DMEM in amount which is equal to the amount of TrypLE used, to neutralise TrypLE. 
 
-    * If we used 1 mL of TrypLe for trypsinise, then add 1 mL of complete DMEM to neutralise
+    * If used 1 mL of TrypLe for trypsinise, then add 1 mL of complete DMEM to neutralise
 
 #. Transfer the cell suspension into a 15 mL centrifuge tube. 
 #. Centrifuge. 1,500 rpm, 5 mins. 
@@ -61,7 +64,7 @@ Trypsinise
 
 **Cells not detach properly**
 
-It is normal that the cells cannot be harvest completely, there are always some cells that cannot detach from the flask no matter what you do. Unless there are large number of cells that do not detach after the trypsinise step, you can ignore those cells. If cells do not detach properly after trypsinising, some of the things you can do including
+It is normal that the cells cannot be harvest completely, there are always some cells that cannot detach from the flask no matter what you do. Unless there are large number of cells that do not detach after the trypsinise step, you can ignore those cells. If cells do not detach properly after trypsinising, some of the things you can do including:
 
 * Wash the cells few more times to completely remove FBS. 
 * As mentioned above, incubate for a longer period of time or add more TrypLE before prolong the incubation period. 
