@@ -87,6 +87,8 @@ Similar to above, :code:`10 concentrations` were used in calculation instead of 
 Part 1 - Trypsinise, cell count, seed cells
 ------------------------------------------
 
+Estimated time needed: 1 hr
+
 Trypsinise
 ~~~~~~~~~~
 
@@ -171,6 +173,8 @@ After all the calculations we can begin our cell seeding procedure.
 Part 2 - Treatment
 -----------------
 
+Estimated time needed: 1 hr
+
 * Treatment is where we treat our seeded cells with the compounds we wanted to test. 
 * Before treatment, calculate the concentration of compound we need. Usually we do serial dilution, but you can also do each concentration seperately if it is too confusing. There are serial dilution calculator online that can help us to calculate the dilution. Refer to :ref:`serial dilution <serial dilution>` section. 
 * Assume we seeded cells in 5 different wells for each concentration in the previous step, we would need enough volume of complete DMEM+compound. In this case, :math:`100 uL * 5 wells = 500 uL`, but again, to compansate for pipette error, we can prepare 700 uL, a 200 uL extra. This means after the serial dilution, we should have 700 uL of complete DMEM+compound, with final concentration the we wanted to test in each microcentrifuge tube. 
@@ -200,7 +204,8 @@ Part 2 - Treatment
 Part 3 - Add MTT, read absorbance
 --------------------------------
 
-* This is the step where the actual MTT reagent will be added. 
+Estimated time needed: 4 hrs 
+
 * This procedure can be carried out either in the biosafety cabinet or at bench.
 * Remember to reduce as much light source as possible (i.e.: turn off lights in lab or in BSC) as MTT is light sensitive. 
 
@@ -258,10 +263,7 @@ Read the absorbance with a plate reader.
 
     * There are different protocols that uses different wavelength, you may adjust according to literature. 
 
-Clean up
-~~~~~~~~
-
-After reading the absorbance, the plate can be disposed into the yellow bin in the lab. 
+#. After reading the absorbance, the plate can be disposed into the yellow bin in the lab. 
 
 References
 ----------

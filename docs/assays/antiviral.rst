@@ -28,7 +28,7 @@ Section 1 - Trypsininse, cell count, seed cells
     * For 6 well plate, seed 450,000 cells for next day infection and treatment. 
     * For 12 well plate, seed 150,000 cells for next day infection and treatment. 
 
-**Requires**
+**Materials**
 
 * :ref:`Complete DMEM <10 dmem>`
 * Trypsin 
@@ -48,9 +48,8 @@ Section 1 - Trypsininse, cell count, seed cells
 
     * Check if there are enough cells for seeding in a 6 well plate at 450,000 cells/well. 
     * :code:`6 well * 450,000 cells = 2,700,000 cells needed`
-    * If there are not enough cells, consider seed at another day, or seed less wells.  
 
-#. Add 1500 uL of 10% DMEM into each well in the 6 well plate.
+#. Add 1500 uL of complete DMEM into each well in the 6 well plate.
 
     * 1000 uL of 10% DMEM into each well if using 12 well plate 
 

@@ -5,14 +5,13 @@ Plaque assay
 
 **Objective:** To quantify the virus titer in a virus sample. 
 
-* This protocol was separated into different sections, each section indicates that after that procedure was completed, have to wait until the next day (or after 2 days) to proceed to the next section. 
+* Cells used = Vero
 * This protocol demonstrate plaque assay in 6 well plate. For plaque in 12 well plate or well plate of other sizes, the procedures are the same, just the volume of liquids, number of cells, and volume of reagents used are different. 
 * Schematics of plaque assay can be found `here <https://docs.google.com/presentation/d/12KLdlDftXJ22pbflFmYKli6ztxyudEKHW6V2Ocw5Nhg/edit?usp=sharing>`_
 
-Section 1 - Trypsininse, cell count, seed cells
------------------------------------------------
+Trypsininse, cell count, seed cells
+------------------------------------
 
-* Cells should be at least 90% confluency at the time of infection.
 * Amount of cells harvested from a T75 flask with 80% confluency should be sufficient to seed at least 2 6 well plate with 600,000 cells in each well for next day virus infection.
 * Number of cells to be seeded into each well depends on which day you want to do infection. 
  
@@ -20,10 +19,10 @@ Section 1 - Trypsininse, cell count, seed cells
     * Seed 6 well plate with 400,000 cells per well for infection after 2 days 
     * Seed 12 well plate with 200,000 cells per well for next day infection
 
-**Requires**
+**Materials**
 
 * :ref:`10% DMEM <10 dmem>`
-* Trypsin 
+* Trypsin/TrypLE
 * :ref:`Phosphate buffer saline (PBS) <pbs>`
 * Trypan blue 
 * Clear 6 well plate
@@ -41,24 +40,23 @@ Section 1 - Trypsininse, cell count, seed cells
 
     * Check if there are enough cells for seeding in a 6 well plate at 600,000 cells/well. 
     * :code:`6 well * 600,000 cells = 3,600,000 cells needed`
-    * If there are not enough cells, consider seed at another day, or seed less wells.  
+    
+#. Add 1500 uL of complete DMEM into each well in the 6 well plate.
 
-#. Add 1500 uL of 10% DMEM into each well in the 6 well plate.
-
-    * 1000 uL of 10% DMEM into each well if using 12 well plate 
+    * 1000 uL of complete DMEM into each well if using 12 well plate 
 
 #. Add correct amount of cells into each well. 
 #. Tilt the well plate back and forth and side to side to distribute the cells evenly across the base of the wells. 
 #. Incubate. 37 C, 24 hrs. 
 
-Section 2 - Infection
----------------------
+Infection
+---------
 
 * Before infection, check the cell confluency in the 6 well plate. The cells should be around 90% confluency. 
 
 *Note:* For steps involving virus, avoid using serological pipette, as our lab policy requires virus waste to be handled seperately and autoclaved before disposal. Autoclaving and disposing serological pipette can be a bit challenging due to its length.
 
-**Requires**
+**Materials**
 
 * :ref:`2% DMEM <2 dmem>`
 * Microcentrifuge tube 
@@ -83,7 +81,8 @@ Virus stock serial dilution
 #. Retrieve virus stock from -80 C and thaw virus stock in 37 C water bath. 
 #. Transfer 50 uL of virus stock into D1. Mix well by either pipette repeatedly or using a vortex.
 #. Transfer 50 uL of diluted virus from D1 to D2. Mix well by either pipette repeatedly or using a vortex.
-#. Repeat the process for each tube until the last tube. 50 uL from D5 can be discarded. 
+#. Transfer 50 uL of diluted virus from D2 to D3. Mix well by either pipette repeatedly or using a vortex.
+#. Continue the process for each tube until the last tube. 50 uL from D5 can be discarded. 
 
 *Note 1:* Assuming we are infecting Vero cells with virus in 6 well plate, which uses 300 uL of virus containing media, so diluting the virus to final volume of 500 uL is sufficient. If infecting Vero cells in a 12 well plate, which would use only 100 uL of diluted virus, we can reduce the volume to 300 uL so we don't waste the media. 30 uL of virus stock + 270 uL fresh 2% DMEM.
 
@@ -115,7 +114,7 @@ Infection
     * There are actually no fixed amount to use, just need to cover the cell layer.
    
 #. Add 300 uL of 2% DMEM into NC well.
-#. Mix the virus by using a vortex or repeat pipetting. Transfer 300 uL of diluted virus from D1 into W1, D2 into W2, and so on.
+#. Mix the virus by using a vortex or repeat pipetting. Transfer 300 uL of diluted virus from microcentrifuge tube into their corresponding wells (D1 into W1, D2 into W2...).
 #. Tilt the plate back and forth and side to side to make sure the virus covers all the cells in the 6 well plate. 
 #. Incubate. 37 C, 1 hour. Tilt the plate every 20 mins. 
 #. 10 minutes before the infection period ends, prepare agarose overlay. 
@@ -132,21 +131,23 @@ Agarose overlay
     * Swirl the bottle and check if there are unmelted agarose or solid chunks of agarose in the bottle.
     * BEWARE! Handle melted agarose with care, use mittens if necessary, extremely hot! 
 
-#. In a 15 ml centrifuge tube, add 2 mL of melted agarose into 8 mL of 2% DMEM to make a 10 mL agarose overlay at a 2:8 ratio. Mix the agarose and 2% DMEM mixture either by repeating pipetting or invert the centrifuge tube few times.
+#. In a 15 ml centrifuge tube, add 2 mL of melted agarose into 8 mL of 2% DMEM to make a 10 mL agarose overlay at a 2:8 ratio (Agarose:2% DMEM). Mix the agarose and 2% DMEM mixture either by repeating pipetting or invert the centrifuge tube few times.
 
 #. Remove existing media from the 6 well plate. 
 
     * Don't use serological pipette for this step, use micropipette. 
     * Use different pipette tips for each well to prevent cross contamination. 
 
-#. Wash cells with PBS. Dispense 300 uL of PBS into each well from the wall of the wells. Tilt the plate side to side and back and forth a few times to properly wash the cells. Remove PBS after washing the cells. 
+#. Wash cells with PBS. Add 300 uL of PBS into each well from the wall of the wells. 
+#. Tilt the plate side to side and back and forth a few times to properly wash the cells. 
+#. Remove PBS after washing the cells. 
 
     * Use different micropipette tips for each well to prevent cross contamination. 
 
 #. Add 1.5 mL of agarose overlay into each well. 
 
     * Serological pipette can be used for this step. 
-    * Dispense the mixture from the wall of each well.
+    * Add the mixture from the wall of each well.
 
 #. Leave the 6 well plate at room temperature for 5 to 10 mins.
 #. Agarose overlay should hardens around 10 mins. 
@@ -164,14 +165,14 @@ Agarose overlay
 
 *Note 2:* When working with virus samples, our lab have specific procedure to dispose the virus related waste. Refer to section :ref:`below <clean_up>`.
 
-Section 3 - Fix and stain 
--------------------------
+Fix and stain 
+-------------
 
 * It usually takes 24 hrs for the cells to exhibits CPE, and 48 hrs for the cell infected with virus to die and form plaques. 
 * After 48 hrs of incubation, fix and stain the well plate to show the plaques.
 * Fixing and staining of 6 well plate can be done on bench or laminar flow in lab. 
 
-**Requires**
+**Materials**
 
 * :ref:`Paraformaldehyde (PFA), 3.7% <pfa>`
 * Crystal violet
@@ -225,37 +226,3 @@ Clean up
 --------
 
 Refer to :ref:`virus waste <virus waste>` management. 
-
-Plaque assay results
---------------------
-
-After stained with crystal violet, the cells surrounding the plaques should be purple in colour, while the plaque remains clear due to absence of cells within the plaques. In theory, the lower the virus dilution (virus is less diluted), the more virus particles there is, so more plaques would form; the higher the dilution (virus is more diluted), the less virus particles there are, so less plaques would form. 
-
-Several outcomes that can be observed from a well in plaque assay:
-
-    * Too many plaques that they overlapped with each other, resulting in large clear area, indicating large amount of cells detached. This means the virus titer is too high for this well.  
-    * Individual plaques obtained, little to no overlapping between each plaques. Each plaque is surrounded by non infected cells. However, there are too many plaques, which can be difficult to count. 
-    * Individual plaques obtained, little to no overlapping between each plaques. Each plaque is surrounded by non infected cells and there are around 100 plaques in each well. Plaques can be observed but not to many until it is difficult to count. This is the ideal scenario. 
-
-Pick wells that have countable plaques and count the number of plaques for that well. Whether number of plaques in a well is consider countable or uncountable can be subjective, choose whichever well that is countable.
-
-Calculations
-------------
-
-After counting the number of plaques in a well, put the number into the formula:
-
-:math:`\frac{\text{Number of plaques}}{\text{Dilution factor} \times \text{Volume of virus sample used}} = \text{X pfu/mL}`
-
-    * Number of plaques = The number of the plaques counted 
-    * Dilution factor = The dilution factor used for the virus sample. E.g.: :math:`1 \times 10^{-6}`, :math:`1 \times 10^{-7}`, :math:`1 \times 10^{-8}`, etc
-    * Volume of virus sample used = Volume of virus sample added to each well during infection, in mL. If following this protocol, it would be 0.3 mL (300 uL). 
-
-After the pfu/mL for the first well was obtained, repeat the process for another 2 wells and average the numbers
-
-:math:`\frac{\text{Sum of pfu/mL for well 1, 2, and 3}}{3} = \text{Average virus titer}`
-
-Then this is the final virus titer for that particular batch of virus stock. 
-
-* Supposedly within the same batch of virus stock, but from different microcentrifuge tube would have different virus titer. But since its impractical to do plaque assay for all the microcentrifuge tubes, we would have to assumed the virus titer obtained is same for the whole batch of virus stock. The factor for the fluctuation in virus titer can include condition of the cells, replication speed of the virus, handling techniques, etc. 
-
-* If a new batch of virus stock was propagated from the old virus stock which already have the virus titer calculated, a new plaque assay will still have to be done to find out the virus titer of the new batch of virus stock. 

@@ -10,6 +10,8 @@ Schematic workflow of virus stock propagation can be found `here <https://docs.g
 Infection
 ---------
 
+Estimated time needed: 10 mins
+
 **Materials**
 
 * :ref:`2% DMEM <2 dmem>`
@@ -22,10 +24,10 @@ Infection
 * Waste beaker
 * Paper towel
 * Rack
+* Vero cells in culturing flask, around 70% confluency
 
 **Procedure**
 
-#. Culture Vero cells to about 70% confluency.
 #. Remove existing media from culture flask. 
 #. Wash cells with PBS. 
 #. Add fresh 2% DMEM into the culture flask.
@@ -38,6 +40,8 @@ Infection
 
 Harvest
 -------
+
+Estimated time needed: 30 mins
 
 **Materials**
 
