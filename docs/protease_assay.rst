@@ -1,9 +1,6 @@
 Protease assay
 ==============
 
-Protocol for protease assay
-
-
 .. toctree::
    :maxdepth: 1
 

@@ -15,10 +15,8 @@ Contents
    assays
    protease_assay
    protein
-   serial_dilution
    waste
    misc
-   where_to
    unit_conversion
 
 .. toctree:: 

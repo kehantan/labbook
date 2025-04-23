@@ -33,6 +33,6 @@
 
 #. Label.
 
-    Label example: :code:`5% Agarose, name initials, date prepared`
+    * Label example: :code:`5% Agarose, name initials, date prepared`
 
 #. Agarose can be stored on bench.
