@@ -82,7 +82,7 @@ We would need at least 3 L of buffer D for one purification, so prepare around 4
 Protein extraction
 ------------------
 
-* Estimated time needed: 2 hr
+Estimated time needed: 2 hr
 
 **Materials**
 
@@ -101,7 +101,7 @@ Protein extraction
 
 **Procedure**
 
-#. From the bacterial pellet from 500 mL culture. 
+#. Retrieve the bacteria pellet from -80 C. 
 #. Add 12.5 mL of lysis buffer into each centrifuge tube and resuspend the pellet completely. Mix with a vortex mixer. Use micropipette to break the pellet if necessary.  
 
     * It is normal for the suspension to become slimy when lysis buffer was added.

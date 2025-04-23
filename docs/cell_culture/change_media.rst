@@ -1,6 +1,8 @@
 Media change
 ============
 
+Estimated time needed: 15 mins
+
 We usually change media when: 
 
 * 24 hrs after reviving new cells, to remove excess DMSO
@@ -16,4 +18,4 @@ We usually change media when:
 
 #. Remove existing media from culture flask with serological pipette. 
 #. Add in sufficient amount of fresh media. 
-#. Place culture flask into incubator. 
+#. Incubate. 
