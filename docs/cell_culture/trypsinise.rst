@@ -5,7 +5,7 @@ Trypsinise
 
 **Objective:** To detach adherent cells from the culture flask. 
 
-.. image:: images/MTT\ assay.png
+.. image:: images/Trypsinise.png
     :width: 600
 
 **Materials**
