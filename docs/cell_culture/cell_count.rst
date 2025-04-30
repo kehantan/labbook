@@ -46,4 +46,4 @@ Compare the number of cells required we calculated before we begin the experimen
 
 **Dilution for cell count**
 
-Counting large number of cells under microscope can be tiring and straining for the eyes. Therefore, instead of using 1:1 trypan blue to cell suspension ratio, we can use 1:4 (adding 10 uL of cell suspension into 40 uL of trypan blue), making the dilution factor become 5. When calculating the number of cells in the cell suspension, use :math:`\times 5` for dilution factor in the formula. You can also use other suitable ratio, just remember to use the correct dilution factor in the formula.
+Counting large number of cells under microscope can be tiring and straining for the eyes. Therefore, instead of using 1:1 trypan blue to cell suspension ratio, we can use 1:4 (adding 10 uL of cell suspension into 40 uL of trypan blue), making the dilution factor become 5 to reduce the number of cells we need to count. When calculating the number of cells in the cell suspension, use :math:`\times 5` for dilution factor in the formula. You can also use other suitable ratio, just remember to use the correct dilution factor in the formula.
