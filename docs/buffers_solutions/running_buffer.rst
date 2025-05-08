@@ -11,6 +11,8 @@ Running buffer
 
 **Recipe**
 
+1x 
+
 +--------------------+-----------+
 |                    | 1 L       | 
 +========+===========+===========+
@@ -20,6 +22,23 @@ Running buffer
 +--------+-----------+-----------+
 | 0.1%   | SDS       | 1 g       |
 +--------+-----------+-----------+
+|Add water until     | 1 L       |
++--------------------+-----------+
+
+10x 
+
++--------------------+-----------+
+|                    | 1 L       | 
++========+===========+===========+
+| 25 mM  | Tris base | 30.28 g   |
++--------+-----------+-----------+
+| 190 mM | Glycine   | 142.633 g |
++--------+-----------+-----------+
+| 0.1%   | SDS       | 10 g      |
++--------+-----------+-----------+
+|Add water until     | 1 L       |
++--------------------+-----------+
+
 
 **Materials**
 
@@ -27,7 +46,7 @@ Running buffer
 * Glycine powder 
 * SDS powder 
 * Distilled water 
-* Empty bottle (1 L)
+* Schott bottle (1 L)
 
 **Procedure**
 
@@ -39,4 +58,5 @@ Running buffer
 
 #. Add 500 to 700 mL of distilled water into the empty bottle. 
 #. Stir. 
-#. Top up the solution to a final volume of 1 L. 
+#. Top up the solution to a final volume of 1 L.
+#. Store at 4 C.  

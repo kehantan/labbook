@@ -18,4 +18,4 @@ We usually change media when:
 
 #. Remove existing media from culture flask with serological pipette. 
 #. Add in sufficient amount of fresh media. 
-#. Incubate. 
+#. Incubate. 37 C, 5% CO2. 

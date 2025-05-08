@@ -1,9 +1,9 @@
-Before we begin cell culture
-============================
+Before begin cell culture
+=========================
 
 **Ground rules**
 
-Maintain good aseptic technique is important throughout the whole process of cell culture. The biosafety cabinet (BSC) is our main working bench for cell culture work. To reduce possibilities of contamination, adhere to aseptic techniques as much as possible. The regulars including always wear gloves and lab coat. 
+Maintain good aseptic technique is important throughout the whole process of cell culture. The biosafety cabinet (BSC) is our main working bench for cell culture work. To reduce possibilities of contamination, adhere to aseptic techniques as much as possible.
 
 Before putting anything into the BSC, we need to spray them with 70% ethanol (including our hands). If you remove your gloved hands from the BSC, touched something else outside the BSC, spray 70% ethanol on your gloved hands before putting it back into the BSC. 
 
@@ -54,9 +54,9 @@ About 30 mins before we start the actual cell culture procedure, you will need t
 #. Close the BSC window.
 #. Turn on the UV to sanitise the items.
 
-    Turn on UV for about 30 mins. You can reduce the time if you don't want to wait for that long. 
+    * Turn on UV for about 30 mins. You can reduce the time if you don't want to wait for that long. 
 
-You do not need to UV the reagents, instead pre-warm these reagents in 37 :math:`^{\circ}`\ C water bath before cell culture. 
+You do not need to UV the reagents, instead pre-warm these reagents in 37 C water bath before cell culture. 
 
 We would place the reagents into the BSC only after UV was done. Again, remember to keep good aseptic techniques, spray 70% ethanol on the reagent bottles/containers before placing them into the BSC. 
 

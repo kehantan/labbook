@@ -5,7 +5,6 @@ NaOH stock solution
 
 * To make NaOH stock solution at concentration of 5 M.
 * NaOH MW: 39.997 g/mol
-* This is mainly used for adjusting pH of Tris-HCl. 
 
 **Materials**
 
@@ -21,7 +20,7 @@ NaOH stock solution
 #. Top up the NaOH solution with distilled water up to 500 mL of final volume. 
 #. Label the bottle. 
 
-    Label example: :code:`NaOH 1M, name initials, date prepared`
+    * Label example: :code:`NaOH 5M, name initials, date prepared`
 
 #. Seal with parafilm and store at bench. 
 
