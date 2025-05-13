@@ -18,7 +18,7 @@ Agar plate culture
 
 **Materials** 
 
-* :ref:`LB agar plate <lb agar>`(Need to prepare at least 1 day before)
+* :ref:`LB agar plate <lb\ agar>`(Need to prepare at least 1 day before)
 * Transformed bacteria glycerol stock (*E.coli*, BL21 strain)
 * Inoculating loop
 * Lighter
@@ -96,3 +96,25 @@ Large scale culture
 
     * Bacterial pellet can be stored in -80 C for months wihtout problem. 
     * Wrap the centrifuge tube in plastic bag before storing in -80 C to prevent contamination of other samples.  
+
+Item checklist
+--------------
+
+* LB agar powder
+* LB broth powder
+* Petri dish
+* Schott bottle (500 mL)
+* Erlenmeyer flask (2 L)
+* Transformed bacteria glycerol stock (*E.coli*, BL21 strain)
+* Inoculating loop
+* Lighter
+* Bunsen burner
+* Centrifuge tube (15 mL, 50 mL)
+* Spectrophotometer (that can read cuvette)
+* 2 L orbital shaker
+* IPTG 
+* Refrigerated centrifuge 
+* Phosphate buffer saline 
+* Micropipette (1000 uL)
+* Micropipette tip (1000 uL)
+* Kanamycin 

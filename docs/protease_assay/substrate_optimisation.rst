@@ -13,9 +13,9 @@ Substrate optimisation
 
 **Procedure**
 
-    *Prepare working buffer solution*
+*Prepare working buffer solution*
 
-        Prepare working buffer solution (200 mM Tris-HCl, pH 8.0) from stock buffer solution (1 M Tris-HCl, pH 8.0)
+    Prepare working buffer solution (200 mM Tris-HCl, pH 8.0) from stock buffer solution (1 M Tris-HCl, pH 8.0)
 
     *Prepare substrate dilution*
 

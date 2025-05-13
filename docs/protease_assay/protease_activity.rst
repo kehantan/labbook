@@ -3,43 +3,35 @@ Protease activity assay
 
 **Objective:** To quantify the activity of the purified protease. 
 
-This step is required before we do protease inhibition assay with compounds.  
-
-Before we begin the procedure we need to 
-
-* find out the concentration of protease we purified, in uM. 
-* Prepare MCA stock solution.
-
-Usually MCA comes in powder form, stored in a brown coloured glass vial. 
-
-To prepare the MCA solution, just resuspend the MCA powder in DMSO. Amount of DMSO to add into the vial can refer to manufacturer manual that comes with the glass vial.  
-
-Then we need to do some calculations to know:
+We need to know:
 
 * the volume of protease stock needed to serial dilute into different concentrations and 
-* the volume of MCA solution to add to each well (final volume is 100 uL)
+* the volume of MCA solution to add to each well (final volume of each well is 40 uL for 384 well plate)
 
 **Requires** 
 
-* Stock buffer (Tris-HCl, pH 8.0, 1M)
+* Stock buffer (Tris-HCl, pH 8.5, 1M)
 * Purified protease with known concentrations 
-* MCA substrate
-* 96 well black plate 
+* MCA substrate stock solution (10 mM)
+* 384 well black plate 
 
 **Procedure**
 
-    *Prepare working buffer*
+*Prepare working buffer*
 
-        Dilute the stock Tris-HCl buffer (1M, pH 8.0) with distilled water to the concentration of working buffer (200 uM) 
+To prepare 200 mM from 1 M of Tris-HCl:
 
-#. Purified protease is stored in -80 C. Thaw before use.
+#. Add 200 uL of 1M Tris-HCl into 800 uL of distilled water. 
+#. Mix well. Vortex if necessary. 
+
+*Protease activity assay*
+
+#. Thaw the purified protease stored in -80 C. 
 #. Do a 1/2 fold serial dilution starting from maximum of 20 uM with working buffer. 
-#. In a 96 well black plate, add substrate into protease of different concentrations based on calculations. 
-#. Incubate. 37 C, 30 mins. 
+#. In a 384 well black plate, add calculated amount of protease.
+#. Add substrate into each well that have protease. 
+#. Incubate. 37 C, 120 mins. 
 #. Read plate at 350 nm excitation and 440 nm emission. 
-#. If the curve does not reach a plateau, incubate another 30 mins, then read the plate again. 
-
-    * but sometimes the curve does not reach plateau
 
 **Analysis**
 

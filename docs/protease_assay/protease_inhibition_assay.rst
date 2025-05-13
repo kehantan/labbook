@@ -13,7 +13,7 @@ Protease inhibition assay
 **Requires**
 
 * Stock Tris-HCl buffer (1M, pH 8.5)
-* Substrate (MCA)
+* MCA substrate stock solution (10 mM)
 * DMSO 
 * Microcentrifuge tube
 * 384 black well plate
@@ -21,23 +21,14 @@ Protease inhibition assay
 
 **Procedure**
 
-**Prepare working buffer**
+*Prepare working buffer*
 
-* Prepare working buffer from stock Tris-HCl buffer. Final concentration of working buffer, 200 mM, pH 8.5.   
+To prepare 200 mM from 1 M of Tris-HCl:
 
-#. Add 800 uL of distilled water into a microcentrifuge tube. 
-#. Add 200 uL of stock Tris-HCl buffer into the microcentrifuge tube. 
-#. Mix well and set a side for later use. 
+#. Add 200 uL of 1M Tris-HCl into 800 uL of distilled water. 
+#. Mix well. Vortex if necessary. 
 
-**Prepare substrate (MCA)**
-
-* Substrate comes in powder form, kept in a dark coloured vial.
-* This step can be skipped if the substrate was prepared beforehand.
-
-#. Add specified amount of DMSO into the substrate vial as per instruction on the vial's information sheet. 
-#. Aliquote the dissolved substrate into different PCR tube and store in -20 C. This is to minimise freeze-thaw cycle of the vial. 
-
-**Prepare working compound**
+*Prepare working compound*
 
 * Prepare working compound serial diluted to various concentration from compound stock solution, by using DMSO.
 * Stock compound concentration = 20 mg/mL
