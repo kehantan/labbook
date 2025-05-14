@@ -11,14 +11,12 @@ Protein expression
 #. Small scale culture 
 #. Large scale culture
 
-Each step requires 24 hrs/a day until we can proceed to next step. 
-
 Agar plate culture
 ------------------
 
 **Materials** 
 
-* :ref:`LB agar plate <lb agar>`(Need to prepare at least 1 day before)
+* :ref:`LB agar plate <lb agar plate>`(Need to prepare at least 1 day before)
 * Transformed bacteria glycerol stock (*E.coli*, BL21 strain)
 * Inoculating loop
 * Lighter
@@ -68,10 +66,10 @@ Large scale culture
 
 #. Add the small scale culture from 15 mL centrifuge tube culture into the 500 mL LB broth in the 2 L Erlenmeyer flask. 
 #. Shake. 1 to 3 hrs, 37 C, 180 rpm. 
+#. Check OD at 600 nm every 1 hour, target OD ~0.5-0.6. 
 
-    * Might need to extend the shaking if target OD is not reached. 
+    * Need to extend the shaking time if target OD is not reached.
 
-#. Check OD at 600 nm every 1 hour. 
 #. When OD is around 0.5 - 0.6, add 1 mL of IPTG stock solution (250 mM) to the LB broth culture.
 
     * IPTG final concentration in LB broth = 0.5 mM

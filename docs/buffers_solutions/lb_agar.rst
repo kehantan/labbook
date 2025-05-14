@@ -1,4 +1,4 @@
-.. _lb agar:
+.. _lb agar plate:
 
 LB agar
 =======

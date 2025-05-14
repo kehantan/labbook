@@ -31,7 +31,7 @@ Buffers
 
 **Buffer B**
 
-It's not strictly necessary, but it is best to prepare 2 buffer B: one for bench use, another to pre-cooled in cold room. 
+* It's not strictly necessary, but it is best to prepare 2 buffer B: one for bench use, another to pre-cooled in cold room. 
 
 +----------------------------+-------+----------+---------+
 |                            | Stock | 100 mL   | 60 mL   |     
@@ -47,7 +47,7 @@ It's not strictly necessary, but it is best to prepare 2 buffer B: one for bench
 
 **Buffer C**
 
-Buffer C need to be pre-cooled in cold room, we only use Buffer C in cold room. 
+* Buffer C need to be pre-cooled in cold room, we need Buffer C only in cold room. 
 
 +-------------------------------+-------+----------+----------+
 |                               | Stock | 100 mL   | 10 mL    |
@@ -65,7 +65,7 @@ Buffer C need to be pre-cooled in cold room, we only use Buffer C in cold room.
 
 **Buffer D** 
 
-We would need at least 3 L of buffer D for one purification, so prepare around 4 L of Buffer D. 
+* We would need at least 3 L of buffer D for one purification, so prepare 4 L of Buffer D. 
 
 +----------------------------+-------+---------+---------+
 |                            | Stock | 100 mL  | 4000 mL |
