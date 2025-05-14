@@ -72,7 +72,7 @@ We would need at least 3 L of buffer D for one purification, so prepare around 4
 +========+===================+=======+=========+=========+
 | 100 mM | Tris-HCl (pH 8.0) | 1 M   | 10 mL   | 400 mL  |
 +--------+-------------------+-------+---------+---------+
-| 300 mM | NaCL (MW 58.44)   |       | 1.753 g | 70.12 g |
+| 300 mM | NaCl (MW 58.44)   |       | 1.753 g | 70.12 g |
 +--------+-------------------+-------+---------+---------+
 | Top up with water up to            | 100 mL  | 4000 mL |     
 +------------------------------------+---------+---------+
@@ -247,3 +247,33 @@ Dialysis
 #. After 1 hr, change to fresh buffer D. Leave the set up overnight. 
 #. Collect the dialysised solution from cassette into multiple microcentrifuge tube. 
 #. Store the purified protein at -80 C. 
+
+Item checklist
+--------------
+
+* Tris-HCl powder (liquid can work too, but powder is preferred)
+* NaCl
+* Triton X-100 
+* PMSF
+* Lysozyme
+* Urea
+* Imidazole
+* Ice box
+* Ice 
+* Plastic bucket
+* Microcentrifuge tube (1.5 mL)
+* Centrifuge tube (15 mL, 50 mL)
+* Ni-NTA resin 
+* Rotator
+* Micropipette and tips (1000 uL)
+* Waste beaker
+* Paper towel
+* Plastic beaker (10 mL)
+* Thermo Fisher Scientific Slide-A-lyzer Dialysis Cassette, 3,500 MWCO
+* Beaker (1 L)
+* Magnetic stirrer
+* Retort stand
+* Syringe
+* Needle 
+* NaOH
+* Schott bottle

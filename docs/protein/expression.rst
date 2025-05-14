@@ -18,7 +18,7 @@ Agar plate culture
 
 **Materials** 
 
-* :ref:`LB agar plate <lb\ agar>`(Need to prepare at least 1 day before)
+* :ref:`LB agar plate <lb agar>`(Need to prepare at least 1 day before)
 * Transformed bacteria glycerol stock (*E.coli*, BL21 strain)
 * Inoculating loop
 * Lighter
@@ -40,7 +40,7 @@ Small scale culture
 * Plastic inoculation loop
 * Bunsen burner
 * Lighter 
-* :ref:`Small volume LB broth <lb_broth_small>` (Need to prepare at least 1 day before)
+* :ref:`Small volume LB broth <lb broth small>` (Need to prepare at least 1 day before)
 
 **Procedure** 
  
@@ -94,9 +94,8 @@ Large scale culture
 #. Label the centrifuge tube.
 #. Store pellet at -80 C.
 
-    * Bacterial pellet can be stored in -80 C for months wihtout problem. 
-    * Wrap the centrifuge tube in plastic bag before storing in -80 C to prevent contamination of other samples.  
-
+    * Bacterial pellet can be stored in -80 C for months without problem. 
+    
 Item checklist
 --------------
 
@@ -118,3 +117,4 @@ Item checklist
 * Micropipette (1000 uL)
 * Micropipette tip (1000 uL)
 * Kanamycin 
+* NaOH

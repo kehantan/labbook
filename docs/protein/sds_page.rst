@@ -285,3 +285,34 @@ Clean up
 * Running buffers can be pour back into a bottle and reuse, but I do not recommend using it more than 5 times. 
 * The buffer can be discard into the sink. 
 * Wash all apparatus and leave it to dry at the rack beside the sink.
+
+Item checklist
+--------------
+
+* 30% Acrylamide/bis (PAGE Pre-solution)
+* Tris-HCl powder
+* NaOH
+* SDS powder
+* APS powder
+* Distilled water
+* TEMED 
+* Mdicropipette and tips (1000 uL, 100 uL, 10 uL)
+* Beaker (25 mL)
+* Microcentrifuge tube (1.5 mL)
+* Waste beaker 
+* Power supply 
+* Buffer tank
+* SDS-PAGE Glass plate 
+* Glass plate clamp 
+* SDS-PAGE cassette 
+* Tris base powder
+* Glycine powder 
+* Coomassie blue powder
+* Methanol
+* Ethanol 
+* Acetic acid 
+* Distilled water or MilliQ water 
+* Measuring cylinder
+* Bottle (500 mL)
+* Filter (0.45 um)
+* Syringe 
