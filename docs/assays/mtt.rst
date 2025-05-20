@@ -128,23 +128,8 @@ Using
         C1V1 = C2V2
         300*10^4 cells/mL * V1 = 5*10^4 cells/mL * 5 mL
         V1 = 0.0833 mL (~83.3 uL) 
-
-
-    So, to know how much volume (in mL) of cell suspension we need to aspirate from the cell suspension in the 15 mL centrifuge tube. 
     
-    In this case, :code:`0.167 mL`. Convert to uL, then the volume we should take is :code:`167 uL`
-
-To calculate how much media we need, 
-
-    Assume we do 10 concentrations (supposedly 8, but we prepare 10 for some headroom), then use the formula given above:
-
-    .. code-block::
-        
-        Total media needed = 10 concentrations * 5 wells/concentration * 100 uL/well = 5,000 uL <-- This was also calculated before we begin the procedure
-
-To summarise, we need to put **167 uL of cell suspension** into **5,000 uL of complete DMEM**. 
-
-After all the calculations we can begin our cell seeding procedure. 
+In summary, we need to put **83.3 uL of cell suspension** into 4916.7 uL of media. But since the volume change is negligible, we would just round up to **5,000 uL** of media. 
 
 **Materials**
 
