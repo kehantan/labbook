@@ -15,7 +15,7 @@ Prepare gel
 * The protocol can be found in BIO-RAD's 'Handcasting Polyacrylamide Gels' documentation 
 * Depending on the number of gels to be run, the amount stated in the documentation can be halved. 
 
-**Requires**
+**Materials**
 
 * 30% Acrylamide/bis (PAGE Pre-solution)
 * 0.5 M Tris-HCl, pH 6.8
@@ -24,7 +24,8 @@ Prepare gel
 * :ref:`10% APS <aps>`
 * Distilled water
 * TEMED 
-* Micropipette and tips (1000 uL, 100 uL, 10 uL)
+* Micropipette (1000 uL, 100 uL, 10 uL)
+* Micropipette tips (1000 uL, 100 uL, 10 uL)
 * Small volume beaker (25 mL)
 * Microcentrifuge tube
 * Waste beaker 
@@ -42,7 +43,7 @@ Prepare gel
 Cast gel
 --------
 
-**Requires**
+**Materials**
 
 * Casting frame 
 * Casting stand
@@ -92,7 +93,7 @@ Cast gel
 Assemble setup
 --------------
 
-**Requires**
+**Materials**
 
 * Casted gel
 * Dummy plate
@@ -114,11 +115,12 @@ Assemble setup
 #. Fill the inner compartment of the cassete (the space between glass plates and dummy plate) with running buffer until the brim. Fill the buffer tank (outside of the cassette) with running buffer until the marker on the buffer tank. 
 
     * The marker on the buffer tank shows the buffer level for at least 2 plates. I usually just fill up to the '2 gel' marker even I am only running 1 gel.
+    * Buffer can be recover and reused, but not recommend to reuse for too many times. Recommend reuse 3-5 times only.  
 
 Prepare sample
 --------------
 
-**Requires**
+**Materials**
 
 * PCR tubes
 * Thermal cycler
@@ -148,10 +150,11 @@ Sample loading
 * Depends on the gel you casted (there are different thickness for the gels), the volume of the sample wells can varies. 
 * I usually just use 10 uL of the sample prepare on previouse steps. 
 
-**Requires**
+**Materials**
 
 * Ladder 
-* Micropipette and tips (10 uL)
+* Micropipette (10 uL)
+* Micropipette tips (10 uL)
 
 **Procedure**
 
@@ -161,7 +164,7 @@ Sample loading
 Running gel
 -----------
 
-**Requires**
+**Materialss**
 
 * Electrodes
 * Power supply unit 
@@ -184,7 +187,7 @@ Running gel
 Remove gel
 ----------
 
-**Requires**
+**Materials**
 
 * Small plastic container that can fit the gel
 * Squeeze bottle with distilled water
@@ -205,7 +208,7 @@ Remove gel
 Fixing
 ------
 
-**Requires**
+**Materials**
 
 * :ref:`Fixing solution <gel-fixing>`
 * Rocking platform 
@@ -219,7 +222,7 @@ Fixing
 Washing
 -------
 
-**Requires**
+**Materials**
 
 * :ref:`Gel-washing solution <gel-washing>`
 * Rocking platform 
@@ -234,7 +237,7 @@ Washing
 Staining
 --------
 
-**Requires**
+**Materials**
 
 * :ref:`Coomassie blue staining solution <coomassie>`
 * Rocking platform
@@ -249,7 +252,7 @@ Staining
 Destaining
 ----------
 
-**Requires**
+**Materials**
 
 * :ref:`Destaining solution <destaining>`
 * Kim wipes 
@@ -269,7 +272,7 @@ Storage
 * For long term storage, it is best to store the gel in gel-storing solution. 
 * It is normal for the edges of the gel to deform when it is dry. 
 
-**Requires**
+**Materials**
 
 * Gel-storage solution 
 * Plastic container 
@@ -316,3 +319,6 @@ Item checklist
 * Bottle (500 mL)
 * Filter (0.45 um)
 * Syringe 
+* Glycine
+* Tris-base
+* SDS

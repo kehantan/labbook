@@ -67,8 +67,6 @@ then:
 
 You will notice that even we wanted to test 8 different concentration, but the formula above state :code:`10 concentrations`. This is due to the inevitable deviations or minute errors during pipetting and handling of liquids. If we prepare just enough cell suspension for the exact number of concentrations we want, we might end up not having enough cells for the last few wells, so prepare a little extra amount for some headroom. Usually adding 3 to 5 concentrations extra into the calculation is sufficient.
 
-:math:`\text{Total cells needed} = 10\ \text{concentrations} \times 5\ \text{wells}/\text{concentration} \times 5,000\ \text{cells}/\text{well} = 250,000\ \text{cells}`
-
 Amount of media we need
 ~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -264,6 +262,33 @@ Read the absorbance with a plate reader.
     * There are different protocols that uses different wavelength, you may adjust according to literature. 
 
 #. After reading the absorbance, the plate can be disposed into the yellow bin in the lab. 
+
+
+Item checklist 
+--------------
+
+* Cells 
+* Culture flask
+* 96 well plate 
+* Media
+* Micropipette 
+* Micropipette tips 
+* Cell reservoir 
+* Cell counting chamber 
+* Click counter 
+* Multichannel pipette 
+* Waste beaker 
+* Trypan blue 
+* MTT reagent 
+* DMSO 
+* Well plate shaker 
+* Microplate reader 
+* Aluminium foil 
+* Microcentrifuge tube 
+* Serological pipette 
+* Pipette gun 
+* Phosphate buffer saline (PBS) 
+* Trypsin
 
 References
 ----------
