@@ -129,7 +129,7 @@ Using
         300*10^4 cells/mL * V1 = 5*10^4 cells/mL * 5 mL
         V1 = 0.0833 mL (~83.3 uL) 
     
-In summary, we need to put **83.3 uL of cell suspension** into 4916.7 uL of media. But since the volume change is negligible, we would just round up to **5,000 uL** of media. 
+In summary, we need to put **83.3 uL of cell suspension** into 4916.7 uL of media. But since the volume difference is negligible, we would just round up to **5,000 uL** of media. 
 
 **Materials**
 
@@ -146,17 +146,15 @@ In summary, we need to put **83.3 uL of cell suspension** into 4916.7 uL of medi
 #. Mix the cell suspension with either repeat pipetting or vortex. 
 #. Add appropriate amount of complete DMEM into the cell reservoir. 
 
-    * In this example, we should dispense 5,000 uL (5 mL) of complete DMEM into the cell resesrvoir.
+    * In this example, we should add 5,000 uL (5 mL) of complete DMEM into the cell resesrvoir.
 
 #. Take required volume of cell suspension and mix with complete DMEM in the cell reservoir.
 
-    * In this example, add 167 uL of cell suspension into the cell reservoir.
+    * In this example, add 83.3 uL of cell suspension into the cell reservoir.
 
 #. Mix the cells and media evenly by repeat pipetting using multichannel micropiptte. 
-#. Take 100 uL of cells and complete DMEM mixture from the cell reservoir with multichannel micropipette and add into 96 well plate. 
-#. Incubate the seeded 96 well plate for 24 hrs. 
-
-*Note:* Technically, 167 uL of cell suspension + 5,000 uL of complete DMEM = 5,167 uL. If we want to be absolute accurate we should be doing 167 uL cell suspension + 4,833 uL complete DMEM = 5,000 uL. But for convenience's sake, we would assume the small difference is negligible.
+#. Add 100 uL of cells and complete DMEM mixture from the cell reservoir into the 96 well plate with multichannel micropipette. 
+#. Incubate the seeded 96 well plate for 24 hrs at 37 C, 5% CO2. 
 
 .. _mtt-part2:
 
@@ -166,8 +164,8 @@ Part 2 - Treatment
 Estimated time needed: 1 hr
 
 * Treatment is where we treat our seeded cells with the compounds we wanted to test. 
-* Before treatment, calculate the concentration of compound we need. Usually we do serial dilution, but you can also do each concentration seperately if it is too confusing. There are serial dilution calculator online that can help us to calculate the dilution. Refer to :ref:`serial dilution <serial dilution>` section. 
-* Assume we seeded cells in 5 different wells for each concentration in the previous step, we would need enough volume of complete DMEM+compound. In this case, :math:`100 uL * 5 wells = 500 uL`, but again, to compansate for pipette error, we can prepare 700 uL, a 200 uL extra. This means after the serial dilution, we should have 700 uL of complete DMEM+compound, with final concentration the we wanted to test in each microcentrifuge tube. 
+* Before treatment, calculate the concentration of compound we need. Usually a serial dilution will do, but you can also do each concentration seperately if it is too confusing. There are serial dilution calculator online that can help us to calculate the dilution. Refer to :ref:`serial dilution <serial dilution>` section. 
+* Assume we seeded cells in 5 different wells for each concentration in the previous step, we would need enough volume of complete DMEM+compound. In this case, :code:`100 uL * 5 wells = 500 uL`, but again, to compansate for pipette error, we can prepare 600 uL, a 100 uL extra. This means after the serial dilution, we should have 600 uL of complete DMEM+compound, with final concentration the we wanted to test in each microcentrifuge tube. 
 
 **Materials**
 
@@ -199,39 +197,43 @@ Estimated time needed: 4 hrs
 * This procedure can be carried out either in the biosafety cabinet or at bench.
 * Remember to reduce as much light source as possible (i.e.: turn off lights in lab or in BSC) as MTT is light sensitive. 
 
-Add MTT
-~~~~~~~
-
 **Materials**
 
-* :ref:`MTT solution (5 mg/mL) <mtt stock>`
+* :ref:`MTT reagent (5 mg/mL) <mtt stock>`
 * DMSO 
 * Multichannel micropipette
 * Aluminium foil
+* Cell reservoir
+* Waste beaker 
+* Incubator 
+* Microplate reader 
+* Plate shaker 
+
+Add MTT
+~~~~~~~
 
 **Procedure**
 
-#. Take MTT solution from freezer and warm to room temperature in water bath or let it sit at bench before use. 
-#. Add 10 uL of MTT into each well.
+#. Take MTT reagent from freezer and warm to room temperature in water bath or let it sit at bench before use. 
+#. Add 10 uL of MTT reagent into each well.
 
-    * Do not need to remove media on this step.
-    * The MTT concentration we used in this lab is 5 mg/mL.
+    * **Do not** need to remove media on this step.
+    * The MTT reagent concentration is 5 mg/mL, final concentration of MTT reagent in each well is 0.5 mg/mL.
     * Other concentrations of MTT can be used, find out from the literature whichever concentration of MTT that suits your experiments. 
 
 #. Wrap well plates in aluminium foil to keep the MTT reagent from light. 
-#. Incubate. 37 C, 5% CO2, 3 hrs.
+#. Incubate. 37 C, 5% CO2, 1-4 hrs.
 
-    * There are no strict rules for how long the incubation period should be, you can try to optimise. 
-    * For my experiment, I use 3 hrs. Reduce the incubation time if you think 3 hrs is too long. But be consistant, if you decided to incubate for 2 hrs, then incubate 2 hrs everytime you do MTT assay.  
+    * There are no strict rules for how long the incubation period should be, you can try to optimise, but be consistant. If you decided to incubate for 2 hrs, then incubate 2 hrs everytime you do MTT assay.  
 
-#. After 3 hrs, remove the 96 well plate from incubator.
+#. After 1-4 hrs of incubation, remove the 96 well plate from incubator.
 
-    * You can observe the 96 well plate under microscope to see the formation of formazan crystals. 
+    * You can observe the 96 well plate under microscope with 10x magnification to observe the formation of formazan crystals. 
 
 #. Remove media along with remaining MTT solution with multichannel micropipette.  
 #. Add 100 uL of DMSO into each well with a multichannel micropipette. 
 
-    * You can use a reservoir for DMSO.  
+    * You can use a cell reservoir for DMSO.  
 
 #. Place 96 well plate on shaker and shake for 1 hr.
 
@@ -243,10 +245,6 @@ Read absorbance
 
 Read the absorbance with a plate reader. 
 
-**Materials**
-
-* Plate reader
-
 **Procedure**
 
 #. Read plate at 570 nm. 
@@ -254,7 +252,6 @@ Read the absorbance with a plate reader.
     * There are different protocols that uses different wavelength, you may adjust according to literature. 
 
 #. After reading the absorbance, the plate can be disposed into the yellow bin in the lab. 
-
 
 Item checklist 
 --------------
