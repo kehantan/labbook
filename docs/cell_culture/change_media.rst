@@ -13,6 +13,7 @@ We usually change media when:
 * Serological pipette 
 * Pipette gun 
 * Complete DMEM 
+* Waste beaker 
 
 **Procedure**
 

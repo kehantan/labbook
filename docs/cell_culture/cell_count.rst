@@ -36,7 +36,7 @@ This protocol is not a strict instruction, just some suggestions which can help 
 Calculations
 ------------
 
-The formula for calculating number of cells in 1 mL of cell suspension
+The formula for calculating number of cells in 1 mL of cell suspension:
 
 :math:`\frac{\text{sum of cells from 4 quadrant} \times 10^4 \times \text{Dilution factor}}{4} = X \text{cells}/mL`
 

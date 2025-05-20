@@ -16,10 +16,10 @@ Estimated time needed: 30 mins
 
 **Procedure**
 
-#. Warm complete DMEM in water bath to room temperature. 
-#. Add 5 mL of complete DMEM into a T25 culture flask.
+#. Pre-warm complete DMEM in water bath to 37 C. 
+#. Add 3-5 mL of complete DMEM into a T25 culture flask.
 #. Take out cryovial from -80 C or LN2 tank.
-#. Thaw the cryovial containing cells in 37 C water bath.
+#. Thaw the cryovial in 37 C water bath.
    
      * Thawing cells rapidly ensures high cell viability.
 
