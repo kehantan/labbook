@@ -112,14 +112,9 @@ Cell seeding
 
 :ref:`cell seeding for MTT assay <cell seed mtt>`
 
-After we know how much cells we have, we now need to know how much cells we need to take from the cell suspension and dilute in complete DMEM to make the final mixture we want. We need to:
+After we know how much cells we have, we now need to know how much cells we need to take from the cell suspension and dilute in complete DMEM to make the final mixture we want. 
 
-* Calculate the volume of cell suspension we need to take
-* Calculate the amount of complete DMEM we need 
-
-To calculate the volume of cell suspension we need to take, 
-
-Assume after counting the cells, we have: :code:`300*10^4 cells/mL`, but we only need :code:`5*10^4 cells/mL` <-- Remember we calculate this value before we begin the procedure 
+Assume after counting the cells, we have: :code:`300*10^4 cells/mL`, but we only need :code:`5*10^4 cells/mL` (Remember we calculate this value before we begin the procedure). 
 
 Using  
 
