@@ -80,6 +80,8 @@ We need 100 uL of complete DMEM in each well
 
 Similar to above, :code:`10 concentrations` were used in calculation instead of 8 for some extra headroom. 
 
+In total, we need 250,000 cells in 5 mL of media, which makes the concentration :code:`50,000 cells/mL (5*10^4 cells/mL)`.
+
 .. _mtt-part1:
 
 Part 1 - Trypsinise, cell count, seed cells
@@ -117,11 +119,16 @@ After we know how much cells we have, we now need to know how much cells we need
 
 To calculate the volume of cell suspension we need to take, 
 
-    Assume after counting the cells, we have: :math:`150 \times 10^4 \text{cells}/mL`
-    
-    But we only need **:math:`25 \times 10^4 \text{cells}`** <-- Remember we calculate this value before we begin the procedure 
+Assume after counting the cells, we have: :code:`300*10^4 cells/mL`, but we only need :code:`5*10^4 cells/mL` <-- Remember we calculate this value before we begin the procedure 
 
-    :math:`25 \times 10^4 \text{cells/mL}`
+Using  
+
+    .. code-block::
+
+        C1V1 = C2V2
+        300*10^4 cells/mL * V1 = 5*10^4 cells/mL * 5 mL
+        V1 = 0.0833 mL (~83.3 uL) 
+
 
     So, to know how much volume (in mL) of cell suspension we need to aspirate from the cell suspension in the 15 mL centrifuge tube. 
     
