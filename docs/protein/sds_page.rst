@@ -6,7 +6,7 @@ SDS-PAGE
 **Objective:** To run SDS-PAGE and check for fractions with target protein in protein purification process. 
 
 * A single run of SDS-PAGE will usually eats up a whole day. This does not include time required to prepare all the buffers and gathering all required reagent. So plan the experiment accordingly and prepare the buffers at least 1 day before the actual procedure. 
-* SDS-PAGE for this protocol uses about 12-15% gel. I personally sticks to 12%. 
+* https://wisc.pb.unizin.org/biochemistry551online/chapter/procedure-3/
 
 Prepare gel 
 -----------
@@ -53,7 +53,7 @@ Cast gel
 
 **Procedure**
 
-**Gel casting setup**
+*Gel casting setup*
 
 * Can refer to YouTube videos on how to setup the gel casting apparatus. 
 
@@ -68,7 +68,7 @@ Cast gel
 #. Remove the distilled water by decanting the water directly into the sink or using a filter paper. 
 #. After the distilled water was removed, the gel is ready to be cast. 
 
-**Casting resolving gel**
+*Casting resolving gel*
 
 #. Add APS and TEMED into the resolving gel mixture. Mix well by repeating pipette. 
 #. Add resolving gel mixture into the gap between the two glass plate.
@@ -81,7 +81,7 @@ Cast gel
 
 #. Remove the water on top of the resolving gel by decanting the water into sink or with a filter paper. 
 
-**Casting stacking gel**
+*Casting stacking gel*
 
 #. Add APS and TEMED into the stacking gel solution. Mix well by repeating pipette. 
 #. Add stacking gel mixture into the gap between the glass plates.

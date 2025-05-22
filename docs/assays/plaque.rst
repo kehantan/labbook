@@ -5,14 +5,14 @@ Plaque assay
 
 **Objective:** To quantify the virus titer in a virus sample. 
 
-* Cells used = Vero
-* This protocol demonstrate plaque assay in 6 well plate. For plaque in 12 well plate or well plate of other sizes, the procedures are the same, just the volume of liquids, number of cells, and volume of reagents used are different. 
+* Vero cells are used in this protocol, seeded in 6 well plate. For plaque assays in 12 well plate or well plate of other sizes, the procedures are the same, just the volume of liquids, number of cells, and volume of reagents used are different. 
+* This is just a guideline for plaque assay, adjust the parameters according to literature or should you see fit. 
 * Schematics of plaque assay can be found `here <https://docs.google.com/presentation/d/12KLdlDftXJ22pbflFmYKli6ztxyudEKHW6V2Ocw5Nhg/edit?usp=sharing>`_
 
 Trypsininse, cell count, seed cells
 ------------------------------------
 
-* Amount of cells harvested from a T75 flask with 80% confluency should be sufficient to seed at least 2 6 well plate with 600,000 cells in each well for next day virus infection.
+* Amount of cells harvested from a T75 flask with 80% confluency should be sufficient to seed at least two 6 well plate with 600,000 cells in each well for next day virus infection.
 * Number of cells to be seeded into each well depends on which day you want to do infection. 
  
     * Seed 6 well plate with 600,000 cells per well for next day infection 
@@ -22,24 +22,29 @@ Trypsininse, cell count, seed cells
 **Materials**
 
 * :ref:`10% DMEM <10 dmem>`
-* Trypsin/TrypLE
+* Trypsin
 * :ref:`Phosphate buffer saline (PBS) <pbs>`
 * Trypan blue 
-* Clear 6 well plate
-* Micropipette (10 uL to 1000 uL)
+* 6 well plate
+* Micropipette
 * Micropipette tips
 * Waste beaker 
-* Serological pipette (5 mL, 10 mL)
-* Counter
+* Serological pipette 
+* Click counter
 * Cell counting chamber  
+* Waste beaker 
+* Tube rack
 
 **Procedure**
+
+Trypsinise, count, seed 
+-----------------------
 
 #. Trypsinise the cells in culture flask. Refer to :ref:`trypsinise <My target>`.
 #. Count the number of cells. Refer to :ref:`cell count <cell count>`. 
 
     * Check if there are enough cells for seeding in a 6 well plate at 600,000 cells/well. 
-    * :code:`6 well * 600,000 cells = 3,600,000 cells needed`
+    * :code:`6 well * 600,000 cells = 3,600,000 cells needed`, so we will need at least 3,600,000 cells for seeding in a 6 well plate 
     
 #. Add 1500 uL of complete DMEM into each well in the 6 well plate.
 
@@ -74,7 +79,7 @@ Virus stock serial dilution
 
 * Before the actual infection procedure, prepare a serial diultion from the virus stock. 
 
-**10x Serial dilution of virus stock**
+*10x Serial dilution of virus stock*
 
 #. Label 5 microcentrifuge tube: D1 - :math:`10^{-1}`, D2 - :math:`10^{-2}`, D3 - :math:`10^{-3}`, D4 - :math:`10^{-4}`, D5 - :math:`10^{-5}`.
 #. Add 450 uL of 2% DMEM into each tube. 
@@ -111,11 +116,11 @@ Infection
     * Add 300 uL of PBS into each well from the wall of the wells. 
     * Tilt the plate side to side and back and forth a few times to properly wash the cells, make sure all the cells are covered by PBS. 
     * Remove PBS after washing cells. 
-    * There are actually no fixed amount to use, just need to cover the cell layer.
+    * There are actually no fixed amount to use, just need enough amount to cover the cell monolayer.
    
 #. Add 300 uL of 2% DMEM into NC well.
 #. Mix the virus by using a vortex or repeat pipetting. Transfer 300 uL of diluted virus from microcentrifuge tube into their corresponding wells (D1 into W1, D2 into W2...).
-#. Tilt the plate back and forth and side to side to make sure the virus covers all the cells in the 6 well plate. 
+#. After all the wells were infected, tilt the plate back and forth and side to side to make sure the virus covers all the cells in the 6 well plate. 
 #. Incubate. 37 C, 1 hour. Tilt the plate every 20 mins. 
 #. 10 minutes before the infection period ends, prepare agarose overlay. 
 
@@ -194,30 +199,24 @@ Fix and stain
 #. Remove PFA after 1 hr. 
 
     * Remove PFA from the edge of the well. 
-    * Using a micropipette, remove the PFA and discard into waste bottle labelled 'chemical waste'. 
-    * The chemical waste bottle is stored under the laminar flow cabinet in the lab.
-
+    
 #. Rinse the well plate in a bucket of water for a few times to wash away the agarose overlay. 
 
-    * Fill a bucket with tap water first, then immerse the well plate into the bucket for 1 second then take out the well plate. Repeate the process for 2 or 3 time.
-    * Decant the agarose directly into the yellow bin beside the sink if possible to prevent the sink from clogging up.   
-
-#. Decant excess water from 6 well plate by slightly tapping the well plate facing downwards against a paper towel. 
+    * Fill a bucket with tap water first, then immerse the whole well plate into the bucket for 1 second then take out the well plate. Repeate the process for 2 or 3 time.
+    
+#. Decant excess water from 6 well plate by slightly tapping the well plate facing downwards on a paper towel. 
 #. Add 300 uL of crystal violet into each well. 
 
-    * No fix volume required, just need to cover the cell layer. 300 uL should be sufficient. 
+    * No fix volume required, just need to cover the cell layer. 300 uL should be sufficient for one well. 
     * Tilt the plate to make sure crystal violet covers the all areas within the wells. 
 
 #. Tilt the plate for 1 to 2 mins. 
 #. Remove the crystal violet from the edge of the wells.
-
-    * Crystal violet was usually reused, so pipette the crystal violet in the wells back into the tube which stores crystal violet.
-
 #. Rinse the plate in a bucket of water for a few times to wash away excess crystal violet. 
 
     * Same procedure to how we rinse away the agarose overlay.  
 
-#. Decant excess water from the 6 well plate by slightly tapping the plate facing downwards against a paper towel. 
+#. Decant excess water from the 6 well plate by slightly tapping the plate facing downwards on a paper towel. 
 #. Leave the plate on bench to air dry. 
 
 .. _clean_up:

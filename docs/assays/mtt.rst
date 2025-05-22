@@ -63,8 +63,8 @@ In total, we need 250,000 cells in 5 mL of media, which makes the concentration 
 
 .. _mtt-part1:
 
-Part 1 - Trypsinise, cell count, seed cells
-------------------------------------------
+Part 1 - Trypsinise, count, seed
+--------------------------------
 
 Estimated time needed: 1 hr
 
@@ -180,8 +180,7 @@ Estimated time needed: 4 hrs
 * Microplate reader 
 * Plate shaker 
 
-Add MTT
-~~~~~~~
+*Add MTT*
 
 **Procedure**
 
@@ -211,8 +210,7 @@ Add MTT
     * This step is to solubilise the formazan crystal. 
     * You can reduce the time for shaking, as long as the crystals are completely dissolve in DMSO. You can observe the plate under microscope to check if there are undissolved crystals. 
 
-Read absorbance
-~~~~~~~~~~~~~~~
+*Read absorbance*
 
 Read the absorbance with a plate reader. 
 
