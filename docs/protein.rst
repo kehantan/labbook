@@ -3,6 +3,8 @@ Protein
 
 Protein stuff. 
 
+Revive bacteria from glycerol stock > small scale culture > large scale culture > Extraction and purification > SDS-PAGE > Dialysis
+
 .. toctree::
    :maxdepth: 1
 
