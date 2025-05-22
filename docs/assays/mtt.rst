@@ -18,7 +18,7 @@ Some important parameters to take note of including:
     * the amount of reagent to use (PBS, trypsin, DMEM, DMSO, MTT, etc.)
     * time of incubation (12, 24, 36, 48 hrs, etc.) 
 
-The whole MTT assay is a long procedure that can span multiple days. It takes 3 seperate days to complete 1 round of MTT. A typical MTT assay workflow would looks like this:
+The whole MTT assay is a long procedure that can took multiple days. It takes 3 seperate days to complete 1 round of MTT. A typical MTT assay workflow would looks like this:
 
     * :ref:`Part 1 <mtt-part1>` - trypsinise, count, and seed cells in a 96 well plate 
     * :ref:`Part 2 <mtt-part2>` - treatment, meaning treating the cells with compounds
@@ -29,10 +29,9 @@ After completing 1 part, you might have to wait around 24 hrs or more to proceed
 Planning
 --------
 
-Before we actually start the procedure, we need to calculate **number of cells** and **amount of media** we need to use for one 96 well plate, with each well contains 100 uL of mixture that contains complete DMEM + number of cells we want for each well.  
+Before we actually start the procedure, we need to calculate **number of cells needed** and **amount of media needed** to use for one 96 well plate, with each well contains 100 uL of mixture that contains complete DMEM + number of cells we want for each well. From the **number of cells needed** and **amount of media needed**, we can calculate the **concentration of cells needed**. 
 
-Number of cells we need
-~~~~~~~~~~~~~~~~~~~~~~~
+*Number of cells needed*
 
 Assume for 1 compound, we are testing 
 
@@ -48,8 +47,7 @@ then:
 
 You will notice that even we wanted to test 8 different concentration, but the formula above state :code:`10 concentrations`. This is due to the inevitable deviations or minute errors during pipetting and handling of liquids. If we prepare just enough cell suspension for the exact number of concentrations we want, we might end up not having enough cells for the last few wells, so prepare a little extra amount for some headroom. Usually adding 3 to 5 concentrations extra into the calculation is sufficient.
 
-Amount of media we need
-~~~~~~~~~~~~~~~~~~~~~~~
+*Amount of media needed*
 
 Now we need to calculate how much media we need. The concept is similar to above section
 
@@ -70,16 +68,14 @@ Part 1 - Trypsinise, cell count, seed cells
 
 Estimated time needed: 1 hr
 
-Trypsinise
-~~~~~~~~~~
+*Trypsinise*
 
 First step is to detach the cells from the culture flask. Refer to :ref:`trypsinise <My target>`.
 
 .. image:: images/Trypsinise.png
     :width: 600
 
-Cell counting
-~~~~~~~~~~~~~
+*Cell counting*
 
 We need to know the number of cells since we want to seed a specific number of cells into each well. Refer to :ref:`cell count <cell count>`.  
 
@@ -88,8 +84,7 @@ We need to know the number of cells since we want to seed a specific number of c
 
 After counting the cells, we should get value of :code:`X cells/mL`. Compare the counted cell number before we begin the experiment and the calculated cells number. We should have sufficient cells for seeding. 
 
-Cell seeding
-~~~~~~~~~~~~
+*Cell seeding*
 
 :ref:`cell seeding for MTT assay <cell seed mtt>`
 
