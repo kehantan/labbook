@@ -5,7 +5,7 @@ Maintain good aseptic technique is important throughout the whole process of cel
 
 Before putting anything into the BSC, we need to spray them with 70% ethanol (including our hands). If you remove your gloved hands from the BSC, touched something else outside the BSC, spray 70% ethanol on your gloved hands before putting it back into the BSC. 
 
-**Common items for cell culture**
+*Common items for cell culture*
 
 * Micropipette
 * Micropipette tips
@@ -25,7 +25,7 @@ Before putting anything into the BSC, we need to spray them with 70% ethanol (in
 
 This is a non exhaustive list of common items needed for cell culture, it is a good practice to gather the items you need for your procedure before you start your work. 
 
-**Common reagents for cell culture** 
+*Common reagents for cell culture*
 
 * Media 
 * Trypsin 
@@ -34,7 +34,7 @@ This is a non exhaustive list of common items needed for cell culture, it is a g
 
 This is also a non exhaustive list of common reagents used for cell culture. Reagents like complete DMEM and Trypsin are stored in the fridge, either leave the reagents on the bench or warm them in water bath. Usually it takes 5 to 10 mins to completely warm the reagents. Wipe the reagent container dry if you warm them in water bath, the water from water bath is a very common source of contamination. Trypan blue and PBS are usually stored at the bench, so no warming required.
 
-**Preparation for cell culture work**
+*Preparation for cell culture work*
 
 About 30 mins before we start the actual cell culture procedure, you will need to do some preparations
 
@@ -62,4 +62,4 @@ You might run into certain circumstances where
 
 * You might have seen different approach of aseptic techniques from different soures like the internet, forum, or you might learn the aseptic techniques from somewhere else. You can adopt them as you see fit. 
 
-*REMEMBER*: This is a general practice/rules/guidelines/protocols that we commonly use in our lab, the goal is to reduce the chances of contamination as much as possible. No one will punish you if you do not follow the rules strictly in exchange for convenience. However, you are advised to adhere to these practice **WHENEVER POSSIBLE**. Whatever you do in the lab, use your own judgement, common sense, and logic. If unsure, don't hesitate to discuss with lab mates or supervisors, or even ask them for help. 
+*REMEMBER*: This is a general practice/rules/guidelines/protocols that we commonly use in our lab, the goal is to lower the chances of contamination as much as possible. No one will punish you if you do not follow the rules strictly in exchange for convenience. However, you are advised to adhere to these practice **WHENEVER POSSIBLE**. Whatever you do in the lab, use your own judgement, common sense, and logic. If unsure, don't hesitate to discuss with lab mates or supervisors, or even ask them for help. 

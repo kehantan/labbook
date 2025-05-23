@@ -1,4 +1,4 @@
-.. _lb agar plate:
+.. _lb agar:
 
 LB agar
 =======
@@ -19,7 +19,7 @@ LB agar
 * Autoclave
 * :ref:`Kanamycin (30 mg/mL) <kanamycin>` 
 * Bunsen burner
-* Lighter
+* Lighter 
 * Measuring cylinder
 
 **Procedure**

@@ -3,10 +3,8 @@ Standard passaging (subculture)
 
 **Objective:** Maintain cells in incubator.  
 
-* This protocol uses Vero cells as an example.
 * The general protocol for cell culture can be found in :footcite:t:`phelan2007techniques`. 
 * Protocol for maintenance of Vero cells specifically can be found in :footcite:t:`ammerman2008growth`. 
-* In our lab, we usually maintain the passage of cells between 15 to 35. 
 
 **Materials**
 
@@ -24,15 +22,15 @@ Standard passaging (subculture)
 * Pipette gun 
 * Waste beaker 
 * Serological pipette 
-* Rack 
+* Tube rack 
 
 **Procedure**
 
-**Trypsinise** 
+*Trypsinise*
 
 Refer to :ref:`trypsinise <My target>`
 
-**Cell counting**
+*Cell counting*
 
 Refer to :ref:`cell count <cell count>` 
 
@@ -43,9 +41,9 @@ Cell counting is optional if you are just subculturing cells. For subculture, yo
 
     * Example: You have 1 mL of cell suspension after trypsinisation. To split 1:3, put around 300 uL of cell suspension into new culture flask with complete DMEM. You can also use other ratio like 1:5 or 1:10 split. To get the correct confluency using splitting by ratio method requires some trial and error and some experience. 
 
-**Cell seeding**
+*Cell seeding*
 
-#. Add appropriate amount of complete DMEM into new culturing flask. T25 = 5 mL, T75 = 9 mL. 
+#. Add sufficient amount of complete DMEM into new culturing flask. T25 ~3-5 mL, T75 ~8-10 mL. 
 #. Seed cells onto a new flask at the desired cell density.
 
     * If you want to seed a specific number of cells, you will have to do cell count beforehand. If you wanted to split by ratio, just transfer the amount of cell suspension based on the split ratio into the new flask. 

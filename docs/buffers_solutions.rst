@@ -25,10 +25,10 @@ Recipes for various buffers and solutions.
    buffers_solutions/mtt_stock
    buffers_solutions/naoh_stock
    buffers_solutions/pfa
+   buffers_solutions/phosphate_buffer_saline
    buffers_solutions/pmsf
    buffers_solutions/running_buffer
    buffers_solutions/sds
    buffers_solutions/triton
    buffers_solutions/trypan_blue
-   buffers_solutions/phosphate_buffer_saline
    buffers_solutions/tris-hcl_stock

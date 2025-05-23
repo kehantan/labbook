@@ -5,7 +5,7 @@ Tris-HCl stock solution
 
 **Objective:** To prepare Tris-HCL stock solution. 
 
-* This protocol shows how to prepare Tris-HCl stock solution at concentration of 1 M with pH 8.5.
+* Tris-HCl stock solution at concentration of 1 M, pH 8.5.
 * Tris-HCl MW: 157.6 g/mol 
 
 **Materials**
@@ -31,6 +31,4 @@ Tris-HCl stock solution
 
 #. Seal the bottle with parafilm and store in 4 C. 
 
-**Note:**
-
-Vacuum filter is a faster way to sterilise the buffer. Based on google search, there are no problem autoclaving Tris-HCl solution.
+**Note:** Vacuum filter is a faster way to sterilise the buffer. Based on google search, there are no problem autoclaving Tris-HCl solution.
