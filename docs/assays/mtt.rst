@@ -20,9 +20,9 @@ Some important parameters to take note of including:
 
 The whole MTT assay is a long procedure that can took multiple days. It takes 3 seperate days to complete 1 round of MTT. A typical MTT assay workflow would looks like this:
 
-    * :ref:`Part 1 <mtt-part1>` - trypsinise, count, and seed cells in a 96 well plate 
-    * :ref:`Part 2 <mtt-part2>` - treatment, meaning treating the cells with compounds
-    * :ref:`Part 3 <mtt-part3>` - adding the MTT reagent to the well plates and read the absorbance
+    * :ref:`Trypsinise, count, and seed cells in a 96 well plate <mtt-part1>` - trypsinise, count, and seed cells in a 96 well plate 
+    * :ref:`Treatment, treating cells with compounds <mtt-part2>`
+    * :ref:`Adding MTT reagent to the well plates and read absorbance <mtt-part3>` 
 
 After completing 1 part, you might have to wait around 24 hrs or more to proceed to the next part. With this information you can plan your experiments accordingly (maybe you want to avoid coming on weekends, public holidays, etc.). 
 
@@ -63,8 +63,8 @@ In total, we need 250,000 cells in 5 mL of media, which makes the concentration 
 
 .. _mtt-part1:
 
-Part 1 - Trypsinise, count, seed
---------------------------------
+Trypsinise, count, seed
+-----------------------
 
 Estimated time needed: 1 hr
 
@@ -129,8 +129,8 @@ In summary, we need to put **83.3 uL of cell suspension** into 4916.7 uL of medi
 
 .. _mtt-part2:
 
-Part 2 - Treatment
------------------
+Treatment
+---------
 
 Estimated time needed: 1 hr
 
@@ -160,8 +160,8 @@ Estimated time needed: 1 hr
 
 .. _mtt-part3:
 
-Part 3 - Add MTT, read absorbance
---------------------------------
+Add MTT, read absorbance
+------------------------
 
 Estimated time needed: 4 hrs 
 
