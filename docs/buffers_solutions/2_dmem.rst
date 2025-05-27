@@ -36,7 +36,7 @@
 #. Mix well. 
 #. Label the centrifuge tube.
 
-   Label example: :code:`2% DMEM, name initials, date prepared`
+   * Label example: :code:`2% DMEM, name initials, date prepared`
 
 #. Seal with parafilm and store in fridge (4 C).
 
