@@ -16,7 +16,7 @@ Agar plate culture
 
 **Materials** 
 
-* :ref:`LB agar plate <lb-agar-plate>`(Need to prepare at least 1 day before)
+* :ref:`LB agar plate <lb-agar-plate>` (Need to prepare at least 1 day before)
 * Transformed bacteria glycerol stock (*E.coli*, BL21 strain)
 * Inoculating loop 
 * Lighter
