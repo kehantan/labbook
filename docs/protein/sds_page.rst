@@ -208,6 +208,8 @@ Remove gel
 Fixing
 ------
 
+* Protocol for Coomassie staining of SDS-PAGE can be found `here <https://www.aatbio.com/resources/application-notes/protocol-for-coomassie-staining>`_.
+
 **Materials**
 
 * :ref:`Fixing solution <gel-fixing>`
