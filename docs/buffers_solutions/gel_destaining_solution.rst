@@ -5,10 +5,7 @@ Gel-destaining solution
 
 **Objective:** To prepare destaining solution for SDS PAGE. 
 
-* Final concentration of destaining solution:
-
-    * 50% (v/v) methanol 
-    * 10% (v/v) acetic acid
+* The final concentrations are 50% v/v methanol in water with 10% (v/v) acetic acid.
 
 **Materials**
 

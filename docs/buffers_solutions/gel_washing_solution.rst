@@ -5,6 +5,8 @@ Gel-washing solution
 
 **Objective:** To prepare washing solution for SDS-PAGE.
 
+* The final concentrations are 50% (v/v) of methanol in water with 10% (v/v) acetic acid
+
 **Materials**
 
 * Methanol 

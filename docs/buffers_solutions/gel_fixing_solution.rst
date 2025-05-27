@@ -5,7 +5,9 @@ Gel-fixing solution
 
 **Objective:** To prepare fixing solution for SDS-PAGE.
 
-**Mateirals**
+* The final concentrations are 50% (v/v) ethanol in water with 10% (v/v) acetic acid.
+
+**Materials**
 
 * Ethanol, 95% 
 * MilliQ water or distilled water  

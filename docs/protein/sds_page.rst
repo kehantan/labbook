@@ -270,11 +270,11 @@ Storage
 -------
 
 * For long term storage, it is best to store the gel in gel-storing solution. 
-* It is normal for the edges of the gel to deform when it is dry. 
+* It is normal for the edges of the gel to deformed when it dries out. 
 
 **Materials**
 
-* Gel-storage solution 
+* :ref:`Gel-storage solution <gel-storage>`
 * Plastic container 
 
 **Procedure**

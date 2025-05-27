@@ -131,7 +131,7 @@ Protein purification
 
 #. Mix the Ni-NTA solution well before use. 
 
-    * Ni-NTA would form a thick gel-like layer at the bottom of the container if left standing.
+    * Ni-NTA would form a thick gel-like layer at the bottom of the container if left standing for some time.
     * Invert the container multiple times to resuspend the gel-like substance completely into the solution. Make sure no blue coloured gel like substance at the bottom of the bottle. 
 
 #. Add 2.5 mL of Ni-NTA resin into 50 mL centrifuge tube. 
@@ -184,8 +184,7 @@ Protein purification
 
     * Collect 100 uL of supernatant for SDS-PAGE (**sample #5**)
 
-#. Transfer Ni-NTA resin to column using 10 mL of Buffer B. 
-#. Collect flow through. 
+#. Transfer Ni-NTA resin to column using 10 mL of Buffer B and collect the elution. 
 
     * Collect 100 uL for SDS-PAGE (**sample #6**) 
 

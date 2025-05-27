@@ -3,9 +3,10 @@
 Coomassie staining solution
 ===========================
 
-**Objective:** To prepare 0.1% (w/v) Coomassie staining solution for SDS PAGE. 
+**Objective:** To prepare Coomassie staining solution for SDS PAGE. 
 
-* This protocol prepares 400 mL of Coomassie staining solution. 
+* This protocol prepares 400 mL of Coomassie staining solution.
+* The final concentration is 0.1% (w/v) Coomassie blue, 20% (v/v) methanol, and 10% (v/v) acetic acid. 
 
 **Materials**
 

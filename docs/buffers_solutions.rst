@@ -16,6 +16,7 @@ Recipes for various buffers and solutions.
    buffers_solutions/gel_fixing_solution
    buffers_solutions/gel_washing_solution
    buffers_solutions/gel_destaining_solution
+   buffers_solutions/gel_storage_solution
    buffers_solutions/iptg
    buffers_solutions/kanamycin 
    buffers_solutions/lb_agar
