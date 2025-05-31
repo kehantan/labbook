@@ -5,8 +5,6 @@ Cell count
 
 **Objective:** To get an estimation of how many cells we had collected from a culture flask. 
 
-This protocol is not a strict instruction, just some suggestions which can help ease your workflow. You can of course, adjust the parameters (volume of cell suspension, dilution factor, etc.) according to your needs. 
-
 **Materials**
 
 * Counting chamber
@@ -18,15 +16,15 @@ This protocol is not a strict instruction, just some suggestions which can help 
 
 **Procedure**
 
-#. Before cell counting, you need to trypsinise your cells from the culture flask. Refer to :ref:`trypsinise <My target>`.
+#. Before cell counting, trypsinise the cells from the culture flask. Refer to :ref:`trypsinise <My target>`.
 #. Add 10 uL of trypan blue into one well of the 96 well plate.
 #. Add 10 uL of cell suspension obtained from trypsinisation to the same well that have trypan blue. Mix by repeat pipetting. 
 
-    * This example uses 1:1 ratio of cell suspension (10 uL) vs trypan blue (10 uL) for dilution. You can use other dilution factor like 1:4, 1:9, etc.
+    * This example uses 1:1 ratio of cell suspension (10 uL) vs trypan blue (10 uL) for dilution. You can use other dilution factors like 1:4, 1:9, etc., just remember to also change the dilution factor during the calculation. 
 
-#. Take 10 uL of the trypan blue and cell mixture and dispense into the counting chamber.
+#. Take 10 uL of the trypan blue and cell mixture and add to the counting chamber.
 
-    * A counting chamber set up typically consist of a counting chamber with a glass cover slip on top. Dispense the trypan blue + cell mixture from the edge of cover slip. The capillary action will spread the mixture evenly across the counting area. 
+    * A counting chamber set up typically consist of a counting chamber with a glass cover slip on top. Add the trypan blue + cell mixture from the edge of cover slip. The capillary action will spread the mixture evenly across the counting area. 
 
 #. Count the cells using microscope. 
 
@@ -42,7 +40,7 @@ The formula for calculating number of cells in 1 mL of cell suspension:
 
 We would get value of :code:`X cells/mL`. 
 
-Compare the number of cells required we calculated before we begin the experiment and the number of cells in 1 mL cell suspension we just calculated to make sure we have sufficient cells for seeding. In case there are not sufficient cells for all the experiments, can consider lowering the number of cells to seed, or reduce the number of plates to seed. 
+Compare the number of cells required we calculated before we begin the experiment and the number of cells in 1 mL cell suspension we just calculated to make sure we have sufficient cells for seeding. In case there are not sufficient cells for all the experiments, may consider lowering the number of cells to seed, or reduce the number of plates to seed. 
 
 **Dilution for cell count**
 

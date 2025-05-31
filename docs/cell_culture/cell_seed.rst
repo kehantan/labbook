@@ -3,17 +3,15 @@ Cell seeding
 
 **Objective:** Seed cells for further experiments.
 
-Cell seeding simply means placing the cell into the container we want the cells to grow (well plate, culture flask, etc.) for further experiments or maintaining the cell lines. 
-
 The number of cells to seed depends on several factors: 
 
-* the container we wanted to seed (T25, T75, 96 well plate, etc.)
+* the container to seed (T25, 96 well plate, etc.)
 * the type of experiments we wanted to conduct (MTT, plaque assay, etc.)
 * the day we wanted to conduct the experiment from the day we seed the cells. 
 
     Example: Due to scheduling reasons, we might want to seed the cells on Monday, but we only want to conduct the experiment on the cells on Wednesday. Although I would suggest to always seed the cells one day before your actual experiments whenever possible. 
 
-**Some cell seeding values we used in our lab for Vero cells**
+*Some cell seeding values we used in our lab for Vero cells*
 
 For MTT assay:
 

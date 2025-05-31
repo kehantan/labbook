@@ -20,11 +20,9 @@ Some important parameters to take note of including:
 
 The whole MTT assay is a long procedure that can took multiple days. It takes 3 seperate days to complete 1 round of MTT. A typical MTT assay workflow would looks like this:
 
-    * :ref:`Trypsinise, count, and seed cells in a 96 well plate <mtt-part1>` - trypsinise, count, and seed cells in a 96 well plate 
+    * :ref:`Trypsinise, count, and seed cells in a 96 well plate <mtt-part1>` 
     * :ref:`Treatment, treating cells with compounds <mtt-part2>`
     * :ref:`Adding MTT reagent to the well plates and read absorbance <mtt-part3>` 
-
-After completing 1 part, you might have to wait around 24 hrs or more to proceed to the next part. With this information you can plan your experiments accordingly (maybe you want to avoid coming on weekends, public holidays, etc.). 
 
 Planning
 --------
@@ -45,13 +43,11 @@ then:
 
         Total cells needed = 10 concentrations * 5 wells/concentration * 5,000 cells/well = 250,000 cells (25*10^4 cells)
 
-You will notice that even we wanted to test 8 different concentration, but the formula above state :code:`10 concentrations`. This is due to the inevitable deviations or minute errors during pipetting and handling of liquids. If we prepare just enough cell suspension for the exact number of concentrations we want, we might end up not having enough cells for the last few wells, so prepare a little extra amount for some headroom. Usually adding 3 to 5 concentrations extra into the calculation is sufficient.
+Take note that even we wanted to test 8 different concentration, but the formula above state :code:`10 concentrations`. This is due to the inevitable deviations or minute errors during pipetting and handling of liquids. If we prepare just enough cell suspension for the exact number of concentrations we want, we might end up not having enough cells for the last few wells, so prepare a little extra amount for some headroom. Usually adding 3 to 5 concentrations extra into the calculation is sufficient.
 
 *Amount of media needed*
 
-Now we need to calculate how much media we need. The concept is similar to above section
-
-We need 100 uL of complete DMEM in each well
+Now we need to calculate how much media we need. We would need 100 uL of media in each well. The concept is similar to above section
 
     .. code-block:: 
     
@@ -59,7 +55,7 @@ We need 100 uL of complete DMEM in each well
 
 Similar to above, :code:`10 concentrations` were used in calculation instead of 8 for some extra headroom. 
 
-In total, we need 250,000 cells in 5 mL of media, which makes the concentration :code:`50,000 cells/mL (5*10^4 cells/mL)`.
+In total, we need 250,000 cells in 5 mL of media, which makes the concentration :code:`50,000 cells/mL`, or equivalent to :code:`(5*10^4 cells/mL)`.
 
 .. _mtt-part1:
 
@@ -88,11 +84,11 @@ After counting the cells, we should get value of :code:`X cells/mL`. Compare the
 
 :ref:`cell seeding for MTT assay <cell seed mtt>`
 
-After we know how much cells we have, we now need to know how much cells we need to take from the cell suspension and dilute in complete DMEM to make the final mixture we want. 
+After we know how much cells we have, we now need to know how much cells we need to take from the cell suspension and dilute in media to make the mixture with the final concentration we want. 
 
 Assume after counting the cells, we have: :code:`300*10^4 cells/mL`, but we only need :code:`5*10^4 cells/mL` (Remember we calculate this value before we begin the procedure). 
 
-Using  
+Using formula
 
     .. code-block::
 
@@ -100,7 +96,7 @@ Using
         300*10^4 cells/mL * V1 = 5*10^4 cells/mL * 5 mL
         V1 = 0.0833 mL (~83.3 uL) 
     
-In summary, we need to put **83.3 uL of cell suspension** into 4916.7 uL of media. But since the volume difference is negligible, we would just round up to **5,000 uL** of media. 
+In summary, we need to put **83.3 uL of cell suspension** into 4916.7 uL of media. But since the volume difference is negligible, we could just round up to **5,000 uL** of media. 
 
 **Materials**
 
@@ -115,16 +111,16 @@ In summary, we need to put **83.3 uL of cell suspension** into 4916.7 uL of medi
 **Procedure**
 
 #. Mix the cell suspension with either repeat pipetting or vortex. 
-#. Add appropriate amount of complete DMEM into the cell reservoir. 
+#. Add appropriate amount of media into the cell reservoir. 
 
-    * In this example, we should add 5,000 uL (5 mL) of complete DMEM into the cell resesrvoir.
+    * In this example, we should add 5,000 uL (5 mL) of media into the cell resesrvoir.
 
-#. Take required volume of cell suspension and mix with complete DMEM in the cell reservoir.
+#. Take required volume of cell suspension and mix with mesdia in the cell reservoir.
 
     * In this example, add 83.3 uL of cell suspension into the cell reservoir.
 
 #. Mix the cells and media evenly by repeat pipetting using multichannel micropiptte. 
-#. Add 100 uL of cells and complete DMEM mixture from the cell reservoir into the 96 well plate with multichannel micropipette. 
+#. Add 100 uL of cells and media mixture from the cell reservoir into the 96 well plate with multichannel micropipette. 
 #. Incubate the seeded 96 well plate for 24 hrs at 37 C, 5% CO2. 
 
 .. _mtt-part2:
@@ -135,7 +131,7 @@ Treatment
 Estimated time needed: 1 hr
 
 * Treatment is where we treat our seeded cells with the compounds we wanted to test. 
-* Before treatment, calculate the concentration of compound we need. Usually a serial dilution will do, but you can also do each concentration seperately if it is too confusing. There are serial dilution calculator online that can help us to calculate the dilution. Refer to :ref:`serial dilution <serial dilution>` section. 
+* Before treatment, calculate the concentration of compound we need. Usually a serial dilution will do. There are serial dilution calculator online that can help us to calculate the dilution. Refer to :ref:`serial dilution <serial dilution>` section. 
 * Assume we seeded cells in 5 different wells for each concentration in the previous step, we would need enough volume of complete DMEM+compound. In this case, :code:`100 uL * 5 wells = 500 uL`, but again, to compansate for pipette error, we can prepare 600 uL, a 100 uL extra. This means after the serial dilution, we should have 600 uL of complete DMEM+compound, with final concentration the we wanted to test in each microcentrifuge tube. 
 
 **Materials**
