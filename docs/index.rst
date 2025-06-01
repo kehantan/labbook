@@ -18,6 +18,7 @@ Contents
    waste
    misc
    unit_conversion
+   serial_dilution
 
 .. toctree:: 
    :maxdepth: 1
