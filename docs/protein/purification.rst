@@ -119,11 +119,11 @@ Estimated time needed: 2 hr
     * Sonicator settings in FOP: Amp 35% (Max amp for probe is 40%, over 40% can risk breaking the probe), 2 sec on, 0.5 sec off, for 1-2 mins, on ice. 
     * Sonicate until the suspension form a layer of froth. If froth does not form, repeat the sets until the suspension froth. Wait 2-5 mins between sets to cool the suspension down, as high heat output from sonication may denature the proteins.  
 
-.. image:: images/sonicator_setup.png
-    :width: 400
-
 #. Transfer the homogenised suspension into a new 50 mL centrifuge tube. 
 #. Centrifuge. 8000 rpm, 4 C, 15 mins.  
+
+.. image:: images/sonicator_setup.png
+    :width: 400
 
 Protein purification
 --------------------
