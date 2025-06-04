@@ -122,11 +122,10 @@ Estimated time needed: 2 hr
 #. Transfer the homogenised suspension into a new 50 mL centrifuge tube. 
 #. Centrifuge. 8000 rpm, 4 C, 15 mins.  
 
+*Sonication setup*
+
 .. image:: images/sonicator_setup.png
     :width: 400
-
-Protein purification
---------------------
 
 .. _resin_prep:
 
@@ -148,7 +147,8 @@ Protein purification
 #. Remove supernatant. 
 #. Keep the 50 mL centrifuge with Ni-NTA in ice until later use. 
 
-*Protein purification from pellet (after lysis)*
+Protein purification (after lysis)
+----------------------------------
 
 #. Remove supernatant from the centrifuged tube.
 
