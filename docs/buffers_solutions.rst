@@ -21,7 +21,6 @@ Recipes for various buffers and solutions.
    buffers_solutions/kanamycin 
    buffers_solutions/lb_agar
    buffers_solutions/lb_broth
-   buffers_solutions/lb_broth_small
    buffers_solutions/lysozyme
    buffers_solutions/mtt_stock
    buffers_solutions/naoh_stock
