@@ -54,7 +54,7 @@ Large scale culture
 
 * Spectrophotometer
 * :ref:`LB broth in 2 L Erlenmeyer flask <lb broth large>` (Need to prepare at least 1 day before)
-* 2 L orbital shaker
+* Incubator shaker (2L)
 * :ref:`IPTG stock solution (250 mM)<iptg>`
 * Refrigerated centrifuge 
 * PBS 

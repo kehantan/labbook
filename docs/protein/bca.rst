@@ -13,9 +13,7 @@ Bicinchoninic acid assay (BCA)
 * 96 well plate
 * Distilled water 
 * BCA kit 
-* Microplate reader that can read absorbance
-
-    Book in Bilik alat 1. 
+* Microplate reader
 
 **Procedure**
 
@@ -23,7 +21,7 @@ Bicinchoninic acid assay (BCA)
 
 Before we run the experiment, we have to prepare Reagent A:Reagent B:Reagent C in ratio of 25:24:1. This information can be found on manufacturer's website. Calculate how much reagent needed for your experiments.
 
-**Prepare serial dilution of sample**
+*Prepare serial dilution of sample*
 
 #. Prepare and label 8 microcentrifuge tube. 
 #. Dispense 60 uL of distilled water into each microcentrifuge tube except the first tube. 
@@ -32,32 +30,23 @@ Before we run the experiment, we have to prepare Reagent A:Reagent B:Reagent C i
 #. Repeat the dilution process from second microcentrifuge tube untill the last tube. 
 #. Discard 60 uL of mixture from the last microcentrifuge tube.  
 
-**Prepare different concentration of standard solution**
+*Prepare different concentration of standard solution*
 
-We would prepare different concentration of BCA stanadard (Albumin): 25, 125, 250, 500, 750, 1000, 1500, 2000 ug/mL. To prepare different concentrations of standard solution, dilute the standard solution that included in the kit with distilled water.  
+We would prepare different concentration of BCA stanadard (Albumin): 250, 500, 750, 1000, 1250, 1500, 1750, 2000 ug/mL. To prepare different concentrations of standard solution, dilute the standard solution that included in the kit with distilled water.  
 
 #. Prepare and label 8 microcentrifuge tubes. 
-#. Dispense appropriate amount of distilled water into each microcentrifuge tube. 
-#. Dispense appropriate amount of standard into each microcentrifuge tube. Mix the standard and distilled water by repeat pipetting. 
+#. Add appropriate amount of distilled water into each microcentrifuge tube. 
+#. Add appropriate amount of standard into each microcentrifuge tube. Mix the standard and distilled water by repeat pipetting. 
 
-**In 96 well plate**
-
-After preparing all the reagent and samples, we need to put everything into the 96 well plate. Remember to prepare blank in one of the well. 
-
-Usually we dispense 50 uL of sample + 50 uL of reagent = 100 uL into each well.
+*In 96 well plate*
 
 #. Label the 96 well plate. 
-#. Dispense 50 uL of each standard solution into different wells.
+#. Add 50 uL of each standard solution into different wells.
 
-    For blank, just dispense 50 uL of distilled water into one well. 
+    * For blank, just add 50 uL of distilled water into one well. 
 
-#. Dispense 50 uL of reagent solution into each well, including the blank well. 
-
-    While dispensing the reagent solution, repeat pipette to mix the reagent and the standard solution. 
-
-#. Dispense 50 uL of different concentrations of sample into different wells. 
-#. Dispense 50 uL of reagent solution into each sample wells. Mix the reagent solution and the sample solution by repeat pipetting. 
-#. Incubate for 1 hr at 37 :math:`^{\circ} C`.
+#. Add 50 uL of reagent solution into each well, including the blank well. Mix well.  
+#. Add 50 uL of different concentrations of sample into different wells. 
+#. Add 50 uL of reagent solution into each sample wells. Mix the reagent solution and the sample solution by repeat pipetting. 
+#. Incubate for 1 hr at 37 C.
 #. Read absorbance at 562 nm. 
-
-*Note:* Remember not to have liquids on the lid, or just take off lid when reading. Liquid on lid can lead to slight deviations.

@@ -40,9 +40,9 @@ To prepare 200 mM from 1 M of Tris-HCl:
 #. Transfer 10 uL of compound from first microcentrifuge tube to second microcentrifuge tube. Mix well by pipette repeatedly. 
 #. Repeat the process up to the last tube. 
 
-*
+*Inhition assay*
 
-#. Prepare a 384 black well plate. Label the wells to be used correctly on the lid. 
+#. Label the wells to be used correctly on the lid of a 384 well black plate. 
 #. Thaw protease from -80 C. 
 #. Add correct amount of buffer into each well. 
 #. Add correct amount of protease into each well. 

@@ -15,7 +15,7 @@ Trypsininse, cell count, seed cells
 * Amount of cells harvested from a T75 flask with 80% confluency should be sufficient to seed at least two 6 well plate with 600,000 cells in each well for next day virus infection.
 * Number of cells to be seeded into each well depends on which day you want to do infection. 
  
-    * Seed 6 well plate with 600,000 cells per well for next day infection 
+    * Seed 6 well plate with 500,000 cells per well for next day infection 
     * Seed 6 well plate with 400,000 cells per well for infection after 2 days 
     * Seed 12 well plate with 200,000 cells per well for next day infection
 
@@ -44,7 +44,7 @@ Trypsinise, count, seed
 #. Count the number of cells. Refer to :ref:`cell count <cell count>`. 
 
     * Check if there are enough cells for seeding in a 6 well plate at 600,000 cells/well. 
-    * :code:`6 well * 600,000 cells = 3,600,000 cells needed`, so we will need at least 3,600,000 cells for seeding in a 6 well plate 
+    * :code:`6 well * 500,000 cells = 3,000,000 cells needed`, so we will need at least 3,600,000 cells for seeding in a 6 well plate 
     
 #. Add 1500 uL of complete DMEM into each well in the 6 well plate.
 
@@ -81,7 +81,7 @@ Virus stock serial dilution
 
 *10x Serial dilution of virus stock*
 
-#. Label 5 microcentrifuge tube: D1 - :math:`10^{-1}`, D2 - :math:`10^{-2}`, D3 - :math:`10^{-3}`, D4 - :math:`10^{-4}`, D5 - :math:`10^{-5}`.
+#. Label 5 microcentrifuge tube for different dilution factors: D1 - :math:`10^{-1}`, D2 - :math:`10^{-2}`, D3 - :math:`10^{-3}`, D4 - :math:`10^{-4}`, D5 - :math:`10^{-5}`.
 #. Add 450 uL of 2% DMEM into each tube. 
 #. Retrieve virus stock from -80 C and thaw virus stock in 37 C water bath. 
 #. Transfer 50 uL of virus stock into D1. Mix well by either pipette repeatedly or using a vortex.
@@ -99,9 +99,9 @@ Infection
 #. Label each well in 6 well plate.
 
     +----------------------+----------------------+----------------------+
-    | NC                   | W2 - :math:`10^{-2}` | W4 - :math:`10^{-4}` |
+    | NC                   | D2 - :math:`10^{-2}` | D4 - :math:`10^{-4}` |
     +----------------------+----------------------+----------------------+
-    | W1 - :math:`10^{-1}` | W3 - :math:`10^{-3}` | W5 - :math:`10^{-5}` |
+    | D1 - :math:`10^{-1}` | D3 - :math:`10^{-3}` | D5 - :math:`10^{-5}` |
     +----------------------+----------------------+----------------------+
 
     * NC = Negative control
@@ -173,8 +173,6 @@ Agarose overlay
 Fix and stain 
 -------------
 
-* It usually takes 24 hrs for the cells to exhibits CPE, and 48 hrs for the cell infected with virus to die and form plaques. 
-* After 48 hrs of incubation, fix and stain the well plate to show the plaques.
 * Fixing and staining of 6 well plate can be done on bench or laminar flow in lab. 
 
 **Materials**
