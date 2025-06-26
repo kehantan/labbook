@@ -16,7 +16,7 @@ Agar plate culture
 
 **Materials** 
 
-* :ref:`LB agar plate <lb-agar-plate>` (Need to prepare at least 1 day before)
+* :ref:`LB agar plate <lb-agar-plate>` (Recommend to prepare at least 1 day before experiment)
 * Transformed bacteria glycerol stock (*E.coli*, BL21 strain)
 * Inoculating loop 
 * Lighter
@@ -53,7 +53,7 @@ Large scale culture
 **Materials**
 
 * Spectrophotometer
-* :ref:`LB broth in 2 L Erlenmeyer flask <lb broth large>` (Need to prepare at least 1 day before)
+* :ref:`LB broth in 2 L Erlenmeyer flask <lb broth large>` (recommend to prepare at least 1 day before experiment)
 * Incubator shaker (2L)
 * :ref:`IPTG stock solution (250 mM)<iptg>`
 * Refrigerated centrifuge 
@@ -66,10 +66,7 @@ Large scale culture
 
 #. Add the small scale culture from 15 mL centrifuge tube culture into the 500 mL LB broth in the 2 L Erlenmeyer flask. 
 #. Shake. 1 to 3 hrs, 37 C, 180 rpm. 
-#. Check OD at 600 nm every 1 hour, target OD ~0.5-0.6. 
-
-    * Need to extend the shaking time if target OD is not reached.
-
+#. Check OD at 600 nm every 1 hour, target OD ~0.5-0.6. Extend the shaking time if target OD is not reached.
 #. When OD is around 0.5 - 0.6, add 1 mL of IPTG stock solution (250 mM) to the LB broth culture.
 
     * IPTG final concentration in LB broth = 0.5 mM

@@ -34,7 +34,7 @@ LB agar
 #. Add Kanamycin stock solution into LB agar after it cools to temperature that can be handled safely (~50-60 C). Final concentration of Kanamycin = 30 ug/mL.
 #. Swirl the bottle to mix the Kanamycin well. 
 #. Pour agar into petri dish. 
-#. Wait until agar is cooled down and solidifies, then wrap in plastic bag and store on bench or in 4 C. 
+#. Wait until agar is cooled down and solidifies, label the plate, then wrap in plastic bag and store on bench or in 4 C. 
 
 **Note:**
 

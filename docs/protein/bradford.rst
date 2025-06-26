@@ -1,11 +1,14 @@
 .. _bradford std:
 
-Bradford assay standard 
-=======================
+Bradford assay
+==============
 
 **Objective:** To plot a standard graph for protein concentration quantification and calculate the concentration of protein in a given sample.
 
-* The standard plot only need to be done once, after the standard plot is established, use the standard plot to determine the concentration of protein in purified protein sample. 
+*Bradford assay standard curve*
+
+* Bovine serum albumin (BSA) would be used as a standard for Bradford assay 
+* The standard curve only need to be done once, after the standard curve is established, use the standard curve to determine the concentration of protein in purified protein sample. 
 
 **Materials**
 
@@ -15,7 +18,7 @@ Bradford assay standard
 * Bradford reagent 
 * 96 well plate, clear
 * Microplate reader 
-  
+
 **Procedure**
 
 #. Dilute BSA powder in distilled water to make stock solution of BSA (5 mg/mL). 
@@ -41,8 +44,8 @@ Linearisation of Bradford assay
 #. Plot the graph. 
 #. Obtain the formula :math:`y=mx+c` 
 
-Bradford assay for protein sample
----------------------------------
+Quantification of protein sample
+--------------------------------
 
 #. Add 10 uL of protein sample into 190 uL of Bradford reagent. 
 #. Read absorbance at 590 nm and 450 nm. 
