@@ -7,7 +7,6 @@ LB broth
 * This procedure can be carry out on lab bench.  
 * Schemactics for preparing LB broth can be found `here <https://docs.google.com/presentation/d/1qZ7I4THBtuevUjca72BpT-3oJ3MLoqcnKhC-mZUu5pg/edit?usp=sharing>`_
 
-
 *Large volume (2L)*
 
 **Materials**

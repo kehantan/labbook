@@ -16,7 +16,7 @@ Agar plate culture
 
 **Materials** 
 
-* :ref:`LB agar plate <lb-agar-plate>` (Recommend to prepare at least 1 day before experiment)
+* :ref:`LB agar plate <lb-agar-plate>` (recommend to prepare at least 1 day before experiment)
 * Transformed bacteria glycerol stock (*E.coli*, BL21 strain)
 * Inoculating loop 
 * Lighter
@@ -38,7 +38,7 @@ Small scale culture
 * Plastic inoculation loop
 * Bunsen burner
 * Lighter 
-* :ref:`Small volume LB broth <lb broth small>` (Need to prepare at least 1 day before)
+* :ref:`Small volume LB broth <lb broth small>` (recommend to prepare at least 1 day before experiment)
 
 **Procedure** 
  
@@ -69,7 +69,7 @@ Large scale culture
 #. Check OD at 600 nm every 1 hour, target OD ~0.5-0.6. Extend the shaking time if target OD is not reached.
 #. When OD is around 0.5 - 0.6, add 1 mL of IPTG stock solution (250 mM) to the LB broth culture.
 
-    * IPTG final concentration in LB broth = 0.5 mM
+    * IPTG final concentration in culture = 0.5 mM
 
 #. Shake. 2 hrs, 37 C, 180 rpm.
 #. Transfer culture from flask into multiple 50 mL centrifuge tube. 

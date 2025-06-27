@@ -5,15 +5,17 @@ Protease activity assay
 
 We need to know:
 
-* the volume of protease stock needed to serial dilute into different concentrations and 
-* the volume of MCA solution to add to each well (final volume of each well is 40 uL for 384 well plate)
+* the volume of protease stock needed to serial dilute into different concentrations
+* the volume of substrate to add to each well 
 
-**Requires** 
+**Materials** 
 
 * Stock buffer (Tris-HCl, pH 8.5, 1M)
 * Purified protease with known concentrations 
 * MCA substrate stock solution (10 mM)
 * 384 well black plate 
+* Micropipette 
+* Micropipette tips
 
 **Procedure**
 
@@ -21,21 +23,27 @@ We need to know:
 
 To prepare 200 mM from 1 M of Tris-HCl:
 
-#. Add 200 uL of 1M Tris-HCl into 800 uL of distilled water. 
+#. Add 200 uL of 1 M Tris-HCl into 800 uL of distilled water. 
+
+    * Adjust the volume if necessary. The ratio of 1 M Tris-HCl to distilled water should be 1:4 to make 200 mM Tris-HCl
+
 #. Mix well. Vortex if necessary. 
 
 *Protease activity assay*
 
 #. Thaw the purified protease stored in -80 C. 
-#. Do a 1/2 fold serial dilution starting from maximum of 20 uM with working buffer. 
-#. In a 384 well black plate, add calculated amount of protease.
-#. Add substrate into each well that have protease. 
-#. Incubate. 37 C, 120 mins. 
-#. Read plate at 350 nm excitation and 440 nm emission. 
+#. Do a 1/2 fold serial dilution with working buffer. 
+#. In a 384 well black plate, add the serial diluted protease.
+#. Add correct amoount substrate into each well. 
+#. Incubate, 37 C. 
+#. Read plate at 350 nm excitation and 440 nm emission every 30 mins. 
 
 **Analysis**
 
-You can plot a curve using the relative fluoresence unit (RFU) directly, graphpad prism will still calculate a Km value for you. But since we have to process the data anyway, we just convert all the RFU into reaction velocity.  
+The Michaelis-Menten curve can be plot directly using relative fluoresence unit (RFU) directly, Km value can still calculate the Km and Vmax. But the RFU can also be converted into reaction velocity for better data presentation.  
+
+:math:`frac{frac{T-C}{m}}{T}`
+
 
 #. In MS Excel, arrange the values accordingly. 
 #. First step is to minus all RFU values from other wells with the RFU from the well with 0 uM of protease (means the wells that only have buffer and substrate).
