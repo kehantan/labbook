@@ -3,10 +3,11 @@ Protease activity assay
 
 **Objective:** To quantify the activity of the purified protease. 
 
-We need to know:
+We need to know/have:
 
 * the volume of protease stock needed to serial dilute into different concentrations
 * the volume of substrate to add to each well 
+* Substrate standard curve
 
 **Materials** 
 
@@ -42,22 +43,25 @@ To prepare 200 mM from 1 M of Tris-HCl:
 
 The Michaelis-Menten curve can be plot directly using relative fluoresence unit (RFU) directly, Km value can still calculate the Km and Vmax. But the RFU can also be converted into reaction velocity for better data presentation.  
 
-:math:`frac{frac{T-C}{m}}{T}`
+:math:`\text{Reaction velocity}(\mu M/min) = \frac{\frac{S-NC}{m}}{T}`
 
+S = Sample 
 
-#. In MS Excel, arrange the values accordingly. 
-#. First step is to minus all RFU values from other wells with the RFU from the well with 0 uM of protease (means the wells that only have buffer and substrate).
+NC = Negative control 
+
+m = Gradient of substrate standard curve 
+
+T = Time of incubation 
+
+#. Subtratct all RFU values from negative control (0 uM of protease, only have buffer and substrate).
 #. Divide the value with the gradient of substrate standard curve. 
 #. Divide the value with time, in mins (30 mins, 60 mins, 120 mins, etc.). 
 
-    * If the RFU values were obtained at 60 mins mark, then divide all values by 60.
-    * Values obtained from this step will be the reaction velocity, with the unit of uM/mins.  
+    * If the RFU values were obtained at 60 mins mark, then divide all values by 60  
 
-#. Copy the value into GraphPad Prism. Analyse using non-linear regression, Michaelis-Menten module. 
-#. Ideally, the curve should have at least 3 points on plateau. 
-#. Plot the reaction velocity in GraphPad Prism, analyse using non-linear regression, Michaelis-Menten module. 
+#. Analyse using non-linear regression model, Michaelis-Menten module in GraphPad Prism. 
 
-    * The graphpad prism will automatically calculate the Vmax and Km value for us. We will need the Km value for substrate optimisation. 
-    * If you plot the Michaelis-Menten plot using both RFU and reaction velocity, both graph should give you the same Km value.
-
-After getting the protease optimisation curve, we can proceed to do the substrate optimisation curve. 
+* The graphpad prism will automatically calculate the Vmax and Km value for us. We will need the Km value for substrate optimisation. 
+* If you plot the Michaelis-Menten plot using both RFU and reaction velocity, both graph should give you the same Km value.
+* Ideally, the curve should have at least 3 points on plateau. 
+* After getting the protease optimisation curve, we can proceed to do the substrate optimisation curve. 

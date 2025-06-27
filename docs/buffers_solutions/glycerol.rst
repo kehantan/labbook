@@ -18,4 +18,4 @@ Glycerol solution
 #. Autoclave.
 #. Store at bench. 
 
-* May adjust percentage according to need. 
+* May adjust percentage accordingly. 

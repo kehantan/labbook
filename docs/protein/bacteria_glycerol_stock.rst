@@ -13,8 +13,8 @@ Make bacteria culture glycerol stock
 * Bunsen burner 
 * Lighter/Matchsticks
 * Microcentrifuge tube/Eppendorf tube (1.5 mL)
-* 50% glycerol solution
-* Rack
+* Glycerol stock solution (50%-80%)
+* Tube rack
 
 **Procedure**
 

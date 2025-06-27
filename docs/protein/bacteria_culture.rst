@@ -9,7 +9,7 @@ Revive bacteria culture from glycerol stock
 * Bunsen burner 
 * Lighter
 * LB agar plate 
-* Plastic loop
+* Inoculating loop
 
 **Procedure**
 

@@ -78,7 +78,7 @@ Large scale culture
     * 4 C is preferrable, if not, room temp is fine. 
 
 #. Remove supernatant. 
-#. Resuspend pellet in 2000 uL PBS.  
+#. Resuspend pellet in 2 mL PBS.  
 
     * Prepare another PBS for bacteria work. Seperate bacteria work PBS with cell culture PBS to prevent contamination. 
 
