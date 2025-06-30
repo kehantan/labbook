@@ -8,7 +8,7 @@ Bradford assay
 *Bradford assay standard curve*
 
 * Bovine serum albumin (BSA) would be used as a standard for Bradford assay 
-* The standard curve only need to be done once, after the standard curve is established, use the standard curve to determine the concentration of protein in purified protein sample. 
+* The standard curve only need to be done once, after the standard curve is established, use the standard curve to determine the concentration of protein in subsequent purified protein sample. 
 
 **Materials**
 
@@ -22,8 +22,8 @@ Bradford assay
 **Procedure**
 
 #. Dilute BSA powder in distilled water to make stock solution of BSA (5 mg/mL). 
-#. Prepare a series of BSA standard solutions of known concentrations starting from 0, 200, 400, 600, 800, and up to 1000 ug/mL by diluting the BSA stock solution in distilled water with the final cocentration of 50 uL.
-#. In a 96 well clear plate, add 10 uL of BSA or protein sample into 190 uL of Bradford reagent. Mix well by repeat pipetting. 
+#. Prepare a series of BSA standard solutions of known concentrations starting from 0, 200, 400, 600, 800, and up to 1000 ug/mL by diluting the BSA stock solution in distilled water.
+#. In a 96 well clear plate, add 10 uL of BSA or protein sample into 190 uL of Bradford reagent. Mix well. 
 #. Include wells for blank by pipette 200 uL of distilled water. 
 
     * The blank should be depending on what solvent you use for dissolving the BSA, can be distilled water, MilliQ water, or PBS. 

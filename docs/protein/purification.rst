@@ -99,6 +99,8 @@ Estimated time needed: 2 hr
 * Waste beaker
 * Paper towel
 * Plastic beaker (10 mL)
+* Micropipette 
+* Micropipette tips 
 
 **Procedure**
 
@@ -260,7 +262,7 @@ Item checklist
 * Waste beaker
 * Paper towel
 * Plastic beaker (10 mL)
-* Thermo Fisher Scientific Slide-A-lyzer Dialysis Cassette, 3,500 MWCO
+* Dialysis Cassette, 3,500 MWCO
 * Beaker (1 L)
 * Magnetic stirrer
 * Retort stand
