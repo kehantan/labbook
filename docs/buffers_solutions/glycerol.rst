@@ -13,8 +13,8 @@ Glycerol solution
 
 **Procedure** 
 
-#. Add 80 mL of 100% glycerol into a 250 mL empty glass bottle. 
-#. Add 20 mL of distilled water. 
+#. Add 50 mL of 100% glycerol into a 250 mL empty glass bottle. 
+#. Add 50 mL of distilled water. Final concentration of glycerol stock solution = 50%. 
 #. Autoclave.
 #. Store at bench. 
 

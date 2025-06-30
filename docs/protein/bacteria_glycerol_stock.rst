@@ -12,16 +12,17 @@ Make bacteria culture glycerol stock
 * Inoculating loop
 * Bunsen burner 
 * Lighter/Matchsticks
-* Microcentrifuge tube/Eppendorf tube (1.5 mL)
+* Cryovial/Microcentrifuge tube/Eppendorf tube
 * Glycerol stock solution (50%-80%)
 * Tube rack
 
+*Note:* Eppendorf tube can be used, but not recommended, because it is not secure and might opened up in -80 C freezer. 
+
 **Procedure**
 
-#. Set up bench for bacteria work. 
-#. Take overnight transformed *E.coli* culture from incubator. 
-#. Add 500 uL of 50% glycerol into 1.5 mL microcentrifuge tube. 
-#. Take a loopful of bacteria colonies with an inoculating loop. 
-#. Add the bacteria colonies into the glycerol. Make sure the colonies resuspend completely in the glycerol, vortex if necessary.  
-#. Label the tubes. 
-#. Store the bacteria glycerol stock in -80 C. 
+#. Set up bench for bacteria work.
+#. Take overnight transformed E.coli culture from incubator.
+#. Add 500 uL of 50% glycerol into 1.5 mL microcentrifuge tube.
+#. Take a loopful of bacteria colonies with an inoculating loop.
+#. Add the bacteria colonies into the glycerol. Make sure the colonies resuspend completely in the glycerol, vortex if necessary.#. Label the tubes.
+#. Store the bacteria glycerol stock in -80 C.
