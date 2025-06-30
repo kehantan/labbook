@@ -22,7 +22,7 @@ Bradford assay
 **Procedure**
 
 #. Dilute BSA powder in distilled water to make stock solution of BSA (5 mg/mL). 
-#. Prepare a series of BSA standard solutions of known concentrations starting from 0, 200, 400, 600, 800, and up to 1000 ug/mL by diluting the BSA stock solution in distilled water.
+#. Prepare a series of BSA standard solutions of known concentrations starting from 0, 200, 400, 600, 800, and up to 1000 ug/mL by diluting the BSA stock solution in distilled water to final volume of 50 uL.
 #. In a 96 well clear plate, add 10 uL of BSA or protein sample into 190 uL of Bradford reagent. Mix well. 
 #. Include wells for blank by pipette 200 uL of distilled water. 
 
