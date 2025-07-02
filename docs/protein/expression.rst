@@ -34,18 +34,18 @@ Small scale culture
 **Materials**
 
 * Centrifuge tube (15 mL)
-* Transformed *E. coli* cultured on agar plate 
+* Transformed *E. coli* cultured on LB agar plate 
 * Plastic inoculation loop
 * Bunsen burner
 * Lighter 
-* :ref:`Small volume LB broth <lb broth small>` (recommend to prepare at least 1 day before experiment)
+* :ref:`Small volume LB broth <lb broth small>` (Autoclaved, Kanamycin added (30-50 ug/mL), recommend to prepare at least 1 day before experiment)
+* Incubator shaker 
 
 **Procedure** 
  
-#. Prepare two 15 mL centrifuge tube.
-#. Add 10 mL of LB broth into each 15 mL centrifuge tube.
-#. Pick multiple *E. coli* single colony from agar plate and mix with LB broth in the 15 mL centrifuge tube.
-#. Shake the centrifuge tube in incubator shaker. 24 hrs, 37 C, 180 rpm.
+#. Add 5 mL of LB broth into each 15 mL centrifuge tube.
+#. Pick a single *E. coli* colony from agar plate and mix with LB broth in the 15 mL centrifuge tube.
+#. Shake the centrifuge tube in incubator shaker, overnight, 37 C, 180 rpm.
 
 Large scale culture
 -------------------
@@ -53,27 +53,26 @@ Large scale culture
 **Materials**
 
 * Spectrophotometer
-* :ref:`LB broth in 2 L Erlenmeyer flask <lb broth large>` (recommend to prepare at least 1 day before experiment)
+* :ref:`Large volume LB broth (500 mL) <lb broth large>` (Autoclaved, Kanamycind added (30-50 ug/mL), recommend to prepare at least 1 day before experiment)
 * Incubator shaker (2L)
 * :ref:`IPTG stock solution (250 mM)<iptg>`
 * Refrigerated centrifuge 
 * PBS 
 * Centrifuge tube (50 mL)
-* Micropipette (1000 uL)
-* Micropipette tip (1000 uL)
+* Pipette 
 
 **Procedure**
 
 #. Add the small scale culture from 15 mL centrifuge tube culture into the 500 mL LB broth in the 2 L Erlenmeyer flask. 
-#. Shake. 1 to 3 hrs, 37 C, 180 rpm. 
+#. Shake, 1 to 3 hrs, 37 C, 180 rpm. 
 #. Check OD at 600 nm every 1 hour, target OD ~0.5-0.6. Extend the shaking time if target OD is not reached.
-#. When OD is around 0.5 - 0.6, add 1 mL of IPTG stock solution (250 mM) to the LB broth culture.
+#. When OD is around 0.5 - 0.6, add 1 mL of IPTG stock solution (250 mM) to the LB broth culture. 
 
-    * IPTG final concentration in culture = 0.5 mM
+    * IPTG final concentration in culture = 0.5 mM. 
 
 #. Shake. 2 hrs, 37 C, 180 rpm.
 #. Transfer culture from flask into multiple 50 mL centrifuge tube. 
-#. Centrifuge. 4000 rpm, 4 C, 10 mins. 
+#. Centrifuge, 4000 rpm, 4 C, 10 mins. 
 
     * 4 C is preferrable, if not, room temp is fine. 
 
@@ -84,7 +83,7 @@ Large scale culture
 
 #. Combine all resusupended pellet into two 50 mL centrifuge tube.
 #. Top up PBS to 50 mL in each tube.  
-#. Centrifuge. 3000 rpm, 4C, 10 mins.  
+#. Centrifuge, 3000 rpm, 4C, 10 mins.  
 #. Remove supernatant. 
 #. Label the centrifuge tube.
 #. Store pellet at -80 C.

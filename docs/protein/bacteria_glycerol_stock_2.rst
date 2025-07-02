@@ -22,7 +22,7 @@ Overnight bacteria culture
 
 #. Set up a sterile bench for bacteria work. 
 #. Add 2.5 mL of LB broth into a 15 mL centrifuge tube. 
-#. Pick a single colony from LB agar plate and swirl in the LB broth inside the centrifuge tube. 
+#. Pick a single colony from LB agar plate and mix to the LB broth inside the centrifuge tube. 
 #. Incubate, 37 C, overnight. 
 
 Bacteria glycerol stock
