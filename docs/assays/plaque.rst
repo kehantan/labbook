@@ -15,8 +15,8 @@ Trypsininse, cell count, seed cells
 * Amount of cells harvested from a T75 flask with 80% confluency should be sufficient to seed at least two 6 well plate with 600,000 cells in each well for next day virus infection.
 * Number of cells to be seeded into each well depends on which day you want to do infection. 
  
-    * Seed 6 well plate with 500,000 cells per well for next day infection 
-    * Seed 6 well plate with 400,000 cells per well for infection after 2 days 
+    * Seed 6 well plate with 450,000 cells per well for next day infection 
+    * Seed 6 well plate with 350,000 cells per well for infection after 2 days 
     * Seed 12 well plate with 200,000 cells per well for next day infection
 
 **Materials**

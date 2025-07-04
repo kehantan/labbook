@@ -59,13 +59,17 @@ Large scale culture
 * Refrigerated centrifuge 
 * PBS 
 * Centrifuge tube (50 mL)
-* Pipette 
+* Dropper 
+* Cuvette 
 
 **Procedure**
 
 #. Add the small scale culture from 15 mL centrifuge tube culture into the 500 mL LB broth in the 2 L Erlenmeyer flask. 
 #. Shake, 1 to 3 hrs, 37 C, 180 rpm. 
-#. Check OD at 600 nm every 1 hour, target OD ~0.5-0.6. Extend the shaking time if target OD is not reached.
+#. Check OD at 600 nm every 1 hour using a cuvette and spectrophtometer, target OD ~0.5-0.6. Extend the shaking time if target OD is not reached.
+
+    * Collect ~3 mL of culture sample to measure the OD. Use autoclaved LB broth that is not used for culture as blank.  
+
 #. When OD is around 0.5 - 0.6, add 1 mL of IPTG stock solution (250 mM) to the LB broth culture. 
 
     * IPTG final concentration in culture = 0.5 mM. 
