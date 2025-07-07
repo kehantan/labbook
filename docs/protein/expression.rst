@@ -78,7 +78,7 @@ Large scale culture
 #. Transfer culture from flask into multiple 50 mL centrifuge tube. 
 #. Centrifuge, 4000 rpm, 4 C, 10 mins. 
 
-    * 4 C is preferrable, if not, room temp is fine. 
+    * Pre-cool the centrifuge to 4 C is preferrable, if not, room temp is fine. 
 
 #. Remove supernatant. 
 #. Resuspend pellet in 2 mL PBS.  
@@ -100,7 +100,7 @@ Item checklist
 * LB agar powder
 * LB broth powder
 * Petri dish
-* Schott bottle (500 mL)
+* Schott bottle
 * Erlenmeyer flask (2 L)
 * Transformed bacteria glycerol stock (*E.coli*, BL21 strain)
 * Inoculating loop
@@ -108,11 +108,11 @@ Item checklist
 * Bunsen burner
 * Centrifuge tube (15 mL, 50 mL)
 * Spectrophotometer (that can read cuvette)
-* 2 L orbital shaker
+* Incubator shaker (for 2 L flask)
 * IPTG 
 * Refrigerated centrifuge 
-* Phosphate buffer saline 
-* Micropipette (1000 uL)
-* Micropipette tip (1000 uL)
-* Kanamycin 
+* Phosphate buffer saline (1x)
+* Dropper
+* Kanamycin stock solution (30 mg/mL)
 * NaOH
+* Cuvette

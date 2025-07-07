@@ -258,6 +258,7 @@ Item checklist
 * Centrifuge tube (15 mL, 50 mL)
 * Ni-NTA resin 
 * Rotator
+* Micropipette 
 * Micropipette and tips (1000 uL)
 * Waste beaker
 * Paper towel

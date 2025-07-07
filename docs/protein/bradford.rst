@@ -57,3 +57,13 @@ References
 ----------
 
 .. footbibliography::
+
+Item checklist
+--------------
+
+* Microcentrifuge tube
+* Distilled water or PBS
+* Bovine serum albumin (BSA)
+* Bradford reagent 
+* 96 well plate, clear
+* Microplate reader

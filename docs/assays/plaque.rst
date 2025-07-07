@@ -12,12 +12,12 @@ Plaque assay
 Trypsininse, cell count, seed cells
 ------------------------------------
 
-* Amount of cells harvested from a T75 flask with 80% confluency should be sufficient to seed at least two 6 well plate with 600,000 cells in each well for next day virus infection.
+* Amount of cells harvested from a T75 flask with 80% confluency should be sufficient to seed at least two 6 well plate with 450,000 cells in each well for next day virus infection.
 * Number of cells to be seeded into each well depends on which day you want to do infection. 
  
     * Seed 6 well plate with 450,000 cells per well for next day infection 
     * Seed 6 well plate with 350,000 cells per well for infection after 2 days 
-    * Seed 12 well plate with 200,000 cells per well for next day infection
+    * Seed 12 well plate with 170,000 cells per well for next day infection
 
 **Materials**
 
@@ -34,6 +34,7 @@ Trypsininse, cell count, seed cells
 * Cell counting chamber  
 * Waste beaker 
 * Tube rack
+* Centrifuge tube (15 mL)
 
 **Procedure**
 
@@ -43,21 +44,21 @@ Trypsinise, count, seed
 #. Trypsinise the cells in culture flask. Refer to :ref:`trypsinise <My target>`.
 #. Count the number of cells. Refer to :ref:`cell count <cell count>`. 
 
-    * Check if there are enough cells for seeding in a 6 well plate at 600,000 cells/well. 
-    * :code:`6 well * 500,000 cells = 3,000,000 cells needed`, so we will need at least 3,600,000 cells for seeding in a 6 well plate 
+    * Check if there are enough cells for seeding in a 6 well plate at 450,000 cells/well. 
+    * :code:`6 well * 450,000 cells = 2,700,000 cells needed`, so we will need at least :code:`2,700,000 cells` for seeding in a 6 well plate 
     
-#. Add 1500 uL of complete DMEM into each well in the 6 well plate.
+#. Add 1500 uL of media into each well in the 6 well plate.
 
-    * 1000 uL of complete DMEM into each well if using 12 well plate 
+    * 1000 uL of media into each well if using 12 well plate 
 
 #. Add correct amount of cells into each well. 
 #. Tilt the well plate back and forth and side to side to distribute the cells evenly across the base of the wells. 
-#. Incubate. 37 C, 24 hrs. 
+#. Incubate, 37 C, 24 hrs. 
 
 Infection
 ---------
 
-* Before infection, check the cell confluency in the 6 well plate. The cells should be around 90% confluency. 
+* Before infection, check the cell confluency in the 6 well plate. The cells should be around 70-80% confluency. 
 
 *Note:* For steps involving virus, avoid using serological pipette, as our lab policy requires virus waste to be handled seperately and autoclaved before disposal. Autoclaving and disposing serological pipette can be a bit challenging due to its length.
 
@@ -108,7 +109,7 @@ Infection
 
 #. Remove existing media from each well with serological pipette. 
 
-    * Aspirate media from the edge of the well to prevent scratching on the cell layer.
+    * Aspirate media from the corner of the well to prevent scratching on the cell layer.
     * For this step we can still use serological pipette because the virus is not introduced to the wells yet. 
 
 #. Wash cells with PBS. 
@@ -119,9 +120,9 @@ Infection
     * There are actually no fixed amount to use, just need enough amount to cover the cell monolayer.
    
 #. Add 300 uL of 2% DMEM into NC well.
-#. Mix the virus by using a vortex or repeat pipetting. Transfer 300 uL of diluted virus from microcentrifuge tube into their corresponding wells (D1 into W1, D2 into W2...).
+#. Mix the virus by using a vortex or repeat pipetting. Transfer 300 uL of diluted virus from microcentrifuge tube into their corresponding wells (D1 into W1, D2 into W2 etc.).
 #. After all the wells were infected, tilt the plate back and forth and side to side to make sure the virus covers all the cells in the 6 well plate. 
-#. Incubate. 37 C, 1 hour. Tilt the plate every 20 mins. 
+#. Incubate, 37 C, 1 hour. Tilt the plate every 20 mins. 
 #. 10 minutes before the infection period ends, prepare agarose overlay. 
 
 *Note:* The section using 300 uL of liquid throughout the procedure, this is assuming the cells were cultured in a 6 well plate. The volume can be reduced to 150 uL if using 12 well plate. Adjust the volume accordingly if any other sizes of well plates were used. 
@@ -129,19 +130,28 @@ Infection
 Agarose overlay
 ~~~~~~~~~~~~~~~
 
-#. Prepare agarose by heating the solidified agarose in a microwave oven. 
+*Pre-warm agarose* 
+
+#. Around 20 mins before the infection period ends, melt the solidified agarose in a microwave oven. 
   
-    * Heat until the agarose melts and boils, but do not let agarose bubble for too long, as it will evaporate the water content in the agarose. 
+    * **CAUTION!** Loosen the cap of the agarose bottle before microwave, pressure built up can cause explosion! 
+    * Heat until the agarose melts and boils, but do not let agarose bubble for too long, as it will evaporate the water content in the agarose, changing the agarose concentration. 
     * Let the agarose bubbling for 1 or 2 seconds should be sufficient. 
     * Swirl the bottle and check if there are unmelted agarose or solid chunks of agarose in the bottle.
-    * BEWARE! Handle melted agarose with care, use mittens if necessary, extremely hot! 
+    * **CAUTION!** Handle melted agarose with care, use mittens if necessary, extremely hot! 
 
-#. In a 15 ml centrifuge tube, add 2 mL of melted agarose into 8 mL of 2% DMEM to make a 10 mL agarose overlay at a 2:8 ratio (Agarose:2% DMEM). Mix the agarose and 2% DMEM mixture either by repeating pipetting or invert the centrifuge tube few times.
+#. Leave the boiled agarose in the water bath at 37 C to cool down for later use.
 
+*Prepare agarose overlay*
+
+*Attention:* Work fast when overlaying the agarose as it can solidify within short period of time. 
+
+#. Bring agarose from water bath into BSC. 
+#. In a 15 ml centrifuge tube, prepare an agarose to 2% media mixture of 1:9 ratio (1.2 mL of agarose into 10.8 mL of media). Mix the agarose and 2% DMEM mixture either by repeat pipetting or invert the centrifuge tube few times.
 #. Remove existing media from the 6 well plate. 
 
     * Don't use serological pipette for this step, use micropipette. 
-    * Use different pipette tips for each well to prevent cross contamination. 
+    * Use different pipette tips for each well to prevent cross contamination.
 
 #. Wash cells with PBS. Add 300 uL of PBS into each well from the wall of the wells. 
 #. Tilt the plate side to side and back and forth a few times to properly wash the cells. 
@@ -152,10 +162,9 @@ Agarose overlay
 #. Add 1.5 mL of agarose overlay into each well. 
 
     * Serological pipette can be used for this step. 
-    * Add the mixture from the wall of each well.
+    * Add the overlay mixture from the wall of each well.
 
-#. Leave the 6 well plate at room temperature for 5 to 10 mins.
-#. Agarose overlay should hardens around 10 mins. 
+#. Leave the 6 well plate at room temperature for 5 to 10 mins for the agarose overlay to solidify.
 
     * Slightly tilt the plate to check if the agarose solidifies. 
     * Do not tilt the plate at an overly steep angle as the agarose will torn apart upon its own weight. 
@@ -164,11 +173,11 @@ Agarose overlay
 
     * As long as the agarose overlay is not too fluid, it should be safe to transfer into incubator. 
 
-#. Incubate. 37 C, 2% CO2, 48 hrs. 
+#. Incubate, 37 C, 2% CO2, 5-7 days. 
 
-*Note1:* 10 mL of agarose overlay mixture is sufficient for a 6 well plate. For 12 well plate, we can prepare 13 mL of agarose overlay mixture by adding 2.6 mL of agarose to 10.4 mL of fresh 2% DMEM. The ratio of agarose to 2% DMEM used in this protocol is 2:8. There are some optimisation required depends on the condition of the agarose. Ratio of agarose to 2% DMEM can be reduced to 1.5:8.5 or increased to 3:7. But keep in mind that too much agarose can cause the overlay to be too solid, which will create plaques with very tiny size; whereas too less agarose can cause the overlay to be too fluid, which creates plaques with larger sizes. Either outcome might alter the plaque size too much to a point where the plaques can be difficult to count, which is undesirable.  
+*Note1:* 12 mL of agarose overlay mixture is sufficient for a 6 well plate. For 12 well plate, can prepare 13 mL of agarose overlay mixture. The ratio of agarose to 2% DMEM used in this protocol is 1:9. There are some optimisation required depends on the condition of the agarose. Ratio of agarose to 2% DMEM can be changd to 1.5:8.5 or 2:8. But keep in mind that too much agarose can cause the overlay to be too solid, which will create plaques with very tiny size; whereas too less agarose can cause the overlay to be too fluid, which creates plaques with larger sizes. Either outcome might alter the plaque size too much to a point where the plaques can be difficult to count, which is undesirable.  
 
-*Note 2:* When working with virus samples, our lab have specific procedure to dispose the virus related waste. Refer to section :ref:`below <clean_up>`.
+*Note2:* When working with virus samples, our lab have specific procedure to dispose the virus related waste. Refer to section :ref:`below <clean_up>`.
 
 Fix and stain 
 -------------
@@ -187,20 +196,21 @@ Fix and stain
 
 **Procedure**
 
-#. Add 300 uL of 3.7% PFA into each well to fix the cells for 15 - 60 mins.
+#. Add 300 uL of 3.7% PFA into each well to fix the cells for 10-30 mins.
     
     * Use the micropipette for bench use.
     * There are no fix volume, just need to cover the cell layer. 300 uL should be enough. 
     * Dispense from the wall of each well. 
     * It is normal for the agarose to torn apart or disintegrate once PFA was applied. 
 
-#. Remove PFA after 1 hr. 
+#. Remove PFA after fixing. 
 
-    * Remove PFA from the edge of the well. 
+    * Remove PFA from the corner of the well to prevent scratching the cells. 
     
 #. Rinse the well plate in a bucket of water for a few times to wash away the agarose overlay. 
 
-    * Fill a bucket with tap water first, then immerse the whole well plate into the bucket for 1 second then take out the well plate. Repeate the process for 2 or 3 time.
+    * Fill a bucket with tap water first, then immerse the whole well plate into the bucket for about 1-2 seconds then take out the well plate. Repeate the process for 2 or 3 times.
+    * Make sure the agarose is detached. If the agarose did not detached, can turn the plate over with the wells facing downwards and tap on the sink. 
     
 #. Decant excess water from 6 well plate by slightly tapping the well plate facing downwards on a paper towel. 
 #. Add 300 uL of crystal violet into each well. 
@@ -208,8 +218,8 @@ Fix and stain
     * No fix volume required, just need to cover the cell layer. 300 uL should be sufficient for one well. 
     * Tilt the plate to make sure crystal violet covers the all areas within the wells. 
 
-#. Tilt the plate for 1 to 2 mins. 
-#. Remove the crystal violet from the edge of the wells.
+#. Tilt the plate for 3 to 5 mins. 
+#. Remove the crystal violet from the corner of the wells.
 #. Rinse the plate in a bucket of water for a few times to wash away excess crystal violet. 
 
     * Same procedure to how we rinse away the agarose overlay.  
