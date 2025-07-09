@@ -118,3 +118,8 @@ Item checklist
 * Kanamycin stock solution (30 mg/mL)
 * NaOH
 * Cuvette
+
+References
+----------
+
+.. footbibliography::
