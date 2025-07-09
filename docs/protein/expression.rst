@@ -5,6 +5,8 @@ Protein expression
 
 **Objective:** To culture bacteria that will express the target recombinant protein.  
 
+:footcite:`yusof_purified_2000`
+
 **Workflow**
 
 #. Agar plate culture
