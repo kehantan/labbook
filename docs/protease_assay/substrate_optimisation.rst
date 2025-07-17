@@ -5,19 +5,23 @@ Substrate optimisation
 
 **Requires**
 
-* 96 well plate, black
-* Substrate (MCA)
-* Stock buffer (1M Tris-HCl, pH 8.0)
-* Purified protease
-* Autoclaved Milli-Q water
+* 384 well black plate
+* Substrate (Boc-Gly-Arg-Arg-MCA)
+* Stock buffer (1M Tris-HCl, pH 8.5)
+* Purified protease with known concentrations 
+* Distilled water 
 
 **Procedure**
 
 *Prepare working buffer solution*
 
-    Prepare working buffer solution (200 mM Tris-HCl, pH 8.0) from stock buffer solution (1 M Tris-HCl, pH 8.0)
+#. Add 1 mL of 1 M Tris-HCl into 4 mL of distilled water to obtained 200 mM of Tris-HCl working solution at pH 8.5. 
 
-    *Prepare substrate dilution*
+    * Adjust the volume if necessary. The ratio of 1 M Tris-HCl to distilled water needed is 1:4 to make 200 mM Tris-HCl
+
+#. Mix well. Vortex if necessary. 
+
+*Prepare substrate dilution*
 
         * We want to test 200, 100, 50, 25, 12.5, 6.25, 3.125, 0 uM substrate with fixed concentration of protease. 
         * We want to use fixed volume of 10 uL of substrate.

@@ -26,27 +26,18 @@ Standard passaging (subculture)
 
 **Procedure**
 
-*Trypsinise*
+#. Trypsinise the cells in the culturing flask. Refer to :ref:`trypsinise <My target>`.
+#. Count the cells. Refer to :ref:`cell count <cell count>` 
 
-Refer to :ref:`trypsinise <My target>`
-
-*Cell counting*
-
-Refer to :ref:`cell count <cell count>` 
-
-Cell counting is optional if you are just subculturing cells. For subculture, you can either: 
-
-* Count the cells and seed the exact number of cells you want; OR 
-* To save some work, you can just split the previous culture into different portions depending on the percentage of confluency you need for your experiments and the days you want to conduct the experiments. 
-
-    * Example: You have 1 mL of cell suspension after trypsinisation. To split 1:3, put around 300 uL of cell suspension into new culture flask with complete DMEM. You can also use other ratio like 1:5 or 1:10 split. To get the correct confluency using splitting by ratio method requires some trial and error and some experience. 
-
-*Cell seeding*
+    * Cell counting is optional if you are just subculturing cells. For subculture, you can either: 
+        * Count the cells and seed the exact number of cells you want; OR 
+        * To save some work, you can just split the previous culture into different portions depending on the percentage of confluency you need for your experiments and the days you want to conduct the experiments. 
+        * Example: You have 1 mL of cell suspension after trypsinisation. To split 1:3, put around 300 uL of cell suspension into new culture flask with complete DMEM. You can also use other ratio like 1:5 or 1:10 split. To get the correct confluency using splitting by ratio method requires some trial and error and some experience. 
 
 #. Add sufficient amount of complete DMEM into new culturing flask. T25 ~3-5 mL, T75 ~8-10 mL. 
 #. Seed cells onto a new flask at the desired cell density.
 
-    * If you want to seed a specific number of cells, you will have to do cell count beforehand. If you wanted to split by ratio, just transfer the amount of cell suspension based on the split ratio into the new flask. 
+    * If you want to seed a specific number of cells, you will have to do cell count beforehand. If you wanted to split by ratio, just add the correct amount of cell suspension based on the split ratio into the new flask. 
 
 #. Tilt the culture flask to evenly distribute the seeded cells. 
 #. Label the flask. 
@@ -63,7 +54,7 @@ In a T25 culture flask, to reach around 80% cell confluency in:
 
 * next day, we will can seed about 800,000 cells
 * 3 days, we can seed about 500,000 cells
-* 7 days, we can seed about 25,000 cells
+* 7 days, we can seed about 50,000 cells
 
 In a T75 culture flask, to reach around 80% cell confluency in:
 

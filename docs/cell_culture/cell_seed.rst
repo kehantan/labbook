@@ -15,7 +15,7 @@ The number of cells to seed depends on several factors:
 
 For MTT assay:
 
-* Experiment on next day where the cells confluency is around 70% = 5,000 cells/well 
+* Experiment on next day where the cells confluency is around 70% = 7,500 cells/well 
 
 For plaque assay on a 6 well plate: 
 

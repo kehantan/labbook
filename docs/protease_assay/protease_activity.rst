@@ -7,7 +7,7 @@ We need to know/have:
 
 * the volume of protease stock needed to serial dilute into different concentrations
 * the volume of substrate to add to each well 
-* Substrate standard curve
+* Product standard curve
 
 **Materials** 
 
@@ -22,9 +22,7 @@ We need to know/have:
 
 *Prepare working buffer*
 
-To prepare 200 mM from 1 M of Tris-HCl:
-
-#. Add 1 mL of 1 M Tris-HCl into 4 mL of distilled water. 
+#. Add 1 mL of 1 M Tris-HCl into 4 mL of distilled water to obtained 200 mM of Tris-HCl working solution at pH 8.5. 
 
     * Adjust the volume if necessary. The ratio of 1 M Tris-HCl to distilled water needed is 1:4 to make 200 mM Tris-HCl
 
@@ -33,17 +31,16 @@ To prepare 200 mM from 1 M of Tris-HCl:
 *Protease activity assay*
 
 #. Thaw the purified protease stored in -80 C. 
-#. Do a 1/2 fold serial dilution with working buffer to a final volume sufficient for 38 uL per well.
+#. Do a 1/2 fold serial dilution with working buffer to a final volume sufficient for 39 uL per well.
 
     * Calculate sufficien volume for at least duplicate, triplicate if possible. 
 
-#. In a 384 well black plate, add 38 uL of the serial diluted protease into each well.
-#. In the blank well, add 38 uL of buffer. 
-#. Add 2 uL of substrate into each well. 
-#. Incubate, 37 C. 
-#. Read plate at 350 nm excitation and 440 nm emission every 30 mins. 
+#. In a 384 well black plate, add 39 uL of the serial diluted protease into each well.
+#. In the blank well, add 39 uL of buffer. 
+#. Add 1 uL of substrate into each well. 
+#. Read plate at 350 nm excitation and 440 nm emission every 30 mins for total duration of 60 mins. 
 
-**Analysis**
+**Results**
 
 The Michaelis-Menten curve can be plot directly using relative fluoresence unit (RFU) directly, Km value can still calculate the Km and Vmax. But the RFU can also be converted into reaction velocity for better data presentation.  
 
