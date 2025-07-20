@@ -18,12 +18,6 @@ Some important parameters to take note of including:
     * the amount of reagent to use (PBS, trypsin, DMEM, DMSO, MTT, etc.)
     * time of incubation (12, 24, 36, 48 hrs, etc.) 
 
-The whole MTT assay is a long procedure that can took multiple days. It takes 3 seperate days to complete 1 round of MTT. A typical MTT assay workflow would looks like this:
-
-    * :ref:`Trypsinise, count, and seed cells in a 96 well plate <mtt-part1>` 
-    * :ref:`Treatment, treating cells with compounds <mtt-part2>`
-    * :ref:`Adding MTT reagent to the well plates and read absorbance <mtt-part3>` 
-
 Planning
 --------
 
@@ -64,6 +58,28 @@ Trypsinise, count, seed
 
 Estimated time needed: 1 hr
 
+**Materials**
+
+* 96 well plate 
+* Cell reservoir
+* Micropipette
+* Multichannel micropipette
+* Micropipette tips 
+* Serological pipette 
+* Pipette gun 
+* Trypan blue 
+* Counting chamber 
+* Click counter 
+* DMEM 
+* Centrifuge tube (15 mL)
+* Waste beaker 
+* :ref:`Phosphate buffer saline PBS <pbs>`
+* Trypsin 
+* Cells in culturing flask at 70-80% confluency
+* Incubator 
+* Centrifuge 
+* Biosafety cabinet (BSC)
+
 *Trypsinise*
 
 First step is to detach the cells from the culture flask. Refer to :ref:`trypsinise <My target>`.
@@ -96,17 +112,7 @@ Using formula
         300*10^4 cells/mL * V1 = 5*10^4 cells/mL * 5 mL
         V1 = 0.0833 mL (~83.3 uL) 
     
-In summary, we need to put **83.3 uL of cell suspension** into 4916.7 uL of media. But since the volume difference is negligible, we could just round up to **5,000 uL** of media. 
-
-**Materials**
-
-* 96 well plate 
-* Cell reservoir
-* Micropipette
-* Multichannel micropipette
-* Pipette tips 
-* Serological pipette 
-* Pipette gun 
+In summary, we need to put **83.3 uL of cell suspension** into **4916.7 uL of media**. But since the volume difference is negligible, we could just add **83.3 uL** of cell suspension into **5,000 uL** of media. 
 
 **Procedure**
 
@@ -136,23 +142,26 @@ Estimated time needed: 1 hr
 
 **Materials**
 
-* :ref:`Complete DMEM <10 dmem>`
+* DMEM
 * Multichannel micropipette (10-200 uL)
 * Micropipette 
 * Microcentrifuge tube
 * Waste beaker 
-* Pipette tips 
+* Micropipette tips 
+* Waste beaker 
 
 **Procedure**
 
-#. Prepare different concentration of compound by diluting the compound in complete DMEM.
+#. Prepare different concentration of compound by diluting the compound in media.
 
     * Prepare the compounds with different concentrations before removing media from the 96 well plate, so we can immediately dispense the compound into the 96 well plate after removing the media. If the cells are left too long whithout media they would dry up and dies.
 
-#. Remove media from 96 well plate with multichannel micropipette. 
-#. Add 100 uL of fresh complete DMEM in negative control wells. 
-#. Add 100 uL of compound diluted in complete DMEM into respective wells. 
-#. Incubate. 24 hrs, 37 C, 5% CO2.
+#. Remove existing media from 96 well plate with multichannel micropipette. 
+#. Add 100 uL of fresh media in negative control wells. 
+#. Add 100 uL of diluted compound into respective wells. 
+#. Incubate, 24 hrs, 37 C, 5% CO2.
+
+    * May adjust desired incubation period. 
 
 .. _mtt-part3:
 
@@ -174,9 +183,7 @@ Estimated time needed: 4 hrs
 * Waste beaker 
 * Incubator 
 * Microplate reader 
-* Plate shaker 
-
-*Add MTT*
+* Microplate shaker 
 
 **Procedure**
 
@@ -201,16 +208,10 @@ Estimated time needed: 4 hrs
 
     * You can use a cell reservoir for DMSO.  
 
-#. Place 96 well plate on shaker and shake for 1 hr.
+#. Place 96 well plate on shaker and shake for 10 mins.
 
     * This step is to solubilise the formazan crystal. 
     * You can reduce the time for shaking, as long as the crystals are completely dissolve in DMSO. You can observe the plate under microscope to check if there are undissolved crystals. 
-
-*Read absorbance*
-
-Read the absorbance with a plate reader. 
-
-**Procedure**
 
 #. Read plate at 570 nm. 
 

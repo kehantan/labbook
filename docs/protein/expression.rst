@@ -109,15 +109,15 @@ Item checklist
 * Lighter
 * Bunsen burner
 * Centrifuge tube (15 mL, 50 mL)
-* Spectrophotometer (that can read cuvette)
+* Spectrophotometer (able to read cuvette)
 * Incubator shaker (for 2 L flask)
 * IPTG 
 * Refrigerated centrifuge 
 * Phosphate buffer saline (1x)
 * Dropper
-* Kanamycin stock solution (30 mg/mL)
-* NaOH
+* Kanamycin 
 * Cuvette
+* Distilled water 
 
 References
 ----------

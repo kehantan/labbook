@@ -16,7 +16,8 @@ Tris-HCl stock solution
 * Vacuum filter cup (0.22 um)
 * Vacuum pump
 * Magnetic stirrer
-* 5 M NaOH
+* 5 M NaOH or HCl depends on desired pH 
+* pH meter 
 
 **Procedure**
 
@@ -24,11 +25,10 @@ Tris-HCl stock solution
 #. Stir with a magnetic stirrer until all Tris-HCl powder dissolved. 
 #. Adjust stock buffer to desired pH (e.g.: 6.8, 8.5, etc.) with NaOH or HCl.
 #. Top up volume to 1 L with distilled water/Milli-Q water. 
-#. Filter with vacuum filter cup into a new 1 L bottle. 
 #. Label the bottle. 
 
     * Label example: :code:`Tris-HCl pH 8.5, name initials, date prepared`
 
 #. Seal the bottle with parafilm and store in 4 C. 
 
-**Note:** Vacuum filter is a faster way to sterilise the buffer. Based on google search, there are no problem autoclaving Tris-HCl solution.
+**Note:** Sterilisation is not strictly necessary. If needed, can either vacuum filter or autoclave.

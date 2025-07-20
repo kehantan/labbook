@@ -5,7 +5,7 @@ IPTG stock
 
 **Objective:** To prepare IPTG stock solution from IPTG powder. 
 
-* This protocol is for preparing IPTG stock solution at concentration of 250 mM with volume of 10 mL 
+* This protocol is for preparing IPTG stock solution at concentration of 250 mM with volume of 5 mL 
 * IPTG MW: 238.31 g/mol
 
 **Materials**
@@ -19,11 +19,11 @@ IPTG stock
 
 **Procedure**
 
-#. Measure 0.2978875 g of IPTG powder into a 15 mL centrifuge tube. 
+#. Measure 0.2978875 g of IPTG powder into a centrifuge tube. 
 #. Dissolve IPTG powder in 5 mL of distilled water. 
 #. Mix well. Vortex if necessary. 
-#. Label
+#. Label.
 
-    Label example: :code:`IPTG, concentration, name initials, date prepared`
+    * Label example: :code:`IPTG, concentration, name initials, date prepared`
 
-#. Store in freezer (-20 C).
+#. Store in -20 C.
