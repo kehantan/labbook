@@ -8,6 +8,8 @@ Buffers
 
 * Prepare the buffers preferrably at least one day before use, because even though we are preparing from stock solution, weighing and stirring can take up significant amount time. Also, some buffers need to be pre-cooled in the cold room. 
 
+.. _lysis_buffer:
+
 *Lysis buffer*
 
 * In this protocol, we need at least 25 mL of lysis buffer, so prepare around 30 mL should be sufficient for 1 round of purification. 
@@ -29,6 +31,8 @@ Buffers
 | Top up with water until                      | 30 mL  |
 +----------------------------------------------+--------+
 
+.. _buffer_b:
+
 *Buffer B*
 
 * It's not strictly necessary, but it is best to prepare 2 buffer B: one for bench use, another to pre-cooled in cold room. 
@@ -44,6 +48,8 @@ Buffers
 +--------+-------------------+-------+----------+---------+
 | Top up with water until            | 100 mL   | 60 mL   |
 +------------------------------------+----------+---------+
+
+.. _buffer_c:
 
 *Buffer C*
 
@@ -62,6 +68,8 @@ Buffers
 +--------+----------------------+-------+----------+----------+
 | Top up with water until               | 100 mL   | 10 mL    |  
 +---------------------------------------+----------+----------+
+
+.. _buffer_d:
 
 *Buffer D*
 

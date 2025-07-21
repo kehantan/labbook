@@ -11,17 +11,16 @@
 
 * SDS powder
 * Distilled water 
-* 100 mL empty bottle
+* Bottle
 * Magnetic stirrer
 
 **Procedure**
 
-#. Weight 10 g of SDS powder into 100 mL empty bottle. 
-#. Add 80 mL of distilled water into the bottle. 
+#. Weight 1 g of SDS powder into empty bottle. 
+#. Add 8 mL of distilled water into the bottle. 
 #. Stir until the solution is clear. 
 
     * This would take quite some time, about 30 mins for the solution to turn completely clear
 
-#. Top up with distilled water until 100 mL of final volume. 
-#. Label. 
-#. Store at bench. 
+#. Top up with distilled water until 10 mL of final volume. 
+#. Label and store at bench. 

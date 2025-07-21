@@ -298,21 +298,23 @@ Item checklist
 --------------
 
 * 30% Acrylamide/bis (PAGE Pre-solution)
-* Tris-HCl powder
+* Tris-HCl
 * NaOH
 * SDS powder
 * APS powder
 * Distilled water
 * TEMED 
-* Mdicropipette and tips (1000 uL, 100 uL, 10 uL)
+* Mdicropipette and tips
 * Beaker (25 mL)
-* Microcentrifuge tube (1.5 mL)
+* Microcentrifuge tube
+* PCR tube 
 * Waste beaker 
 * Power supply 
 * Buffer tank
-* SDS-PAGE Glass plate 
-* Glass plate clamp 
-* SDS-PAGE cassette 
+* Gel casting glass plate 
+* Gel casting glass plate clamp 
+* Gel casting cassette 
+* Gel casting base 
 * Tris base powder
 * Glycine powder 
 * Coomassie blue powder
