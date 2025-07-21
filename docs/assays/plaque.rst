@@ -21,7 +21,7 @@ Trypsininse, cell count, seed cells
 
 **Materials**
 
-* :ref:`10% DMEM <10 dmem>`
+* :ref:`2% DMEM <2 dmem>`
 * Trypsin
 * :ref:`Phosphate buffer saline (PBS) <pbs>`
 * Trypan blue 
@@ -35,6 +35,7 @@ Trypsininse, cell count, seed cells
 * Waste beaker 
 * Tube rack
 * Centrifuge tube (15 mL)
+* Centrifuge 
 
 **Procedure**
 
@@ -59,8 +60,7 @@ Infection
 ---------
 
 * Before infection, check the cell confluency in the 6 well plate. The cells should be around 70-80% confluency. 
-
-*Note:* For steps involving virus, avoid using serological pipette, as our lab policy requires virus waste to be handled seperately and autoclaved before disposal. Autoclaving and disposing serological pipette can be a bit challenging due to its length.
+* For steps involving virus, avoid using serological pipette, as our lab policy requires virus waste to be handled seperately and autoclaved before disposal. Autoclaving and disposing serological pipette can be a bit challenging due to its length.
 
 **Materials**
 
@@ -78,9 +78,7 @@ Infection
 Virus stock serial dilution
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* Before the actual infection procedure, prepare a serial diultion from the virus stock. 
-
-*10x Serial dilution of virus stock*
+* Before the actual infection procedure, prepare a 10x serial diultion of virus from the virus stock. Other dilution factor may also be used depends on the situation. 
 
 #. Label 5 microcentrifuge tube for different dilution factors: D1 - :math:`10^{-1}`, D2 - :math:`10^{-2}`, D3 - :math:`10^{-3}`, D4 - :math:`10^{-4}`, D5 - :math:`10^{-5}`.
 #. Add 450 uL of 2% DMEM into each tube. 
@@ -90,9 +88,7 @@ Virus stock serial dilution
 #. Transfer 50 uL of diluted virus from D2 to D3. Mix well by either pipette repeatedly or using a vortex.
 #. Continue the process for each tube until the last tube. 50 uL from D5 can be discarded. 
 
-*Note 1:* Assuming we are infecting Vero cells with virus in 6 well plate, which uses 300 uL of virus containing media, so diluting the virus to final volume of 500 uL is sufficient. If infecting Vero cells in a 12 well plate, which would use only 100 uL of diluted virus, we can reduce the volume to 300 uL so we don't waste the media. 30 uL of virus stock + 270 uL fresh 2% DMEM.
-
-*Note 2:* There might be time where different dilution factor is required, adjust the parameters accordingly. 
+*Note:* Assuming we are infecting Vero cells with virus in 6 well plate, which uses 300 uL of virus containing media, so diluting the virus to final volume of 500 uL is sufficient. If infecting Vero cells in a 12 well plate, which would use only 100 uL of diluted virus, we can reduce the volume to 300 uL so we don't waste the media (e.g.: 30 uL of virus stock + 270 uL fresh 2% DMEM).
 
 Infection
 ~~~~~~~~~
@@ -110,7 +106,7 @@ Infection
 #. Remove existing media from each well with serological pipette. 
 
     * Aspirate media from the corner of the well to prevent scratching on the cell layer.
-    * For this step we can still use serological pipette because the virus is not introduced to the wells yet. 
+    * For this step we can still use serological pipette because the virus is not added into the wells yet. 
 
 #. Wash cells with PBS. 
 
@@ -135,31 +131,34 @@ Agarose overlay
 #. Around 20 mins before the infection period ends, melt the solidified agarose in a microwave oven. 
   
     * **CAUTION!** Loosen the cap of the agarose bottle before microwave, pressure built up can cause explosion! 
-    * Heat until the agarose melts and boils, but do not let agarose bubble for too long, as it will evaporate the water content in the agarose, changing the agarose concentration. 
-    * Let the agarose bubbling for 1 or 2 seconds should be sufficient. 
+    * Heat until the agarose melts and boils, but do not let agarose boils for too long, as it will evaporate the water content in the agarose, changing the agarose concentration. 
+    * Heat until the agarose bubbling for 1 or 2 seconds should be sufficient. 
     * Swirl the bottle and check if there are unmelted agarose or solid chunks of agarose in the bottle.
-    * **CAUTION!** Handle melted agarose with care, use mittens if necessary, extremely hot! 
+    * **CAUTION!** Handle melted agarose with care, use mittens, boiled agarose is extremely hot! 
 
-#. Leave the boiled agarose in the water bath at 37 C to cool down for later use.
+#. Leave the boiled agarose in the water bath at 60 C to cool down for later use.
+
+    * If 60 C is not possible, then 37 C can work too, but need to act fast when preparing the overlay. 
 
 *Prepare agarose overlay*
 
-*Attention:* Work fast when overlaying the agarose as it can solidify within short period of time. 
+*Note:* Work fast when overlaying the agarose as it can solidify within short period of time. 
 
 #. Bring agarose from water bath into BSC. 
-#. In a 15 ml centrifuge tube, prepare an agarose to 2% media mixture of 1:9 ratio (1.2 mL of agarose into 10.8 mL of media). Mix the agarose and 2% DMEM mixture either by repeat pipetting or invert the centrifuge tube few times.
+#. In a 50 ml centrifuge tube, prepare an agarose to 2% media mixture of 1:9 ratio (1.2 mL of agarose into 10.8 mL of media). Mix the agarose and 2% DMEM mixture either by repeat pipetting or invert the centrifuge tube few times.
 #. Remove existing media from the 6 well plate. 
 
     * Don't use serological pipette for this step, use micropipette. 
     * Use different pipette tips for each well to prevent cross contamination.
 
-#. Wash cells with PBS. Add 300 uL of PBS into each well from the wall of the wells. 
-#. Tilt the plate side to side and back and forth a few times to properly wash the cells. 
-#. Remove PBS after washing the cells. 
+#. Wash cells with PBS.
 
+    * Add 300 uL of PBS into each well from the wall of the wells. 
+    * Tilt the plate side to side and back and forth a few times to properly wash the cells. 
+    * Remove PBS after washing the cells. 
     * Use different micropipette tips for each well to prevent cross contamination. 
 
-#. Add 1.5 mL of agarose overlay into each well. 
+#. Add around 1.5 mL of agarose overlay into each well. 
 
     * Serological pipette can be used for this step. 
     * Add the overlay mixture from the wall of each well.

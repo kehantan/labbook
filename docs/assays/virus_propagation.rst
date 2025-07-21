@@ -4,27 +4,26 @@ Virus propagation
 **Objective:** To propagate virus to make virus stock for virus related experiments. 
 
 * This protocol is modified from :footcite:t:`medina2012dengue`
-
-Schematic workflow of virus stock propagation can be found `here <https://docs.google.com/presentation/d/1lOgmzR994GQ58x71DpZQRM5FnC0vAgz6pWhuMVsuZg0/edit?usp=sharing>`_ 
+* Schematic workflow of virus stock propagation can be found `here <https://docs.google.com/presentation/d/1lOgmzR994GQ58x71DpZQRM5FnC0vAgz6pWhuMVsuZg0/edit?usp=sharing>`_ 
 
 Infection
 ---------
 
-Estimated time needed: 10 mins
+* Estimated time needed: 10 mins
 
 **Materials**
 
 * :ref:`2% DMEM <2 dmem>`
 * Virus stock 
-* :ref:`PBS <pbs>`
+* :ref:`Phosphate buffer saline (PBS) <pbs>`
 * Serological pipette 
 * Pipette gun 
 * Micropipette (100-1000 uL)
 * Pipette tips (1000 uL)
 * Waste beaker
 * Paper towel
-* Rack
-* Vero cells in culturing flask, around 70% confluency
+* Tube rack
+* Vero cells in culturing flask, around 60-70% confluency
 
 **Procedure**
 
@@ -34,14 +33,14 @@ Estimated time needed: 10 mins
 #. Retrieve virus stock from -80 C. 
 #. Thaw virus stock in water bath at 37 C. 
 #. Add virus stock into culture flask.
-#. Incubate. 37 C, 3 to 5 days.
+#. Incubate, 37 C, 3 to 5 days.
 #. Monitor daily under microscope for CPE formation and detachment of cells.
-#. When more than 90% of the cells detached from the culture flask, the virus is ready for harvest. 
 
 Harvest
 -------
 
-Estimated time needed: 30 mins
+* Estimated time needed: 30 mins
+* If media turns yellow, but cells still attached, harvest the media then add fresh media into the flask and continue incubation. Repeat the process until nearly all cells (>90%) detached from the flask. So there could be multiple batch of harvested virus for a single culturing flask. However, the virus titer might be different for each batch of harvest. 
 
 **Materials**
 
@@ -49,6 +48,7 @@ Estimated time needed: 30 mins
 * Microcentrifuge tube 
 * Micropipette 
 * Pipette tips 
+* Waste beaker 
 
 **Procedure**
 
@@ -66,7 +66,6 @@ Estimated time needed: 30 mins
 
 **Note** 
 
-* A T25 flask with 5 mL media should be enough for around 10 tubes of virus stock. A T75 flask with 10 mL media can give more tubes, around 20 tubes.  
 * The harvested virus stock need to have its virus titer quantified using :ref:`plaque assay <plaque assay>`. 
 
 .. image:: images/virus_infection_harvest.png

@@ -57,7 +57,7 @@ Large scale culture
 * Spectrophotometer
 * :ref:`Large volume LB broth (500 mL) <lb broth large>` (Autoclaved, Kanamycind added (30-50 ug/mL), recommend to prepare at least 1 day before experiment)
 * Incubator shaker (2L)
-* :ref:`IPTG stock solution (250 mM)<iptg>`
+* :ref:`IPTG stock solution (250 mM) <iptg>`
 * Refrigerated centrifuge 
 * PBS 
 * Centrifuge tube (50 mL)

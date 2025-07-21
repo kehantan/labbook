@@ -11,7 +11,7 @@ Tris-HCl stock solution
 **Materials**
 
 * Tris-HCl powder 
-* Distilled water/Milli-Q water
+* Distilled water
 * Schott bottle (1 L) 
 * Vacuum filter cup (0.22 um)
 * Vacuum pump
@@ -21,13 +21,13 @@ Tris-HCl stock solution
 
 **Procedure**
 
-#. Dissolve 157.6 g of Tris-HCl powder in 500 to 700 mL of distilled water/Milli-Q water. 
+#. Dissolve 157.6 g of Tris-HCl powder in 500 to 700 mL of distilled water. 
 #. Stir with a magnetic stirrer until all Tris-HCl powder dissolved. 
 #. Adjust stock buffer to desired pH (e.g.: 6.8, 8.5, etc.) with NaOH or HCl.
-#. Top up volume to 1 L with distilled water/Milli-Q water. 
+#. Top up volume to 1 L with distilled water. 
 #. Label the bottle. 
 
-    * Label example: :code:`Tris-HCl pH 8.5, name initials, date prepared`
+    * Label example: :code:`Tris-HCl, pH, name initials, date prepared`
 
 #. Seal the bottle with parafilm and store in 4 C. 
 

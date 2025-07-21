@@ -16,7 +16,7 @@ Stacking buffer
 
 **Procedure** 
 
-#. Add 7.88 g of Tris-HCl into 50-100 mL of distilled water. Stir untill Tris-HCl powder completely dissolved. 
+#. Add 7.88 g of Tris-HCl into 50-70 mL of distilled water. Stir untill Tris-HCl powder completely dissolved. 
 
     * 1 M = 157.6 g/L; 0.5 M = 78.8 g/L = 7.88 g/100 mL
 

@@ -18,8 +18,8 @@ Prepare gel
 **Materials**
 
 * 30% Acrylamide/bis (PAGE Pre-solution)
-* :ref:`Stacking buffer <stacking>`(0.5 M Tris-HCl, pH 6.8)
-* :ref:`Resolving buffer <resolving>`(1.5 M Tris-HCl, pH 8.8)
+* :ref:`Stacking buffer <stacking>` (0.5 M Tris-HCl, pH 6.8)
+* :ref:`Resolving buffer <resolving>` (1.5 M Tris-HCl, pH 8.8)
 * :ref:`10% SDS <sds>`
 * :ref:`10% APS <aps>`
 * Distilled water
@@ -33,6 +33,9 @@ Prepare gel
 **Procedure** 
 
 #. Prepare APS before preparing gel. 
+
+    * APS can be prepared earlier and store in -20, but I like to prepare APS fresh. 
+
 #. Prepare 2 small beaker for resolving gel and stacking gel.
 #. Prepare the resolving and stacking gel solution according to the table, but leave out APS and TEMED.
 
