@@ -1,9 +1,9 @@
-Sodium chloride stock solution
-==============================
+Sodium chloride (NaCl)
+======================
 
 **Objective:** To prepare NaCl stock solution.  
 
-* To make NaCl stock solution at concentration of 5 M.
+* Concentration = 5 M, Volume = 250 mL.
 * NaCl MW: 58.44 g/mol
 
 **Materials**

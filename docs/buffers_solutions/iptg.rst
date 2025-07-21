@@ -1,11 +1,11 @@
 .. _iptg:
 
-IPTG stock
-==========
+IPTG
+====
 
-**Objective:** To prepare IPTG stock solution from IPTG powder. 
+**Objective:** To prepare IPTG stock solution. 
 
-* This protocol is for preparing IPTG stock solution at concentration of 250 mM with volume of 5 mL 
+* Concentration = 250 mM, Fial volume = 5 mL 
 * IPTG MW: 238.31 g/mol
 
 **Materials**

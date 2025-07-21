@@ -1,11 +1,11 @@
 .. _kanamycin: 
 
-Kanamycin stock solution
-========================
+Kanamycin
+=========
 
 **Objective:** To prepare Kanamycin stock solution. 
 
-* To make Kanamycin stock at 30 mg/mL, total volume of 10 mL 
+* Concentration = 30 mg/mL, Volume = 10 mL 
 * Kanamycin molar mass = 484.499 g/mol 
 
 **Materials**
@@ -25,6 +25,6 @@ Kanamycin stock solution
 #. Filter with 0.22 um syringe filter. 
 #. Label.
 
-    * Label example: :code:`Kanamycin 30 mg/mL, name initials, date prepared`
+    * Label example: :code:`Kanamycin, 30 mg/mL, name initials, date prepared`
 
-#. Seal with parafilm and store in freezer (-20 C).
+#. Seal with parafilm and store in -20 C.

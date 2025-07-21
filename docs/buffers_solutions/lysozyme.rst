@@ -1,9 +1,10 @@
-Lysozyme stock solution 
-=======================
+Lysozyme
+========
 
-**Objective:** To prepare stock lysozyme solution for protein purification. 
+**Objective:** To prepare stock lysozyme solution. 
 
-* Final concentration of lysozyme required for 30 mL of lysis buffer is 100 ug/mL, so prepare 10,000 ug/mL stock solution of 1 mL.
+* Final concentration of lysozyme required for 30 mL of lysis buffer is 100 ug/mL
+* Concentration = 10,000 ug/mL, Volume = 1 mL.
 
 **Materials**
 

@@ -1,5 +1,5 @@
-PMSF stock solution 
-===================
+PMSF
+====
 
 **Objective:** To prepare stock PMSF solution for protein purification. 
 
