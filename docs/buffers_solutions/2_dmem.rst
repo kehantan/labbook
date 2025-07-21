@@ -1,7 +1,7 @@
 .. _2 dmem:
 
-2% DMEM 
-=======
+DMEM (2%)
+=========
 
 * DMEM supplemented with 2% FBS, final volume 50 mL.  
 * Prepare 2% DMEM in biosafety cabinet. 

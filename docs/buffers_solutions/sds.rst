@@ -1,7 +1,7 @@
 .. _sds:
 
-10% SDS
-=======
+SDS (10%)
+=========
 
 **Objective:** To prepare 10% SDS from SDS powder. 
 
