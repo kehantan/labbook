@@ -11,13 +11,13 @@ Ammonium persulfate (APS)
 
 * APS powder
 * Distilled water 
-* Microcentrifuge tube (1.5 mL)
+* Microcentrifuge tube
 * Weighting balance
 * Spatula
 
 **Procedure**
 
-#. Weight 0.1 g of APS powder into a 1.5 mL microcentrifuge tube. 
+#. Weight 0.1 g of APS powder into a microcentrifuge tube. 
 #. Add 1 mL of distilled water into the tube.
 #. Dissolve APS powder completely. Use vortex if necessary. 
 #. Label. 
