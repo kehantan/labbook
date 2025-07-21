@@ -6,9 +6,8 @@ MTT reagent
 **Objective:** To prepare MTT reagent from MTT powder. 
 
 * MTT comes in powder form. 
-* Concentration of MTT we use in this lab is 5 mg/mL
+* Concentration of MTT we use in this lab is 5 mg/mL, can adjust to other concentrations for different use case.  
 * MTT solution can be prepared on bench. 
-* We usually prepare 10 mL of MTT working solution in 15 mL centrifuge tube and store in freezer (-20 C).
 * MTT solution is sensitive to light. Wrap the prepared solution in aluminium foil before storing in freezer. 
 * Schematics for preparing MTT solution can be found `here <https://docs.google.com/presentation/d/1IIiZSPVcTfXI2qt4P9eORFXnCTqsc18I3t5ufM8Zi7M/edit?usp=sharing>`_.
 
@@ -16,7 +15,7 @@ MTT reagent
 
 * MTT powder 
 * Distilled water or PBS
-* Centrifuge tube (15 mL)
+* Centrifuge tube
 * Syringe
 * Syringe filter (0.22 um)
 * Aluminium foil
@@ -27,6 +26,7 @@ MTT reagent
 #. Add 10 mL of distilled water in to the centrifuge tube.
 
     * We can use either distilled water or PBS to dissolve MTT powder. 
+    * If prepare using PBS it is advisable to prepare in a biosafety cabinet under sterile environment. 
 
 #. Vortex the solution until MTT is completely dissolve. 
 
@@ -39,4 +39,4 @@ MTT reagent
 
     * Label example: :code:`MTT, 5 mg/mL, name initials, date prepared`
 
-#. Store MTT working solution in frezer (-20 C).
+#. Store MTT working solution in -20 C.
