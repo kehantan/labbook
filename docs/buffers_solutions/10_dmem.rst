@@ -4,7 +4,7 @@ Complete DMEM (10%)
 ===================
 
 * Complete DMEM with 10% FBS, final volume 50 mL.
-* Prepare complete DMEM in the biosafety cabinet.
+* Prepare complete DMEM in the biosafety cabinet under sterile environment to avoid contamination.
 
 **Materials**
 
@@ -37,7 +37,7 @@ Complete DMEM (10%)
 
    * Label example: :code:`Complete DMEM, name initials, date prepared`
 
-#. Seal with parafilm and store in fridge (4 C).
+#. Seal with parafilm and store in 4 C.
 
 **Note**
 

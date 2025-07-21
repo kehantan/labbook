@@ -8,6 +8,19 @@ Buffers
 
 * Prepare the buffers preferrably at least one day before use, because even though we are preparing from stock solution, weighing and stirring can take up significant amount time. Also, some buffers need to be pre-cooled in the cold room. 
 
+**Materials**
+
+* Centrifuge tube 
+* Empty bottle 
+* Micropipette 
+* Micropipette tips 
+* :ref:`PMSF <pmsf>`
+* :ref:`Lysozyme <lysozyme>`
+* :ref:`NaCl <nacl>`
+* :ref:`Triton X-100 <triton>`
+* Urea 
+* Imidazole 
+
 .. _lysis_buffer:
 
 *Lysis buffer*

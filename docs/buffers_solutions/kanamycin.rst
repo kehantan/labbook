@@ -12,15 +12,15 @@ Kanamycin
 
 * Kanamycin powder
 * Centrifuge tube (15 mL) 
-* Distilled water/Milli-Q water 
+* Distilled water
 * 0.22 um syringe filter
 * Syringe
 * Vortex
 
 **Procedure**
 
-#. Measure 0.3 g of Kanamycin into 15 mL centrifuge tube. 
-#. Add 10 mL of distilled water/Milli-Q water into the centrifuge tube. 
+#. Measure 0.3 g of Kanamycin into a centrifuge tube. 
+#. Add 10 mL of distilled water into the centrifuge tube. 
 #. Mix well. Vortex if necessary. 
 #. Filter with 0.22 um syringe filter. 
 #. Label.

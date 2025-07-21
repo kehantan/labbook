@@ -12,7 +12,7 @@ IPTG
 
 * IPTG powder
 * Distilled water
-* Centrifuge tube (15 mL)
+* Centrifuge tube 
 * Vortex
 * Weighting balance
 * Spatula 

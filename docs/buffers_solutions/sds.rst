@@ -5,7 +5,7 @@
 
 **Objective:** To prepare 10% SDS from SDS powder. 
 
-* 10% SDS w/v
+* Concentration = 10% SDS w/v, Volume = 10 mL 
   
 **Materials**
 
@@ -13,6 +13,8 @@
 * Distilled water 
 * Bottle
 * Magnetic stirrer
+* Weighing balance 
+* Spatula 
 
 **Procedure**
 

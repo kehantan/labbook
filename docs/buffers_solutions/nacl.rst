@@ -1,3 +1,5 @@
+.. _nacl:
+
 Sodium chloride (NaCl)
 ======================
 

@@ -9,36 +9,19 @@ Running buffer
 * Volume = 1 L 
 * pH 8.3 (pH of final solution should be around 8.3, no adjustment required)
 
-**Recipe**
+*Recipe*
 
-1x 
-
-+--------------------+-----------+
-|                    | 1 L       | 
-+========+===========+===========+
-| 25 mM  | Tris base | 3.028 g   |
-+--------+-----------+-----------+
-| 190 mM | Glycine   | 14.2633 g |
-+--------+-----------+-----------+
-| 0.1%   | SDS       | 1 g       |
-+--------+-----------+-----------+
-|Add water until     | 1 L       |
-+--------------------+-----------+
-
-10x 
-
-+--------------------+-----------+
-|                    | 1 L       | 
-+========+===========+===========+
-| 25 mM  | Tris base | 30.28 g   |
-+--------+-----------+-----------+
-| 190 mM | Glycine   | 142.633 g |
-+--------+-----------+-----------+
-| 0.1%   | SDS       | 10 g      |
-+--------+-----------+-----------+
-|Add water until     | 1 L       |
-+--------------------+-----------+
-
++--------------------+-----------+-----------+
+|                    | 1x        | 10x       |
++========+===========+===========+-----------+
+| 25 mM  | Tris base | 3.028 g   | 30.28 g   |
++--------+-----------+-----------+-----------+
+| 190 mM | Glycine   | 14.2633 g | 142.633 g |
++--------+-----------+-----------+-----------+
+| 0.1%   | SDS       | 1 g       | 10 g.     |
++--------+-----------+-----------+-----------+
+|Add water until     | 1 L                   |
++--------------------+-----------------------+
 
 **Materials**
 
@@ -46,7 +29,10 @@ Running buffer
 * Glycine powder 
 * SDS powder 
 * Distilled water 
-* Schott bottle (1 L)
+* Bottle (1 L)
+* Weighing balance 
+* Weighing boat 
+* Spatula 
 
 **Procedure**
 
@@ -57,6 +43,6 @@ Running buffer
     * SDS, 1 g
 
 #. Add 500 to 700 mL of distilled water into the empty bottle. 
-#. Stir. 
+#. Stir with magnetic stirrer until all powder fully dissolved. 
 #. Top up the solution to a final volume of 1 L.
 #. Store at 4 C.  

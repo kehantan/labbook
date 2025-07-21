@@ -38,7 +38,7 @@
 
    * Label example: :code:`2% DMEM, name initials, date prepared`
 
-#. Seal with parafilm and store in fridge (4 C).
+#. Seal with parafilm and store in 4 C.
 
 **Note**
 

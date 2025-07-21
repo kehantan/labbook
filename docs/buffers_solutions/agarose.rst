@@ -3,19 +3,21 @@
 5% agarose (w/v)
 ================
 
-**Objective:** To prepare 5% agarose (w/v) for plaque assay use. 
+**Objective:** To prepare 5% agarose (w/v). 
 
-* 5% agarose (w/v), final volume 100 mL 
+* Concentration = 5% agarose (w/v), Volume = 100 mL 
 
 **Materials**
 
 * Agarose powder
-* Milli-Q water/distilled water
-* Empty bottle (50 mL)
+* Distilled water
+* Empty bottle
+* Weighing balance 
+* Weighing boat 
  
 **Procedure**
 
-#. Add 5 g of agarose powder into 100 mL distilled water/Milli-Q water. 
+#. Add 5 g of agarose powder into 100 mL distilled water. 
 #. Swirl the bottle slowly to dissolve as much agarose powder as possible in the distilled water. 
 
     * It is normal if the agarose + distilled water mixture looks cloudy.
@@ -29,7 +31,7 @@
 
 #. Remove the bottle from microwave oven and leave it on bench to cool. 
 
-    * Beware that the bottle is very hot at this state. Wear protection before removing the bottle from microwave oven. 
+    * **CAUTION:** The agarose is very hot, wear protection before removing the bottle from microwave oven. 
 
 #. Label.
 

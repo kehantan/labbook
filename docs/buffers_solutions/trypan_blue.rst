@@ -3,20 +3,30 @@ Trypan blue
 
 **Objective:** Prepare trypan blue solution from trypan blue powder
 
-* Trypan blue solution for staining cells is 0.4% (w/v). 
+* Prepare in biosafety cabinet to prevent contamination 
+* Concentration = 0.4% (w/v), Volume  
 
 **Materials**
 
 * Trypan blue solution
-* Microcentrifuge tube (1.5 mL)
+* Centrifuge tube 
+* Spatula 
+* :ref:`Phosphate buffer saline (PBS) <pbs>`
+* Weighing balance
 
 **Procedure**
 
-#. Weight 0.04 g of trypan blue powder into 15 mL centrifuge tube. 
+#. Weight 0.04 g of trypan blue powder into a centrifuge tube. 
 #. Add 10 mL of PBS into the centrifuge tube. 
 #. Vortex to completely dissolve the trypan blue powder.
-#. Filter the prepared trypan blue solution with 0.22 uM syringe filter into a new 15 mL centrifuge tube. 
-#. Vortex to dissolve the trypan blue powder completely. 
+#. Filter the prepared trypan blue solution with 0.22 uM syringe filter into a new centrifuge tube. 
 
-* To prepare 10 mL of trypan blue solution, weight 0.04 g of trypan blue powder into 10 mL of PBS. 
-* To prepare 100 mL of trypan blue solution, weight 0.4 g of trypan blue powder into 100 mL of PBS. 
++-------------+------------+----------+
+| Volume (mL) | Weight (g) | PBS (mL) |
++-------------+------------+----------+
+| 10          | 0.04       | 10       |  
++-------------+------------+----------+
+| 50          | 0.2        | 50       | 
++-------------+------------+----------+
+| 100         | 0.4        | 100      | 
++-------------+------------+----------+ 

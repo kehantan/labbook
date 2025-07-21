@@ -27,7 +27,10 @@ Estimated time needed: 1 hr
 #. Clean magnetic stirring bar with 70% ethanol then drop into the bottle.
 #. Stir with magnetic stirrer until DMEM powder completely dissolve in the Milli-Q water.
 #. Add 3.7g of sodium bicarbonate (NaHCO3) into DMEM.  
-#. Add 6 g of HEPES in to the DMEM solution. Final concentration of HEPES is 25 mM or 6g/L of DMEM. 
-#. Filter DMEM into new 1 L autoclaved empty bottle using cup filter. Filter DMEM in BSC. 
+#. Add 6 g of HEPES in to the DMEM solution. 
+
+    * Final concentration = 25 mM or 6g/L of DMEM. 
+
+#. Filter DMEM into new 1 L autoclaved empty bottle using cup filter inside a biosafety cabinet. 
 #. Label.
-#. Seal the bottle with parafilm and store in fridge (4 C).
+#. Seal the bottle with parafilm and store in 4 C.
