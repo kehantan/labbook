@@ -1,23 +1,24 @@
-.. _tris-hcl-stock:
+.. _tris-hcl:
 
-Tris-HCl stock solution
-=======================
+Tris-HCl
+========
 
 **Objective:** To prepare Tris-HCL stock solution. 
 
-* Tris-HCl stock solution at concentration of 1 M of desired pH.
+* Concentration = 1 M, Volume = 1 L, adjusted pH.
 * Tris-HCl MW: 157.6 g/mol 
 
 **Materials**
 
 * Tris-HCl powder 
 * Distilled water
-* Schott bottle (1 L) 
-* Vacuum filter cup (0.22 um)
-* Vacuum pump
+* Bottle 
 * Magnetic stirrer
 * 5 M NaOH or HCl depends on desired pH 
-* pH meter 
+* pH meter
+* Weighing balance 
+* Weighing boat 
+* Spatula  
 
 **Procedure**
 
@@ -29,6 +30,6 @@ Tris-HCl stock solution
 
     * Label example: :code:`Tris-HCl, pH, name initials, date prepared`
 
-#. Seal the bottle with parafilm and store in 4 C. 
+#. Store in 4 C. 
 
 **Note:** Sterilisation is not strictly necessary. If needed, can either vacuum filter or autoclave.
