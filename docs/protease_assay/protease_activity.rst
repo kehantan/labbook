@@ -11,18 +11,20 @@ We need to know/have:
 
 **Materials** 
 
-* Stock buffer (Tris-HCl, pH 8.5, 1M)
-* Purified protease with known concentrations 
+* Tris-HCl stock buffer (1M, pH 8.5)
+* Purified protease (with known concentrations in ug/mL or uM) 
 * MCA substrate stock solution (10 mM)
+* DMSO
 * 384 well black plate 
 * Micropipette 
 * Micropipette tips
+* Microcentrifuge tube/PCR tube 
 
 **Procedure**
 
 *Prepare working buffer*
 
-#. Add 1 mL of 1 M Tris-HCl into 4 mL of distilled water to obtained 200 mM of Tris-HCl working solution at pH 8.5. 
+#. Add 1 mL of 1 M Tris-HCl stock buffer solution into 4 mL of distilled water to obtain 200 mM of Tris-HCl working buffer  solution at pH 8.5. 
 
     * Adjust the volume if necessary. The ratio of 1 M Tris-HCl to distilled water needed is 1:4 to make 200 mM Tris-HCl
 
@@ -31,7 +33,7 @@ We need to know/have:
 *Protease activity assay*
 
 #. Thaw the purified protease stored in -80 C. 
-#. Do a 1/2 fold serial dilution with working buffer to a final volume sufficient for 39 uL per well.
+#. Do 1/2 fold serial dilution of protease with working buffer to a final volume sufficient for 39 uL per well.
 
     * Calculate sufficien volume for at least duplicate, triplicate if possible. 
 
@@ -42,7 +44,7 @@ We need to know/have:
 
 **Results**
 
-The Michaelis-Menten curve can be plot directly using relative fluoresence unit (RFU) directly, Km value can still calculate the Km and Vmax. But the RFU can also be converted into reaction velocity for better data presentation.  
+* The Michaelis-Menten curve can be plot directly using relative fluoresence unit (RFU) directly, Km value can still calculate the Km and Vmax. But the RFU can also be converted into reaction velocity for better data presentation.  
 
 :math:`\text{Reaction velocity}(\mu M/min) = \frac{\frac{S-NC}{m}}{t}`
 
@@ -50,13 +52,13 @@ S = Sample
 
 NC = Negative control 
 
-m = Gradient of substrate standard curve 
+m = Gradient of product standard curve 
 
 t = Time of incubation 
 
 #. Subtratct all RFU values from negative control (0 uM of protease, only have buffer and substrate).
 #. Divide the value with the gradient of substrate standard curve. 
-#. Divide the value with time, in mins (30 mins, 60 mins, 120 mins, etc.). 
+#. Divide the value with incubation time, in mins (30 mins, 60 mins, 120 mins, etc.). 
 
     * If the RFU values were obtained at 60 mins mark, then divide all values by 60  
 

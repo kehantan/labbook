@@ -3,7 +3,7 @@
 SDS (10%)
 =========
 
-**Objective:** To prepare 10% SDS from SDS powder. 
+**Objective:** To prepare 10% SDS. 
 
 * Concentration = 10% SDS w/v, Volume = 10 mL 
   
