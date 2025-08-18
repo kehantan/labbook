@@ -1,12 +1,12 @@
 .. _tris-hcl:
 
-Tris-HCl
-========
+Tris-HCl stock
+==============
 
 **Objective:** To prepare Tris-HCL stock solution. 
 
 * Concentration = 1 M, Volume = 1 L, adjusted pH.
-* Tris-HCl MW: 157.6 g/mol 
+* Tris MW: 121.14 g/mol 
 
 **Materials**
 
@@ -14,7 +14,7 @@ Tris-HCl
 * Distilled water
 * Bottle 
 * Magnetic stirrer
-* 5 M NaOH or HCl depends on desired pH 
+* NaOH (5-10 M)  
 * pH meter
 * Weighing balance 
 * Weighing boat 
@@ -22,9 +22,9 @@ Tris-HCl
 
 **Procedure**
 
-#. Dissolve 157.6 g of Tris-HCl powder in 500 to 700 mL of distilled water. 
+#. Dissolve 121.14 g of Tris-HCl powder in 500-700 mL of distilled water. 
 #. Stir with a magnetic stirrer until all Tris-HCl powder dissolved. 
-#. Adjust stock buffer to desired pH (e.g.: 6.8, 8.5, etc.) with NaOH or HCl.
+#. Adjust stock buffer to desired pH 8.0 with NaOH.
 #. Top up volume to 1 L with distilled water. 
 #. Label the bottle. 
 

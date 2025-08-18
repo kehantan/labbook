@@ -18,6 +18,9 @@ Bradford assay
 * Bradford reagent 
 * 96 well plate, clear
 * Microplate reader 
+* Micropipette 
+* Micropipette tips 
+* Waste beaker
 
 **Procedure**
 
@@ -47,8 +50,11 @@ Linearisation of Bradford assay
 
     * :math:`\frac{A_590}{A_450}`
 
-#. Plot the graph. 
-#. Obtain the formula :math:`y=mx+c` 
+#. Plot the graph in GraphPad Prism or Microsoft Excel.
+
+    * If using GraphPad Prism, use the linear regression model and fit the standard line into the data, better if R\ :sup`2` = 0.99.
+
+#. Obtain the formula that describe the line of best fit of BSA standard cruve, :math:`y=mx+c` 
 
 Quantification of protein sample
 --------------------------------
