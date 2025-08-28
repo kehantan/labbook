@@ -1,6 +1,6 @@
 .. _sds:
 
-SDS (10%)
+Sodium dodecyl sulfate (SDS) 
 =========
 
 **Objective:** To prepare 10% SDS. 
@@ -19,7 +19,7 @@ SDS (10%)
 **Procedure**
 
 #. Weight 1 g of SDS powder into empty bottle. 
-#. Add 8 mL of distilled water into the bottle. 
+#. Add 5 to 7 mL of distilled water into the bottle. 
 #. Stir until the solution is clear. 
 
     * This would take quite some time, about 30 mins for the solution to turn completely clear
