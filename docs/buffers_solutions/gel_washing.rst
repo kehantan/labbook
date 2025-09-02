@@ -5,6 +5,7 @@ Gel-washing solution
 
 **Objective:** To prepare washing solution for SDS-PAGE.
 
+* Est. preparation time = 15 mins
 * Final concentrations = 50% (v/v) methanol, 10% (v/v) acetic acid, in distilled water 
 
 **Materials**

@@ -5,6 +5,7 @@ Gel-fixing solution
 
 **Objective:** To prepare fixing solution for SDS-PAGE.
 
+* Est. preparation time = 15 mins 
 * Final concentrations = 50% (v/v) ethanol, 10% (v/v) acetic acid, in water.
 
 **Materials**

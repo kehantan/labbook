@@ -5,6 +5,7 @@ Sodium hydroxide (NaOH)
 
 **Objective:** To prepare NaOH solution at 5 M concentration.  
 
+* Est. preparation time = 15 mins
 * Concentration = 5 M, Volume = 100 mL
 * NaOH MW = 39.997 g/mol
 

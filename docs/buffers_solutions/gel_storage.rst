@@ -5,6 +5,7 @@ Gel-storage solution
 
 **Objective:** To prepare gel storage solution for SDS-PAGE.
 
+* Est. preparation time = 15 mins
 * Final concentration = 5% (v/v) acetic acid, in distilled water 
 
 **Materials**

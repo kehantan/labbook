@@ -5,6 +5,7 @@ Sodium dodecyl sulfate (SDS)
 
 **Objective:** To prepare 10% SDS. 
 
+* Est. preparation time = 10 mins 
 * Concentration = 10% SDS w/v, Volume = 10 mL 
   
 **Materials**

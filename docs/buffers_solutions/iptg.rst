@@ -5,6 +5,7 @@ IPTG
 
 **Objective:** To prepare IPTG stock solution. 
 
+* Est. preparation time = 10 mins 
 * Concentration = 250 mM, Fial volume = 5 mL 
 * IPTG MW: 238.31 g/mol
 

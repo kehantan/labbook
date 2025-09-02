@@ -1,7 +1,7 @@
 .. _agarose:
 
-Agarose (5%)
-============
+Agarose
+=======
 
 **Objective:** To prepare 5% agarose (w/v). 
 

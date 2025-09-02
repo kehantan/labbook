@@ -5,6 +5,7 @@ Sodium chloride (NaCl)
 
 **Objective:** To prepare NaCl stock solution.  
 
+* Est. preparation time = 15 mins 
 * Concentration = 5 M, Volume = 250 mL.
 * NaCl MW: 58.44 g/mol
 

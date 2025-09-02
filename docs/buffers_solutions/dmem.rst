@@ -5,8 +5,7 @@ DMEM
 
 **Objective:** To prepare DMEM solution from DMEM powder. 
 
-Estimated time needed: 1 hr
-
+* Est. preparation time = 1 hr
 * Read the packaging or search the data sheet online before preparing DMEM. Because at different times we might order different brands of DMEM powder and different manufacturer would left out different ingredients such as sodium bicarbonate or HEPES. We need to measure the amount of the missing ingredients and manually add them when preparing the media. 
 * DMEM can be prepared on bench, but filter in BSC. 
 
