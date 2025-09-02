@@ -7,7 +7,6 @@ Recipes for various buffers and solutions.
 .. toctree::
    :maxdepth: 1
 
-   buffers_solutions/2_dmem
    buffers_solutions/10_dmem
    buffers_solutions/agarose
    buffers_solutions/aps

@@ -251,18 +251,20 @@ Dialysis
 * Syringe
 * Needle 
 * Microcentrifuge tube (1.5 mL)
+* :ref:`Buffer D <buffer_d>`
 
 **Procedure** 
 
 #. Pre-cool Buffer D to 4 C at least 30 mins before starting dialysis. 
-#. Submerge the cassette in to Buffer D for 5 to 10 mins. 
+#. Add 1 L of Buffer D into a beaker. 
+#. Submerge the dialysis cassette in to Buffer D for 5 to 10 mins. 
 #. Remove the cassette from the buffer. 
-#. Using a syringe and needle, transfer the fractions from centrifuge tube into the cassette. 
+#. Using a syringe and needle, transfer the selected fractions from centrifuge tube into the cassette. 
 #. Submerge the cassette into Buffer D. 
-#. Leave the set up in the cold room for 1 hr. 
-#. After 1 hr, change to fresh buffer D. Leave the set up for another 1 hr. 
-#. After 1 hr, change to fresh buffer D. Leave the set up overnight. 
-#. Collect the dialysised solution from cassette into multiple microcentrifuge tube. 
+#. Leave the set up in the cold room for 2 hrs. 
+#. After 2 hrs, remove existing buffer and add fresh buffer D. Leave the set up for another 2 hrs. 
+#. After 2 hrs, remove existing buffer and add fresh buffer D. Leave the set up overnight. 
+#. Collect the dialysised solution from cassette into multiple microcentrifuge tube (1 mL/tube). 
 #. Store the purified protein at -80 C. 
 
 Item checklist
