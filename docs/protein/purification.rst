@@ -102,26 +102,27 @@ Buffers
 Protein extraction
 ------------------
 
+* Estimated time needed: 3 hrs
 * The bacterial pellet from the end of :ref:`expression <protein-expression>` procedure was stored at -80 C. Extraction and purification would proceed from there.  
-
-Estimated time needed: 2 hr
+* Schematics `here <https://docs.google.com/presentation/d/1BdfENuEXn2LxE8Z-RVcmCcj58yvbUPIr10xUoM2XLIg/edit?usp=sharing>`_.
 
 **Materials**
 
-* Ice box filled with ice
-* Plastic bucket filled with ice 
+* Ice box
+* Plastic bucket
+* Ice 
 * Microcentrifuge tube (1.5 mL)
 * Centrifuge tube (15 mL and 50 mL)
 * Ni-NTA resin 
-* Lysis buffer
-* Buffer B
+* :ref:`Lysis buffer <lysis_buffer>`
+* :ref:`Buffer B <buffer_b>`
 * Rotator
 * Micropipette and tips (1000 uL)
 * Waste beaker
 * Paper towel
 * Plastic beaker (10 mL)
-* Micropipette 
-* Micropipette tips 
+* Refrigerated centrifuge (can fit 50 mL centrifuge tube)
+* Refrigerated microcentrifuge (can fit 1.5 mL microcentrifuge tube)
 
 **Procedure**
 
@@ -172,6 +173,8 @@ Estimated time needed: 2 hr
 
 Protein purification (after lysis)
 ----------------------------------
+
+* Estimated time needed: 4 hrs
 
 #. Remove supernatant from the centrifuged tube.
 
@@ -231,7 +234,7 @@ Protein purification (after lysis)
 SDS-PAGE for protein purification
 ---------------------------------
 
-* Refer to :ref:`SDS-PAGE <sds-page>` for the protocol. 
+* Refer to :ref:`SDS-PAGE <sds-page>` 
 
 Dialysis
 --------
@@ -252,7 +255,7 @@ Dialysis
 **Procedure** 
 
 #. Pre-cool Buffer D to 4 C at least 30 mins before starting dialysis. 
-#. Submerge the cassette in to Buffer D for 15 to 30 mins. 
+#. Submerge the cassette in to Buffer D for 5 to 10 mins. 
 #. Remove the cassette from the buffer. 
 #. Using a syringe and needle, transfer the fractions from centrifuge tube into the cassette. 
 #. Submerge the cassette into Buffer D. 
@@ -279,12 +282,12 @@ Item checklist
 * Centrifuge tube (15 mL, 50 mL)
 * Ni-NTA resin 
 * Rotator
-* Micropipette 
-* Micropipette and tips (1000 uL)
+* Micropipette (200, 1000 uL)
+* Micropipette and tips (200, 1000 uL)
 * Waste beaker
 * Paper towel
-* Plastic beaker (10 mL)
-* Dialysis Cassette, 3,500 MWCO
+* Plastic beaker (~10 mL)
+* Dialysis Cassette (3,500 MWCO)
 * Beaker (1 L)
 * Magnetic stirrer
 * Retort stand
@@ -292,3 +295,4 @@ Item checklist
 * Needle 
 * NaOH
 * Schott bottle
+* Plastic column for elution
