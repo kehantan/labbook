@@ -10,12 +10,13 @@ Schematics of MTT assay general workflow can be found `here <https://docs.google
 
 The general protocol for MTT with Vero cells was described by :footcite:t:`guillen2022effect,marin2021curcumin`.
 
-MTT assay is a very common assay, you can find a lot of published articles that optimised MTT assays for different purposes. You don't have to strictly follow the parameters in this protocol. The parameters used in this protocol are the ones that is good enough for my experiments. If you are using other cell lines, refer to other sources for different parameters. 
+* MTT assay is a very common assay, you can find a lot of published articles that optimised MTT assays for different purposes. 
+* You don't have to strictly follow the parameters in this protocol. The parameters used in this protocol are the ones that is good enough for my experiments. But the general idea is similar for all cell lines. If you are using other cell lines, refer to other sources for specific parameters. 
 
 Some important parameters to take note of including: 
 
     * Number of cells to seed in each well 
-    * the amount of reagent to use (PBS, trypsin, DMEM, DMSO, MTT, etc.)
+    * the amount/concentration of reagent to use (PBS, trypsin, DMEM, DMSO, MTT, etc.)
     * time of incubation (12, 24, 36, 48 hrs, etc.) 
 
 Planning
@@ -56,7 +57,7 @@ In total, we need 250,000 cells in 5 mL of media, which makes the concentration 
 Trypsinise, count, seed
 -----------------------
 
-Estimated time needed: 1 hr
+* Estimated time required: 1 hr
 
 **Materials**
 
@@ -134,8 +135,7 @@ In summary, we need to put **83.3 uL of cell suspension** into **4916.7 uL of me
 Treatment
 ---------
 
-Estimated time needed: 1 hr
-
+* Estimated time required: 1 hr
 * Treatment is where we treat our seeded cells with the compounds we wanted to test. 
 * Before treatment, calculate the concentration of compound we need. Usually a serial dilution will do. There are serial dilution calculator online that can help us to calculate the dilution. Refer to :ref:`serial dilution <serial dilution>` section. 
 * Assume we seeded cells in 5 different wells for each concentration in the previous step, we would need enough volume of complete DMEM+compound. In this case, :code:`100 uL * 5 wells = 500 uL`, but again, to compansate for pipette error, we can prepare 600 uL, a 100 uL extra. This means after the serial dilution, we should have 600 uL of complete DMEM+compound, with final concentration the we wanted to test in each microcentrifuge tube. 
@@ -168,8 +168,7 @@ Estimated time needed: 1 hr
 Add MTT, read absorbance
 ------------------------
 
-Estimated time needed: 4 hrs 
-
+* Estimated time required: 4 hrs 
 * This procedure can be carried out either in the biosafety cabinet or at bench.
 * Remember to reduce as much light source as possible (i.e.: turn off lights in lab or in BSC) as MTT is light sensitive. 
 
@@ -197,7 +196,7 @@ Estimated time needed: 4 hrs
 #. Wrap well plates in aluminium foil to keep the MTT reagent from light. 
 #. Incubate. 37 C, 5% CO2, 1-4 hrs.
 
-    * There are no strict rules for how long the incubation period should be, you can try to optimise, but be consistant. If you decided to incubate for 2 hrs, then incubate 2 hrs everytime you do MTT assay.  
+    * Different literature report different incubation time, you can try to optimise, but be consistant. If you decided to incubate for 2 hrs, then incubate 2 hrs everytime you do MTT assay.  
 
 #. After 1-4 hrs of incubation, remove the 96 well plate from incubator.
 

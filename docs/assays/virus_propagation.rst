@@ -9,7 +9,7 @@ Virus propagation
 Infection
 ---------
 
-* Estimated time needed: 10 mins
+* Estimated time required: 10 mins
 
 **Materials**
 
@@ -39,7 +39,7 @@ Infection
 Harvest
 -------
 
-* Estimated time needed: 30 mins
+* Estimated time required: 30 mins
 * If media turns yellow, but cells still attached, harvest the media then add fresh media into the flask and continue incubation. Repeat the process until nearly all cells (>90%) detached from the flask. So there could be multiple batch of harvested virus for a single culturing flask. However, the virus titer might be different for each batch of harvest. 
 
 **Materials**

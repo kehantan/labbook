@@ -102,7 +102,7 @@ Buffers
 Protein extraction
 ------------------
 
-* Estimated time needed: 3 hrs
+* Estimated time required: 3 hrs
 * The bacterial pellet from the end of :ref:`expression <protein-expression>` procedure was stored at -80 C. Extraction and purification would proceed from there.  
 * Schematics `here <https://docs.google.com/presentation/d/1BdfENuEXn2LxE8Z-RVcmCcj58yvbUPIr10xUoM2XLIg/edit?usp=sharing>`_.
 
@@ -174,7 +174,7 @@ Protein extraction
 Protein purification (after lysis)
 ----------------------------------
 
-* Estimated time needed: 4 hrs
+* Estimated time required: 4 hrs
 
 #. Remove supernatant from the centrifuged tube.
 
@@ -239,6 +239,7 @@ SDS-PAGE for protein purification
 Dialysis
 --------
 
+* Estimated time required: 6.5 hrs 
 * This procedure needs to be carried out in cold room.
 * Select 2 to 3 fractions containing the target protein based on the result from SDS-PAGE.  
 

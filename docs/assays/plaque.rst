@@ -12,16 +12,16 @@ Plaque assay
 Trypsininse, cell count, seed cells
 ------------------------------------
 
+* Estimated time required: 1 hrs
 * Amount of cells harvested from a T75 flask with 80% confluency should be sufficient to seed at least two 6 well plate with 450,000 cells in each well for next day virus infection.
 * Number of cells to be seeded into each well depends on which day you want to do infection. 
  
-    * Seed 6 well plate with 450,000 cells per well for next day infection 
-    * Seed 6 well plate with 350,000 cells per well for infection after 2 days 
+    * Seed 6 well plate with 450,000 cells per well for next day infection  
     * Seed 12 well plate with 170,000 cells per well for next day infection
 
 **Materials**
 
-* :ref:`2% DMEM <2 dmem>`
+* :ref:`DMEM with 2% FBS <2 dmem>`
 * Trypsin
 * :ref:`Phosphate buffer saline (PBS) <pbs>`
 * Trypan blue 
@@ -59,6 +59,7 @@ Trypsinise, count, seed
 Infection
 ---------
 
+* Estimated time required: 2 hrs 
 * Before infection, check the cell confluency in the 6 well plate. The cells should be around 70-80% confluency. 
 * For steps involving virus, avoid using serological pipette, as our lab policy requires virus waste to be handled seperately and autoclaved before disposal. Autoclaving and disposing serological pipette can be a bit challenging due to its length.
 
@@ -78,17 +79,17 @@ Infection
 Virus stock serial dilution
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* Before the actual infection procedure, prepare a 10x serial diultion of virus from the virus stock. Other dilution factor may also be used depends on the situation. 
+* Prepare a 10x serial diultion of virus from the virus stock. Other dilution factor may also be used depending on the situation. 
 
-#. Label 5 microcentrifuge tube for different dilution factors: D1 - :math:`10^{-1}`, D2 - :math:`10^{-2}`, D3 - :math:`10^{-3}`, D4 - :math:`10^{-4}`, D5 - :math:`10^{-5}`.
+#. Label 5 microcentrifuge tube for different dilution factors: D1 - :math:`10^{-1}`, D2 - :math:`10^{-2}`, D3 - :math:`10^{-3}`, D4 - :math:`10^{-4}`.
 #. Add 450 uL of 2% DMEM into each tube. 
 #. Retrieve virus stock from -80 C and thaw virus stock in 37 C water bath. 
-#. Transfer 50 uL of virus stock into D1. Mix well by either pipette repeatedly or using a vortex.
+#. Add 50 uL of virus stock into D1. Mix well by either pipette repeatedly or using a vortex.
 #. Transfer 50 uL of diluted virus from D1 to D2. Mix well by either pipette repeatedly or using a vortex.
 #. Transfer 50 uL of diluted virus from D2 to D3. Mix well by either pipette repeatedly or using a vortex.
-#. Continue the process for each tube until the last tube. 50 uL from D5 can be discarded. 
+#. Transfer 50 uL of diluted virus from D3 to D4. Mix well by either pipette repeatedly or using a vortex.
 
-*Note:* Assuming we are infecting Vero cells with virus in 6 well plate, which uses 300 uL of virus containing media, so diluting the virus to final volume of 500 uL is sufficient. If infecting Vero cells in a 12 well plate, which would use only 100 uL of diluted virus, we can reduce the volume to 300 uL so we don't waste the media (e.g.: 30 uL of virus stock + 270 uL fresh 2% DMEM).
+*Note:* Assuming we are infecting Vero cells with virus in 6 well plate, which uses 300 uL of virus containing media, so diluting the virus to final volume of 450 uL is sufficient. If infecting Vero cells in a 12 well plate, which would use only 100 uL of diluted virus, we can reduce the volume to 300 uL so we don't waste the media (e.g.: 30 uL of virus stock + 270 uL fresh 2% DMEM).
 
 Infection
 ~~~~~~~~~
@@ -96,12 +97,13 @@ Infection
 #. Label each well in 6 well plate.
 
     +----------------------+----------------------+----------------------+
-    | NC                   | D2 - :math:`10^{-2}` | D4 - :math:`10^{-4}` |
+    | VC                   | D2 - :math:`10^{-2}` | D4 - :math:`10^{-4}` |
     +----------------------+----------------------+----------------------+
-    | D1 - :math:`10^{-1}` | D3 - :math:`10^{-3}` | D5 - :math:`10^{-5}` |
+    | D1 - :math:`10^{-1}` | D3 - :math:`10^{-3}` | NC                   |
     +----------------------+----------------------+----------------------+
 
     * NC = Negative control
+    * VC = Virus control (undiluted virus sample)
 
 #. Remove existing media from each well with serological pipette. 
 
@@ -116,19 +118,20 @@ Infection
     * There are actually no fixed amount to use, just need enough amount to cover the cell monolayer.
    
 #. Add 300 uL of 2% DMEM into NC well.
-#. Mix the virus by using a vortex or repeat pipetting. Transfer 300 uL of diluted virus from microcentrifuge tube into their corresponding wells (D1 into W1, D2 into W2 etc.).
-#. After all the wells were infected, tilt the plate back and forth and side to side to make sure the virus covers all the cells in the 6 well plate. 
+#. Mix the virus by using a vortex or repeat pipetting. Transfer 300 uL of diluted virus from microcentrifuge tube into their corresponding wells. For VC, add 300 uL of undiluted virus sample into the well. 
+#. After all the wells were infected, tilt the plate back and forth and side to side to make sure the virus covers all the cells evenly in the wells. 
 #. Incubate, 37 C, 1 hour. Tilt the plate every 20 mins. 
-#. 10 minutes before the infection period ends, prepare agarose overlay. 
+#. Around 15 minutes before the infection period ends, prepare agarose overlay. 
 
-*Note:* The section using 300 uL of liquid throughout the procedure, this is assuming the cells were cultured in a 6 well plate. The volume can be reduced to 150 uL if using 12 well plate. Adjust the volume accordingly if any other sizes of well plates were used. 
+*Note:* Infection uses 300 uL of liquid throughout the procedure, this is assuming the cells were cultured in a 6 well plate. The volume can be reduced to 150 uL if using 12 well plate. Adjust the volume accordingly if any other sizes of well plates were used. 
 
 Agarose overlay
 ~~~~~~~~~~~~~~~
 
 *Pre-warm agarose* 
 
-#. Around 20 mins before the infection period ends, melt the solidified agarose in a microwave oven. 
+#. Adjust water bath to 60 C.
+#. Around 15 mins before the infection period ends, melt the solidified agarose in a microwave oven. 
   
     * **CAUTION!** Loosen the cap of the agarose bottle before microwave, pressure built up can cause explosion! 
     * Heat until the agarose melts and boils, but do not let agarose boils for too long, as it will evaporate the water content in the agarose, changing the agarose concentration. 
@@ -146,7 +149,7 @@ Agarose overlay
 
 #. Bring agarose from water bath into BSC. 
 #. In a 50 ml centrifuge tube, prepare an agarose to 2% media mixture of 1:9 ratio (1.2 mL of agarose into 10.8 mL of media). Mix the agarose and 2% DMEM mixture either by repeat pipetting or invert the centrifuge tube few times.
-#. Remove existing media from the 6 well plate. 
+#. Remove virus from the 6 well plate. 
 
     * Don't use serological pipette for this step, use micropipette. 
     * Use different pipette tips for each well to prevent cross contamination.
@@ -174,14 +177,18 @@ Agarose overlay
 
 #. Incubate, 37 C, 2% CO2, 5-7 days. 
 
-*Note1:* 12 mL of agarose overlay mixture is sufficient for a 6 well plate. For 12 well plate, can prepare 13 mL of agarose overlay mixture. The ratio of agarose to 2% DMEM used in this protocol is 1:9. There are some optimisation required depends on the condition of the agarose. Ratio of agarose to 2% DMEM can be changd to 1.5:8.5 or 2:8. But keep in mind that too much agarose can cause the overlay to be too solid, which will create plaques with very tiny size; whereas too less agarose can cause the overlay to be too fluid, which creates plaques with larger sizes. Either outcome might alter the plaque size too much to a point where the plaques can be difficult to count, which is undesirable.  
+*Note1:* 
+
+* 12 mL of agarose overlay mixture is sufficient for a 6 well plate (1.5 mL/well). For 12 well plate, can prepare 13 mL of agarose overlay mixture (1 mL/well). 
+* The ratio of agarose to 2% DMEM used in this protocol is 1:9. There are some optimisation required depends on the condition of the agarose. Ratio of agarose to 2% DMEM can be changd to 1.5:8.5 or 2:8. But keep in mind that too much agarose can cause the overlay to be too solid, which will create plaques with very tiny size; whereas too less agarose can cause the overlay to be too fluid, which creates plaques with larger sizes. Either outcome might alter the plaque size too much to a point where the plaques can be difficult to count, which is undesirable.  
 
 *Note2:* When working with virus samples, our lab have specific procedure to dispose the virus related waste. Refer to section :ref:`below <clean_up>`.
 
 Fix and stain 
 -------------
 
-* Fixing and staining of 6 well plate can be done on bench or laminar flow in lab. 
+* Estimated time required: 1 hr
+* Fixing and staining of 6 well plate in laminar flow in the lab. 
 
 **Materials**
 
@@ -195,14 +202,15 @@ Fix and stain
 
 **Procedure**
 
-#. Add 300 uL of 3.7% PFA into each well to fix the cells for 10-30 mins.
+#. Retrive 6 well plate from incubator and placed inside laminar flow in the lab.
+#. Add 300 uL of 3.7% PFA into each well to fix the cells for 20-30 mins. Tilt the plate to make sure PFA covers all the cells. 
     
     * Use the micropipette for bench use.
     * There are no fix volume, just need to cover the cell layer. 300 uL should be enough. 
     * Dispense from the wall of each well. 
     * It is normal for the agarose to torn apart or disintegrate once PFA was applied. 
 
-#. Remove PFA after fixing. 
+#. Remove PFA. 
 
     * Remove PFA from the corner of the well to prevent scratching the cells. 
     
@@ -214,14 +222,14 @@ Fix and stain
 #. Decant excess water from 6 well plate by slightly tapping the well plate facing downwards on a paper towel. 
 #. Add 300 uL of crystal violet into each well. 
 
-    * No fix volume required, just need to cover the cell layer. 300 uL should be sufficient for one well. 
+    * No fix volume required, just need to cover the cell layer. 300 uL should be sufficient for a single well. 
     * Tilt the plate to make sure crystal violet covers the all areas within the wells. 
 
 #. Tilt the plate for 3 to 5 mins. 
-#. Remove the crystal violet from the corner of the wells.
+#. Remove the crystal violet from the edge of the wells.
 #. Rinse the plate in a bucket of water for a few times to wash away excess crystal violet. 
 
-    * Same procedure to how we rinse away the agarose overlay.  
+    * Same procedure as how to rinse away the agarose overlay as mentioned above.  
 
 #. Decant excess water from the 6 well plate by slightly tapping the plate facing downwards on a paper towel. 
 #. Leave the plate on bench to air dry. 

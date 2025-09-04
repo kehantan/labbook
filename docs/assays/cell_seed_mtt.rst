@@ -5,13 +5,10 @@ Cell seeding for MTT assay
 
 **Objective:** Seed cells for MTT assay.
 
-Estimated time needed: 1 hr
-
-:ref:`cell seeding for MTT assay <cell seed mtt>`
-
-After we know how much cells we have, we now need to know how much cells we need to take from the cell suspension and dilute in complete DMEM to make the final mixture we want. 
-
-Assume after counting the cells, we have: :code:`300*10^4 cells/mL`, but we only need :code:`5*10^4 cells/mL` (Remember we calculate this value before we begin the procedure). 
+* Estimated time needed: 1 hr
+* :ref:`cell seeding for MTT assay <cell seed mtt>`
+* After we know how much cells we have, we now need to know how much cells we need to take from the cell suspension and dilute in complete DMEM to make the final mixture we want. 
+* Assume after counting the cells, we have: :code:`300*10^4 cells/mL`, but we only need :code:`5*10^4 cells/mL` (Remember we calculate this value before we begin the procedure). 
 
 Using  
 
@@ -21,7 +18,7 @@ Using
         300*10^4 cells/mL * V1 = 5*10^4 cells/mL * 5 mL
         V1 = 0.0833 mL (~83.3 uL) 
     
-In summary, we need to put **83.3 uL of cell suspension** into 4916.7 uL of media. But since the volume difference is negligible, we would just round up to **5,000 uL** of media. 
+* In summary, we need to put **83.3 uL of cell suspension** into 4916.7 uL of media. But since the volume difference is negligible, we would just round up to **5,000 uL** of media. 
 
 **Materials**
 

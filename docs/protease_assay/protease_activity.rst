@@ -3,12 +3,12 @@ Protease activity assay
 
 **Objective:** To quantify the activity of the purified protease. 
 
-We need to know/have:
+We need to determine:
 
-* the volume of protease stock needed to serial dilute into different concentrations
+* the concentration of purified protease stock
 * the volume of substrate to add to each well 
-* Product standard curve
-
+* Product standard curve (AMC) -- to convert RFU into reaction velocity
+ 
 **Materials** 
 
 * Tris-HCl stock buffer (1M, pH 8.5)
@@ -22,25 +22,32 @@ We need to know/have:
 
 **Procedure**
 
-*Prepare working buffer*
+*Assay buffer*
 
-#. Add 1 mL of 1 M Tris-HCl stock buffer solution into 4 mL of distilled water to obtain 200 mM of Tris-HCl working buffer  solution at pH 8.5. 
+#. Add 1 mL of 1 M Tris-HCl stock buffer solution into 4 mL of distilled water to obtain 200 mM of Tris-HCl assay buffer solution at pH 8.5. 
 
     * Adjust the volume if necessary. The ratio of 1 M Tris-HCl to distilled water needed is 1:4 to make 200 mM Tris-HCl
 
 #. Mix well. Vortex if necessary. 
 
-*Protease activity assay*
+*Substrate dilution*
+
+#. Dilute substrate stock from 10 mM to 1 mM using assay buffer 200 mM Tris-HCl, pH 8.5. 
+
+    * Add 20 uL of substrate stock into 180 uL of assay buffer
+
+*Protease activity*
 
 #. Thaw the purified protease stored in -80 C. 
-#. Do 1/2 fold serial dilution of protease with working buffer to a final volume sufficient for 39 uL per well.
+#. Do a 2 fold serial dilution of protease with working buffer to a final volume sufficient for 32 uL per well.
 
     * Calculate sufficien volume for at least duplicate, triplicate if possible. 
+    * 2 fold Serial dilute by adding 200 uL of protease into 200 uL of assay buffer. Carry out ~7 dilution. 
 
-#. In a 384 well black plate, add 39 uL of the serial diluted protease into each well.
-#. In the blank well, add 39 uL of buffer. 
-#. Add 1 uL of substrate into each well. 
-#. Read plate at 350 nm excitation and 440 nm emission every 30 mins for total duration of 60 mins. 
+#. In a 384 well black plate, add 32 uL of the serial diluted protease into different wells.
+#. In the blank well, add 32 uL of buffer. 
+#. Add 8 uL of diluted substrate into each well, including the blank well. 
+#. Read plate at 350 nm excitation and 440 nm emission every 10 mins for total duration of 60 mins. 
 
 **Results**
 
@@ -56,7 +63,7 @@ m = Gradient of product standard curve
 
 t = Time of incubation 
 
-#. Subtratct all RFU values from negative control (0 uM of protease, only have buffer and substrate).
+#. Subtract all RFU values from negative control (0 uM of protease, only have buffer and substrate).
 #. Divide the value with the gradient of substrate standard curve. 
 #. Divide the value with incubation time, in mins (30 mins, 60 mins, 120 mins, etc.). 
 

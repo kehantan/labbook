@@ -5,7 +5,7 @@ Protein expression
 
 **Objective:** To culture bacteria that will express the target recombinant protein.  
 
-Dengue virus NS2B/NS3 serine protease expression and purification protocol modified from :footcite:t:`yusof_purified_2000,leung_activity_2001,`.
+* Dengue virus NS2B/NS3 serine protease expression and purification protocol modified from :footcite:t:`yusof_purified_2000,leung_activity_2001,`.
 
 **Workflow**
 
@@ -15,6 +15,8 @@ Dengue virus NS2B/NS3 serine protease expression and purification protocol modif
 
 Agar plate culture
 ------------------
+
+* Estimated time required: 1 hr
 
 **Materials** 
 
@@ -33,10 +35,12 @@ Agar plate culture
 Small scale culture
 -------------------
 
+* Estimated time required: 1 hr
+
 **Materials**
 
 * Centrifuge tube (15 mL)
-* Transformed *E. coli* cultured on LB agar plate 
+* Overnight culture of transformed *E. coli* on LB agar plate 
 * Plastic inoculation loop
 * Bunsen burner
 * Lighter 
@@ -47,10 +51,12 @@ Small scale culture
  
 #. Add 5 mL of LB broth into each 15 mL centrifuge tube.
 #. Pick a single *E. coli* colony from agar plate and mix with LB broth in the 15 mL centrifuge tube.
-#. Shake the centrifuge tube in incubator shaker, overnight, 37 C, 180 rpm.
+#. Loosen the cap of the tube and shake the centrifuge tube in an incubator shaker, overnight, 37 C, 180 rpm.
 
 Large scale culture
 -------------------
+
+* Estimated time required: 8 hrs 
 
 **Materials**
 
