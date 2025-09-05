@@ -3,12 +3,14 @@ Protease activity assay
 
 **Objective:** To quantify the activity of the purified protease. 
 
-We need to determine:
 
-* the concentration of purified protease stock
-* the volume of substrate to add to each well 
-* Product standard curve (AMC) -- to convert RFU into reaction velocity
- 
+* We need to determine:
+    * the concentration of purified protease stock
+    * the volume of substrate to add to each well 
+    * Product standard curve (AMC) -- to convert RFU into reaction velocity
+
+* See visual guide `here <https://docs.google.com/presentation/d/1O6VPsSYFLs5cjVarc6VdVJuFf3HdmGxObDM3o2Vy8zw/edit?usp=sharing>`_
+
 **Materials** 
 
 * Tris-HCl stock buffer (1M, pH 8.5)
