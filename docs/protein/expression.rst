@@ -6,6 +6,7 @@ Protein expression
 **Objective:** To culture bacteria that will express the target recombinant protein.  
 
 * Dengue virus NS2B/NS3 serine protease expression and purification protocol modified from :footcite:t:`yusof_purified_2000,leung_activity_2001,`.
+* Visual guide `here <https://docs.google.com/presentation/d/1gH0-5dTp8_Dy9wXiwBY4g0EoyiHlWtTPcg7z4TwViss/edit?usp=sharing>`_. 
 
 **Workflow**
 
