@@ -3,7 +3,7 @@
 Bradford assay
 ==============
 
-**Objective:** To plot a standard graph for protein concentration quantification and calculate the concentration of protein in a given sample.
+**Objective:** To plot a standard graph for protein concentration quantification and calculate the concentration of protein in a protein sample.
 
 *Bradford assay standard curve*
 
@@ -64,6 +64,8 @@ Quantification of protein sample
 #. Divide the absorbance value at 590 nm by absorbance value at 450 nm. 
 #. Plug the value into the formula obatined from BSA standard curve. Find the corresponding protein concentration from BSA standard curve.
 #. If the absorbance value for the protein sample exceeds the range of the BSA standard curve, dilute the protein sample and measure again. 
+
+*Note:* Optimal range of absorbance value for bradford assay should falls between 0.1 and 1.0 for an accurate representation of protein concentration. 
 
 https://www.protocols.io/view/bradford-protein-assay-protein-concentration-measu-kqdg3pd9ql25/v1?step=3&u=%2Fview%2Fbradford-protein-assay-protein-concentration-measu-kqdg3pd9ql25%2Fv1
 

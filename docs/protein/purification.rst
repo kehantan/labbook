@@ -267,6 +267,7 @@ Dialysis
 #. After 2 hrs, remove existing buffer and add fresh buffer D. Leave the set up overnight. 
 #. Collect the dialysised solution from cassette into multiple microcentrifuge tube (1 mL/tube). 
 #. Store the purified protein at -80 C. 
+#. Conduct Bradford assay to estimate concentration of the purified protein. 
 
 Item checklist
 --------------
