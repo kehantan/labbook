@@ -6,9 +6,9 @@ Protease inhibition assay
 * Reference for protease assay protocol: :cite:p:`ihssen_fluorogenic_2021`. 
 * There are several standard curve that need to be plotted before we carry out protease assay with the compounds that we wanted to test.  
 
-    * **Protease activity curve** From protease activity assay, we can find out the Km value of protease activity curve, which dictates how much protease to use for protease inhibition assay 
+    * **Protease activity curve** From protease activity assay, find out the Km value of protease activity curve, which dictates how much protease should be used for protease inhibition assay 
 
-    * **Substrate optimisation curve** From substrate optimisation assay, we can findout the Km value of substrate optimisation curve, which dictates how much substrate we should use for protease inhibition assay.  
+    * **Substrate optimisation curve** From substrate optimisation assay, find out the Km value of substrate optimisation curve, which dictates how much substrate should be used for protease inhibition assay.  
 
 **Requires**
 
@@ -17,42 +17,64 @@ Protease inhibition assay
 * DMSO 
 * Microcentrifuge tube
 * 384 black well plate
-* Micropipette and tips (1000 uL, 100 uL, 10 uL) 
+* Micropipette and tips  
 
 **Procedure**
 
 *Prepare working buffer*
 
-To prepare 200 mM from 1 M of Tris-HCl:
+To prepare 200 mM Tris-HCl working buffer from 1 M stock buffer:
 
-#. Add 200 uL of 1M Tris-HCl into 800 uL of distilled water. 
+#. Add 1 mL of 1M Tris-HCl into 4 mL of distilled water. 
+
+    * Other volumes can be prepared by using 1:4 ratio of stock buffer to disilled water.  
+
 #. Mix well. Vortex if necessary. 
 
-*Prepare working compound*
+*Prepare fluorogenic peptide substrate stock solution*
 
-* Prepare working compound serial diluted to various concentration from compound stock solution, by using DMSO.
-* Stock compound concentration = 20 mg/mL
-* First concentration of serial dilution = 500 ug/mL
+Follow instruction provided by manufacturer. Add DMSO into the substrate and mix well. 
 
-#. Prepare 8 microcentrifuge tube.
-#. Add 10 uL of DMSO into each microcentrifuge tube.
-#. Add 10 uL of stock compound into the first microcentrifuge tube. Mix well by pipette repeatedly.
-#. Transfer 10 uL of compound from first microcentrifuge tube to second microcentrifuge tube. Mix well by pipette repeatedly. 
-#. Repeat the process up to the last tube. 
+*Prepare test compound*
 
-*Inhition assay*
+* Test compound stock concentration ~ 20 mg/mL, in DMSO
+* From stock prepare working stock = 10 mM, dilute in DMSO
+* Serial dilute working stock in Tris-HCl 200 mM, pH 8.5 buffer.
 
-#. Label the wells to be used correctly on the lid of a 384 well black plate. 
-#. Thaw protease from -80 C. 
-#. Add correct amount of buffer into each well. 
++--------------------------+-----+-----+-----+-----+
+| No                       | 1   | 2   | 3   | ... |
++--------------------------+-----+-----+-----+-----+
+| Conc (uM)                | 800 | 400 | 200 | ... |
++--------------------------+-----+-----+-----+-----+
+| From 10 mM stock (uL)    | 8   | -   | -   | -   |
++--------------------------+-----+-----+-----+-----+
+| Buffer (uL)              | 92  | 50  | 50  | ... |  
++--------------------------+-----+-----+-----+-----+
+| Final conc. in well (uM) | 100 | 50  | 25  | ... |
++--------------------------+-----+-----+-----+-----+
+
+*Inhibition assay*
+
+#. Retrieve protease stock from -80 C, thaw at room temperature. 
+#. Add correct amount of Tris-HCl buffer into each well.
+
+    * Buffer to add = 40 uL - protease vol - substrate vol - compound vol
+    * Becaue protease volume required for assay can fluctuate based on the concentration of protease stock after purification, so I cannot provide a fixed volume in this protocol. You will have to calculate the amount needed for your assay based on how much protease you get after purification. 
+    * Anyhow, the final volume of liquid in each well should be 40 uL. Adjust the buffer volume accordingly.  
+
 #. Add correct amount of protease into each well. 
-#. Add 2 uL of diluted compound into wells assigned for different concentrations. 
-#. Incubate. 30 mins, 37 C. 
+
+    * According to Km from protease activity assay
+
+#. Add 5 uL of diluted compound into wells assigned for different concentrations. 
+#. Incubate, room temperature, 30 mins. 
 #. Thaw substrate from -20 C. 
-#. Retrieve well plate from incubator. 
-#. Add 1.6 uL of substrate into each well.
-#. Incubate. 120 mins, 37 C.  
-#. Read plate at 350 nm excitation and 440 nm emission.   
+#. Dilute substrate from 10 mM stock to 1 mM working stock in assay buffer.  
+#. Add correct amount of diluted substrate into each well.
+
+    * According to Km from substrate optimisation
+
+#. Read plate at 350 nm excitation and 440 nm emission every 2 mins over total of 60 mins.   
 
 **Analysis**
 
