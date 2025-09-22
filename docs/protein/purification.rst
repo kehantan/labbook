@@ -141,7 +141,8 @@ Protein extraction
 
     * Sonicator settings in Mol Med: output 10-20, duty cycle 70%, 2 sec on, 0.5 sec off, for 1-2 mins, on ice.   
     * Sonicator settings in FOP: Amp 35% (Max amp for probe is 40%, over 40% can risk breaking the probe), 2 sec on, 0.5 sec off, for 1-2 mins, on ice. 
-    * Sonicate until the suspension form a layer of froth. If froth does not form, repeat the sets until the suspension froth. Wait 2-5 mins between sets to cool the suspension down, as high heat output from sonication may denature the proteins.  
+    * Sonicate until the suspension form a layer of froth. If froth does not form, repeat the sets until the suspension froth. Wait 2-5 mins between sets to cool the suspension down, as high heat output from sonication may denature the proteins.
+    * Split the bacteria cell lysate to smaller volume or multiple portions and sonicate them seperately. It is more efficient this way instead of trying to sonicate the cell lysate all at once. 
 
 #. Transfer the homogenised suspension into a new 50 mL centrifuge tube. 
 #. Centrifuge. 8000 rpm, 4 C, 15 mins.  
