@@ -33,26 +33,38 @@ Protease activity assay
 
 *Substrate dilution*
 
-#. Dilute substrate stock from 10 mM to 1 mM using assay buffer 200 mM Tris-HCl, pH 8.5. 
+Dilute substrate stock from 10 mM to 1 mM using assay buffer. 
 
-    * Add 20 uL of substrate stock into 180 uL of assay buffer
+#. Add 20 uL of substrate stock into 180 uL of assay buffer to a final volume of 200 uL. 
 
-*Protease activity*
+*Protease dilution*
 
-#. Thaw the purified protease stored in -80 C. 
-#. Do a 2 fold serial dilution of protease with working buffer to a final volume sufficient for 32 uL per well.
++-----------------+---+-----+-----+-----+------+------+------+-------+-------+
+| Tube no.        | 1 | 2   | 3   | 4   | 5    | 6    | 7    | 8     | 9     | 
++-----------------+---+-----+-----+-----+------+------+------+-------+-------+
+| Buffer (uL)     | 0 | 120 | 120 | 120 | 120  | 120  | 120  | 120   | 120   |  
++-----------------+---+-----+-----+-----+------+------+------+-------+-------+
+| Dilution factor | 0 | 1/2 | 1/4 | 1/8 | 1/16 | 1/32 | 1/64 | 1/128 | 1/256 | 
++-----------------+---+-----+-----+-----+------+------+------+-------+-------+
 
-    * Calculate sufficien volume for at least duplicate, triplicate if possible. 
-    * 2 fold Serial dilute by adding 200 uL of protease into 200 uL of assay buffer. Carry out ~7 dilution. 
+* Transfer volume = 120 uL 
 
+*Protease activity assay*
+
+#. Retrieve the purified protease from -80 C and thaw at room temperature. 
+#. Do a 2 fold serial dilution of protease with working buffer. 
+
+    * Final volume of protease in each well = 32 uL/well.
+    * Calculate sufficient final volume of serial dilution that is sufficient for at least duplicate, triplicate if possible. 
+   
 #. In a 384 well black plate, add 32 uL of the serial diluted protease into different wells.
-#. In the blank well, add 32 uL of buffer. 
-#. Add 8 uL of diluted substrate into each well, including the blank well. 
-#. Read plate at 350 nm excitation and 440 nm emission every 10 mins for total duration of 60 mins. 
+#. In the blank well, add 32 uL of assay buffer. 
+#. Add 8 uL of 1mM substrate into each well, including the blank well. 
+#. Read plate at 350 nm excitation and 440 nm emission every 2 mins for total duration of 60 mins. 
 
 **Results**
 
-* The Michaelis-Menten curve can be plot directly using relative fluoresence unit (RFU) directly, Km value can still calculate the Km and Vmax. But the RFU can also be converted into reaction velocity for better data presentation.  
+* The Michaelis-Menten curve can be plot directly using relative fluoresence unit (RFU) directly, Km value can still be  calculated. But the RFU can also be converted into reaction velocity (uM/min) for better data presentation.  
 
 :math:`\text{Reaction velocity}(\mu M/min) = \frac{\frac{S-NC}{m}}{t}`
 
@@ -60,19 +72,19 @@ S = Sample
 
 NC = Negative control 
 
-m = Gradient of product standard curve 
+m = Gradient of product (AMC) standard curve 
 
 t = Time of incubation 
 
 #. Subtract all RFU values from negative control (0 uM of protease, only have buffer and substrate).
-#. Divide the value with the gradient of substrate standard curve. 
+#. Divide the value with the gradient of substrate (AMC) standard curve. 
 #. Divide the value with incubation time, in mins (30 mins, 60 mins, 120 mins, etc.). 
 
     * If the RFU values were obtained at 60 mins mark, then divide all values by 60  
 
 #. Analyse using non-linear regression model, Michaelis-Menten module in GraphPad Prism. 
 
-* The graphpad prism will automatically calculate the Vmax and Km value for us. We will need the Km value for substrate optimisation. 
-* If you plot the Michaelis-Menten plot using both RFU and reaction velocity, both graph should give you the same Km value.
+* The graphpad prism will automatically calculate the Vmax and Km value. Km value is required for substrate optimisation. 
+* If the Michaelis-Menten graph was plotted using both RFU and reaction velocity, both graph should give the same Km value.
 * Ideally, the curve should have at least 3 points on plateau. 
-* After getting the protease optimisation curve, we can proceed to do the substrate optimisation curve. 
+* After getting the protease optimisation curve, can proceed to do the substrate optimisation curve. 

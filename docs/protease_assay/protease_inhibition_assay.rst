@@ -46,7 +46,7 @@ Follow instruction provided by manufacturer. Add DMSO into the substrate and mix
 +--------------------------+-----+-----+-----+-----+
 | Conc (uM)                | 800 | 400 | 200 | ... |
 +--------------------------+-----+-----+-----+-----+
-| From 10 mM stock (uL)    | 8   | -   | -   | -   |
+| From 10 mM stock (uL)    | 8   |     |     |     |
 +--------------------------+-----+-----+-----+-----+
 | Buffer (uL)              | 92  | 50  | 50  | ... |  
 +--------------------------+-----+-----+-----+-----+
@@ -55,7 +55,7 @@ Follow instruction provided by manufacturer. Add DMSO into the substrate and mix
 
 *Inhibition assay*
 
-#. Retrieve protease stock from -80 C, thaw at room temperature. 
+#. Retrieve protease stock from -80 C and thaw at room temperature. 
 #. Add correct amount of Tris-HCl buffer into each well.
 
     * Buffer to add = 40 uL - protease vol - substrate vol - compound vol

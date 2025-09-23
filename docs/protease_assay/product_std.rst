@@ -22,7 +22,7 @@ Product (AMC) standard curve
 
 *Prepare AMC stock*
 
-#. Weight 10 mg (0.01 g) into a microcentrifuge tube. 
+#. Weight 10 mg (0.01 g) of AMC powder into a microcentrifuge tube. 
 #. Add 1 mL of DMSO into the microcentrifuge tube. 
 
 *AMC Serial dilution*
@@ -37,9 +37,9 @@ Product (AMC) standard curve
 +--------------------+------+------+------+-------+
 | Tube no.           | 1    | 2    | 3    | . . . | 
 +--------------------+------+------+------+-------+
-| Buffer volume (uL) | 91.2 | 50   | 50   | . . . |
+| Buffer vol. (uL)   | 91.2 | 50   | 50   | . . . |
 +--------------------+------+------+------+-------+
-| Conc (uM)          | 5000 | 2500 | 1250 | . . . | 
+| Conc. (uM)         | 5000 | 2500 | 1250 | . . . | 
 +--------------------+------+------+------+-------+
 
 *AMC standard curve* 
@@ -50,6 +50,6 @@ Product (AMC) standard curve
 
 **Results** 
 
-* Graph can be plotted using GraphPad Prism. 
+* Graph can be plotted using GraphPad Prism or Excel. 
 * The graph plotted should be linear. 
 * Use simple linear regression model to fit the line of best fit into the data points. 
