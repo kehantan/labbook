@@ -19,6 +19,7 @@ PMSF
 * Syringe
 * 0.22 um syringe filter
 * Spatula 
+* Weighing balance 
 
 **Procedure**
 

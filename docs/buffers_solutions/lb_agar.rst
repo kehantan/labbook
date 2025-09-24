@@ -12,8 +12,8 @@ LB agar
 * Petri dish 
 * Empty bottle
 * Spatula
-* Weighting scale 
-* Weighting boat
+* Weighing scale 
+* Weighing boat
 * Distilled water 
 * Autoclave
 * :ref:`Kanamycin (30 mg/mL) <kanamycin>` 
@@ -23,7 +23,8 @@ LB agar
 
 **Procedure**
 
-#. In an empty bottle, add 9.25 g of LB powder into 250 mL distilled water. 
+#. In an empty bottle, add 9.25 g of LB powder.
+#. Add 250 mL distilled water into the bottle. 
 #. Autoclave.
 
     * Set the autoclave mode to 'warm' instead or 'normal'. This would keep the agar at 60 C after autoclave is complete so the interior of autoclave would not cool to room temp and causes the agar to solidifies. 

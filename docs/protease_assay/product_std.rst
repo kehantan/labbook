@@ -13,6 +13,9 @@ Product (AMC) standard curve
 * Microcentrifuge tube/PCR tube
 * Waste beaker 
 * DMSO 
+* Weighing balance 
+* Weighing boat
+* Spatula 
 
 **Procedure**
 

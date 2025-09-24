@@ -15,7 +15,7 @@ IPTG
 * Distilled water
 * Centrifuge tube 
 * Vortex
-* Weighting balance
+* Weighing balance
 * Spatula 
 
 **Procedure**

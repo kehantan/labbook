@@ -14,6 +14,7 @@ Ammonium persulfate (APS)
 * Distilled water 
 * Microcentrifuge tube
 * Spatula
+* Weighing balance 
 
 **Procedure**
 

@@ -11,8 +11,8 @@ LB broth
 **Materials**
 
 * Erlenmeyer flask (2 L) 
-* Weighting balance
-* Weighting boat
+* Weighing balance
+* Weighing boat
 * Spatula 
 * LB broth powder 
 * Distilled water 
@@ -39,8 +39,8 @@ Prepare LB broth according to manufacturer instruction.
 **Materials**
 
 * Bottle
-* Weighting balance
-* Weighting boat
+* Weighing balance
+* Weighing boat
 * Spatula 
 * LB broth powder 
 * Distilled water 

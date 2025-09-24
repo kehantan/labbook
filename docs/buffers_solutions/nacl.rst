@@ -16,6 +16,7 @@ Sodium chloride (NaCl)
 * Disitlled water
 * Magnetic stirrer 
 * Weighing boat 
+* Weighing balance
 
 **Procedure**
 

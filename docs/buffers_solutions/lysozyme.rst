@@ -14,10 +14,12 @@ Lysozyme
 * Microcentrifuge tube
 * Distilled water 
 * Lysozyme powder 
+* Weighing balance
+* Spatula 
 
 **Procedure**
 
-#. Measure 10 mg (0.01 g) of lysozyme powder in a microcentrifuge tube. 
+#. Weight 10 mg (0.01 g) of lysozyme powder into a microcentrifuge tube. 
 #. Add 1 mL of distilled water into the microcentrifuge tube. 
 #. Mix well, vortex if necessary. 
 #. Label and store at 4 C. 

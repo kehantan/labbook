@@ -19,6 +19,9 @@ DMEM
 * Magnetic stirrer
 * Vacumm pump
 * HEPES
+* Weighing balance 
+* Weighing boat 
+* Spatula 
 
 **Procedure**
 

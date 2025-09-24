@@ -20,10 +20,12 @@ MTT reagent
 * Syringe
 * Syringe filter (0.22 um)
 * Aluminium foil
+* Weighing balance 
+* Spatula 
 
 **Procedure**
 
-#. Weight 0.05 g (50 mg) of MTT powder and transfer into a 15 mL centrifuge tube. 
+#. Weight 0.05 g (50 mg) of MTT powder and transfer into a centrifuge tube. 
 #. Add 10 mL of distilled water in to the centrifuge tube.
 
     * We can use either distilled water or PBS to dissolve MTT powder. 

@@ -15,7 +15,8 @@ Sodium hydroxide (NaOH)
 * 1 L empty bottle
 * Disitlled water
 * Magnetic stirrer
-* Weighing boat 
+* Weighing boat
+* Weighing balance
 * Spatula  
 
 **Procedure**

@@ -17,10 +17,11 @@ Kanamycin
 * 0.22 um syringe filter
 * Syringe
 * Vortex
+* Weighing balance
 
 **Procedure**
 
-#. Measure 0.3 g of Kanamycin into a centrifuge tube. 
+#. Weight 0.3 g of Kanamycin into a centrifuge tube. 
 #. Add 10 mL of distilled water into the centrifuge tube. 
 #. Mix well. Vortex if necessary. 
 #. Filter with 0.22 um syringe filter. 

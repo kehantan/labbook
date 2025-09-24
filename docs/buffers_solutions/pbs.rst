@@ -7,6 +7,7 @@ Phosphate buffer saline (PBS)
 
 * Prepare PBS solution according to manufacturer instruction. 
 * Concentration = 1x
+* Prepare accoding to manufacturer instruction
 
 **Materials**
 
