@@ -39,6 +39,8 @@ Dilute substrate stock from 10 mM to 1 mM using assay buffer.
 
 *Protease dilution*
 
+#. Prepare 9 microcentrifuge tube. 
+
 +-----------------+---+-----+-----+-----+------+------+------+-------+-------+
 | Tube no.        | 1 | 2   | 3   | 4   | 5    | 6    | 7    | 8     | 9     | 
 +-----------------+---+-----+-----+-----+------+------+------+-------+-------+

@@ -24,7 +24,7 @@ LB broth
 #. In a 2 L Erlenmeyer flask, add 12.5 g of LB powder in 500 mL distilled water. 
 #. Cover the mouth of the flask with aluminium foil. 
 #. Autoclave, 120 C, 15 mins. 
-#. Wait until the LB broth cools down to room temperature, then add Kanamycin into LB broth. 
+#. Wait until the LB broth cools down to room temperature, then add 500 uL of Kanamycin stock solution into the autoclaved LB broth. 
 
     * Kanamycin final concentration = 30 ug/mL.
 
@@ -32,7 +32,9 @@ LB broth
 
 .. _lb broth small:
 
-*Small volume*
+*Small volume (50 mL)*
+
+Prepare LB broth according to manufacturer instruction.
 
 **Materials**
 
@@ -49,8 +51,8 @@ LB broth
 
 #. In an empty bottle, add 1.25 g of LB broth powder into 50 mL distilled water.
 #. Autoclave, 120 C, 15 mins. 
-#. Wait until the LB broth cools down, then add Kanamycin stock solution into LB broth.
+#. Wait until the LB broth cools down to room temperature, add 50 uL of Kanamycin stock solution into the autoclaved LB broth.
 
     * Kanamycin final concentration = 30-50 ug/mL.
 
-#. Label and store on bench. 
+#. Label and store on bench or 4 C. 

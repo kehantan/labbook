@@ -23,7 +23,7 @@ Product (AMC) standard curve
 *Prepare AMC stock*
 
 #. Weight 10 mg (0.01 g) of AMC powder into a microcentrifuge tube. 
-#. Add 1 mL of DMSO into the microcentrifuge tube. 
+#. Add 1 mL of DMSO into the microcentrifuge tube. Final AMC stock concentration = 10 mg/mL. 
 
 *AMC Serial dilution*
 
