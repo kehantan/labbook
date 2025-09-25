@@ -4,7 +4,7 @@ Substrate stock solution
 **Objective:** To prepare substrate stock solution
 
 * Substrate usually comes in powder form. 
-* Dissolve the powder in solvent according to the instruction that comes with the substrate (usually DMSO). 
+* Dissolve the powder in DMSO according to the manufacturer instruction
 
 **Procedure**
 

@@ -74,7 +74,7 @@ Follow instruction provided by manufacturer. Add DMSO into the substrate and mix
 
     * According to Km from substrate optimisation
 
-#. Read plate at 350 nm excitation and 440 nm emission every 2 mins over total of 60 mins.   
+#. Read plate at 350 nm excitation and 440 nm emission every 2 mins for a total of 60 mins.   
 
 **Analysis**
 
