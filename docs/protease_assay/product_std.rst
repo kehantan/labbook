@@ -40,10 +40,16 @@ Product (AMC) standard curve
 +--------------------+------+------+------+-------+
 | Tube no.           | 1    | 2    | 3    | . . . | 
 +--------------------+------+------+------+-------+
-| Buffer vol. (uL)   | 91.2 | 50   | 50   | . . . |
+| Buffer vol. (uL)   | 95.6 | 50   | 50   | . . . |
 +--------------------+------+------+------+-------+
-| Conc. (uM)         | 5000 | 2500 | 1250 | . . . | 
+| AMC stock (uL)     | 4.4  | -    | -    | -     |
 +--------------------+------+------+------+-------+
+| Conc. (uM)         | 2500 | 1250 | 625  | . . . | 
++--------------------+------+------+------+-------+
+| Final conc. (uM)   | 250  | 125  | 62.5 | . . . |
++--------------------+------+------+------+-------+
+
+* Transfer volume = 50 uL
 
 *AMC standard curve* 
 
@@ -56,3 +62,26 @@ Product (AMC) standard curve
 * Graph can be plotted using GraphPad Prism or Excel. 
 * The graph plotted should be linear. 
 * Use simple linear regression model to fit the line of best fit into the data points. 
+
+**Calculations** 
+
+Adding AMC stock directly into the 384 well plate to get the desired concentration will result in pipetting extremely small volume and introduce error. Therefore an additional intermediate concentration was prepared. 
+
+* AMC MW = 175.18 g/mol
+* 10 mg/mL = 57,084.142 uM
+
+We would focus on the first concentration of the serial dilution. 
+
+C1V1 = C2V2
+
+57,084.142 uM * V1 = 2,500 uM * 100 uL 
+
+V1 = 4.4 uL + 95.6 uL working buffer
+
+We only add 4 uL of the AMC prepared on previous step into each well in the 384 well black plate, meaning the concentration of AMC is further diluted. 
+
+C1V1 = C2V2 
+
+2,500 uM * 4 uL = C2 * 40 uL 
+
+C2 = 250 uM

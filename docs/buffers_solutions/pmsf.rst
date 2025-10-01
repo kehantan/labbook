@@ -8,7 +8,7 @@ PMSF
 * Est. preparation time = 10 mins 
 * PMSF is not soluble in water, so have to use isopropyl alcohol. Other solvent like DMSO can also be used. 
 * PMSF is sensitive and can degrade easily in water, prepare freshly before use.  
-* Concentration = 10 mM, Volume = 5 mL 
+* Concentration = 10 mM, Volume = 10 mL 
 * PMSF MW = 174.19 g/mol
 
 **Materials**
