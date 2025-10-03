@@ -33,6 +33,6 @@ For example, to convert a pdb file into a mol2 file:
 
     ``obabel -i pdb ligand.pdb -o mol2 -O ligand.mol2``
 
-Sometimes when you download a ligand file in sdf format, it does have 3D coordinates. You can use the ``--gen3d`` option to generate a pdb file with 3D coordinates 
+Sometimes when you download a ligand file in sdf format, it does not have 3D coordinates for its atoms. You can use the ``--gen3d`` option to generate a pdb file with 3D coordinates 
 
     ``obabel -i sdf ligand.sdf -o pdb -O ligand.pdb --gen3d``

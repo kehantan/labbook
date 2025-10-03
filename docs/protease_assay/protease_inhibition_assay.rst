@@ -6,11 +6,11 @@ Protease inhibition assay
 * Reference for protease assay protocol: :cite:p:`ihssen_fluorogenic_2021`. 
 * There are several standard curve that need to be plotted before we carry out protease assay with the compounds that we wanted to test.  
 
-    * **Protease activity curve** From protease activity assay, find out the Km value of protease activity curve, which dictates how much protease should be used for protease inhibition assay 
+    * **Protease activity curve** From protease activity assay, find out the Km value of protease activity curve, which decides how much protease should be used for protease inhibition assay 
 
-    * **Substrate optimisation curve** From substrate optimisation assay, find out the Km value of substrate optimisation curve, which dictates how much substrate should be used for protease inhibition assay.  
+    * **Substrate optimisation curve** From substrate optimisation assay, find out the Km value of substrate optimisation curve, which decides how much substrate should be used for protease inhibition assay.  
 
-**Requires**
+**Materials**
 
 * Stock Tris-HCl buffer (1M, pH 8.5)
 * MCA substrate stock solution (10 mM)
@@ -38,17 +38,17 @@ Follow instruction provided by manufacturer. Add DMSO into the substrate and mix
 *Prepare test compound*
 
 * Test compound stock concentration ~ 20 mg/mL, in DMSO
-* From stock prepare working stock = 10 mM, dilute in DMSO
+* From stock solution, prepare working solution = 10 mM, dilute in DMSO
 * Serial dilute working stock in Tris-HCl 200 mM, pH 8.5 buffer.
 
 +--------------------------+-----+-----+-----+-----+
-| No                       | 1   | 2   | 3   | ... |
-+--------------------------+-----+-----+-----+-----+
-| Conc (uM)                | 800 | 400 | 200 | ... |
+| Tube no.                 | 1   | 2   | 3   | ... |
 +--------------------------+-----+-----+-----+-----+
 | From 10 mM stock (uL)    | 8   |     |     |     |
 +--------------------------+-----+-----+-----+-----+
-| Buffer (uL)              | 92  | 50  | 50  | ... |  
+| Working buffer (uL)      | 92  | 50  | 50  | ... |  
++--------------------------+-----+-----+-----+-----+
+| Conc. (uM)               | 800 | 400 | 200 | ... |
 +--------------------------+-----+-----+-----+-----+
 | Final conc. in well (uM) | 100 | 50  | 25  | ... |
 +--------------------------+-----+-----+-----+-----+
@@ -60,7 +60,7 @@ Follow instruction provided by manufacturer. Add DMSO into the substrate and mix
 
     * Buffer to add = 40 uL - protease vol - substrate vol - compound vol
     * Becaue protease volume required for assay can fluctuate based on the concentration of protease stock after purification, so I cannot provide a fixed volume in this protocol. You will have to calculate the amount needed for your assay based on how much protease you get after purification. 
-    * Anyhow, the final volume of liquid in each well should be 40 uL. Adjust the buffer volume accordingly.  
+    * The final volume of liquid in each well should be 40 uL. Adjust the buffer volume accordingly.  
 
 #. Add correct amount of protease into each well. 
 

@@ -72,16 +72,16 @@ Adding AMC stock directly into the 384 well plate to get the desired concentrati
 
 We would focus on the first concentration of the serial dilution. 
 
-C1V1 = C2V2
+:code:`C1V1 = C2V2`
 
-57,084.142 uM * V1 = 2,500 uM * 100 uL 
+:code:`57,084.142 uM * V1 = 2,500 uM * 100 uL` 
 
-V1 = 4.4 uL + 95.6 uL working buffer
+:code:`V1 = 4.4 uL + 95.6 uL working buffer`
 
 We only add 4 uL of the AMC prepared on previous step into each well in the 384 well black plate, meaning the concentration of AMC is further diluted. 
 
-C1V1 = C2V2 
+:code:`C1V1 = C2V2` 
 
-2,500 uM * 4 uL = C2 * 40 uL 
+:code:`2,500 uM * 4 uL = C2 * 40 uL`
 
-C2 = 250 uM
+:code:`C2 = 250 uM`

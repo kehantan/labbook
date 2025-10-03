@@ -1,6 +1,12 @@
 Protease assay
 ==============
 
+Protease assay optimisation workflow
+
+#. Protease concentration optimisation 
+#. Substrate concentration optimisation
+#. Protease inhibition assay
+
 .. toctree::
    :maxdepth: 1
 
