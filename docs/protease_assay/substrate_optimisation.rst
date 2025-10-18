@@ -28,7 +28,7 @@ Substrate optimisation
         * Fixed volume of 10 uL of substrate would be used.
         * Substrate concentration to be prepared: 1,000, 500, 250, 125, 62.5, 31.25 uM. Because only 10 uL of the substrate would be added into 90 uL of protease + buffer mixture, this cause the substrate to dilute 10 times in the final volume of 100 uL. 
 
-#. Add calculated amount of working buffer solution into 96 well black plate. 
+#. Add calculated amount of working buffer solution into 384 well black plate. 
 #. Add fixed amount of protease into 384 well black plate. 
 
     * According to the Km value obtained from protease activity assay

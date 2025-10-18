@@ -1,7 +1,7 @@
 Product (AMC) standard curve
 ============================
 
-**Objective:** To plot a standard curve for substrate used in protease assay. 
+**Objective:** To plot a product standard curve for enzymatic assay
 
 **Materials**
 
@@ -19,14 +19,14 @@ Product (AMC) standard curve
 
 **Procedure**
 
-*Prepare working buffer*
-
-#. Add 1 mL of stock buffer solution into 4 mL of distilled water, resulting in 200 mM of Tris-HCl buffer of pH 8.5.
-
 *Prepare AMC stock*
 
 #. Weight 10 mg (0.01 g) of AMC powder into a microcentrifuge tube. 
-#. Add 1 mL of DMSO into the microcentrifuge tube. Final AMC stock concentration = 10 mg/mL. 
+#. Add 1 mL of DMSO into the microcentrifuge tube. Final AMC stock solution concentration = 10 mg/mL (57,077.6256 uM). 
+
+*Prepare working buffer*
+
+#. Add 1 mL of stock buffer solution into 4 mL of distilled water, resulting in 200 mM of Tris-HCl buffer of pH 8.5.
 
 *AMC Serial dilution*
 
@@ -37,17 +37,17 @@ Product (AMC) standard curve
 #. Transfer 50 uL of mixture from second tube to third tube. Mix well using vortex or repeat pipetting.
 #. Repeat the process until last tube. 
 
-+--------------------+------+------+------+-------+
-| Tube no.           | 1    | 2    | 3    | . . . | 
-+--------------------+------+------+------+-------+
-| Buffer vol. (uL)   | 95.6 | 50   | 50   | . . . |
-+--------------------+------+------+------+-------+
-| AMC stock (uL)     | 4.4  | -    | -    | -     |
-+--------------------+------+------+------+-------+
-| Conc. (uM)         | 2500 | 1250 | 625  | . . . | 
-+--------------------+------+------+------+-------+
-| Final conc. (uM)   | 250  | 125  | 62.5 | . . . |
-+--------------------+------+------+------+-------+
++---------------------------------+------+------+------+-------+
+| Tube no.                        | 1    | 2    | 3    | . . . | 
++---------------------------------+------+------+------+-------+
+| Working buffer vol. (uM)        | 95.6 | 50   | 50   | . . . |
++---------------------------------+------+------+------+-------+
+| AMC stock (uL)                  | 4.4  | -    | -    | -     |
++---------------------------------+------+------+------+-------+
+| Conc. (uM)                      | 2500 | 1250 | 625  | . . . | 
++---------------------------------+------+------+------+-------+
+| Final conc. in each well (uM)   | 250  | 125  | 62.5 | . . . |
++---------------------------------+------+------+------+-------+
 
 * Transfer volume = 50 uL
 

@@ -132,7 +132,7 @@ Prepare sample
 
 **Procedure**
 
-#. Prepare PCR tube and label them. 
+#. Prepare and label PCR tube. 
 #. Add sample and sample buffer into the PCR tubes at a 1:1 ratio. 
 
     * 10 uL of sample + 10 uL of sample buffer. 
@@ -151,18 +151,17 @@ Sample loading
 --------------
 
 * Depends on the gel you casted (there are different thickness for the gels), the volume of the sample wells can varies. 
-* I usually just use 10 uL of the sample prepare on previouse steps. 
 
 **Materials**
 
-* Ladder 
+* Protein marker 
 * Micropipette (10 uL)
 * Micropipette tips (10 uL)
 
 **Procedure**
 
-#. Add 3 uL of ladder into the first well in the gel. 
-#. Add 10 uL of the prepared sample into each remaining well.   
+#. Add 3 to 5 uL of protein marker into the first well in the gel. 
+#. Add 10 uL of the prepared protein sample into other wells.   
 
 Running gel
 -----------
@@ -181,11 +180,13 @@ Running gel
 
 #. Set the power supply unit. 
 
-    * 300 V, 50 amp, 75 mins.
-    * For some older units, the voltage might not be constantly sitting at 300 V. It is alright as long as the amp is stable. 
-
+    * Constant volts, 100 V, run gel for 120 mins.
+   
 #. Start the electrophoresis. 
-#. Observe the progress of the eletrophoresis about every 15 to 20 mins to make sure not to overrun. Stop the electrophoresis when the ladder reaches about 1 cm from the bottom of the gel. 
+
+    * Pay attention to potential problems like leakage, low voltage, etc. 
+
+#. Observe the progress of the eletrophoresis about every 15 to 20 mins to make sure not to overrun. Stop the electrophoresis when the protein marker reaches about 1 cm from the bottom of the gel. 
 
 Remove gel
 ----------
@@ -198,9 +199,9 @@ Remove gel
 **Procedure**
 
 #. Lift the cassette from the tank. 
+#. Pour buffer from inner compartment into the tank. 
 #. Release the clamp. 
 #. Remove the dummy plate. 
-#. Decant buffer from inner compartment into the tank. 
 #. Remove the glass plates. 
 #. Carefully pry open the glass plates and lift the shorter glass plate. 
 #. Remove the stacking gel by slicing it off with the glass plate. 
@@ -300,12 +301,12 @@ Item checklist
 * 30% Acrylamide/bis (PAGE Pre-solution)
 * Tris-HCl
 * NaOH
-* SDS powder
-* APS powder
+* SDS 
+* APS 
 * Distilled water
 * TEMED 
 * Mdicropipette and tips
-* Beaker (25 mL)
+* Beaker 
 * Microcentrifuge tube
 * PCR tube 
 * Waste beaker 
@@ -315,17 +316,13 @@ Item checklist
 * Gel casting glass plate clamp 
 * Gel casting cassette 
 * Gel casting base 
-* Tris base powder
-* Glycine powder 
-* Coomassie blue powder
+* Tris base 
+* Glycine 
+* Coomassie blue 
 * Methanol
 * Ethanol 
 * Acetic acid 
 * Distilled water or MilliQ water 
 * Measuring cylinder
-* Bottle (500 mL)
-* Filter (0.45 um)
-* Syringe 
-* Glycine
-* Tris-base
-* SDS
+* Bottle
+* Syringe filter  
