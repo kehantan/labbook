@@ -7,7 +7,7 @@ Enzyme progress curve
 
 * Tris-HCl stock buffer (1M, pH 8.5)
 * Purified protease (with known concentrations in ug/mL or uM) 
-* MCA substrate stock solution (10 mM)
+* Fluorogenic peptide substrate stock solution (10 mM)
 * DMSO
 * 384 well black plate 
 * Micropipette 
@@ -18,10 +18,7 @@ Enzyme progress curve
 
 *Assay buffer*
 
-#. Add 1 mL of 1 M Tris-HCl stock buffer solution into 4 mL of distilled water to obtain 200 mM of Tris-HCl assay buffer solution at pH 8.5. 
-
-    * Adjust the volume if necessary. The ratio of 1 M Tris-HCl to distilled water needed is 1:4 to make 200 mM Tris-HCl
-
+#. Add 0.5 mL of 1 M Tris-HCl stock buffer solution into 4.5 mL of distilled water to obtain 200 mM of Tris-HCl assay buffer solution at pH 8.5. Adjust the volume if necessary. 
 #. Mix well. Vortex if necessary. 
 #. Leave at bench for later use. 
 
@@ -37,13 +34,16 @@ Enzyme progress curve
 
 *Substrate serial dilution*
 
-#. Prepare 6 microcentrifuge tubes. 
-#. Add 112.5 uL of assay buffer into first tube. 
-#. Add 50 uL of assay buffer into remaining tubes. 
-#. Add 37.5 uL of substrate stock into first tube (2,500 uM, 150 uL).
-#. Transfer 75 uL of mixture from first tube to second tube, mix well by repeat pipetting. Transfer 75 uL of mixture from second tube to third tube, mix well by repeat pipetting. Repeat this step until the last tube. 
+#. Prepare 7 microcentrifuge tubes. 
+#. Add 30 uL of assay buffer into first tube. 
+#. Add 20 uL of assay buffer into remaining tubes. 
+#. Add 10 uL of substrate stock into first tube (2,500 uM, 40 uL).
+#. Transfer 20 uL of mixture from first tube to second tube, mix well by repeat pipetting. Transfer 20 uL of mixture from second tube to third tube, mix well by repeat pipetting. Repeat this step until the last tube. 
 #. Add 4 uL of substrate into corresponding wells. 
-#. Add 40 uL of assay buffer into empty wells as blank. 
+#. Add 36 uL of assay buffer + 4 uL of substrate into empty wells as blank. 
 
-Optional: Split substrate into smaller volume (10 uL) for each concentration before added into 384 well plate to prevent cross contamination.
+Optional: Split serial diluted substrate into smaller volume for each enzyme concentration before added into 384 well plate to prevent cross contamination.
 
+* This procedure demonstrated using 250 uM of substrate. 
+* Repeat the whole procedure using various substrate concentration, i.e.: 125 uM, 62.5 uM, etc.
+* All can be done in a single plate if planned accordingly.  

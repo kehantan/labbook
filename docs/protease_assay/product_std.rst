@@ -44,7 +44,7 @@ Product (AMC) standard curve
 +---------------------------------+------+------+------+-------+
 | Working buffer vol. (uM)        | 95.6 | 50   | 50   | . . . |
 +---------------------------------+------+------+------+-------+
-| AMC stock (uL)                  | 4.4  | \-   | -    | -     |
+| AMC stock (uL)                  | 4.4  | \-   | \-   | \-    |
 +---------------------------------+------+------+------+-------+
 | Conc. (uM)                      | 2500 | 1250 | 625  | . . . | 
 +---------------------------------+------+------+------+-------+
@@ -82,8 +82,8 @@ We would focus on the first concentration of the serial dilution.
 
 Only add 4 uL of the AMC prepared on previous step into each well in the 384 well black plate, meaning the concentration of AMC is further diluted. 
 
-:code:`C1V1 = C2V2` 
-
-:code:`2,500 uM * 4 uL = C2 * 40 uL`
-
-:code:`C2 = 250 uM`
+.. code-block:: 
+    
+    C1V1 = C2V2
+    2,500 uM * 4 uL = C2 * 40 uL
+    C2 = 250 uM
