@@ -35,9 +35,7 @@ Product (AMC) standard curve
 #. Prepare 7 microcentrifuge tube. 
 #. Add 95.6 uL of working buffer into the first tube. 
 #. Add 4.4 uL of AMC stock into the first tube. Mix well using vortex or repeat pipetting. 
-#. Transfer 50 uL of mixture from first tube to second tube. Mix well using vortex or repeat pipetting.
-#. Transfer 50 uL of mixture from second tube to third tube. Mix well using vortex or repeat pipetting.
-#. Repeat the process until last tube. 
+#. Transfer 50 uL of mixture from first tube to second tube. Mix well using vortex or repeat pipetting. Transfer 50 uL of mixture from second tube to third tube. Mix well using vortex or repeat pipetting. Repeat the process until last tube. 
 
 +---------------------------------+------+------+------+-------+
 | Tube no.                        | 1    | 2    | 3    | . . . | 
@@ -53,7 +51,7 @@ Product (AMC) standard curve
 
 * Transfer volume = 50 uL
 
-*AMC standard curve* 
+*In 384 well plate* 
 
 #. Add 36 uL of Tris-HCl working buffer into 384 well black plate according to number of concentrations of AMC to be tested. 
 #. Add 4 uL of each concentration of serial diluted AMC into designated wells. 

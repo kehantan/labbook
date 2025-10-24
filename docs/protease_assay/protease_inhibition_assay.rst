@@ -2,7 +2,8 @@ Protease inhibition assay
 =========================
 
 * Reference for protease assay protocol: :cite:p:`ihssen_fluorogenic_2021`. 
-* Do :ref:`enzyme progress curve <enzyme_progress>` before carry out inhibition assay to find out amount of enzyme and substrate needed.  
+* Do :ref:`enzyme progress curve <enzyme_progress>` before carry out inhibition assay to find out amount of enzyme and substrate needed. 
+* Enzyme = 15 uM, substrate = 125 uM, incubation time = 120 mins 
 
 **Materials**
 
@@ -17,9 +18,7 @@ Protease inhibition assay
 
 *Prepare working buffer*
 
-To prepare 100 mM Tris-HCl working buffer from 1 M stock buffer:
-
-#. Add 0.5 mL of 1M Tris-HCl into 4.5 mL of distilled water. 
+#. Prepare 100 mM Tris-HCl working buffer from 1 M stock buffer by adding 0.5 mL of 1M Tris-HCl into 4.5 mL of distilled water. 
 
     * Can adjust volume according to experiment needs 
 
@@ -38,13 +37,13 @@ To prepare 100 mM Tris-HCl working buffer from 1 M stock buffer:
 * Usually the max concentration to be tested is around 200 uM (can go higher, depends on the solubility and resulting DMSO concentration in each well). 
 * Number of compound concentration to be tested usually ~7 (can do more, assuming the amount of enzyme and substrate is sufficient), 1 additional for non-treated control. 
 
-*Inhibition assay*
+*Enzyme inhibition assay*
 
 #. Retrieve protease stock from -80 C and thaw at room temperature. 
 #. Add correct amount of Tris-HCl working buffer into each well.
 
     * Buffer to add = 40 uL - protease vol - substrate vol - compound vol
-    * Protease volume required for assay can fluctuate based on the concentration of protease stock after purification, so I cannot provide a fixed volume in this protocol. You will have to calculate the amount needed for your assay based on how much protease you get after purification. 
+    * Protease volume required for assay can fluctuate based on the concentration of protease stock after purification, so it is not possible to provide a fixed volume in this protocol. Calculate the amount needed for your assay based on how much protease you get after purification. 
     * The final volume of liquid in each well should be 40 uL. Adjust the buffer volume accordingly.  
 
 #. Add correct amount of protease into each well. 

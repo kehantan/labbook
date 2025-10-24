@@ -26,9 +26,9 @@ Enzyme progress curve
 
 #. Retrive purified protease from -80 C and thaw at room temperature. 
 #. Calculate volume of enzyme stock to be added into each well. 
-#. Add appropriate volume of enzyme into each well in a 384 well plate. 
+#. Add appropriate volume of enzyme into each well of a 384 well plate to the desired final enzyme concentration. 
 
-    * Enzyme concentration: 20, 15, 10, 5 uM 
+    * Final enzyme concentration in wells: 20, 15, 10, 5 uM 
 
 #. Top up each well with assay buffer until 36 uL. 
 
@@ -40,9 +40,11 @@ Enzyme progress curve
 #. Add 10 uL of substrate stock into first tube (2,500 uM, 40 uL).
 #. Transfer 20 uL of mixture from first tube to second tube, mix well by repeat pipetting. Transfer 20 uL of mixture from second tube to third tube, mix well by repeat pipetting. Repeat this step until the last tube. 
 #. Add 4 uL of substrate into corresponding wells. 
-#. Add 36 uL of assay buffer + 4 uL of substrate into empty wells as blank. 
 
-Optional: Split serial diluted substrate into smaller volume for each enzyme concentration before added into 384 well plate to prevent cross contamination.
+    * Optional: Split serial diluted substrate into smaller volume for each enzyme concentration before added into 384 well plate to prevent cross contamination.
+
+#. Add 36 uL of assay buffer + 4 uL of substrate (no enzyme) into empty wells as blank. 
+#. Read plate at 380 nm excitation and 445 nm emission every 2 mins for a total period of 9 hours. 
 
 * This procedure demonstrated using 250 uM of substrate. 
 * Repeat the whole procedure using various substrate concentration, i.e.: 125 uM, 62.5 uM, etc.
