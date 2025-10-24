@@ -1,7 +1,5 @@
 MTT assay
 =========
- 
-**Objective:** To find the toxicity level of a compound toward a cell line. 
 
 .. image:: images/MTT\ assay.png
     :width: 600
