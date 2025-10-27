@@ -39,6 +39,9 @@ Enzyme progress curve
 #. Add 20 uL of assay buffer into remaining tubes. 
 #. Add 10 uL of substrate stock into first tube (2,500 uM, 40 uL).
 #. Transfer 20 uL of mixture from first tube to second tube, mix well by repeat pipetting. Transfer 20 uL of mixture from second tube to third tube, mix well by repeat pipetting. Repeat this step until the last tube. 
+
+*In 384 well black plate*
+
 #. Add 4 uL of substrate into corresponding wells. 
 
     * Optional: Split serial diluted substrate into smaller volume for each enzyme concentration before added into 384 well plate to prevent cross contamination.
@@ -49,3 +52,8 @@ Enzyme progress curve
 * This procedure demonstrated using 250 uM of substrate. 
 * Repeat the whole procedure using various substrate concentration, i.e.: 125 uM, 62.5 uM, etc.
 * All can be done in a single plate if planned accordingly.  
+
+*Results*
+
+* Plot RFU or product concentration (y-axis) against time (x-axis). 
+* To find the Km and Vmax of the enzyme, plot reaction velocity against increasing concentration of substrate (enzyme concentration fixed).  

@@ -3,12 +3,12 @@ Protease inhibition assay
 
 * Reference for protease assay protocol: :cite:p:`ihssen_fluorogenic_2021`. 
 * Do :ref:`enzyme progress curve <enzyme_progress>` before carry out inhibition assay to find out amount of enzyme and substrate needed. 
-* Enzyme = 15 uM, substrate = 125 uM, incubation time = 120 mins 
+* Specifically for protease assay in our lab: enzyme = 15 uM, substrate = 125 uM, incubation time = 120 mins 
 
 **Materials**
 
 * Stock Tris-HCl buffer (1M, pH 8.5)
-* MCA substrate stock solution (10 mM)
+* Fluorogenic peptide substrate (MCA) stock solution (10 mM)
 * DMSO 
 * Microcentrifuge tube
 * 384 black well plate
