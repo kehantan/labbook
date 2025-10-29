@@ -15,10 +15,11 @@ Expression
 **Equipments**
 
 * Incubator shaker (2 L)
-* Microplate reader (can fit cuvette) or spectrophotometer (Absorbance) - To read OD when culturiing bacteria 
+* Microplate reader (can fit cuvette) or spectrophotometer (Absorbance) - To read OD for large scale culture 
 * Lighter 
 
 **Glasswares**
+
 * 2 L conical flask - For large scale culture 
 
 **Consummables**

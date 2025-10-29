@@ -6,7 +6,7 @@ SDS-PAGE
 * A single run of SDS-PAGE will usually eats up a whole day. This does not include time required to prepare all the buffers and gathering all required reagent. So plan the experiment accordingly and prepare the buffers at least 1 day before the actual procedure. 
 * Visual guide `here <https://wisc.pb.unizin.org/biochemistry551online/chapter/procedure-3/>`_
 * Generate gel casting recipe `here <https://www.cytographica.com/lab/acryl2.html>`_.
-* References: :cite:`manns_sdspolyacrylamide_2011`
+* References: :cite:p:`manns2011sds`
 
 Prepare gel 
 -----------
@@ -291,3 +291,7 @@ Clean up
 * The remaining gel solution in the small beaker from resolving gel and stacking gel would solidify over time. When this happens, break the gel (with any stuff you could find, like pipette tips or spatula) then dispose in the yellow bin. **DO NOT** throw in the sink, the solidified gel will clog up the piping system. 
 * Running buffers can be pour back into a bottle and reuse (usually not more than 5 times) or discard into the sink. 
 * Wash all apparatus and leave it to dry at the rack beside the sink.
+
+:cite:p:`manns2011sds`
+
+:cite:`manns2011sds`

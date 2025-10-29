@@ -59,8 +59,9 @@ Linearisation of Bradford assay
 
     * :math:`\frac{A_590}{A_450}`
 
-#. Plot the graph in GraphPad Prism or Microsoft Excel.
+**Results** 
 
-    * If using GraphPad Prism, use the linear regression model and fit the standard line into the data, better if R\ :sup`2` = 0.99.
-
-#. Obtain the formula that describe the line of best fit of BSA standard cruve, :math:`y=mx+c` 
+* Plot the graph in GraphPad Prism or Microsoft Excel.
+* If using GraphPad Prism, use the linear regression model and fit the standard line into the data, better if R\ :sup`2` = 0.99.
+* Examine plot, trendline should be linear 
+* Obtain the formula that describe the line of best fit of BSA standard cruve, :math:`y=mx+c` 
