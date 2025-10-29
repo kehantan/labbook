@@ -7,7 +7,7 @@ SDS-PAGE
 * Visual guide `here <https://wisc.pb.unizin.org/biochemistry551online/chapter/procedure-3/>`_
 * Generate gel casting recipe `here <https://www.cytographica.com/lab/acryl2.html>`_.
 * References: :cite:`manns_sdspolyacrylamide_2011`
-manns_sdspolyacrylamide_2011
+
 Prepare gel 
 -----------
 
