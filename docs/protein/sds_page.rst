@@ -6,8 +6,8 @@ SDS-PAGE
 * A single run of SDS-PAGE will usually eats up a whole day. This does not include time required to prepare all the buffers and gathering all required reagent. So plan the experiment accordingly and prepare the buffers at least 1 day before the actual procedure. 
 * Visual guide `here <https://wisc.pb.unizin.org/biochemistry551online/chapter/procedure-3/>`_
 * Generate gel casting recipe `here <https://www.cytographica.com/lab/acryl2.html>`_.
-* References: :cite:p:`manns_sdspolyacrylamide_2011`
-
+* References: :cite:`manns_sdspolyacrylamide_2011`
+manns_sdspolyacrylamide_2011
 Prepare gel 
 -----------
 
