@@ -3,17 +3,15 @@
 SDS-PAGE
 ========
 
-**Objective:** To run SDS-PAGE and check for fractions with target protein in protein purification process. 
-
 * A single run of SDS-PAGE will usually eats up a whole day. This does not include time required to prepare all the buffers and gathering all required reagent. So plan the experiment accordingly and prepare the buffers at least 1 day before the actual procedure. 
-* https://wisc.pb.unizin.org/biochemistry551online/chapter/procedure-3/
+* Visual guide `here <https://wisc.pb.unizin.org/biochemistry551online/chapter/procedure-3/>`_
+* Generate gel casting recipe `here <https://www.cytographica.com/lab/acryl2.html>`_.
+* References: :cite:p:`manns_sdspolyacrylamide_2011`
 
 Prepare gel 
 -----------
 
 * Two gels need to be prepared: resolving gel and stacking gel. 
-* The protocol can be found in BIO-RAD's 'Handcasting Polyacrylamide Gels' documentation 
-* Depending on the number of gels to be run, the amount stated in the documentation can be halved. 
 
 **Materials**
 
@@ -34,7 +32,7 @@ Prepare gel
 
 #. Prepare APS before preparing gel. 
 
-    * APS can be prepared earlier and store in -20, but I like to prepare APS fresh. 
+    * APS can be prepared earlier and store in -20, but it is best to prepare APS fresh before use. 
 
 #. Prepare 2 small beaker for resolving gel and stacking gel.
 #. Prepare the resolving and stacking gel solution according to the table, but leave out APS and TEMED.
@@ -58,7 +56,7 @@ Cast gel
 
 *Gel casting setup*
 
-* Can refer to YouTube videos on how to setup the gel casting apparatus. 
+* Refer to YouTube videos on how to setup the gel casting apparatus. 
 
 #. Put short glass plate infront of tall glass plate, with the gap sandwiched in the middle of the two plates. 
 #. Place the glass plate sandwich into casting frame. 

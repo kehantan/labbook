@@ -1,10 +1,7 @@
 MTT assay
 =========
 
-.. image:: images/MTT\ assay.png
-    :width: 600
-
-*The general protocol for MTT with Vero cells was described by :footcite:t:`guillen2022effect,marin2021curcumin`.
+* General protocol for MTT with Vero cells: :footcite:p:`guillen2022effect,marin2021curcumin`.
 * MTT assay is a very common assay, you can find a lot of published articles that optimised MTT assays for different purposes. 
 * You don't have to strictly follow the parameters in this protocol. The parameters used in this protocol are the ones that is good enough for my experiments. But the general idea is similar for all cell lines. If you are using other cell lines, refer to other sources for specific parameters. 
 * Some important parameters to take note of including: 
@@ -236,6 +233,9 @@ There are some parameters that you will need to find out before starting MTT ass
     * Fortunately, there are a lot of resources online, always check published articles, or ask around other lab members who had experience with the particular cell lines. 
     * For most part, the parameters should be transferrable from one cell line to another. 
 
+.. image:: images/MTT\ assay.png
+    :width: 600
+
 Item checklist 
 --------------
 
@@ -261,8 +261,3 @@ Item checklist
 * Pipette gun 
 * Phosphate buffer saline (PBS) 
 * Trypsin
-
-References
-----------
-
-.. footbibliography:: 
