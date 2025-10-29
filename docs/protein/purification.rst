@@ -269,35 +269,3 @@ Dialysis
 #. Collect the dialysised solution from cassette into multiple microcentrifuge tube (1 mL/tube). 
 #. Store the purified protein at -80 C. 
 #. Conduct Bradford assay to estimate concentration of the purified protein. 
-
-Item checklist
---------------
-
-* Tris-HCl powder (liquid can work too, but powder is preferred)
-* NaCl
-* Triton X-100 
-* PMSF
-* Lysozyme
-* Urea
-* Imidazole
-* Ice box
-* Ice 
-* Plastic bucket
-* Microcentrifuge tube (1.5 mL)
-* Centrifuge tube (15 mL, 50 mL)
-* Ni-NTA resin 
-* Rotator
-* Micropipette (200, 1000 uL)
-* Micropipette and tips (200, 1000 uL)
-* Waste beaker
-* Paper towel
-* Plastic beaker (~10 mL)
-* Dialysis Cassette (3,500 MWCO)
-* Beaker (1 L)
-* Magnetic stirrer
-* Retort stand
-* Syringe
-* Needle 
-* NaOH
-* Schott bottle
-* Plastic column for elution

@@ -49,10 +49,10 @@ Quantification of protein sample
 Linearisation of Bradford assay 
 -------------------------------
 
+* Adapted from :cite:p:`ernst_linearization_2010`
 * This is a more advanced technique to get more accurate results from Bradford assay. Detailed protocol can be found `here <https://www.protocols.io/view/bradford-protein-assay-protein-concentration-measu-kqdg3pd9ql25/v1?step=3&u=%2Fview%2Fbradford-protein-assay-protein-concentration-measu-kqdg3pd9ql25%2Fv1>`_.
 * The main reasoning for doing this is that if we try to plot a standard curve from only 590 nm wavelength, we would not get a linear graph as expected. At higher BSA concentration, the line would curve to a plateau when concentraion of BSA approaching 1000 ug/mL range. 
 * So 2 readings at different wavelength, 590 nm and 450 nm was taken and calculate the absorbance ratio of A\ :sub:`590`\ /A\ :sub:`450`\ . 
-* Modification is adopted from :cite:t:`ernst_linearization_2010` to linearise BSA standard curve.
 * There are other wavelength used like 595 nm and 490 nm reported in other literature, but I find the standard curve calculated from readings with 590 nm and 450 nm wavelength works the best to give the highest R\ :sup:`2` value when plotted. 
 
 #. Divide the absorbance value of each BSA concentration at 590 nm by absorbance value at 450 nm.
@@ -64,18 +64,3 @@ Linearisation of Bradford assay
     * If using GraphPad Prism, use the linear regression model and fit the standard line into the data, better if R\ :sup`2` = 0.99.
 
 #. Obtain the formula that describe the line of best fit of BSA standard cruve, :math:`y=mx+c` 
-
-References
-----------
-
-.. footbibliography::
-
-Item checklist
---------------
-
-* Microcentrifuge tube
-* Distilled water or PBS or other buffer 
-* Bovine serum albumin (BSA)
-* Bradford reagent 
-* 96 well plate, clear
-* Microplate reader

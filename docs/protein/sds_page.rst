@@ -159,7 +159,7 @@ Sample loading
 **Procedure**
 
 #. Add 3 to 5 uL of protein marker into the first well in the gel. 
-#. Add 10 uL of the prepared protein sample into other wells.   
+#. Add 10 uL of the prepared protein sample their corresponding wells.   
 
 Running gel
 -----------
@@ -183,8 +183,8 @@ Running gel
 #. Start the electrophoresis. 
 
     * Pay attention to potential problems like leakage, low voltage, etc. 
-
-#. Observe the progress of the eletrophoresis about every 15 to 20 mins to make sure not to overrun. Stop the electrophoresis when the protein marker reaches about 1 cm from the bottom of the gel. 
+    * Observe the progress of the eletrophoresis about every 20 to 30 mins to make sure no abnormalities. 
+    * If the protein marker is still far from the bottom edge of the gel after 120 mins, can extend the run. 
 
 Remove gel
 ----------
@@ -210,7 +210,7 @@ Remove gel
 Fixing
 ------
 
-* Protocol for Coomassie staining of SDS-PAGE can be found `here <https://www.aatbio.com/resources/application-notes/protocol-for-coomassie-staining>`_.
+* Protocol for Coomassie staining of SDS-PAGE `here <https://www.aatbio.com/resources/application-notes/protocol-for-coomassie-staining>`_.
 
 **Materials**
 
@@ -289,38 +289,5 @@ Clean up
 --------
 
 * The remaining gel solution in the small beaker from resolving gel and stacking gel would solidify over time. When this happens, break the gel (with any stuff you could find, like pipette tips or spatula) then dispose in the yellow bin. **DO NOT** throw in the sink, the solidified gel will clog up the piping system. 
-* Running buffers can be pour back into a bottle and reuse, but I do not recommend using it more than 5 times. 
-* The buffer can be discard into the sink. 
+* Running buffers can be pour back into a bottle and reuse (usually not more than 5 times) or discard into the sink. 
 * Wash all apparatus and leave it to dry at the rack beside the sink.
-
-Item checklist
---------------
-
-* 30% Acrylamide/bis (PAGE Pre-solution)
-* Tris-HCl
-* NaOH
-* SDS 
-* APS 
-* Distilled water
-* TEMED 
-* Mdicropipette and tips
-* Beaker 
-* Microcentrifuge tube
-* PCR tube 
-* Waste beaker 
-* Power supply 
-* Buffer tank
-* Gel casting glass plate 
-* Gel casting glass plate clamp 
-* Gel casting cassette 
-* Gel casting base 
-* Tris base 
-* Glycine 
-* Coomassie blue 
-* Methanol
-* Ethanol 
-* Acetic acid 
-* Distilled water or MilliQ water 
-* Measuring cylinder
-* Bottle
-* Syringe filter  

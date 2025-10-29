@@ -10,3 +10,4 @@ Protease assay
    protease_assay/protease_inhibition_assay
    protease_assay/kinetic
    protease_assay/enzyme_progress
+   protease_assay/items

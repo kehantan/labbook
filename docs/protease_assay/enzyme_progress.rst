@@ -56,4 +56,4 @@ Enzyme progress curve
 *Results*
 
 * Plot RFU or product concentration (y-axis) against time (x-axis). 
-* To find the Km and Vmax of the enzyme, plot reaction velocity against increasing concentration of substrate (enzyme concentration fixed).  
+* To find the Km and Vmax of the enzyme, plot reaction velocity against increasing concentration of substrate (enzyme concentration fixed).

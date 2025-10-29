@@ -6,14 +6,14 @@ Make bacteria culture glycerol stock
 * Bacteria glycerol stock is for long term storage 
 * Schematics for making bacteria glycerol stock can be found `here <https://docs.google.com/presentation/d/17MrwEkPY6BbYUZrCteCmLGkgHx3DN52Zq91Yix2CnXw/edit?usp=sharing>`_
 
-Overnight bacteria culture
---------------------------
+Overnight bacteria culture in broth
+-----------------------------------
 
 **Materials** 
 
 * Inoculating loop
 * LB broth, autoclaved, Kanamycin added (30 - 50 ug/mL)   
-* Centrifuge tube (15 mL)
+* Centrifuge tube (50 mL)
 * Bunsen burner 
 * Lighter 
 * Overnight culture of bacteria on LB agar plate 
@@ -21,7 +21,7 @@ Overnight bacteria culture
 **Procedure**
 
 #. Set up a sterile bench for bacteria work. 
-#. Add 2.5 mL of LB broth into a 15 mL centrifuge tube. 
+#. Add 5 mL of LB broth into a 50 mL centrifuge tube. 
 #. Pick a single colony from LB agar plate and mix to the LB broth inside the centrifuge tube. 
 #. Incubate, 37 C, overnight. 
 
