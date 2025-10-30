@@ -3,9 +3,7 @@
 Protein expression
 ==================
 
-**Objective:** To culture bacteria that will express the target recombinant protein.  
-
-* Dengue virus NS2B/NS3 serine protease expression and purification protocol modified from :footcite:t:`yusof_purified_2000,leung_activity_2001,`.
+* Dengue virus NS2B/NS3 serine protease expression and purification protocol modified from :cite:`yusof_purified_2000,leung_activity_2001`.
 * Visual guide `here <https://docs.google.com/presentation/d/1gH0-5dTp8_Dy9wXiwBY4g0EoyiHlWtTPcg7z4TwViss/edit?usp=sharing>`_. 
 
 **Workflow**
@@ -29,6 +27,7 @@ Agar plate culture
 
 **Procedure**
 
+#. Sterilise workbench with 70% ethanol and setup work bench for bacteria culture.  
 #. Sterilise inoculating loop by passing the loop 2-3 times through the bunsen burner flame. 
 #. Take a loop full of the *E.coli* glycerol stock and streak on agar plate. 
 #. Incubate. 24 hrs, 37 C.   
@@ -102,31 +101,3 @@ Large scale culture
 #. Store pellet at -80 C.
 
     * Bacterial pellet can be stored in -80 C for months without problem. 
-    
-Item checklist
---------------
-
-* LB agar powder
-* LB broth powder
-* Petri dish
-* Schott bottle
-* Erlenmeyer flask (2 L)
-* Transformed bacteria glycerol stock (*E.coli*, BL21 strain)
-* Inoculating loop
-* Lighter
-* Bunsen burner
-* Centrifuge tube (15 mL, 50 mL)
-* Spectrophotometer (able to read cuvette)
-* Incubator shaker (for 2 L flask)
-* IPTG 
-* Refrigerated centrifuge 
-* Phosphate buffer saline (1x)
-* Dropper
-* Kanamycin 
-* Cuvette
-* Distilled water 
-
-References
-----------
-
-.. footbibliography::

@@ -1,7 +1,7 @@
 Antiviral assay
 ===============
 
-* The protocol for antiviral had been published :cite:p:`lani2016antiviral,florez2022vitro,marin2021curcumin`. 
+* The protocol for antiviral had been published :cite:`lani2016antiviral,florez2022vitro,marin2021curcumin`. 
 * This protocol was separated into different sections, each section indicates that after that procedure was completed, have to wait until the next day (or after 2 days) to proceed to the next section. 
 * This protocol demonstrate plaque assay in 6 well plate. For plaque in 12 well plate or well plate of other sizes, the procedures are the same, just the volume of liquids, number of cells, and volume of reagents used are different. 
 * Before starting antiviral assay, several informations are required.
@@ -223,5 +223,5 @@ Calculate percentage of inhibition
 
 C = Virus control; T = Treated
 
-Refer here :cite:p:`low2021antiviral` for publication regarding this calculation.
+Reference for this calculation: :cite:`low2021antiviral` 
 

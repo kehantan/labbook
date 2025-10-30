@@ -11,13 +11,16 @@ Expression
 * Kanamycin powder 
 * Glycerol 
 * IPTG 
+* Phosphate buffer saline (PBS) - For washing when collecting bacteria pellet 
 
 **Equipments**
 
 * Incubator shaker (2 L)
-* Microplate reader (can fit cuvette) or spectrophotometer (Absorbance) - To read OD for large scale culture 
+* Microplate reader (can read cuvette) or spectrophotometer (Absorbance) - To read OD for large scale culture 
+* Cuvette
 * Lighter 
-
+* Centrifuge (50 mL tube) - For bacteria pellet 
+ 
 **Glasswares**
 
 * 2 L conical flask - For large scale culture 

@@ -1,8 +1,6 @@
 Make bacteria culture glycerol stock
 ====================================
 
-**Objective:** To make bacteria glycerol stock 
-
 * Bacteria glycerol stock is for long term storage 
 * Schematics for making bacteria glycerol stock can be found `here <https://docs.google.com/presentation/d/17MrwEkPY6BbYUZrCteCmLGkgHx3DN52Zq91Yix2CnXw/edit?usp=sharing>`_
 
