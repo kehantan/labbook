@@ -3,7 +3,6 @@
 Ammonium persulfate (APS)
 =========================
 
-* Est. preparation time = 10 mins 
 * Concentraion = 10% APS (w/v), Volume = 1 mL
 
 **Materials**

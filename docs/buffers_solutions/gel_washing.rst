@@ -3,7 +3,6 @@
 Gel-washing solution
 ====================
 
-* Est. preparation time = 15 mins
 * Final concentrations = 50% (v/v) methanol, 10% (v/v) acetic acid, in distilled water 
 
 **Materials**

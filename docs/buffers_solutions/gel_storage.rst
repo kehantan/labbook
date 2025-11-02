@@ -3,7 +3,6 @@
 Gel-storage solution
 ====================
 
-* Est. preparation time = 15 mins
 * Final concentration = 5% (v/v) acetic acid, in distilled water 
 
 **Materials**

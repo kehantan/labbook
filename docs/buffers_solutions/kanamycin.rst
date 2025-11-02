@@ -3,7 +3,6 @@
 Kanamycin
 =========
 
-* Est. preparation time = 10 mins
 * Concentration = 30 mg/mL, Volume = 10 mL 
 * Kanamycin molar mass = 484.499 g/mol 
 

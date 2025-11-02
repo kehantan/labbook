@@ -1,7 +1,6 @@
 Trypan blue
 ===========
 
-* Prepare in biosafety cabinet to prevent contamination 
 * Concentration = 0.4% (w/v), Volume  
 
 **Materials**
@@ -16,6 +15,9 @@ Trypan blue
 
 #. Weight 0.04 g of trypan blue powder into a centrifuge tube. 
 #. Add 10 mL of PBS into the centrifuge tube. 
+    
+    * Add PBS in BSC to prevent contamination to PBS
+
 #. Vortex to completely dissolve the trypan blue powder.
 #. Filter the prepared trypan blue solution with 0.22 uM syringe filter into a new centrifuge tube. 
 

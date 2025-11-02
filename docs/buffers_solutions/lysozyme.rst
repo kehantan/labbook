@@ -3,7 +3,6 @@
 Lysozyme
 ========
 
-* Est. preparation time = 10 mins 
 * Final concentration of lysozyme required for 30 mL of lysis buffer is 100 ug/mL
 * Concentration = 10,000 ug/mL, Volume = 1 mL.
 

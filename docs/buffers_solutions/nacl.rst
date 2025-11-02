@@ -2,8 +2,7 @@
 
 Sodium chloride (NaCl)
 ======================
-
-* Est. preparation time = 15 mins 
+ 
 * Concentration = 5 M, Volume = 250 mL.
 * NaCl MW: 58.44 g/mol
 
