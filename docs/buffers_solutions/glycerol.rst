@@ -3,8 +3,6 @@
 Glycerol solution
 =================
 
-**Objective:** To prepare glycerol solution for bacteria stock. 
-
 * Concentration = 80%, Volume = 100 mL
 
 **Materials**

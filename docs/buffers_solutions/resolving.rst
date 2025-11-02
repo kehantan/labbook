@@ -3,8 +3,6 @@
 Resolving buffer
 ================
 
-**Objective:** To prepare Tris-HCl buffer for casting resolving gel. 
- 
 * Concentration = 1.5 M, Volume = 150 mL, pH = 8.8 
 * Tris MW = 121.14 g/mol
 

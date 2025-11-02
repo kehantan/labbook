@@ -3,8 +3,6 @@
 Triton X-100
 ============
 
-**Objective:** To prepare Triton X-100 solution. 
-
 * Concentration = 10%, Volume = 10 mL
 
 **Materials**

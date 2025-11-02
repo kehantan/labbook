@@ -36,6 +36,14 @@ BSA standard curve
 
 #. Incubated at room temperature, 5 mins.
 #. Read absorbance at 595 nm. 
+#. Plot standard curve in MS Excel or Graphpad Prism. The curve should be linear. 
+
+**Results** 
+
+* Plot the data in GraphPad Prism or MS Excel.
+* If using GraphPad Prism, use the linear regression model and fit the standard line into the data, better if R\ :sup:`2` = 0.99.
+* Examine plot, trendline should be linear 
+* Obtain the formula that describe the line of best fit of BSA standard cruve, :code:`y=mx+c` 
 
 Quantification of protein sample
 --------------------------------
@@ -59,10 +67,3 @@ Linearisation of Bradford assay
 #. Divide the absorbance value of each BSA concentration at 590 nm by absorbance value at 450 nm.
 
     * :math:`\frac{A_{590}}{A_{450}}`
-
-**Results** 
-
-* Plot the graph in GraphPad Prism or Microsoft Excel.
-* If using GraphPad Prism, use the linear regression model and fit the standard line into the data, better if R\ :sup:`2` = 0.99.
-* Examine plot, trendline should be linear 
-* Obtain the formula that describe the line of best fit of BSA standard cruve, :code:`y=mx+c` 

@@ -1,8 +1,6 @@
 Trypan blue
 ===========
 
-**Objective:** Prepare trypan blue solution from trypan blue powder
-
 * Prepare in biosafety cabinet to prevent contamination 
 * Concentration = 0.4% (w/v), Volume  
 

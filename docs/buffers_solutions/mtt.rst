@@ -3,14 +3,12 @@
 MTT reagent
 ===========
 
-**Objective:** To prepare MTT reagent from MTT powder. 
-
 * Est. preparation time = 10 mins 
 * MTT comes in powder form. 
 * Concentration of MTT we use in this lab is 5 mg/mL, can adjust to other concentrations for different use case.  
 * MTT solution can be prepared on bench. 
 * MTT solution is sensitive to light. Wrap the prepared solution in aluminium foil before storing in freezer. 
-* Schematics for preparing MTT solution can be found `here <https://docs.google.com/presentation/d/1IIiZSPVcTfXI2qt4P9eORFXnCTqsc18I3t5ufM8Zi7M/edit?usp=sharing>`_.
+* Schematics for preparing MTT solution `here <https://docs.google.com/presentation/d/1IIiZSPVcTfXI2qt4P9eORFXnCTqsc18I3t5ufM8Zi7M/edit?usp=sharing>`_.
 
 **Materials**
 

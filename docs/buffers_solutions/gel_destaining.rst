@@ -3,8 +3,6 @@
 Gel-destaining solution
 =======================
 
-**Objective:** To prepare destaining solution for SDS PAGE. 
-
 * Est. preparation time = 15 mins
 * Final concentration = 50% v/v methanol, 10% (v/v) acetic acid, in distilled water.
 
