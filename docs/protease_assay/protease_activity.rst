@@ -1,8 +1,6 @@
 Protease activity assay
 =======================
 
-**Objective:** To quantify the activity of the purified protease. 
-
 * We need to determine:
     * the concentration of purified protease stock
     * the volume of substrate to add to each well 

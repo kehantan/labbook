@@ -3,8 +3,6 @@
 Cell seeding for MTT assay
 ==========================
 
-**Objective:** Seed cells for MTT assay.
-
 * Estimated time needed: 1 hr
 * :ref:`cell seeding for MTT assay <cell seed mtt>`
 * After we know how much cells we have, we now need to know how much cells we need to take from the cell suspension and dilute in complete DMEM to make the final mixture we want. 

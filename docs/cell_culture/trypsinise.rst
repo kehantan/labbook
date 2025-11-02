@@ -3,8 +3,6 @@
 Trypsinise
 ==========
 
-**Objective:** To detach adherent cells from the culture flask. 
-
 .. image:: images/Trypsinise.png
     :width: 600
 

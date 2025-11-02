@@ -3,8 +3,6 @@
 Cell count
 ==========
 
-**Objective:** To get an estimation of how many cells we had collected from a culture flask. 
-
 **Materials**
 
 * Counting chamber

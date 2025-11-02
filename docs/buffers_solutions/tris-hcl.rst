@@ -3,8 +3,6 @@
 Tris-HCl stock
 ==============
 
-**Objective:** To prepare Tris-HCL stock solution. 
-
 * Concentration = 1 M, Volume = 1 L, adjusted pH.
 * Tris MW: 121.14 g/mol 
 

@@ -9,7 +9,7 @@ Item check list
 
 **Equipments** 
 
-* Plate reader (fluorescence)
+* Microplate reader (fluorescence)
 
 **Consummables**
 

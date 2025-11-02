@@ -3,8 +3,6 @@
 Stacking buffer
 ===============
 
-**Objective:** To prepare Tris-HCl buffer for casting stacking gel.
-
 * Concentration = 0.5 M, Volume = 100 mL, pH = 6.8
 * Tris MW = 121.14 g/mol
 

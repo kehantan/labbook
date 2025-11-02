@@ -3,8 +3,6 @@
 Agarose
 =======
 
-**Objective:** To prepare 5% agarose (w/v). 
-
 * Concentration = 5% agarose (w/v), Volume = 100 mL 
 
 **Materials**

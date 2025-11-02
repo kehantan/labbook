@@ -1,9 +1,7 @@
 Revive cells
 =============
 
-**Objective:** Revive the cells from cryopreserved state. 
-
-Estimated time needed: 30 mins
+* Estimated time needed: 30 mins
 
 **Materials**
 

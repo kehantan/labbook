@@ -1,7 +1,7 @@
 MTT assay
 =========
 
-* General protocol for MTT with Vero cells: :footcite:p:`guillen2022effect,marin2021curcumin`.
+* General protocol for MTT with Vero cells: :cite:`guillen2022effect,marin2021curcumin`.
 * MTT assay is a very common assay, you can find a lot of published articles that optimised MTT assays for different purposes. 
 * You don't have to strictly follow the parameters in this protocol. The parameters used in this protocol are the ones that is good enough for my experiments. But the general idea is similar for all cell lines. If you are using other cell lines, refer to other sources for specific parameters. 
 * Some important parameters to take note of including: 
@@ -236,28 +236,4 @@ There are some parameters that you will need to find out before starting MTT ass
 .. image:: images/MTT\ assay.png
     :width: 600
 
-Item checklist 
---------------
 
-* Cells 
-* Culture flask
-* 96 well plate 
-* Media
-* Micropipette 
-* Micropipette tips 
-* Cell reservoir 
-* Cell counting chamber 
-* Click counter 
-* Multichannel pipette 
-* Waste beaker 
-* Trypan blue 
-* MTT reagent 
-* DMSO 
-* Well plate shaker 
-* Microplate reader 
-* Aluminium foil 
-* Microcentrifuge tube 
-* Serological pipette 
-* Pipette gun 
-* Phosphate buffer saline (PBS) 
-* Trypsin

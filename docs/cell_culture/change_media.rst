@@ -1,12 +1,11 @@
 Media change
 ============
 
-Estimated time needed: 15 mins
+* Estimated time needed: 15 mins
+* We usually change media when: 
 
-We usually change media when: 
-
-* 24 hrs after reviving new cells, to remove excess DMSO
-* When media turned yellow, but we don't want to subculture the flask yet 
+    * 24 hrs after reviving new cells, to remove excess DMSO
+    * When media turned yellow, but we don't want to subculture the flask yet 
 
 **Materials**
 

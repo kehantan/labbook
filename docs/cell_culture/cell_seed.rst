@@ -1,8 +1,6 @@
 Cell seeding
 ============
 
-**Objective:** Seed cells for further experiments.
-
 The number of cells to seed depends on several factors: 
 
 * the container to seed (T25, 96 well plate, etc.)

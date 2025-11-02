@@ -1,10 +1,8 @@
 Standard passaging (subculture) 
 ===============================
 
-**Objective:** Maintain cells in incubator.  
-
-* The general protocol for cell culture can be found in :footcite:t:`phelan2007techniques`. 
-* Protocol for maintenance of Vero cells specifically can be found in :footcite:t:`ammerman2008growth`. 
+* The general protocol for cell culture can be found in :cite:`phelan2007techniques`. 
+* Protocol for maintenance of Vero cells specifically can be found in :cite:`ammerman2008growth`. 
 
 **Materials**
 
@@ -61,7 +59,3 @@ In a T75 culture flask, to reach around 80% cell confluency in:
 * next day, we can seed about 1,500,000 cells 
 * 3 days, we can to seed about 800,000 cells
 * 7 days, we can seed about 50,000 cells 
-
-**Refrences**
-
-.. footbibliography:: 

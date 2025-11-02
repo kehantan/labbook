@@ -3,8 +3,6 @@
 Paraformaldehyde (PFA)
 ======================
 
-**Objective:** To prepare 3.7% paraformaldehyde. 
-
 * Concentration = 3.7%, Volume = 250 mL 
 
 **Materials**

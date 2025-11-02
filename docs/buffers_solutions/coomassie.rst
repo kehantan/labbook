@@ -3,8 +3,6 @@
 Coomassie staining solution
 ===========================
 
-**Objective:** To prepare Coomassie staining solution for SDS PAGE. 
-
 * Est. preparation time = 20 mins 
 * Final concentration = 0.1% (w/v) Coomassie blue, 20% (v/v) methanol, 10% (v/v) acetic acid. 
 

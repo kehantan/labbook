@@ -1,9 +1,7 @@
 Cryopreservation
 ================
 
-**Objective:** To cryopreserve excessive cells for future experiments. 
-
-Estimated time needed: 30 mins
+* Estimated time needed: 30 mins
 
 **Materials**
 

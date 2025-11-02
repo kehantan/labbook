@@ -3,7 +3,8 @@
 Bradford assay
 ==============
 
-*Bradford assay standard curve*
+BSA standard curve
+------------------
 
 * Bovine serum albumin (BSA) would be used as a standard for Bradford assay 
 * The standard curve only need to be done once, after the standard curve is established, use the standard curve to determine the concentration of protein in subsequent purified protein sample. 
@@ -11,7 +12,7 @@ Bradford assay
 **Materials**
 
 * Microcentrifuge tube
-* Distilled water, PBS, or suitable buffer
+* Distilled water, PBS, or any suitable buffer
 * Bovine serum albumin (BSA)
 * Bradford reagent 
 * 96 well plate, clear
@@ -41,7 +42,7 @@ Quantification of protein sample
 
 #. Add 10 uL of protein sample into 190 uL of Bradford reagent. 
 #. Read absorbance at 595 nm. 
-#. Plug the value into the formula obatined from BSA standard curve. Find the corresponding protein concentration from BSA standard curve.
+#. Plug the value into the formula (:code:`y=mx+c`) obatined from BSA standard curve. Find the corresponding protein concentration from BSA standard curve.
 #. If the absorbance value for the protein sample exceeds the range of the BSA standard curve, dilute the protein sample and measure again. 
 
 *Note:* Optimal range of absorbance value for bradford assay should falls between 0.1 and 1.0 for an accurate representation of protein concentration. 
@@ -51,17 +52,17 @@ Linearisation of Bradford assay
 
 * Adapted from :cite:p:`ernst_linearization_2010`
 * This is a more advanced technique to get more accurate results from Bradford assay. Detailed protocol can be found `here <https://www.protocols.io/view/bradford-protein-assay-protein-concentration-measu-kqdg3pd9ql25/v1?step=3&u=%2Fview%2Fbradford-protein-assay-protein-concentration-measu-kqdg3pd9ql25%2Fv1>`_.
-* The main reasoning for doing this is that if we try to plot a standard curve from only 590 nm wavelength, we would not get a linear graph as expected. At higher BSA concentration, the line would curve to a plateau when concentraion of BSA approaching 1000 ug/mL range. 
+* The main reasoning for doing this is that if we try to plot a standard curve from only 595 nm wavelength, we would not get a linear graph as expected. At higher BSA concentration, the line would curve to a plateau when concentraion of BSA approaching 1000 ug/mL range. 
 * So 2 readings at different wavelength, 590 nm and 450 nm was taken and calculate the absorbance ratio of A\ :sub:`590`\ /A\ :sub:`450`\ . 
 * There are other wavelength used like 595 nm and 490 nm reported in other literature, but I find the standard curve calculated from readings with 590 nm and 450 nm wavelength works the best to give the highest R\ :sup:`2` value when plotted. 
 
 #. Divide the absorbance value of each BSA concentration at 590 nm by absorbance value at 450 nm.
 
-    * :math:`\frac{A_590}{A_450}`
+    * :math:`\frac{A_{590}}{A_{450}}`
 
 **Results** 
 
 * Plot the graph in GraphPad Prism or Microsoft Excel.
-* If using GraphPad Prism, use the linear regression model and fit the standard line into the data, better if R\ :sup`2` = 0.99.
+* If using GraphPad Prism, use the linear regression model and fit the standard line into the data, better if R\ :sup:`2` = 0.99.
 * Examine plot, trendline should be linear 
-* Obtain the formula that describe the line of best fit of BSA standard cruve, :math:`y=mx+c` 
+* Obtain the formula that describe the line of best fit of BSA standard cruve, :code:`y=mx+c` 
