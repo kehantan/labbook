@@ -31,3 +31,4 @@ Cryopreservation
 * Cells can be stored for short term in -80 C, but for long term storage, it is better to store in gas phase of liquid nitrogen.
 * Our lab uses 500 uL of cell suspension for each cryopreservation tube. Depending on the final volume of your cell suspension, you can estimate how many tubes you can cryo. 
 * For example, if the final volume of cell suspension is 3 mL, then you can cryo up to 6 tubes. 
+* Cells should be cryo at concentration of 1-3 million to ensure better survivability when revived later. 

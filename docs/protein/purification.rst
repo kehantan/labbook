@@ -1,8 +1,6 @@
 Protein extraction and purification
 ===================================
 
-**Objective:** To extract and purify expressed protein from bacteria pellet. 
-
 Buffers 
 -------
 
