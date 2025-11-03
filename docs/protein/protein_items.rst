@@ -1,6 +1,8 @@
 Item checklist
 ==============
 
+* Including items for expression, purification, SDS-PAGE, Bradford assay
+
 Expression  
 -----------
 
@@ -8,7 +10,7 @@ Expression
 
 * LB broth powder 
 * LB agar powder 
-* Kanamycin powder 
+* Kanamycin 
 * Glycerol 
 * IPTG 
 * Phosphate buffer saline (PBS) - For washing when collecting bacteria pellet 

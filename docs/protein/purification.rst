@@ -10,8 +10,6 @@ Buffers
 
 * Centrifuge tube 
 * Empty bottle 
-* Micropipette 
-* Micropipette tips 
 * :ref:`PMSF <pmsf>`
 * :ref:`Lysozyme <lysozyme>`
 * :ref:`NaCl <nacl>`

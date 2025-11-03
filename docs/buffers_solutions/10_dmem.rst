@@ -12,7 +12,7 @@ DMEM+FBS
 * Pen-Strep
 * :ref:`DMEM <dmem>`
 * Centrifuge tube (50 mL)
-* Sodium pyruvate *(if required)*
+* Sodium pyruvate (if required)
 * Micropipette and tips
 * Waste beaker 
 * Serological pipette 

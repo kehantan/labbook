@@ -1,6 +1,6 @@
 .. _pmsf:
 
-PMSF
+Phenylmethylsulfonyl fluoride (PMSF)
 ====
 
 * PMSF is not soluble in water, so have to use isopropyl alcohol. Other solvent like DMSO can also be used. 

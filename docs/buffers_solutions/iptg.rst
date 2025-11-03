@@ -1,9 +1,9 @@
 .. _iptg:
 
-IPTG
+Isopropyl β-D-1-thiogalactopyranoside (IPTG)
 ====
 
-* Concentration = 250 mM, Fial volume = 5 mL 
+* Concentration = 250 mM, Final volume = 5 mL 
 * IPTG MW: 238.31 g/mol
 
 **Materials**

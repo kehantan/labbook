@@ -1,6 +1,6 @@
 .. _dmem:
 
-DMEM
+Dulbecco's Modified Eagle Medium (DMEM)
 =====
 
 * Read the packaging or search the data sheet online before preparing DMEM. Because at different times we might order different brands of DMEM powder and different manufacturer would left out different ingredients such as sodium bicarbonate or HEPES. We need to measure the amount of the missing ingredients and manually add them when preparing the media. 

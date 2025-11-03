@@ -3,8 +3,6 @@
 Plaque assay
 ============
 
-**Objective:** To quantify the virus titer in a virus sample. 
-
 * Vero cells are used in this protocol, seeded in 6 well plate. For plaque assays in 12 well plate or well plate of other sizes, the procedures are the same, just the volume of liquids, number of cells, and volume of reagents used are different. 
 * This is just a guideline for plaque assay, adjust the parameters according to literature or should you see fit. 
 * Schematics of plaque assay can be found `here <https://docs.google.com/presentation/d/12KLdlDftXJ22pbflFmYKli6ztxyudEKHW6V2Ocw5Nhg/edit?usp=sharing>`_
