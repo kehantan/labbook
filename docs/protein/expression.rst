@@ -93,9 +93,9 @@ Large scale culture
 
     * Prepare another PBS for bacteria work. Seperate bacteria work PBS with cell culture PBS to prevent contamination. 
 
-#. Combine all resusupended pellet into two 50 mL centrifuge tube.
+#. Combine all resuspended pellet into two 50 mL centrifuge tube.
 #. Top up PBS to 50 mL in each tube.  
-#. Centrifuge, 3000 rpm, 4C, 10 mins.  
+#. Centrifuge, 4000 rpm, 4C, 10 mins.  
 #. Remove supernatant. 
 #. Label the centrifuge tube.
 #. Store pellet at -80 C.

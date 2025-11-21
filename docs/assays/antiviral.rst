@@ -16,10 +16,10 @@ Antiviral assay
 
     * Concentration of compound to be tested
 
-        This requires some trial and error. For organically synthesised small molecule compounds, I usually start with 50 ug/mL then serial dilute 1/2 to 6 to 7 concentrations. The concentration could be adjusted to higer value depends on the type of compounds to be tested, ie: peptides, plant extracts, etc. 
+        This requires some trial and error. For organically synthesised small molecule compounds, usually starts with 10, 1, 0.1 uM. The concentration could be adjusted to higer value depends on the type of compounds to be tested, ie: peptides, plant extracts, etc. 
 
-Section 1 - Trypsininse, cell count, seed cells
------------------------------------------------
+Trypsininse, cell count, seed cells
+-----------------------------------
 
 * For antiviral assay, cells should be at around 70% confluency at the day of infection and treatment. 
 
@@ -55,10 +55,10 @@ Section 1 - Trypsininse, cell count, seed cells
 #. Tilt the well plate back and forth and side to side to distribute the cells evenly across the base of the wells. 
 #. Incubate. 37 C, 24 hrs. 
 
-Section 2 - Infection and treatment 
------------------------------------
+Infection and treatment 
+-----------------------
 
-* Before starting any procedure, 
+* Before starting the infection and treatement procedure, 
 
     * check the cell confluency in the 6 well plate under microscope. The cells should be around 70% confluency. 
     * plan well plate layout 
@@ -116,9 +116,9 @@ Plan serial dilution of compounds
 * Assume stock solution of compound to be tested was prepared at concentration of 20,000 ug/mL (20 mg/mL).
 * We would perform 1/2 serial dilution with 50 ug/mL as highest concentration and final volume of 1500 uL. 
 
-**Requires**
+**Materials**
 
-* :ref:`2% DMEM <2 dmem>`
+* :ref:`2% DMEM <10 dmem>`
 * Microcentrifuge tube 
 * Centrifuge tube (15 mL)
 * :ref:`Agarose (5%) <agarose>`
@@ -189,13 +189,13 @@ Plan serial dilution of compounds
 #. Add 1000 uL of solution from centrifuge tube C1 into well labelled C1. Repeat for C2, C3, and C4. 
 #. Incubate. 37 C, 48 hr. 
 
-Section 3 - Harvest
--------------------
+Harvest
+--------
 
 * Observe the well plate every 24 hrs for formation of CPE and detachment of cells. 
 * The media in the well plates can be harvested at 48 hours. 
 
-**Requires**
+**Materials**
 
 * Micropipette (1000 uL)
 * Micropipette tips

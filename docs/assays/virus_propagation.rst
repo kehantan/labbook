@@ -1,8 +1,6 @@
 Virus propagation
 =================
 
-**Objective:** To propagate virus to make virus stock for virus related experiments. 
-
 * This protocol is modified from :cite:`medina2012dengue`
 * Schematic workflow of virus stock propagation can be found `here <https://docs.google.com/presentation/d/1lOgmzR994GQ58x71DpZQRM5FnC0vAgz6pWhuMVsuZg0/edit?usp=sharing>`_ 
 
@@ -13,7 +11,7 @@ Infection
 
 **Materials**
 
-* :ref:`2% DMEM <2 dmem>`
+* :ref:`2% DMEM <10 dmem>`
 * Virus stock 
 * :ref:`Phosphate buffer saline (PBS) <pbs>`
 * Serological pipette 
