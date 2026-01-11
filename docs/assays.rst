@@ -10,3 +10,5 @@ Assays
    assays/antiviral
    assays/virus_propagation
    assays/cell_seed_mtt
+   assays/mtt_results
+   
