@@ -37,7 +37,7 @@ Enzyme progress curve
 #. Prepare 7 microcentrifuge tubes. 
 #. Add 30 uL of assay buffer into first tube. 
 #. Add 20 uL of assay buffer into remaining tubes. 
-#. Add 10 uL of substrate stock into first tube (2,500 uM, 40 uL).
+#. Add 10 uL of substrate stock into first tube (Concentration of first tube = 2,500 uM @ 40 uL).
 #. Transfer 20 uL of mixture from first tube to second tube, mix well by repeat pipetting. Transfer 20 uL of mixture from second tube to third tube, mix well by repeat pipetting. Repeat this step until the last tube. 
 
 *In 384 well black plate*
@@ -50,10 +50,9 @@ Enzyme progress curve
 #. Read plate at 380 nm excitation and 445 nm emission every 2 mins for a total period of 9 hours. 
 
 * This procedure demonstrated using 250 uM of substrate. 
-* Repeat the whole procedure using various substrate concentration, i.e.: 125 uM, 62.5 uM, etc.
-* All can be done in a single plate if planned accordingly.  
+* Repeat the whole procedure using various substrate concentration, i.e.: 125 uM, 62.5 uM, etc. All can be done in a single plate if planned accordingly.  
 
-*Results*
+**Results**
 
 * Plot RFU or product concentration (y-axis) against time (x-axis). 
 * To find the Km and Vmax of the enzyme, plot reaction velocity against increasing concentration of substrate (enzyme concentration fixed).
