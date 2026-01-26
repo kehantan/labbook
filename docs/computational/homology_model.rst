@@ -1,10 +1,23 @@
 Homology modelling
 ==================
 
-I use `SWISS-MODEL <https://swissmodel.expasy.org/>`_ to do homology modelling. The main purpose is to fix missing amino acid residues on protein receptor for molecular docking or molecular dynamics simulation works. 
+`SWISS-MODEL <https://swissmodel.expasy.org/>`_ for homology modelling. The main purpose is to fix missing amino acid residues on protein receptor for molecular docking or molecular dynamics simulation works. 
 
-To validate the homology model, I use `SAVES <https://saves.mbi.ucla.edu/>`_
+Insert FASTA sequence and then choose from the list the template to use, usually select the target PDB ID.  
 
-You can also consider using other software (if you have access to them) or other approaches such as *ab initio* modelling or AlphaFold. I would suggest AlphaFold, it is new and fancy ＼(＾▽＾)／
+`SAVES <https://saves.mbi.ucla.edu/>`_ to validate the homology model.
 
-But for real, AlphaFold2 had shown good results in CASP 14, and you do not need to run on your machine. You can use Alphafold2 with MMseqs2 on Google Colaboratory, but there is a limit on how many amino acid residues you are allowed to run at a time if you using the free service. 
+Protein preparation
+-------------------
+
+For classical MD simulation, the charge and radii calculated is not really used during MD, just the proton position and renaming of residues to match the forcefield used is useful. 
+
+#. Submit homology model to `pdb2pqr and apbs server <https://server.poissonboltzmann.org/>`_. Can run only :code:`pdb2pqr` to get the :code:`.pqr` file, no need to complete the whole procedure.
+#. Convert :code:`.pqr` file to :code:`.pdb` file using :code:`openbabel`. Conversion is necessary because GMX does not read :code:`.pqr` directly. 
+#. pdb2pqr server also help cap the terminal of protein, but the residue name is assigned to :code:`TER`. GMX will complain about this, so just change the :code:`TER` residue name to match the terminal residue's name. 
+
+Ligand preparation
+-------------------
+
+* To do Amber GAFF, use ACPYPE. ACPYPE can be installed via conda and run locally
+* To do CHARMM, Submit to CGenFF
