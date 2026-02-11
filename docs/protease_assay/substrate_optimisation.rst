@@ -1,6 +1,8 @@
 Substrate optimisation
 ======================
 
+* References: :cite:p:`tomlinson_substrate_2008`
+
 **Materials**
 
 * 384 well black plate
@@ -33,6 +35,4 @@ Substrate optimisation
 
 #. Add 10 uL of diluted substrate into their respective wells. 
 #. Read plate at 350 nm excitation and 440 nm emission every 2 mins for a total of 60 mins.
-
-**Results**
 

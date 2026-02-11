@@ -1,6 +1,15 @@
 Homology modelling
 ==================
 
+**Workflow**
+
+#. Homology modellling 
+#. Homology model validation 
+#. Homology model protein protonation
+#. Prepare protonated protein for MD 
+#. Ligand preparation
+#. Proceed MD as usual
+
 `SWISS-MODEL <https://swissmodel.expasy.org/>`_ for homology modelling. The main purpose is to fix missing amino acid residues on protein receptor for molecular docking or molecular dynamics simulation works. 
 
 Insert FASTA sequence and then choose from the list the template to use, usually select the target PDB ID.  
