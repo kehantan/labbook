@@ -1,7 +1,7 @@
 Substrate optimisation
 ======================
 
-* References: :cite:p:`tomlinson_substrate_2008`
+* References: :cite:p:`tomlinson2008substrate` 
 
 **Materials**
 
