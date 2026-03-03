@@ -15,7 +15,7 @@ Protein expression
 Agar plate culture
 ------------------
 
-* Estimated time required: 1 hr
+* Estimated time required: 45 mins
 
 **Materials** 
 
@@ -35,23 +35,23 @@ Agar plate culture
 Small scale culture
 -------------------
 
-* Estimated time required: 1 hr
+* Estimated time required: 45 mins
 
 **Materials**
 
-* Centrifuge tube (15 mL)
+* Centrifuge tube, 50 mL)
 * Overnight culture of transformed *E. coli* on LB agar plate 
 * Plastic inoculation loop
 * Bunsen burner
 * Lighter 
 * :ref:`Small volume LB broth <lb broth small>` (Autoclaved, Kanamycin added (30-50 ug/mL), recommend to prepare at least 1 day before experiment)
-* Incubator shaker 
+* Incubator shaker (able to fit 2 L Erlenmeyer flask)
 
 **Procedure** 
  
-#. Add 5 mL of LB broth into each 15 mL centrifuge tube.
-#. Pick a single *E. coli* colony from agar plate and mix with LB broth in the 15 mL centrifuge tube.
-#. Loosen the cap of the tube and shake the centrifuge tube in an incubator shaker, overnight, 37 C, 180 rpm.
+#. Add 10 mL of LB broth into 50 mL centrifuge tube.
+#. Pick a single *E. coli* colony from agar plate and mix with LB broth in the centrifuge tube.
+#. Loosen the cap of the tube and shake the centrifuge tube in an incubator shaker. 180 rpm, overnight, 37 C.
 
 Large scale culture
 -------------------
@@ -64,35 +64,34 @@ Large scale culture
 * :ref:`Large volume LB broth (500 mL) <lb broth large>` (Autoclaved, Kanamycind added (30-50 ug/mL), recommend to prepare at least 1 day before experiment)
 * Incubator shaker (2L)
 * :ref:`IPTG stock solution (250 mM) <iptg>`
-* Refrigerated centrifuge 
+* Refrigerated centrifuge (4 C)
 * PBS 
 * Centrifuge tube (50 mL)
 * Dropper 
 * Cuvette 
 
+*Note:* Prepare another PBS for bacteria work. Seperate bacteria work PBS with cell culture PBS to prevent contamination. Autoclaved is not strictly necessary if the PBS is not storing for future use.
+
 **Procedure**
 
-#. Add the small scale culture from 15 mL centrifuge tube culture into the 500 mL LB broth in the 2 L Erlenmeyer flask. 
-#. Shake, 1 to 3 hrs, 37 C, 180 rpm. 
+#. Add the small scale culture from 50 mL centrifuge tube culture into the 500 mL LB broth in the 2 L Erlenmeyer flask. 
+#. Shake. 180 rpm, 1 to 3 hrs, 37 C. 
 #. Check OD at 600 nm every 1 hour using a cuvette and spectrophtometer, target OD ~0.5-0.6. Extend the shaking time if target OD is not reached.
 
     * Collect ~3 mL of culture sample to measure the OD. Use autoclaved LB broth that is not used for culture as blank.  
 
-#. When OD is around 0.5 - 0.6, add 1 mL of IPTG stock solution (250 mM) to the LB broth culture. 
+#. When OD is around 0.5 to 0.6, add 1 mL of IPTG stock solution (250 mM) to the LB broth culture. 
 
     * IPTG final concentration in culture = 0.5 mM. 
 
 #. Shake. 2 hrs, 37 C, 180 rpm.
 #. Transfer culture from flask into multiple 50 mL centrifuge tube. 
-#. Centrifuge, 4000 rpm, 4 C, 10 mins. 
+#. Centrifuge. 4000 rpm, 10 mins, 4 C. 
 
     * Pre-cool the centrifuge to 4 C is preferrable, if not, room temp is fine. 
 
 #. Remove supernatant. 
-#. Resuspend pellet in 2 mL PBS.  
-
-    * Prepare another PBS for bacteria work. Seperate bacteria work PBS with cell culture PBS to prevent contamination. 
-
+#. Resuspend pellet in 2 mL of PBS.
 #. Combine all resuspended pellet into two 50 mL centrifuge tube.
 #. Top up PBS to 50 mL in each tube.  
 #. Centrifuge, 4000 rpm, 4C, 10 mins.  
