@@ -25,10 +25,10 @@ BSA standard curve
 
 #. Dilute BSA powder in distilled water to make stock solution of BSA (5 mg/mL). 
 
-    * It is adviced to dilute the BSA into solvent that is same as our protein sample for more accurate results.  
+    * It is best to dilute the BSA using solvent that is same as the solvent of the protein sample for more accurate results.  
 
 #. Prepare a series of BSA standard solutions of known concentrations starting from 0, 200, 400, 600, 800, and up to 1000 ug/mL by diluting the BSA stock solution in distilled water to final volume of 50 uL.
-#. In a 96 well clear plate, add 10 uL of BSA or protein sample into 190 uL of Bradford reagent. Mix well. 
+#. In a 96 well clear plate, add 10 uL of BSA of different concentrations into 190 uL of Bradford reagent. Mix well. 
 #. Include wells for blank by pipette 200 uL of distilled water. 
 
     * The blank should be depending on what solvent you use for dissolving the BSA, can be distilled water, PBS, or buffer. 
@@ -36,21 +36,26 @@ BSA standard curve
 
 #. Incubated at room temperature, 5 mins.
 #. Read absorbance at 595 nm. 
-#. Plot standard curve in MS Excel or Graphpad Prism. The curve should be linear. 
 
 **Results** 
 
 * Plot the data in GraphPad Prism or MS Excel.
-* If using GraphPad Prism, use the linear regression model and fit the standard line into the data, better if R\ :sup:`2` = 0.99.
-* Examine plot, trendline should be linear 
+* If using GraphPad Prism, use the linear regression model and fit the standard line into the data.
+* Examine plot, trendline should be linear, better if R\ :sup:`2` = 0.99.
 * Obtain the formula that describe the line of best fit of BSA standard cruve, :code:`y=mx+c` 
 
-Quantification of protein sample
---------------------------------
+Protein sample
+--------------
 
-#. Add 10 uL of protein sample into 190 uL of Bradford reagent. 
+**Procedure**
+
+#. Perform a 2 fold serial dilution of protein sample. 
+#. Add 10 uL of diluted protein samples into 190 uL of Bradford reagent. Mix well.  
 #. Read absorbance at 595 nm. 
-#. Plug the value into the formula (:code:`y=mx+c`) obatined from BSA standard curve. Find the corresponding protein concentration from BSA standard curve.
+
+**Results**
+
+#. Plug the value into :code:`y` of the formula :code:`y=mx+c` and find the value for :code:`x`.  
 #. If the absorbance value for the protein sample exceeds the range of the BSA standard curve, dilute the protein sample and measure again. 
 
 *Note:* Optimal range of absorbance value for bradford assay should falls between 0.1 and 1.0 for an accurate representation of protein concentration. 
