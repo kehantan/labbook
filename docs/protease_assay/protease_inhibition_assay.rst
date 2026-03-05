@@ -2,8 +2,8 @@ Protease inhibition assay
 =========================
  
 * Do :ref:`enzyme progress curve <enzyme_progress>` before carry out inhibition assay to find out amount of enzyme and substrate needed. 
-* Specifically for protease assay in our lab: enzyme = 15 uM, substrate = 125 uM, incubation time = 120 mins 
-* References: :cite:p:`ihssen_fluorogenic_2021`.
+* For our lab: enzyme = 15 uM, substrate = 125 uM, incubation time = 120 mins 
+* References: :cite:p:`ihssen_fluorogenic_202,smirnoviene2021standard,brooks2012basics`.
 
 **Materials**
 
@@ -61,7 +61,7 @@ Protease inhibition assay
 #. Incubate, room temperature, 120 mins. 
 #. Read plate at 380 nm excitation and 445 nm emission. 
 
-**Analysis**
+**To calculate inhibition (%)**
 
 :math:`\text{Inhibition (%)} = \frac{\text{NT}-\text{T}}{\text{NT}}\times 100\%`
 
