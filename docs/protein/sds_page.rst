@@ -291,7 +291,3 @@ Clean up
 * The remaining gel solution in the small beaker from resolving gel and stacking gel would solidify over time. When this happens, break the gel (with any stuff you could find, like pipette tips or spatula) then dispose in the yellow bin. **DO NOT** throw in the sink, the solidified gel will clog up the piping system. 
 * Running buffers can be pour back into a bottle and reuse (usually not more than 5 times) or discard into the sink. 
 * Wash all apparatus and leave it to dry at the rack beside the sink.
-
-:cite:p:`manns2011sds`
-
-:cite:`manns2011sds`
