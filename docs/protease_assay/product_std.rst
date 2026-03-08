@@ -57,15 +57,16 @@ Product (AMC) standard curve
 #. Add 4 uL of each concentration of serial diluted AMC into designated wells. 
 #. Read plate at 380 nm for excitation and 445 nm for emission.
 
-**Results** 
+**Result analysis** 
 
 * Graph can be plotted using GraphPad Prism or MS Excel. 
 * The graph plotted should be linear. 
 * Use simple linear regression model to fit the line of best fit into the data points. 
+* :math:`R^{2}` should be close to 0.99. 
 
 **Calculations** 
 
-Adding AMC stock directly into the 384 well plate to get the desired concentration will result in pipetting extremely small volume and introduce error. Therefore an additional intermediate concentration was prepared. 
+Adding AMC stock directly into the 384 well plate to get the desired concentration will result in pipetting extremely small volume and introduce error. Therefore an additional intermediate concentration was prepared, or lower the concentration of stock solution. 
 
 * AMC MW = 175.18 g/mol
 * 10 mg/mL = 57,084.1420 uM
@@ -77,6 +78,13 @@ We would focus on the first concentration of the serial dilution.
     C1V1 = C2V2
     57,084.142 uM * V1 = 2,500 uM * 100 uL
     V1 = 4.4 uL + 95.6 uL working buffer
+
+.. math:: 
+
+    C_{1}V_{1}=C_{2}V_{2}
+    57,084.142 \mu M * V_{1} = 2,500 \mu M * 100 \mu L
+    V_{1} = 4.4 \mu L + 95.6 \mu L working buffer
+
 
 Only add 4 uL of the AMC prepared on previous step into each well in the 384 well black plate, meaning the concentration of AMC is further diluted. 
 
