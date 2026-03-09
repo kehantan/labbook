@@ -82,8 +82,10 @@ We would focus on the first concentration of the serial dilution.
 .. math:: 
 
     C_{1}V_{1}=C_{2}V_{2}
+    
     57,084.142 \mu M * V_{1} = 2,500 \mu M * 100 \mu L
-    V_{1} = 4.4 \mu L + 95.6 \mu L working buffer
+    
+    V_{1} = 4.4 \mu L + 95.6 \mu L \text{working buffer}
 
 
 Only add 4 uL of the AMC prepared on previous step into each well in the 384 well black plate, meaning the concentration of AMC is further diluted. 
