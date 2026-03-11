@@ -4,7 +4,7 @@ Protein extraction and purification
 Buffers 
 -------
 
-* Prepare the buffers preferrably at least one day before use, because even though we are preparing from stock solution, weighing and stirring can take up significant amount time. Also, some buffers need to be pre-cooled in the cold room. 
+* Prepare the buffers preferrably at least one day before use, because even though we are preparing from stock solution, weighing and stirring can take up significant amount time, some buffers also need to be pre-cooled in the cold room. 
 
 **Materials**
 

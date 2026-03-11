@@ -35,7 +35,7 @@ Prepare gel
     * APS can be prepared earlier and store in -20, but it is best to prepare APS fresh before use. 
 
 #. Prepare 2 small beaker for resolving gel and stacking gel.
-#. Prepare the resolving and stacking gel solution according to the table, but leave out APS and TEMED.
+#. Prepare the resolving and stacking gel solution according to the table in the gel recipe, but leave out APS and TEMED.
 
     * The sequence is to cast resolving gel first then only cast stacking gel. 
     * Can prepare the resolving gel first, then prepare stacking gel immediately after. 

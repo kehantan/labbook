@@ -27,7 +27,7 @@ Agar plate culture
 
 **Procedure**
 
-#. Sterilise workbench with 70% ethanol and setup work bench for bacteria culture.  
+#. Sterilise workbench with 70% ethanol and setup bunsen burner for bacteria culture.  
 #. Sterilise inoculating loop by passing the loop 2-3 times through the bunsen burner flame. 
 #. Take a loop full of the *E.coli* glycerol stock and streak on agar plate. 
 #. Incubate. 24 hrs, 37 C.   
@@ -39,7 +39,7 @@ Small scale culture
 
 **Materials**
 
-* Centrifuge tube, 50 mL)
+* Centrifuge tube (50 mL)
 * Overnight culture of transformed *E. coli* on LB agar plate 
 * Plastic inoculation loop
 * Bunsen burner
@@ -61,20 +61,19 @@ Large scale culture
 **Materials**
 
 * Spectrophotometer
-* :ref:`Large volume LB broth (500 mL) <lb broth large>` (Autoclaved, Kanamycind added (30-50 ug/mL), recommend to prepare at least 1 day before experiment)
-* Incubator shaker (2L)
+* :ref:`Large volume LB broth <lb broth large>` (500 mL, autoclaved, Kanamycin final concentration=30-50 ug/mL, recommended to prepare at least 1 day before experiment)
+* Incubator shaker (can fit 2L flask)
 * :ref:`IPTG stock solution (250 mM) <iptg>`
 * Refrigerated centrifuge (4 C)
 * PBS 
 * Centrifuge tube (50 mL)
-* Dropper 
 * Cuvette 
 
 *Note:* Prepare another PBS for bacteria work. Seperate bacteria work PBS with cell culture PBS to prevent contamination. Autoclaved is not strictly necessary if the PBS is not storing for future use.
 
 **Procedure**
 
-#. Add the small scale culture from 50 mL centrifuge tube culture into the 500 mL LB broth in the 2 L Erlenmeyer flask. 
+#. Add the small scale overnight culture into the 500 mL LB broth in 2 L Erlenmeyer flask. 
 #. Shake. 180 rpm, 1 to 3 hrs, 37 C. 
 #. Check OD at 600 nm every 1 hour using a cuvette and spectrophtometer, target OD ~0.5-0.6. Extend the shaking time if target OD is not reached.
 
@@ -94,7 +93,7 @@ Large scale culture
 #. Resuspend pellet in 2 mL of PBS.
 #. Combine all resuspended pellet into two 50 mL centrifuge tube.
 #. Top up PBS to 50 mL in each tube.  
-#. Centrifuge, 4000 rpm, 4C, 10 mins.  
+#. Centrifuge. 4000 rpm, 4C, 10 mins.  
 #. Remove supernatant. 
 #. Label the centrifuge tube.
 #. Store pellet at -80 C.
