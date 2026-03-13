@@ -9,19 +9,19 @@ Overnight bacteria culture in broth
 
 **Materials** 
 
-* Inoculating loop
-* LB broth, autoclaved, Kanamycin added (30 - 50 ug/mL)   
 * Centrifuge tube (50 mL)
-* Bunsen burner 
-* Lighter 
-* Overnight culture of bacteria on LB agar plate 
+* Overnight culture of transformed *E. coli* on LB agar plate 
+* Inoculation loop
+* Bunsen burner
+*Lighter  
+* :ref:`Small volume LB broth <lb broth small>` (Autoclaved, Kanamycin added (30-50 ug/mL), recommend to prepare at least 1 day before experiment)
+* Incubator shaker
 
 **Procedure**
 
-#. Set up a sterile bench for bacteria work. 
-#. Add 5 mL of LB broth into a 50 mL centrifuge tube. 
-#. Pick a single colony from LB agar plate and mix to the LB broth inside the centrifuge tube. 
-#. Incubate, 37 C, overnight. 
+#. Add 10 mL of LB broth into 50 mL centrifuge tube.
+#. Pick a single transfomed *E. coli* colony from agar plate and mix with LB broth in the centrifuge tube.
+#. Loosen the cap of the tube and shake the centrifuge tube in an incubator shaker. 180 rpm, overnight, 37 C.
 
 Bacteria glycerol stock
 -----------------------

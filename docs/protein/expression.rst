@@ -41,16 +41,16 @@ Small scale culture
 
 * Centrifuge tube (50 mL)
 * Overnight culture of transformed *E. coli* on LB agar plate 
-* Plastic inoculation loop
+* Inoculation loop
 * Bunsen burner
-* Lighter 
+*Lighter  
 * :ref:`Small volume LB broth <lb broth small>` (Autoclaved, Kanamycin added (30-50 ug/mL), recommend to prepare at least 1 day before experiment)
 * Incubator shaker (able to fit 2 L Erlenmeyer flask)
 
 **Procedure** 
  
 #. Add 10 mL of LB broth into 50 mL centrifuge tube.
-#. Pick a single *E. coli* colony from agar plate and mix with LB broth in the centrifuge tube.
+#. Pick a single transfomed *E. coli* colony from agar plate and mix with LB broth in the centrifuge tube.
 #. Loosen the cap of the tube and shake the centrifuge tube in an incubator shaker. 180 rpm, overnight, 37 C.
 
 Large scale culture
@@ -83,7 +83,7 @@ Large scale culture
 
     * IPTG final concentration in culture = 0.5 mM. 
 
-#. Shake. 2 hrs, 37 C, 180 rpm.
+#. Shake. 180 rpm, 2 hrs, 37 C.
 #. Transfer culture from flask into multiple 50 mL centrifuge tube. 
 #. Centrifuge. 4000 rpm, 10 mins, 4 C. 
 
