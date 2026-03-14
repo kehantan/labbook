@@ -24,7 +24,7 @@ Product (AMC) standard curve
 *Prepare AMC stock*
 
 #. Weight 10 mg (0.01 g) of AMC powder into a microcentrifuge tube. 
-#. Add 1 mL of DMSO into the microcentrifuge tube. Final AMC stock solution concentration = 10 mg/mL (57,084.14202535 uM). 
+#. Add 1 mL of DMSO into the microcentrifuge tube. Final AMC stock solution concentration = 10 mg/mL (57,084.14202535 μM). 
 
 *Prepare working buffer*
 
@@ -33,28 +33,28 @@ Product (AMC) standard curve
 *AMC Serial dilution*
 
 #. Prepare 7 microcentrifuge tube. 
-#. Add 95.6 uL of working buffer into the first tube. 
-#. Add 4.4 uL of AMC stock into the first tube. Mix well using vortex or repeat pipetting. 
-#. Transfer 50 uL of mixture from first tube to second tube. Mix well using vortex or repeat pipetting. Transfer 50 uL of mixture from second tube to third tube. Mix well using vortex or repeat pipetting. Repeat the process until last tube. 
+#. Add 95.6 μL of working buffer into the first tube. 
+#. Add 4.4 μL of AMC stock into the first tube. Mix well using vortex or repeat pipetting. 
+#. Transfer 50 uL of mixture from first tube to second tube. Mix well using vortex or repeat pipetting. Transfer 50 μL of mixture from second tube to third tube. Mix well using vortex or repeat pipetting. Repeat the process until last tube. 
 
 +---------------------------------+------+------+------+-------+
 | Tube no.                        | 1    | 2    | 3    | . . . | 
 +---------------------------------+------+------+------+-------+
-| Working buffer vol. (uM)        | 95.6 | 50   | 50   | . . . |
+| Working buffer vol. (μM)        | 95.6 | 50   | 50   | . . . |
 +---------------------------------+------+------+------+-------+
-| AMC stock (uL)                  | 4.4  | \-   | \-   | \-    |
+| AMC stock (μL)                  | 4.4  | \-   | \-   | \-    |
 +---------------------------------+------+------+------+-------+
-| Conc. (uM)                      | 2500 | 1250 | 625  | . . . | 
+| Conc. (μM)                      | 2500 | 1250 | 625  | . . . | 
 +---------------------------------+------+------+------+-------+
-| Final conc. in each well (uM)   | 250  | 125  | 62.5 | . . . |
+| Final conc. in each well (μM)   | 250  | 125  | 62.5 | . . . |
 +---------------------------------+------+------+------+-------+
 
-* Transfer volume = 50 uL
+* Transfer volume = 50 μL
 
 *In 384 well plate* 
 
-#. Add 36 uL of Tris-HCl working buffer into 384 well black plate according to number of concentrations of AMC to be tested. 
-#. Add 4 uL of each concentration of serial diluted AMC into designated wells. 
+#. Add 36 μL of Tris-HCl working buffer into 384 well black plate according to number of concentrations of AMC to be tested. 
+#. Add 4 μL of each concentration of serial diluted AMC into designated wells. 
 #. Read plate at 380 nm for excitation and 445 nm for emission.
 
 **Result analysis** 
@@ -69,20 +69,20 @@ Product (AMC) standard curve
 Adding AMC stock directly into the 384 well plate to get the desired concentration will result in pipetting extremely small volume and introduce error. Therefore an additional intermediate concentration was prepared, or lower the concentration of stock solution. 
 
 * AMC MW = 175.18 g/mol
-* 10 mg/mL = 57,084.1420 uM
+* 10 mg/mL = 57,084.1420 μM
 
 We would focus on the first concentration of the serial dilution. 
 
 .. code-block:: 
 
     C1V1 = C2V2
-    57,084.142 uM * V1 = 2,500 uM * 100 uL
-    V1 = 4.4 uL + 95.6 uL working buffer
+    57,084.142 μM * V1 = 2,500 μM * 100 μL
+    V1 = 4.4 μL + 95.6 μL working buffer
 
 Only add 4 uL of the AMC prepared on previous step into each well in the 384 well black plate, meaning the concentration of AMC is further diluted. 
 
 .. code-block:: 
     
     C1V1 = C2V2
-    2,500 uM * 4 uL = C2 * 40 uL
-    C2 = 250 uM
+    2,500 μM * 4 uL = C2 * 40 μL
+    C2 = 250 μM

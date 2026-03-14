@@ -6,7 +6,7 @@ Enzyme progress curve
 **Materials** 
 
 * Tris-HCl stock buffer (1M, pH 8.5)
-* Purified protease (with known concentrations in ug/mL or μM) 
+* Purified protease (with known concentrations in μg/mL or μM) 
 * Fluorogenic peptide substrate stock solution (10 mM)
 * DMSO
 * 384 well black plate 
