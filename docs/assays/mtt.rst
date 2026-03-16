@@ -146,11 +146,11 @@ Treatment
 
 #. Prepare different concentration of compound by diluting the compound in media.
 
-    * Prepare the compounds with different concentrations before removing media from the 96 well plate, so we can immediately dispense the compound into the 96 well plate after removing the media. If the cells are left too long whithout media they would dry up and dies.
+    * Prepare the compounds with different concentrations before removing media from the 96 well plate, so we can immediately add the compound into the 96 well plate after removing the media. If the cells are left too long whithout media they would dry up and dies.
 
 #. Remove existing media from 96 well plate with multichannel micropipette. 
-#. Add 100 uL of fresh media in negative control wells. 
-#. Add 100 uL of diluted compound into respective wells. 
+#. Add 100 μL of fresh media in negative control wells. 
+#. Add 100 μL of diluted compound into respective wells. 
 #. Incubate, 24 hrs, 37 °C, 5% CO2.
 
     * May adjust desired incubation period. 
@@ -162,7 +162,7 @@ Add MTT, read absorbance
 
 * Estimated time required: 4 hrs 
 * This procedure can be carried out either in the biosafety cabinet or at bench.
-* Remember to reduce as much light source as possible (i.e.: turn off lights in lab or in BSC) as MTT is light sensitive. 
+* Remember to reduce as much light source as possible (i.e.: turn off lights) as MTT is light sensitive. 
 
 **Materials**
 
@@ -202,18 +202,18 @@ Add MTT, read absorbance
 #. Place 96 well plate on shaker and shake for 10 mins.
 
     * This step is to solubilise the formazan crystal. 
-    * You can reduce the time for shaking, as long as the crystals are completely dissolve in DMSO. You can observe the plate under microscope to check if there are undissolved crystals. 
+    * Shaking time can be reduced as long as the crystals are completely dissolve in DMSO. You can observe the plate under microscope to check if there are undissolved crystals. 
 
 #. Read plate at 570 nm. 
 
-    * There are different protocols that uses different wavelength, you may adjust according to literature. 
+    * There are different protocols that uses different wavelength, may adjust according to literature. 
 
 #. After reading the absorbance, the plate can be disposed into the yellow bin in the lab. 
 
 Results
 -------
 
-* Most microplate reader allows the absorbance readings to be easily export to MS Excel file. If not, have to convert them manually into an Excel sheet. 
+* Most microplate reader allows the absorbance readings to be easily export to MS Excel file. If not, have to manually insert the values into an Excel sheet. 
 
 **Workflow**
 
@@ -232,23 +232,23 @@ NTC = Non-treated control
 FAQ
 ---
 
-There are some parameters that you will need to find out before starting MTT assay. Some common questions you will immediately encounter when you first trying to do MTT assay including:
+There are some parameters that we need to find out before starting MTT assay including:
 
 #. *How many cells to seed in each well?*
 
-    * The common approach is to refer to the published research articles related to the cell lines you are working with to get an idea on how many cells you should seed. 
-    * If you cannot get the information you can do some optimisation yourself by trying out any range between 1,000 to 50,000 cells/well. 
+    * The common approach is to refer to the published research articles related to the cell lines we are working with to get an idea on how many cells we should seed. 
+    * If cannot get the information, some optimisation can be done by trying out any range between 1,000 to 50,000 cells/well. 
     
-#. *How many different concentrations you wanted to test with your compound?*
+#. *How many different concentrations of compounds we need to test?*
 
     * Concentrations of compound to test depending on the solubility of the compound in DMSO or other solvent (like water), different compound has different solubility in DMSO. Even if a compound is completely soluble in DMSO, it may precipiate when attempt to dilute with media during serial dilution. 
-    * If you have no idea what compound concentrations to use, you can try out by using a larger range of concentrations first. 
-    * I typically start with 200 μg/mL and half it for each dilution step (200, 100, 50 μg/mL, etc.). My rationale is that it is easier to find your compound's optimum concentration by screening it with a wider range. If you screen your compound at a narrower range like 20, 40, 60 μg/mL, etc., you might need to do more assays to find out the optimum concentration. So start from wider range, then narrow down if necessary. 
+    * If you have no idea what compound concentrations to use, can try out by using a larger range of concentrations first. 
+    * Around 200 μg/mL is a good starting point and half it for each dilution step (200, 100, 50 μg/mL, etc.)
 
 #. *Other common questions including 'How long I should incubate? How much MTT reagent I should use?'*
 
     * The list of questions are non-exhaustive and can be difficult answer as these parameters are related to multiple factors like what cell lines we are dealing with, what is the purpose of the experiments, etc. 
-    * Fortunately, there are a lot of resources online, always check published articles, or ask around other lab members who had experience with the particular cell lines. 
+    * Fortunately, there are a lot of resources availabel, always check published articles, or ask around other lab members who had experience with the particular cell lines. 
     * For most part, the parameters should be transferrable from one cell line to another. 
 
 .. image:: images/MTT\ assay.png

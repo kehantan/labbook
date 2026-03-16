@@ -35,7 +35,7 @@ Buffers
 +-----------+-------------------+--------------+--------+
 | 1 mM      | PMSF              | 10mM         | 3.0 mL |
 +-----------+-------------------+--------------+--------+
-| 100 ug/mL | Lysozyme          | 10,000 ug/mL | 0.3 mL |
+| 100 ug/mL | Lysozyme          | 10,000 μg/mL | 0.3 mL |
 +-----------+-------------------+--------------+--------+
 | Top up with water until                      | 30 mL  |
 +----------------------------------------------+--------+
@@ -99,7 +99,7 @@ Protein extraction
 ------------------
 
 * Estimated time required: 3 hrs
-* The bacterial pellet from the end of :ref:`expression <protein-expression>` procedure was stored at -80 C. Extraction and purification would proceed from there.  
+* The bacterial pellet from the end of :ref:`expression <protein-expression>` procedure was stored at -80 °C. Extraction and purification would proceed from there.  
 * Schematics `here <https://docs.google.com/presentation/d/1BdfENuEXn2LxE8Z-RVcmCcj58yvbUPIr10xUoM2XLIg/edit?usp=sharing>`_.
 
 **Materials**
@@ -113,7 +113,7 @@ Protein extraction
 * :ref:`Lysis buffer <lysis_buffer>`
 * :ref:`Buffer B <buffer_b>`
 * Rotator
-* Micropipette and tips (1000 uL)
+* Micropipette and tips (1000 μL)
 * Waste beaker
 * Paper towel
 * Plastic beaker (10 mL)
@@ -122,7 +122,7 @@ Protein extraction
 
 **Procedure**
 
-#. Retrieve the bacteria pellet from -80 C.
+#. Retrieve the bacteria pellet from -80 °C.
 #. Add 25 mL of lysis buffer into the centrifuge tube and resuspend the pellet completely. Mix with a vortex mixer. Use micropipette to break the pellet if necessary.  
 
     * It is normal for the suspension to become slimy after lysis buffer was added.
@@ -141,7 +141,7 @@ Protein extraction
     * Split the bacteria cell lysate to smaller volume or multiple portions and sonicate them seperately. It is more efficient this way instead of trying to sonicate the cell lysate all at once. 
 
 #. Transfer the homogenised suspension into a new 50 mL centrifuge tube. 
-#. Centrifuge. 8000 rpm, 4 C, 15 mins.  
+#. Centrifuge. 8000 rpm, 4 °C, 15 mins.  
 
 *Sonication setup*
 
@@ -175,56 +175,56 @@ Protein purification (after lysis)
 
 #. Remove supernatant from the centrifuged tube.
 
-    * Collect 100 uL of supernatant for SDS-PAGE later (**sample #0**)
+    * Collect 100 μL of supernatant for SDS-PAGE later (**sample #0**)
 
 #. Add 2 to 5 mL of Buffer B to the pellet and vortex to completely dissolve the pellet. 
 #. Add Buffer B into the tube up to 24 mL of volume. 
 
-    * Collect 100 uL for SDS-PAGE later (**sample #1**)
+    * Collect 100 μL for SDS-PAGE later (**sample #1**)
 
 #. Cool the sample on ice for 30 mins to 1 hr. 
 #. Devide the suspensions into 24 microcentrifuge tubes (1 mL per microcentrifuge tube).
-#. Centrifuge. 20,000 to 27,000 x g (or 15,000 rpm), 4 C, 10 mins. 
+#. Centrifuge. 20,000 to 27,000 x g (or 15,000 rpm), 4 °C, 10 mins. 
 #. Collect supernatant.
 
-    * Collect 100 uL of the collected supernatant for SDS-PAGE (**sample #2**)
+    * Collect 100 μL of the collected supernatant for SDS-PAGE (**sample #2**)
 
 #. Collect pellet. 
 
     * To make SDS-PAGE sample of pellet, add 1 mL of lysis buffer or Buffer B to pellet and mix using vortex. 
-    * Leave the pellet on ice for 1 hr, then collect 100 uL of suspended pellet for SDS-PAGE (**sample #3**)
+    * Leave the pellet on ice for 1 hr, then collect 100 μL of suspended pellet for SDS-PAGE (**sample #3**)
 
 #. Add the collected supernatant to Ni-NTA resin
 
-    * Store all pellet in their respective microcentrifuge tube at 4 C
+    * Store all pellet in their respective tube at 4 °C
 
 #. Bring rotator into cold room. Rotate the Ni-NTA. 4 C, 30 mins to 1 hr.
 #. Centrifuge. 500 x g (or 3000 rpm), 4 C, 5 mins. 
 #. Remove supernatant.
     
-    * Collect 100 uL of supernatant for SDS-PAGE (**sample #4**)
+    * Collect 100 μL of supernatant for SDS-PAGE (**sample #4**)
 
 #. Add 10 mL Buffer B into the Ni-NTA resin and mix well. 
-#. Centrifuge. 500 x g (or 3,000 rpm), 4 C, 5 mins.
+#. Centrifuge. 500 x g (or 3,000 rpm), 4 °C, 5 mins.
 #. Remove supernatant. 
 
-    * Collect 100 uL of supernatant for SDS-PAGE (**sample #5**)
+    * Collect 100 μL of supernatant for SDS-PAGE (**sample #5**)
 
 #. Transfer Ni-NTA resin to column using 10 mL of Buffer B and collect the elution. 
 
-    * Collect 100 uL for SDS-PAGE (**sample #6**) 
+    * Collect 100 μL for SDS-PAGE (**sample #6**) 
 
 #. Add 10 mL of Buffer B and collect the elution. 
 
-    * Collect 100 uL for SDS-PAGE (**sample #7**)
+    * Collect 100 μL for SDS-PAGE (**sample #7**)
 
 #. Add 2 mL of Buffer C and collect the elution. 
 
-    * Collect 100 uL for SDS-PAGE (**sample #8**)
+    * Collect 100 μL for SDS-PAGE (**sample #8**)
 
 #. Repeat the previous steps for 4 more times. A total of 4 fractions will be collected. 
 
-    * Collect 100 uL for SDS-PAGE (**sample #9-#12**)
+    * Collect 100 μL for SDS-PAGE (**sample #9-#12**)
 
 #. Run SDS-PAGE for all 12 samples. 
 
@@ -253,7 +253,7 @@ Dialysis
 
 **Procedure** 
 
-#. Pre-cool Buffer D to 4 C at least 30 mins before starting dialysis. 
+#. Pre-cool Buffer D to 4 °C at least 30 mins before starting dialysis. 
 #. Add 1 L of Buffer D into a beaker. 
 #. Submerge the dialysis cassette in to Buffer D for 5 to 10 mins. 
 #. Remove the cassette from the buffer. 
@@ -263,5 +263,5 @@ Dialysis
 #. After 2 hrs, remove existing buffer and add fresh buffer D. Leave the set up for another 2 hrs. 
 #. After 2 hrs, remove existing buffer and add fresh buffer D. Leave the set up overnight. 
 #. Collect the dialysised solution from cassette into multiple microcentrifuge tube (1 mL/tube). 
-#. Store the purified protein at -80 C. 
+#. Store the purified protein at -80 °C. 
 #. Conduct Bradford assay to estimate concentration of the purified protein. 
