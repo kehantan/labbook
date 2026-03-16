@@ -39,7 +39,7 @@ Now we need to calculate how much media we need. We would need 100 uL of media i
 
     .. code-block:: 
     
-        Total media needed = 10 concentrations * 5 wells/concentration * 100 uL/well = 5,000 uL 
+        Total media needed = 10 concentrations * 5 wells/concentration * 100 μL/well = 5,000 μL 
 
 Similar to above, :code:`10 concentrations` were used in calculation instead of 8 for some extra headroom. 
 
@@ -90,13 +90,12 @@ We need to know the number of cells since we want to seed a specific number of c
 
 After counting the cells, we should get value of :code:`X cells/mL`. Compare the counted cell number before we begin the experiment and the calculated cells number. We should have sufficient cells for seeding. 
 
+.. _cell seed mtt:
+
 *Cell seeding*
 
-:ref:`cell seeding for MTT assay <cell seed mtt>`
-
-After we know how much cells we have, we now need to know how much cells we need to take from the cell suspension and dilute in media to make the mixture with the final concentration we want. 
-
-Assume after counting the cells, we have: :code:`300*10^4 cells/mL`, but we only need :code:`5*10^4 cells/mL` (Remember we calculate this value before we begin the procedure). 
+* After we know how much cells we have, we now need to know how much cells we need to take from the cell suspension and dilute in media to make the mixture with the final concentration we want. 
+* Assume after counting the cells, we have: :code:`300*10^4 cells/mL`, but we only need :code:`5*10^4 cells/mL` (Remember we calculate this value before we begin the procedure). 
 
 Using formula
 
@@ -104,24 +103,24 @@ Using formula
 
         C1V1 = C2V2
         300*10^4 cells/mL * V1 = 5*10^4 cells/mL * 5 mL
-        V1 = 0.0833 mL (~83.3 uL) 
+        V1 = 0.0833 mL (~83.3 μL) 
     
-In summary, we need to put **83.3 uL of cell suspension** into **4916.7 uL of media**. But since the volume difference is negligible, we could just add **83.3 uL** of cell suspension into **5,000 uL** of media. 
+In summary, we need to put **83.3 μL of cell suspension** into **4916.7 μL of media**. But since the volume difference is negligible, we could just add **83.3 μL** of cell suspension into **5,000 μL** of media. 
 
 **Procedure**
 
 #. Mix the cell suspension with either repeat pipetting or vortex. 
 #. Add appropriate amount of media into the cell reservoir. 
 
-    * In this example, we should add 5,000 uL (5 mL) of media into the cell resesrvoir.
+    * In this example, we should add 5,000 μL (5 mL) of media into the cell resesrvoir.
 
 #. Take required volume of cell suspension and mix with mesdia in the cell reservoir.
 
-    * In this example, add 83.3 uL of cell suspension into the cell reservoir.
+    * In this example, add 83.3 μL of cell suspension into the cell reservoir.
 
 #. Mix the cells and media evenly by repeat pipetting using multichannel micropiptte. 
-#. Add 100 uL of cells and media mixture from the cell reservoir into the 96 well plate with multichannel micropipette. 
-#. Incubate the seeded 96 well plate for 24 hrs at 37 C, 5% CO2. 
+#. Add 100 μL of cells and media mixture from the cell reservoir into the 96 well plate with multichannel micropipette. 
+#. Incubate the seeded 96 well plate for 24 hrs at 37 °C, 5% CO2. 
 
 .. _mtt-part2:
 
@@ -131,12 +130,12 @@ Treatment
 * Estimated time required: 1 hr
 * Treatment is where we treat our seeded cells with the compounds we wanted to test. 
 * Before treatment, calculate the concentration of compound we need. Usually a serial dilution will do. There are serial dilution calculator online that can help us to calculate the dilution. Refer to :ref:`serial dilution <serial dilution>` section. 
-* Assume we seeded cells in 5 different wells for each concentration in the previous step, we would need enough volume of complete DMEM+compound. In this case, :code:`100 uL * 5 wells = 500 uL`, but again, to compansate for pipette error, we can prepare 600 uL, a 100 uL extra. This means after the serial dilution, we should have 600 uL of complete DMEM+compound, with final concentration the we wanted to test in each microcentrifuge tube. 
+* Assume we seeded cells in 5 different wells for each concentration in the previous step, we would need enough volume of complete DMEM+compound. In this case, :code:`100 uL * 5 wells = 500 μL`, but again, to compansate for pipette error, we can prepare 600 μL, a 100 μL extra. This means after the serial dilution, we should have 600 uL of complete DMEM+compound, with final concentration the we wanted to test in each microcentrifuge tube. 
 
 **Materials**
 
 * DMEM
-* Multichannel micropipette (10-200 uL)
+* Multichannel micropipette (10-200 μL)
 * Micropipette 
 * Microcentrifuge tube
 * Waste beaker 
@@ -152,7 +151,7 @@ Treatment
 #. Remove existing media from 96 well plate with multichannel micropipette. 
 #. Add 100 uL of fresh media in negative control wells. 
 #. Add 100 uL of diluted compound into respective wells. 
-#. Incubate, 24 hrs, 37 C, 5% CO2.
+#. Incubate, 24 hrs, 37 °C, 5% CO2.
 
     * May adjust desired incubation period. 
 
@@ -180,14 +179,14 @@ Add MTT, read absorbance
 **Procedure**
 
 #. Take MTT reagent from freezer and warm to room temperature in water bath or let it sit at bench before use. 
-#. Add 10 uL of MTT reagent into each well.
+#. Add 10 μL of MTT reagent into each well.
 
     * **Do not** need to remove media on this step.
     * The MTT reagent concentration is 5 mg/mL, final concentration of MTT reagent in each well is 0.5 mg/mL.
     * Other concentrations of MTT can be used, find out from the literature whichever concentration of MTT that suits your experiments. 
 
 #. Wrap well plates in aluminium foil to keep the MTT reagent from light. 
-#. Incubate. 37 C, 5% CO2, 1-4 hrs.
+#. Incubate. 37 °C, 5% CO2, 1-4 hrs.
 
     * Different literature report different incubation time, you can try to optimise, but be consistant. If you decided to incubate for 2 hrs, then incubate 2 hrs everytime you do MTT assay.  
 
@@ -196,7 +195,7 @@ Add MTT, read absorbance
     * You can observe the 96 well plate under microscope with 10x magnification to observe the formation of formazan crystals. 
 
 #. Remove media along with remaining MTT solution with multichannel micropipette.  
-#. Add 100 uL of DMSO into each well with a multichannel micropipette. 
+#. Add 100 μL of DMSO into each well with a multichannel micropipette. 
 
     * You can use a cell reservoir for DMSO.  
 
@@ -210,6 +209,25 @@ Add MTT, read absorbance
     * There are different protocols that uses different wavelength, you may adjust according to literature. 
 
 #. After reading the absorbance, the plate can be disposed into the yellow bin in the lab. 
+
+Results
+-------
+
+* Most microplate reader allows the absorbance readings to be easily export to MS Excel file. If not, have to convert them manually into an Excel sheet. 
+
+**Workflow**
+
+#. Average all the reading from the 3 wells of each concentrations (including blank and negative control wells). 
+#. Minus off values from blank wells. This is to remove the background noise generated by DMSO (which we used as a blank).
+#. Divide absorbance reading of each well by the absorbance reading of non-treated control. 
+#. Multiply the value by 100 to convert to percentage. 
+#. Plot graph in graphpad prism or any other software to calculate IC50.
+
+:math:`\text{Inhibition (%)} = \frac{T}{NTC} \times 100\%` 
+
+T = Treated
+
+NTC = Non-treated control 
 
 FAQ
 ---
@@ -225,7 +243,7 @@ There are some parameters that you will need to find out before starting MTT ass
 
     * Concentrations of compound to test depending on the solubility of the compound in DMSO or other solvent (like water), different compound has different solubility in DMSO. Even if a compound is completely soluble in DMSO, it may precipiate when attempt to dilute with media during serial dilution. 
     * If you have no idea what compound concentrations to use, you can try out by using a larger range of concentrations first. 
-    * I typically start with 200 ug/mL and half it for each dilution step (200, 100, 50 ug/mL, etc.). My rationale is that it is easier to find your compound's optimum concentration by screening it with a wider range. If you screen your compound at a narrower range like 20, 40, 60 ug/mL, etc., you might need to do more assays to find out the optimum concentration. So start from wider range, then narrow down if necessary. 
+    * I typically start with 200 μg/mL and half it for each dilution step (200, 100, 50 μg/mL, etc.). My rationale is that it is easier to find your compound's optimum concentration by screening it with a wider range. If you screen your compound at a narrower range like 20, 40, 60 μg/mL, etc., you might need to do more assays to find out the optimum concentration. So start from wider range, then narrow down if necessary. 
 
 #. *Other common questions including 'How long I should incubate? How much MTT reagent I should use?'*
 

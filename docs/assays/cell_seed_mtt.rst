@@ -1,6 +1,4 @@
-.. _cell seed mtt:
-
-Cell seeding for MTT assay
+Cell seeding for MTT assay 
 ==========================
 
 * Estimated time needed: 1 hr

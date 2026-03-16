@@ -47,16 +47,16 @@ Protease inhibition assay
     * The final volume of liquid in each well should be 40 uL. Adjust the buffer volume accordingly.  
 
 #. Add correct amount of protease into each well. 
-#. Add 4 uL of diluted compound into wells assigned for different concentrations. 
+#. Add 4 μL of diluted compound into wells assigned for different concentrations. 
 
-    * 4 uL is for convenient's sake, the final concentration is 10x diluted when added into the wells. It does not have to strictly be 4 μL, can adjust and calculate desired final volume to added into each well. 
+    * 4 μL is for convenient's sake, the final concentration is 10x diluted when added into the wells. It does not have to strictly be 4 μL, can adjust and calculate desired final volume to added into each well. 
 
 #. Incubate, room temperature, 30 mins. 
 #. Thaw substrate from -20 C. 
 #. Dilute substrate from 10 mM stock to 1 mM working stock in assay buffer.  
-#. Add 4 uL diluted substrate into each well.
+#. Add 4 μL diluted substrate into each well.
 
-    * Again, 4 uL is not a strict requirement, just for convenient. Adjust accordingly.  
+    * Again, 4 μL is not a strict requirement, just for convenient. Adjust accordingly.  
 
 #. Incubate, room temperature, 120 mins. 
 #. Read plate at 380 nm excitation and 445 nm emission. 
