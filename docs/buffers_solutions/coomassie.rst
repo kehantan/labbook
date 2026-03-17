@@ -3,26 +3,25 @@
 Coomassie staining solution
 ===========================
 
-* Final concentration = 0.1% (w/v) Coomassie blue, 20% (v/v) methanol, 10% (v/v) acetic acid. 
+* Final concentration = 0.1% (w/v) Coomassie blue, 40% (v/v) methanol, 10% (v/v) acetic acid. 
+* Final vol = 200 mL 
 
 **Materials**
 
 * Coomassie blue powder
 * Methanol 
 * Acetic acid 
-* Distilled water
+* Distilled H2O
 * Measuring cylinder
 * Bottle (500 mL)
-* Filter (0.45 um)
-* Syringe
+* Filter paper
+* Filter funnel
 
 **Procedure**
 
-#. Prepare 200 mL of 40% (v/v) methanol by diluting 80 mL of methanol with 120 mL of distilled water. 
-#. Prepare 200 mL of 20% (v/v) acetic acid by diluting 40 mL of acetic acid with 160 mL of distilled water. 
-#. Dissolve 0.4 g of Coomassie blue powder in 200 mL of 40% methanol. 
-#. Stir. 
+#. Add 20 mL of glacial acetic acid to 100 mL of distilled H2O. 
+#. Add 80 mL of methanol and mix. 
+#. Add 0.2 g of Coomassie blue powder into the mixture and stir until the powder mostly dissolve. 
 #. Filter the solution to remove insoluble particles. 
-#. Add 200 mL of 20% acetic acid.
 #. Label. 
-#. Store in 4 C. 
+#. Store at room temp. 
