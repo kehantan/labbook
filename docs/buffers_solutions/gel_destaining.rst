@@ -3,16 +3,16 @@
 Gel-destaining solution
 =======================
 
-* Final concentration = 50% v/v methanol, 10% (v/v) acetic acid, in distilled water.
+* Final concentration = Methanol, 50% (v/v); Glacial acetic acid, 10% (v/v)
 
 **Materials**
 
 * Methanol
-* Acetic acid
-* Distilled water 
+* Glacial acetic acid
+* Distilled H2O 
 
 **Procedure**
 
-#. Add 50 mL of methanol and 10 mL of acetic acid to 40 mL of water. 
+#. Add 50 mL of methanol and 10 mL of glacial acetic acid to 40 mL of distilled H2O. 
 #. Mix well. 
 #. Label and store at bench. 

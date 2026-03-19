@@ -3,7 +3,7 @@
 Paraformaldehyde (PFA)
 ======================
 
-* Concentration = 3.7%, Volume = 250 mL 
+* Concentration = 3.7%
 
 **Materials**
 

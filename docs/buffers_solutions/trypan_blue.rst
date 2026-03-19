@@ -1,15 +1,13 @@
 Trypan blue
 ===========
 
-* Concentration = 0.4% (w/v), Volume  
+* Trypan blue concentration = 0.4% (w/v)
 
 **Materials**
 
 * Trypan blue solution
 * Centrifuge tube 
-* Spatula 
 * :ref:`Phosphate buffer saline (PBS) <pbs>`
-* Weighing balance
 
 **Procedure**
 

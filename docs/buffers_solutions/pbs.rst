@@ -9,7 +9,7 @@ Phosphate buffer saline (PBS)
 **Materials**
 
 * PBS tablet 
-* Distilled water 
+* Distilled H2O
 * Bottle
 
 **Procedure**
@@ -23,5 +23,5 @@ Phosphate buffer saline (PBS)
 
     * Label example: :code:`1x PBS, name initials, date prepared`
 
-#. Autoclave. 15 mins 120 C. 
+#. Autoclave, 15 mins 120 C. 
 #. Seal with parafilm and store at bench.

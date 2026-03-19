@@ -3,24 +3,21 @@
 Sodium hydroxide (NaOH) 
 =======================
 
-* Concentration = 10 M, Volume = 100 mL
+* Concentration = 10 M
 * NaOH MW = 39.997 g/mol
 
 **Materials**
 
 * NaOH pellet
 * Empty bottle
-* Disitlled water
+* Disitlled H2O
 * Magnetic stirrer
-* Weighing boat
-* Weighing balance
-* Spatula  
 
 **Procedure**
 
-#. Measure 40 g of NaOH pellet into about 50-70 mL of distilled water. 
+#. Measure 40 g of NaOH pellet into about 60-80 mL of distilled H2O. 
 #. Stir with a magnetic stirrer until NaOH pellet completely dissolved. 
-#. Top up the NaOH solution with distilled water up to 100 mL of final volume. 
+#. Top up the NaOH solution with distilled H2O up to 100 mL. 
 #. Label the bottle. 
 
     * Label example: :code:`NaOH, 10M, name initials, date prepared`

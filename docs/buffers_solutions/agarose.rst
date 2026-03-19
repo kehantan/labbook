@@ -3,19 +3,17 @@
 Agarose
 =======
 
-* Concentration = 5% agarose (w/v), Volume = 100 mL 
+* Concentration = 5% (w/v)
 
 **Materials**
 
 * Agarose powder
-* Distilled water
+* Distilled H2O
 * Empty bottle
-* Weighing balance 
-* Weighing boat 
  
 **Procedure**
 
-#. Add 5 g of agarose powder into 100 mL distilled water. 
+#. Add 5 g of agarose powder into 100 mL distilled H2O. 
 #. Swirl the bottle slowly to dissolve as much agarose powder as possible in the distilled water. 
 
     * It is normal if the agarose + distilled water mixture looks cloudy.

@@ -3,7 +3,7 @@
 DMEM+FBS 
 ========
 
-* DMEM with 10% (Complete DMEM) or 2% FBS, final volume 50 mL.
+* DMEM with 10% (Complete DMEM) or 2% FBS
 * Prepare complete DMEM in the biosafety cabinet under sterile environment to avoid contamination.
 
 **Materials**
@@ -13,10 +13,6 @@ DMEM+FBS
 * :ref:`DMEM <dmem>`
 * Centrifuge tube (50 mL)
 * Sodium pyruvate (if required)
-* Micropipette and tips
-* Waste beaker 
-* Serological pipette 
-* Pipette gun 
 
 **Procedure**
 

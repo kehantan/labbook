@@ -3,16 +3,14 @@
 Coomassie staining solution
 ===========================
 
-* Final concentration = 0.1% (w/v) Coomassie blue, 40% (v/v) methanol, 10% (v/v) acetic acid. 
-* Final vol = 200 mL 
+* Concentration = Coomassie blue, 0.1% (w/v); Methanol, 40% (v/v); Glacial acetic acid, 10% (v/v)
 
 **Materials**
 
 * Coomassie blue powder
 * Methanol 
-* Acetic acid 
+* Glacial acetic acid 
 * Distilled H2O
-* Measuring cylinder
 * Filter paper
 * Filter funnel
 

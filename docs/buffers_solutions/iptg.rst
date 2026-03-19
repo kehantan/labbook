@@ -3,17 +3,15 @@
 Isopropyl β-D-1-thiogalactopyranoside (IPTG)
 ====
 
-* Concentration = 250 mM, Final volume = 5 mL 
+* Concentration = 250 mM 
 * IPTG MW: 238.31 g/mol
 
 **Materials**
 
 * IPTG powder
-* Distilled water
+* Distilled H2O
 * Centrifuge tube 
 * Vortex
-* Weighing balance
-* Spatula 
 
 **Procedure**
 

@@ -3,9 +3,9 @@
 Phenylmethylsulfonyl fluoride (PMSF)
 ====
 
-* PMSF is not soluble in water, so have to use isopropyl alcohol. Other solvent like DMSO can also be used. 
-* PMSF is sensitive and can degrade easily in water, prepare freshly before use.  
-* Concentration = 10 mM, Volume = 10 mL 
+* PMSF is not soluble in water, so have to use isopropyl alcohol or DMSO
+* PMSF is sensitive and can degrade easily in water, recommended to prepare freshly before use. Do not store for long period of time in fridge. 
+* Concentration = 10 mM
 * PMSF MW = 174.19 g/mol
 
 **Materials**
@@ -15,8 +15,6 @@ Phenylmethylsulfonyl fluoride (PMSF)
 * PMSF powder
 * Syringe
 * 0.22 um syringe filter
-* Spatula 
-* Weighing balance 
 
 **Procedure**
 

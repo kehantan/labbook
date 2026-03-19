@@ -16,9 +16,6 @@ Dulbecco's Modified Eagle Medium (DMEM)
 * Magnetic stirrer
 * Vacumm pump
 * HEPES
-* Weighing balance 
-* Weighing boat 
-* Spatula 
 
 **Procedure**
 

@@ -1,20 +1,19 @@
 .. _kanamycin: 
 
-Kanamycin
-=========
+Kanamycin stock
+===============
 
-* Concentration = 30 mg/mL, Volume = 10 mL 
+* Concentration = 30 mg/mL
 * Kanamycin molar mass = 484.499 g/mol 
 
 **Materials**
 
 * Kanamycin powder
 * Centrifuge tube (15 mL) 
-* Distilled water
+* Distilled H2O
 * 0.22 um syringe filter
 * Syringe
 * Vortex
-* Weighing balance
 
 **Procedure**
 

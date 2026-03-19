@@ -10,29 +10,26 @@ LB agar
 
 * LB agar powder 
 * Petri dish 
-* Empty bottle
+* Bottle
 * Spatula
-* Weighing scale 
-* Weighing boat
-* Distilled water 
-* Autoclave
+* Distilled H2O
 * :ref:`Kanamycin (30 mg/mL) <kanamycin>` 
 * Bunsen burner
 * Lighter 
-* Measuring cylinder
 
 **Procedure**
 
 #. In an empty bottle, add 9.25 g of LB powder.
-#. Add 250 mL distilled water into the bottle. 
-#. Autoclave.
+#. Add 250 mL distilled H2O into the bottle. 
+#. Autoclave, 120 C, 15 mins. 
 
     * Set the autoclave mode to 'warm' instead or 'normal'. This would keep the agar at 60 C after autoclave is complete so the interior of autoclave would not cool to room temp and causes the agar to solidifies. 
 
-#. Thaw Kanamycin from freezer in water bath. 
+#. Thaw Kanamycin from freezer in water bath.
+#. Sterilise bench and setup bunsen burner.  
 #. Add Kanamycin stock solution into LB agar after it cools to temperature that can be handled safely (~50-60 C). 
 
-    * Final concentration of Kanamycin = 30 ug/mL.
+    * Kanamycin final concentration = 30 ug/mL.
 
 #. Swirl the bottle to mix the Kanamycin well. 
 #. Pour agar into petri dish. 
@@ -41,4 +38,4 @@ LB agar
 **Note:**
 
 * Depends on how many plates to pour, 1 petri dish usually fits around 25 mL of agar, so 250 mL of agar would be enough for around 10 petri dish. If not that many agar plate is needed, can reduce the volume of agar, or can store extra plates on bench or in 4 C. 
-* Using larger bottle because when agar boils it would create a lot of bubble. Larger bottle prevents the bubbling agar from overflow and clog the autoclave. 
+* When agar boils it would bubbling vigorously. Use a larger bottle (double the volume of the volume of agar) to prevents the agar from overflow and clog the autoclave. 
