@@ -13,7 +13,6 @@ Coomassie staining solution
 * Acetic acid 
 * Distilled H2O
 * Measuring cylinder
-* Bottle (500 mL)
 * Filter paper
 * Filter funnel
 
