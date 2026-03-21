@@ -3,7 +3,7 @@ Protease inhibition assay
  
 * Do :ref:`enzyme progress curve <enzyme_progress>` before carry out inhibition assay to find out amount of enzyme and substrate needed. 
 * For our lab: enzyme = 15 μM, substrate = 125 μM, incubation time = 120 mins 
-* References: :cite:p:`ihssen_fluorogenic_202,smirnoviene2021standard,brooks2012basics`.
+* References: :cite:p:`ihssen_fluorogenic_202,smirnoviene2021standard,brooks2012basics`
 
 **Materials**
 

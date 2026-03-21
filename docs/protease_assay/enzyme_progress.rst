@@ -3,15 +3,16 @@
 Enzyme progress curve
 =====================
 
+* Enzyme progress curve is required to determine the enzyme and substrate concentrations to be used in inhibition assays. 
+* References: :cite:p:`ihssen_fluorogenic_202,smirnoviene2021standard,brooks2012basics`
+
 **Materials** 
 
 * Tris-HCl stock buffer (1M, pH 8.5)
 * Purified protease (with known concentrations in μg/mL or μM) 
-* Fluorogenic peptide substrate stock solution (10 mM)
+* Fluorogenic peptide substrate stock solution (Boc-Gly-Arg-Arg-MCA, 10 mM)
 * DMSO
 * 384 well black plate 
-* Micropipette 
-* Micropipette tips
 * Microcentrifuge tube/PCR tube 
 
 **Procedure**
@@ -20,12 +21,11 @@ Enzyme progress curve
 
 #. Add 0.5 mL of 1 M Tris-HCl stock buffer solution into 4.5 mL of distilled water to obtain 100 mM of Tris-HCl assay buffer solution at pH 8.5. Adjust the volume if necessary. 
 #. Mix well. Vortex if necessary. 
-#. Leave at bench for later use. 
 
 *Protease dilution*
 
 #. Retrive purified protease from -80 C and thaw at room temperature. 
-#. Calculate volume of enzyme stock to be added into each well according to enzyme stock concentration. 
+#. Calculate volume of enzyme stock to be added into each well according to enzyme stock concentration obtained. 
 #. Add appropriate volume of enzyme into each well of a 384 well plate to the desired final enzyme concentration. 
 
     * Final enzyme concentration in wells: 20, 15, 10, 5 μM 
