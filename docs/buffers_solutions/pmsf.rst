@@ -21,4 +21,4 @@ Phenylmethylsulfonyl fluoride (PMSF)
 #. Dissolve 17.4 mg (0.0174 g) of PMSF powder in 10 mL of isopropyl alcohol. 
 #. Mix well, vortex if necessary. 
 #. Filter with 0.22 um syringe filter. 
-#. Labe and store in 4 C.   
+#. Label and store at 4 C.   
