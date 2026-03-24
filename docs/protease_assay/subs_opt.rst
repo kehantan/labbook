@@ -51,4 +51,6 @@ Substrate optimisation
 **Results**
 
 * Plot Michaelis-Menten plot. x-axis = substrate concentration, y-axis = RFU or reaction velocity 
-* Get Km. Use Km from protease optimisation and Km of substrate optimisation as the protease and substrate concentration for protease inhibition assay. 
+* In GraphPad prism, analyse the result using :code:`Nonlinear regression -> Enzyme kinetics - Velocity as a function of substrate -> Michaelis-Menten`. 
+* GraphPad Prism will calculate Km value. Km value of protease and substrate optimisation will be used as the protease and substrate concentration for protease inhibition assay.
+* Graph should looks like a typical Michaelis-Menten plot with plateau. If no plateau observed/not obvious, can try to prolong incubation time or might need to go back to protease optimisation step.
