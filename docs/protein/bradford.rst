@@ -6,13 +6,13 @@ Bradford assay
 BSA standard curve
 ------------------
 
-* Bovine serum albumin (BSA) would be used as a standard for Bradford assay 
+* Bovine serum albumin (BSA) as standard for Bradford assay 
 * The standard curve only need to be done once, after the standard curve is established, use the standard curve to determine the concentration of protein in subsequent purified protein sample. 
 
 **Materials**
 
 * Microcentrifuge tube
-* Any suitable solvent for diluting protein sample and BSA (eg: Distilled H2O, PBS, buffers, etc.)
+* Suitable solvent for diluting protein sample and BSA (eg: Distilled H2O, PBS, buffers, etc.)
 * Bovine serum albumin (BSA)
 * Bradford reagent (BioRad)
 * 96 well plate, clear
@@ -32,8 +32,6 @@ BSA standard curve
 
     * Reduce as much bubble as possible from the wells to reduce absorbance interference
 
-**Note:** Dist H2O can be used, but it is preferable to use the solvent used to dissolve the target protein we are going to quantify (eg: PBS, buffer, etc.) as solvent for dilution for more accurate results. 
-
 Protein sample
 --------------
 
@@ -43,6 +41,8 @@ Protein sample
 #. Add 10 uL of diluted protein samples into 190 uL of Bradford reagent. Mix well. 
 #. Incubated at room temperature, 5 mins. 
 #. Read absorbance at 595 nm. 
+
+**Note:** Proteins should be diluted in the buffer in which they are dissolved (eg: PBS, buffer, etc.). Use the same buffer to prepare the standard curve. Dist H2O can be used, but it is preferable to use the suitable solvent used to dissolve the protein sample for more accurate results. 
 
 Results 
 ---

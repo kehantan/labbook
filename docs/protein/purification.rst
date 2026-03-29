@@ -21,8 +21,8 @@ Buffers
 
 *Lysis buffer*
 
-* In this protocol, we need at least 25 mL of lysis buffer, so prepare around 30 mL should be sufficient for 1 round of purification. 
-* It is best to prepare PMSF and lysozyme stock before use. Storing stock solution of PMSF and lysozyme in freezer for long period of time (> 6 monts) can have some detrimental effect for the protein purification procedure.  
+* At least 25 mL of lysis buffer needed, so prepare around 30 mL should be sufficient for 1 round of purification. 
+* It is best to prepare PMSF and lysozyme stock before use. Storing stock solution of PMSF and lysozyme in freezer for long period of time (> 6 months) can have some detrimental effect for the protein purification procedure.  
 
 +-------------------------------+--------------+--------+
 |                               | Stock        | 30 mL  |
@@ -62,7 +62,7 @@ Buffers
 
 *Buffer C*
 
-* Buffer C need to be pre-cooled in cold room, we need Buffer C only in cold room. 
+* Buffer C need to be pre-cooled in cold room, Buffer C only needed in cold room. 
 
 +-------------------------------+-------+----------+----------+
 |                               | Stock | 100 mL   | 10 mL    |
@@ -82,7 +82,7 @@ Buffers
 
 *Buffer D*
 
-* We would need 2 L of buffer D for one round of purification. 
+* 3 L of buffer D was required for one round of purification. 
 * Buffer D need to be pre-cooled in cold room. 
 
 +----------------------------+-------+---------+---------+
@@ -104,7 +104,6 @@ Protein extraction
 
 **Materials**
 
-* Ice box
 * Plastic bucket
 * Ice 
 * Microcentrifuge tube (1.5 mL)
@@ -113,9 +112,6 @@ Protein extraction
 * :ref:`Lysis buffer <lysis_buffer>`
 * :ref:`Buffer B <buffer_b>`
 * Rotator
-* Micropipette and tips (1000 μL)
-* Waste beaker
-* Paper towel
 * Plastic beaker (10 mL)
 * Refrigerated centrifuge (can fit 50 mL centrifuge tube)
 * Refrigerated microcentrifuge (can fit 1.5 mL microcentrifuge tube)
@@ -255,13 +251,13 @@ Dialysis
 
 #. Pre-cool Buffer D to 4 °C at least 30 mins before starting dialysis. 
 #. Add 1 L of Buffer D into a beaker. 
-#. Submerge the dialysis cassette in to Buffer D for 5 to 10 mins. 
+#. Pre-wet the dialysis membrane by submerging the dialysis cassette in to Buffer D for 5 to 10 mins. 
 #. Remove the cassette from the buffer. 
-#. Using a syringe and needle, transfer the selected fractions from centrifuge tube into the cassette. 
+#. Transfer the selected fractions from centrifuge tube into the cassette by using a needle and syringe. 
 #. Submerge the cassette into Buffer D. 
 #. Leave the set up in the cold room for 2 hrs. 
 #. After 2 hrs, remove existing buffer and add fresh buffer D. Leave the set up for another 2 hrs. 
 #. After 2 hrs, remove existing buffer and add fresh buffer D. Leave the set up overnight. 
-#. Collect the dialysised solution from cassette into multiple microcentrifuge tube (1 mL/tube). 
+#. Collect the dialysised solution from cassette into multiple microcentrifuge tube (500 μL - 1 mL/tube). 
 #. Store the purified protein at -80 °C. 
-#. Conduct Bradford assay to estimate concentration of the purified protein. 
+#. Perform Bradford assay to estimate concentration of the purified protein. 
