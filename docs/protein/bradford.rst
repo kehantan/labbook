@@ -12,53 +12,49 @@ BSA standard curve
 **Materials**
 
 * Microcentrifuge tube
-* Distilled water, PBS, or any suitable buffer
+* Any suitable solvent for diluting protein sample and BSA (eg: Distilled H2O, PBS, buffers, etc.)
 * Bovine serum albumin (BSA)
-* Bradford reagent 
+* Bradford reagent (BioRad)
 * 96 well plate, clear
 * Microplate reader 
-* Micropipette 
-* Micropipette tips 
-* Waste beaker
 
 **Procedure**
 
-#. Dilute BSA powder in distilled water to make stock solution of BSA (5 mg/mL). 
+#. Dilute BSA powder in distilled water to make stock solution of BSA (10 mg/mL). 
+#. Prepare a series of BSA standard solutions of known concentrations of 0, 200, 400, 600, 800, 1000, 1200, and 1400 μg/mL by diluting the BSA stock solution in distilled H2O (or any suitable solvent/buffer) to final volume of 50 μL.
 
-    * It is best to dilute the BSA using solvent that is same as the solvent of the protein sample for more accurate results.  
+    * Volume can be adjusted depends on how many replications we want to do. 
 
-#. Prepare a series of BSA standard solutions of known concentrations starting from 0, 200, 400, 600, 800, and up to 1000 ug/mL by diluting the BSA stock solution in distilled water to final volume of 50 uL.
-#. In a 96 well clear plate, add 10 uL of BSA of different concentrations into 190 uL of Bradford reagent. Mix well. 
-#. Include wells for blank by pipette 200 uL of distilled water. 
-
-    * The blank should be depending on what solvent you use for dissolving the BSA, can be distilled water, PBS, or buffer. 
-    * Distilled water was used for blank instead of bradford reagent. This decision was made according to the reference below.  
-
+#. In a 96 well clear plate, add 10 μL of BSA prepared in previous step into 190 μL of Bradford reagent. Mix well. 
+#. Add 10 μL of distilled H2O into 190 μL of bradford reagent as blank. 
 #. Incubated at room temperature, 5 mins.
 #. Read absorbance at 595 nm. 
 
-**Results** 
+    * Reduce as much bubble as possible from the wells to reduce absorbance interference
 
-* Plot the data in GraphPad Prism or MS Excel.
-* If using GraphPad Prism, use the linear regression model and fit the standard line into the data.
-* Examine plot, trendline should be linear, better if R\ :sup:`2` = 0.99.
-* Obtain the formula that describe the line of best fit of BSA standard cruve, :code:`y=mx+c` 
+**Note:** Dist H2O can be used, but it is preferable to use the solvent used to dissolve the target protein we are going to quantify (eg: PBS, buffer, etc.) as solvent for dilution for more accurate results. 
 
 Protein sample
 --------------
 
 **Procedure**
 
-#. Perform a 2 fold serial dilution of protein sample. 
-#. Add 10 uL of diluted protein samples into 190 uL of Bradford reagent. Mix well.  
+#. Perform a 2 fold serial dilution of protein sample using dist H2O. 
+#. Add 10 uL of diluted protein samples into 190 uL of Bradford reagent. Mix well. 
+#. Incubated at room temperature, 5 mins. 
 #. Read absorbance at 595 nm. 
 
-**Results**
+Results 
+---
 
-#. Plug the value into :code:`y` of the formula :code:`y=mx+c` and find the value for :code:`x`.  
+* Plot the data of BSA std curve in GraphPad Prism or MS Excel.
+* If using GraphPad Prism, use the linear regression model and fit the standard line into the data.
+* Examine plot, trendline should be linear, better if R\ :sup:`2` is close to to 0.99.
+* Obtain the formula that describe the line of best fit of BSA standard cruve, :code:`y=mx+c` 
+#. Plug the absorbance value obtained from measuring the protein sample into :code:`y` of the formula :code:`y=mx+c` and find the value for :code:`x`.  
 #. If the absorbance value for the protein sample exceeds the range of the BSA standard curve, dilute the protein sample and measure again. 
-
-*Note:* Optimal range of absorbance value for bradford assay should falls between 0.1 and 1.0 for an accurate representation of protein concentration. 
+    
+    * Optimal range of absorbance value for bradford assay should falls between 0.1 and 1.0 for an accurate representation of protein concentration. 
 
 Linearisation of Bradford assay 
 -------------------------------
@@ -68,7 +64,3 @@ Linearisation of Bradford assay
 * The main reasoning for doing this is that if we try to plot a standard curve from only 595 nm wavelength, we would not get a linear graph as expected. At higher BSA concentration, the line would curve to a plateau when concentraion of BSA approaching 1000 ug/mL range. 
 * So 2 readings at different wavelength, 590 nm and 450 nm was taken and calculate the absorbance ratio of A\ :sub:`590`\ /A\ :sub:`450`\ . 
 * There are other wavelength used like 595 nm and 490 nm reported in other literature, but I find the standard curve calculated from readings with 590 nm and 450 nm wavelength works the best to give the highest R\ :sup:`2` value when plotted. 
-
-#. Divide the absorbance value of each BSA concentration at 590 nm by absorbance value at 450 nm.
-
-    * :math:`\frac{A_{590}}{A_{450}}`
