@@ -8,7 +8,6 @@ Cell culture
 .. toctree::
    :maxdepth: 1
 
-   cell_culture/begin
    cell_culture/thaw
    cell_culture/change_media
    cell_culture/trypsinise

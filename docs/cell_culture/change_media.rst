@@ -2,17 +2,14 @@ Media change
 ============
 
 * Estimated time needed: 15 mins
-* We usually change media when: 
+* Usually change media when: 
 
     * 24 hrs after reviving new cells, to remove excess DMSO
-    * When media turned yellow, but we don't want to subculture the flask yet 
+    * When media turned yellow, but cells not reach target confluent  
 
 **Materials**
 
-* Serological pipette 
-* Pipette gun 
-* Complete DMEM 
-* Waste beaker 
+* Culture media 
 
 **Procedure**
 

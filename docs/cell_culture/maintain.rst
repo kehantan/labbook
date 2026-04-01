@@ -12,50 +12,49 @@ Standard passaging (subculture)
 * Culture flask (T25/T75)
 * Centrifuge tube (15 mL)
 * Trypan blue
-* 96 well plate (for mixing trypan blue and cell suspension for counting
-* Cell counter
 * Cell counting chamber
-* Micropipette 
-* Pipette tips
-* Pipette gun 
-* Waste beaker 
-* Serological pipette 
-* Tube rack 
+* PBS
 
 **Procedure**
 
-#. Trypsinise the cells in the culturing flask. Refer to :ref:`trypsinise <My target>`.
-#. Count the cells. Refer to :ref:`cell count <cell count>` 
+#. Remove existing media in culture flask. 
+#. Wash cells with 1-2 mL of PBS.
+#. Add 1-2 mL (depending on flask size) of TrypLE into culture flask. 
+#. Incubate culture flask. 37 °C, 3-5 mins, not more than 10 mins.
+#. Tap the flask to mechanically detach the cells from culture flask. 
+#. Add equal amount of complete DMEM into the culture flask.  
+#. Transfer cell suspension into centrifuge tube. 
+#. Centrifuge. 4x1000 g (15000 rpm), 5 mins.  
+#. Discard supernatant. 
+#. Resuspend cell pellet in 1 mL of complete DMEM. Repeat pipette gently to break cell clumps. 
+#. Add sufficient amount of complete DMEM into new culturing flask. 
 
-    * Cell counting is optional if you are just subculturing cells. For subculture, you can either: 
-        * Count the cells and seed the exact number of cells you want; OR 
-        * To save some work, you can just split the previous culture into different portions depending on the percentage of confluency you need for your experiments and the days you want to conduct the experiments. 
-        * Example: You have 1 mL of cell suspension after trypsinisation. To split 1:3, put around 300 uL of cell suspension into new culture flask with complete DMEM. You can also use other ratio like 1:5 or 1:10 split. To get the correct confluency using splitting by ratio method requires some trial and error and some experience. 
+    * T25 ~3-5 mL, T75 ~8-10 mL. 
 
-#. Add sufficient amount of complete DMEM into new culturing flask. T25 ~3-5 mL, T75 ~8-10 mL. 
-#. Seed cells onto a new flask at the desired cell density.
+#. Seed cells. 
 
-    * If you want to seed a specific number of cells, you will have to do cell count beforehand. If you wanted to split by ratio, just add the correct amount of cell suspension based on the split ratio into the new flask. 
+    * Cell counting is optional if just passaging the cells. 
+    * If 1 mL of cell suspension after trypsinisation, to split 1:3, put around 300 uL of cell suspension into new culture flask with complete DMEM. Other ratio like 1:5 or 1:10 can also be used.
 
 #. Tilt the culture flask to evenly distribute the seeded cells. 
 #. Label the flask. 
 
-    * Label example: cell type, passage number, date, name initials
+    * Label cell type, passage number, date, name initials
 
-#. Incubate. 37 C, 5% CO2.
+#. Incubate. 37 °C, 5% CO2.
 
 **Numbers of cells to seed in flask**
 
-This is just a guideline based on the cell line I worked with, Vero cells. The actual duplication speed of cells can be subjected to various factors like: cell line, cell condition, passage number, growth environment, etc. 
+This is a very rough estimation, the actual duplication speed of cells can be subjected to various factors like: cell line, cell condition, passage number, growth environment, etc. 
 
 In a T25 culture flask, to reach around 80% cell confluency in:
 
-* next day, we will can seed about 800,000 cells
-* 3 days, we can seed about 500,000 cells
-* 7 days, we can seed about 50,000 cells
+* next day, seed ~700,000 cells
+* 3 days, seed ~500,000 cells
+* 7 days, seed ~50,000 cells
 
 In a T75 culture flask, to reach around 80% cell confluency in:
 
-* next day, we can seed about 1,500,000 cells 
-* 3 days, we can to seed about 800,000 cells
-* 7 days, we can seed about 50,000 cells 
+* next day, seed ~1,000,000 cells 
+* 3 days, seed ~800,000 cells
+* 7 days, seed ~50,000 cells 

@@ -36,7 +36,7 @@ Before begin cell culture
 
 *Preparation for cell culture work*
 
-* About 30 mins before starting the actual cell culture procedure, some preparations are needed
+* About 30 mins before starting the actual cell culture procedure, some preparations are required
 
 #. Gather all the items needed for procedure.
 #. Carry them to the cell culture room.
@@ -46,13 +46,13 @@ Before begin cell culture
 #. Close the BSC window.
 #. Turn on the UV to sanitise the environment.
 
-* Reagents do not need to be UV, instead pre-warm the reagents in 37 C water bath before using. 
+* Reagents do not need to be UV, instead pre-warm the reagents in 37 °C water bath before using. 
 * After UV, bring the pre-warm reagents to the cell culture room and spray the reagent bottles with 70% ethanol before bringing them into the BSC. 
 
 **Notes**
 
 * This is a general practice/rules/guidelines/protocols that we commonly use in our lab, the goal is to lower the chances of contamination as much as possible. 
-* No one will be punished the rules are not strictly followed in exchange for convenience. However, it is advisable to adhere to these practice **WHENEVER POSSIBLE**. It is better safe than sorry because usually cell culture experiments can span across several days, surely no one wants to find out that the experiments were contaminated at the last step of the procedures after several days of hard work. 
+* No one will be punished the rules are not strictly followed in exchange for convenience. However, it is advisable to adhere to these practice **WHENEVER POSSIBLE**. Cell culture experiments can span across several days, surely no one wants to find out that the experiments were contaminated at the last step of the procedures after several days of hard work, better be safe than sorry. 
 * There might be circumstances where you
 
     * *Forget to UV some items.* Can just spray them with 70% ethanol then putting them into the BSC, without UV, but it is best to avoid such practice.  

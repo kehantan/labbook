@@ -8,7 +8,7 @@ DMEM+FBS
 
 **Materials**
 
-* FBS
+* FBS (Heat inactivated, can filter if required)
 * Pen-Strep
 * :ref:`DMEM <dmem>`
 * Centrifuge tube (50 mL)

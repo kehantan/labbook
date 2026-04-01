@@ -8,27 +8,34 @@ Cryopreservation
 * DMSO
 * Cryopreservation tube
 * :ref:`Complete DMEM <10 dmem>`
-* Micropipette 
-* Pipette tips 
-* Waste beaker 
+* Cell freezing container (Mr. Frosty)
+* Trypsin
+* PBS
+* Centrifuge tube (15 mL)
 
 **Procedure**
 
-*Note:* To make sure the number of viable cell is high the next time you revive the cryo-ed cells, it is recommended to cryopreserve when the cells in the flask is at least 80% confluency.
+#. Remove existing media in culture flask. 
+#. Wash cells with 1-2 mL of PBS.
+#. Add 1-2 mL (depending on flask size) of TrypLE into culture flask. 
+#. Incubate culture flask. 37 °C, 3-5 mins, not more than 10 mins.
+#. Tap the flask to mechanically detach the cells from culture flask. 
+#. Add equal amount of complete DMEM into the culture flask.  
+#. Transfer cell suspension into centrifuge tube. 
+#. Centrifuge. 4x1000 g (15000 rpm), 5 mins.  
+#. Discard supernatant. 
+#. Resuspend cell pellet in 1 mL of complete DMEM. Repeat pipette gently to break cell clumps. 
+#. In each cryopreservation tube, add 50 uL of DMSO into 450 uL of complete DMEM.
 
-#. Trypsinise the cells from culture flask. Refer to :ref:`trypsinise <My target>`.
-#. In each cryopreservation tube, prepare the freezing media/cryo media by adding 50 uL of DMSO into 450 uL of complete DMEM.
-
-   * Freezing media/cryo media was prepare before adding cells into it because concentrated DMSO is toxic to cells, so we diluted the concentrated DMSO with complete DMEM before adding cells into the cryo media.  
+   * Freezing media contains 5-10% (v/v) of DMSO 
+   * Freezing media/cryo media was prepare before adding cells into it because concentrated DMSO is toxic to cells
 
 #. Add 500 uL of cell suspension into cryopreservation tube. 
 #. Place cryopreservation tube in Mr. Frosty. 
-#. Store Mr. Frosty in -80 C overnight.
-#. Transfer cryopreservation tube from -80 C to liquid nitrogen tank. 
+#. Store Mr. Frosty in -80 °C overnight.
+#. Transfer cryopreservation tube from -80 °C to cryobox and stored in either -80 °C or liquid nitrogen storage tank. 
 
 **Note:** 
 
+* To make sure the number of viable cell is high the when reviving the cryo-ed cells, it is recommended to cryopreserve when the cells in culture flask is at least 80% confluent.
 * Cells can be stored for short term in -80 C, but for long term storage, it is better to store in gas phase of liquid nitrogen.
-* Our lab uses 500 uL of cell suspension for each cryopreservation tube. Depending on the final volume of your cell suspension, you can estimate how many tubes you can cryo. 
-* For example, if the final volume of cell suspension is 3 mL, then you can cryo up to 6 tubes. 
-* Cells should be cryo at concentration of 1-3 million to ensure better survivability when revived later. 
