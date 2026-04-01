@@ -18,7 +18,7 @@ Before starting, need to calculate
     * number of cells needed and amount of media needed for one 96 well plate
     * Each well contains 100 uL of mixture of complete DMEM + number of cells required for each well
 
-*Number of cells needed*
+**Number of cells needed**
 
 Assume for 1 compound, we are testing 
 
@@ -34,7 +34,7 @@ then:
 
 Take note that even we wanted to test 8 different concentration, but the formula above state :code:`10 concentrations`. This is due to the inevitable deviations or minute errors during pipetting and handling of liquids. If the exact number of concentrations was prepared, there might not be enough cells for the last few wells, so extra amount was prepared for some headroom. Usually adding 2 to 3 concentrations extra into the calculation is sufficient
 
-*Amount of media needed*
+**Amount of media needed**
 
 100 uL of media is needed in each well. The concept is similar to above section
 
@@ -92,8 +92,8 @@ Trypsinise, count, seed
 
 #. Count the cells using microscope
 
-.. image:: images/Cell\ counting.png
-    :width: 600
+    .. image:: images/Cell\ counting.png
+        :width: 600
 
     * After counting the cells, should get value of :code:`X cells/mL`. Compare the counted cell number to the cell number required calculated before the experiment begin. Should have sufficient cells for seeding
     * If cells is not sufficient, might need to adjust cell to seed in each well or passage the cells and wait for the cells to reach higher confluency before seeding to 96 well plate
@@ -162,7 +162,7 @@ Add MTT, read absorbance
 
 * Estimated time required: 4 hrs 
 * This procedure can be carried out either in the biosafety cabinet or at bench
-* Remember to reduce as much light source as possible (i.e.: turn off lights) as MTT is light sensitive
+* Reduce as much light source as possible (i.e.: turn off lights) as MTT is light sensitive
 
 **Materials**
 

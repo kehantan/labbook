@@ -10,7 +10,6 @@ Cell culture
 
    cell_culture/thaw
    cell_culture/change_media
-   cell_culture/trypsinise
    cell_culture/cell_count
    cell_culture/cell_seed
    cell_culture/maintain
