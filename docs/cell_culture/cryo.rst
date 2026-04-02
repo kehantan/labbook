@@ -20,9 +20,9 @@ Cryopreservation
 #. Add 1-2 mL (depending on flask size) of TrypLE into culture flask. 
 #. Incubate culture flask. 37 °C, 3-5 mins, not more than 10 mins.
 #. Tap the flask to mechanically detach the cells from culture flask. 
-#. Add equal amount of complete DMEM into the culture flask.  
+#. Add amount of complete DMEM equal to the amount of TrypLE added in previous step into the culture flask
 #. Transfer cell suspension into centrifuge tube. 
-#. Centrifuge. 4x1000 g (15000 rpm), 5 mins.  
+#. Centrifuge. 4x100 g (1500 rpm), 5 mins.  
 #. Discard supernatant. 
 #. Resuspend cell pellet in 1 mL of complete DMEM. Repeat pipette gently to break cell clumps. 
 #. In each cryopreservation tube, add 50 uL of DMSO into 450 uL of complete DMEM.

@@ -36,7 +36,7 @@ Take note that even we wanted to test 8 different concentration, but the formula
 
 **Amount of media needed**
 
-100 uL of media is needed in each well. The concept is similar to above section
+100 μL of media is needed in each well. The concept is similar to above section
 
     .. code-block:: 
     
@@ -73,20 +73,20 @@ Trypsinise, count, seed
 #. Add 1-2 mL (depending on flask size) of TrypLE into culture flask
 #. Incubate culture flask. 37 °C, 3-5 mins, not more than 10 mins
 #. Tap the flask to mechanically detach the cells from culture flask
-#. Add equal amount of complete DMEM into the culture flask
+#. Add amount of complete DMEM equal to the amount of TrypLE added in previous step into the culture flask
 #. Transfer cell suspension into centrifuge tube
-#. Centrifuge. 4x1000 g (15000 rpm), 5 mins
+#. Centrifuge. 4x100 g (1500 rpm), 5 mins
 #. Discard supernatant
-#. Resuspend cell pellet in 1 mL of complete DMEM. Repeat pipette gently to break cell clumps
+#. Resuspend cell pellet in 1 mL of 2% DMEM. Repeat pipette gently to break cell clumps
 #. Add 10 uL of trypan blue into one well of the 96 well plate
 
     * Can use other alternatives, eg: parafilm, eppendorf tubes
 
-#. Add 10 uL of cell suspension obtained from trypsinisation to the same well that have trypan blue. Mix by repeat pipetting
+#. Add 10 μL of cell suspension obtained from trypsinisation to the same well that have trypan blue. Mix by repeat pipetting
 
-    * This example uses 1:1 ratio of cell suspension (10 uL) vs trypan blue (10 uL) for dilution. Other dilution factors like 1:4, 1:9 can also be used, just remember to also change the dilution factor during the calculation
+    * This example uses 1:1 ratio of cell suspension (10 μL) vs trypan blue (10 μL) for dilution. Other dilution factors like 1:4, 1:9 can also be used, just remember to also change the dilution factor during the calculation
 
-#. Take 10 uL of the trypan blue and cell mixture and add to the counting chamber
+#. Take 10 μL of the trypan blue and cell mixture and add to the counting chamber
 
     * A counting chamber set up typically consist of a counting chamber with a glass cover slip on top. Add the trypan blue + cell mixture from the edge of cover slip. The capillary action will spread the mixture evenly across the counting area
 
@@ -108,7 +108,6 @@ Trypsinise, count, seed
             V1 = 0.0833 mL (~83.3 μL) 
     
     * In summary, need to add **83.3 μL cell suspension** into **4916.7 μL media**. But since the volume difference is negligible, just add **83.3 μL** of cell suspension into **5,000 μL** of media
-
 
 #. Mix the cell suspension with either repeat pipetting or vortex before adding cells to reservoir
 
