@@ -3,7 +3,7 @@
 Gel-fixing solution
 ===================
 
-* Final concentration = 50% (v/v) ethanol; Glacial acetic acid, 10% (v/v)
+* Final concentration = Ethanol, 50% (v/v); Glacial acetic acid, 10% (v/v)
 
 **Materials**
 
