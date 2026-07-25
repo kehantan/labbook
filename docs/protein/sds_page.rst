@@ -250,7 +250,7 @@ Staining
 
 #. Cover the gel with Coomasie blue stain.
 #. Place the container on the rocking platform. 
-#. Stain the gel for about 30 mins to 3 hrs.  
+#. Stain the gel for 30 mins to 3 hrs.  
 #. Remove the staining solution. 
 
 Destaining
@@ -266,7 +266,7 @@ Destaining
 
 #. Cover the gel with destaining solution.
 #. Surround the gel with Kim wipes.
-#. Place the plastic container on the rocking platform.
+#. Place the container with stained on the rocking platform.
 #. Destain overnight. 
 #. Decant the destaining solution. 
 

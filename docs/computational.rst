@@ -15,3 +15,5 @@ Computational biology
    computational/openbabel
    computational/advance_selection
    computational/auto_index
+   computational/rmsd
+   computational/mda_gmx
