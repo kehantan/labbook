@@ -1,10 +1,10 @@
 Molecular docking
-=================
+=====
 
 Molecular docking can be done either at local machine (means your computer/laptop) OR using server (does not need your computer/laptop). There are pros and cons using different methods. 
 
 Server
----
+----
 
 * Easier, less scripting/command typing involve (but it is really handy for navigating files, result analysis, troubleshooting, etc.)
 * Example: `MTiOpenScreen <https://bioserv.rpbs.univ-paris-diderot.fr/services/MTiOpenScreen/>`_. 
