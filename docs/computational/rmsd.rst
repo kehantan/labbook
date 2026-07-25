@@ -23,5 +23,5 @@ Outcome
 
 * If only centering to chain A
 
-.. image:: computational_images/rrmsd_chA_bb_lsf_bb_traj_center_protein.png
+.. image:: computational_images/rmsd_chA_bb_lsf_bb_traj_center_protein.png
     :width: 300
