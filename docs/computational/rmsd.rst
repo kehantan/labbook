@@ -1,5 +1,5 @@
-RMSD multichain protein
-===
+RMSD multi chain protein
+==========
 
 Preprocess
 -----
