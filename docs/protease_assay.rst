@@ -9,6 +9,5 @@ Protease assay
    protease_assay/prot_opt
    protease_assay/subs_opt
    protease_assay/protease_inhibition_assay
-   protease_assay/kinetic
    protease_assay/enzyme_progress
    protease_assay/items
