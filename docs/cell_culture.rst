@@ -2,6 +2,7 @@ Cell culture
 ============
 
 Cell culture workflow 
+
 .. image:: images/cell_culture.png
    :width: 500 
 
