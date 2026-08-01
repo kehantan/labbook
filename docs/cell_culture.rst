@@ -1,8 +1,11 @@
 Cell culture
 ============
 
+Cell culture workflow 
+.. image:: images/cell_culture.png
+   :width: 500 
+
 * Protocols for different cell culture related procedures.
-* Refer `here <https://www.healthcare.nikon.com/en/ss/cell-image-lab/knowledge/process.html>`_ for the work cycle of cell culture. 
 * Maintenance of Vero cell line :cite:p:`ammerman2008growth`
 
 .. toctree::
