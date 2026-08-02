@@ -18,4 +18,5 @@ Cell culture workflow
    cell_culture/cell_seed
    cell_culture/maintain
    cell_culture/cryo
-   cell_culture/ln2   
+   cell_culture/ln2
+   cell_culture/trypsinise
