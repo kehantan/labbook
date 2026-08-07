@@ -5,4 +5,4 @@ ug/mL > uM.
 
 .. math::
 
-    uM = {\frac{ug/mL}{\text{Molecular weight} (g/mol)}} \times 1000
+    \mu\M = {\frac{ug/mL}{\text{Molecular weight} (g/mol)}} \times 1000
