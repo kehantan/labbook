@@ -22,9 +22,12 @@ Seeding
 #. Add 10 uL of cell suspension+PBS/media mixture into 10 uL of Trypan blue. 
 #. Add 10 uL into each side of cell counting slide.
 #. Read cell counting slide. 
-#. Prepare cells enough for seeding. X uL 2% DMEM wiht HEPES + Y uL cell suspension 
+#. Prepare cells enough for seeding. X uL 2% DMEM wiht HEPES + Y uL cell suspension in reservoir
 
     * Final cell density and media vol/well = 10,000 cell in 50 uL media/well 
 
+**Seeding** 
+
+#. Seed cells in 96 well black, flat, clear bottom plate. 
 #. Left seeded plate at bench ~10 mins for cells to settle. 
 #. Incubate, 37 C, 5% CO2, overnight. 
