@@ -7,3 +7,4 @@ Immunofluorescence assay (IFA)
    IFA/pbs-t
    IFA/seeding
    IFA/ifa
+   IFA/dmso_plate
