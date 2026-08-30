@@ -28,7 +28,7 @@ Compound DMSO plate
 #. Add 100 uL of DMSO into well B2-G12 clear 96 well, v-bottom plate.
 #. Add 200 uL of compound stock solution into B1-G1. 1 row for each compound. 
 #. Transfer 100 uL from B1-G1 to B2-G2 with multichannel pipette. Mix well. 
-#. Repeat the steps from B2-G2 to B10-G10. Last 2 columns reserve for virus control and cell only (vehicle control). 
+#. Repeat previous steps for B2-G2 to B10-G10. Last 2 columns (B11-G12) reserved for virus control and cell only (vehicle control). 
 #. Seal plate with parafilm and keep in -20 C. 
 #. Remaining stock in eppendorf tube can be kept in -20 C. 
 
