@@ -32,6 +32,9 @@ Compound DMSO plate
 #. Seal plate with parafilm and keep in -20 C. 
 #. Remaining stock in eppendorf tube can be kept in -20 C. 
 
+.. image:: images/IFA_96wp_layout.png
+    :width: 500
+
 **Notes:**
 
 * Compound weight can change according to how much of the compound is available, if only 2 mg is available then calculate the required volume of DMSO to add to 2 mg of compound to make 20 mM stock solution.
