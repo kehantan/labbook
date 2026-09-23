@@ -1,3 +1,5 @@
+.. _dmso-plate: 
+
 Compound DMSO plate 
 ====
 

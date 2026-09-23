@@ -8,3 +8,4 @@ Immunofluorescence assay (IFA)
    IFA/seeding
    IFA/ifa
    IFA/dmso_plate
+   IFA/treat
