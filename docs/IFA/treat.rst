@@ -38,5 +38,8 @@ Infection + treatment
 #. Remove PBS-FT. Add primary Ab, 50 uL/well. Keep plate in 4 C, overnight. 
 #. Prepare secondary Ab and nucleus stain mixture. 
 #. Remove primary Ab and wash cells with 300 uL PBS-T thrice. 
-#. Remove PBS-T. Add secondary Ab, 50 uL/well. 
+#. Remove PBS-T. Add secondary Ab, 50 uL/well. Incubate 1 hr, r.t.
+#. Remove secondary Ab. 
+#. Wash plate 3x with 300 uL PBS-T each time. 
+#. Add 100 uL of PBS into each well.
 #. Read plate.
