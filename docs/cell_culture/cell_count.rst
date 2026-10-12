@@ -3,6 +3,8 @@
 Cell count
 ==========
 
+* Estimated time needed: 15 mins
+
 **Materials**
 
 * Counting chamber
@@ -39,11 +41,8 @@ Cell count
 .. image:: images/Cell\ counting.png
     :width: 600
 
-Calculations
-------------
+**Calculations**
 
 The formula for calculating number of cells in 1 mL of cell suspension:
 
 :math:`\frac{\text{sum of cells from 4 quadrant} \times 10^4 \times \text{Dilution factor}}{4} = X\ \text{cells}/mL`
-
-Finally will get :code:`X cells/mL` 

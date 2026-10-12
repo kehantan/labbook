@@ -6,6 +6,9 @@ Trypsinise
 .. image:: images/Trypsinise.png
     :width: 600
 
+
+* Estimated time needed: 30 mins
+
 **Materials**
 
 * Trypsin/TrypLE 

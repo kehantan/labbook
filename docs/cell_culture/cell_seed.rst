@@ -3,17 +3,16 @@ Cell seeding
 
 The number of cells to seed depends on several factors: 
 
+* Doubling time of the cell line used. For example, cancer cell lines usually have faster growth rate compared to normal cell lines. To be sure, conduct few experiments to plot a growth curve to determine the growth rate of the cells we can have a good idea of how many cells to seed.  
 * the container to seed (T25, 96 well plate, etc.)
 * the type of experiments we wanted to conduct (MTT, plaque assay, etc.)
-* the day we wanted to conduct the experiment from the day we seed the cells. 
-
-    Example: Due to scheduling reasons, we might want to seed the cells on Monday, but we only want to conduct the experiment on the cells on Wednesday. Although I would suggest to always seed the cells one day before your actual experiments whenever possible. 
+* the day we wanted to use the cells from the day we seed the cells. For example, I seed cells in T75 and want them to be 80% confluent by day 3 of incubation.
 
 *Some cell seeding values we used in our lab for Vero cells*
 
 For MTT assay:
 
-* Experiment on next day where the cells confluency is around 70% = 7,500 cells/well 
+* 10,000 cells/well for next day treatment 
 
 For plaque assay on a 6 well plate: 
 
@@ -26,5 +25,3 @@ For plaque assay on a 12 well plate:
 
 For antiviral assay on a 12 well plate: 
 * Experiment on next day where cells confluency is around 70% = 150,000 cells/well 
-
-The number of cells to seed depending heavily on the types of cells you are working with because different cells have different growth rate. For example, cancer cell lines usually have faster growth rate compared to normal cell lines. I would suggest you to do a growth curve to determine the growth rate of the cells so you can get a good idea of how many cells you have to seed. 

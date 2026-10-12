@@ -1,8 +1,7 @@
 Standard passaging (subculture) 
 ===============================
 
-* The general protocol for cell culture can be found in :cite:`phelan2007techniques`. 
-* Protocol for maintenance of Vero cells specifically can be found in :cite:`ammerman2008growth`. 
+* Estimated time needed: 45 mins
 
 **Materials**
 
@@ -45,16 +44,19 @@ Standard passaging (subculture)
 
 **Numbers of cells to seed in flask**
 
-This is a very rough estimation, the actual duplication speed of cells can be subjected to various factors like: cell line, cell condition, passage number, growth environment, etc.
+This is a very rough estimation, the actual duplication speed of cells can be subjected to various factors like: cell line, cell condition, passage number, growth environment, cell doubling time.
 
-In a T25 culture flask, to reach around 80% cell confluency in:
+Vero cells, T25, around 80% cell confluency:
 
 * next day, seed ~700,000 cells
-* 3 days, seed ~500,000 cells
-* 7 days, seed ~50,000 cells
+* in 3 days, seed ~500,000 cells
 
-In a T75 culture flask, to reach around 80% cell confluency in:
+Vero cells, T75, around 80% cell confluency:
 
-* next day, seed ~1,000,000 cells 
+* next day, seed ~3,000,000 cells 
 * 3 days, seed ~800,000 cells
-* 7 days, seed ~50,000 cells 
+
+**References**
+
+* General protocol for cell culture :cite:`phelan2007techniques`. 
+* Protocol for maintenance of Vero cells :cite:`ammerman2008growth`. 

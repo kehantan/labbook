@@ -16,8 +16,13 @@ Cryopreservation
 **Procedure**
 
 #. Culture cells in culturing flask to ~80% confluency. 
-#. Remove existing media in culture flask. 
-#. Wash cells with 1-2 mL of PBS.
+#. Remove existing media in culture flask with serological ppipette. 
+#. Wash cells. 
+
+   #. Add 1-2 mL of PBS into the culture flask.
+   #. Swirl the flask, make sure PBS covers the base of the flask.
+   #. Remove PBS with serological pipette. 
+
 #. Add 1-2 mL (depending on flask size) of TrypLE into culture flask. 
 #. Incubate, 37 °C, 3-5 mins (not more than 10 mins).
 #. Tap the flask to mechanically detach the cells from culture flask. 
@@ -30,9 +35,9 @@ Cryopreservation
 
    * Final conc. of DMSO in freezing media = 5-10% (v/v)  
    * Freezing media was prepare before adding cells into it because concentrated DMSO is toxic to cells
-   * Adding DMSO into water (media contains water) can generate heat, wait few mins for the freezing media to drops to room temp before adding cells into the freezing media
+   * Adding DMSO into water (media contains water) will generate heat, wait few mins for the freezing media to drops to room temp before adding cells into the freezing media. Recommend to prepare freezing media while waiting for centrifuge.
 
-#. Add 500 uL of cell suspension into cryopreservation tube. 
+#. Repeat pipette cell suspension few times, then add 500 uL of cell suspension into cryopreservation tube. 
 #. Place cryopreservation tube in Mr. Frosty. 
 #. Store Mr. Frosty in -80 °C overnight.
 #. Transfer cryopreservation tube from -80 °C to cryobox and stored in either -80 °C or liquid nitrogen storage tank. 

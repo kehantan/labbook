@@ -17,7 +17,6 @@ Contents
    protease_assay
    protein
    IFA
-   waste
    misc
    unit_conversion
 
