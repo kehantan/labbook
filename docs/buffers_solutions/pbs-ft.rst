@@ -1,9 +1,11 @@
+.. _pbs-ft:
+
 PBS-FT
 ====
 
 **Materials**
 
-* :ref:`PBS-T <pbs2-t>`
+* :ref:`PBS-T <pbs-t>`
 * MilliQ/Ultra pure H2O
 * Micropipette + Tips (1000 uL)
 * FBS

@@ -9,8 +9,8 @@ Infection + treatment
 * DMSO plate of diluted compound 
 * 96 well clear plate 
 * 1x PBS 
-* PBS-T (Washing buffer)
-* PBS-FT (Blocking buffer)
+* :ref:`PBS-T (Washing buffer) <pbs-t>`
+* :ref:`PBS-FT (Blocking buffer) <pbs-ft>`
 * 4G2 (Primary antibody, anti-dengue E-protein)
 * Alexa Fluor 488
 * Hoechst 
