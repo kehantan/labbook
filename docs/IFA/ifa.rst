@@ -1,8 +1,6 @@
 IFA
 ====
 
-* Workflow: Compound stock -> serial dilution in DMSO plate -> media plate -> test plate
-
 Seeding
 ----
 
@@ -56,6 +54,7 @@ Infection + treatment
 ----
 
 * To study post-Infection effect  
+* Treatment dilution: Compound stock -> serial dilution in DMSO plate -> media plate -> test plate
 
 **Materials**
 
@@ -130,4 +129,4 @@ Secondary Ab
 
 **References** 
 
-:cite:`admanabhan_cell-based_2014`
+:cite:`padmanabhan_cell-based_2014`
