@@ -3,9 +3,10 @@
 SDS-PAGE
 ========
 
-* A single run of SDS-PAGE will usually eats up a whole day. This does not include time required to prepare all the buffers and gathering all required reagent. So plan the experiment accordingly and prepare the buffers at least 1 day before the actual procedure. 
+* A single run of SDS-PAGE will usually eats up a whole day. This does not include time required to prepare all the buffers and gathering all required reagent. So plan the experiment accordingly and prepare the buffers at least 1 day before the actual procedure.
+* Can cast gel one day before and store the gel in running buffer and at 4C, so can use directly the next day 
 * Visual guide `here <https://wisc.pb.unizin.org/biochemistry551online/chapter/procedure-3/>`_
-* Generate gel casting recipe `here <https://www.cytographica.com/lab/acryl2.html>`_.
+* To generate resolving and stacking gel recipe `here <https://www.cytographica.com/lab/acryl2.html>`_.
 
 Prepare gel 
 -----------
@@ -55,7 +56,7 @@ Cast gel
 
 *Gel casting setup*
 
-* Refer to YouTube videos on how to setup the gel casting apparatus. 
+* Can refer to YouTube videos or Biio-Rad's 'Mini-protean 3 cell instruction manual' on how to setup the gel casting apparatus.
 
 #. Put short glass plate infront of tall glass plate, with the gap sandwiched in the middle of the two plates. 
 #. Place the glass plate sandwich into casting frame. 
@@ -64,7 +65,7 @@ Cast gel
     * The glass plates should only be able to go into the casting frame in one orientation. 
 
 #. Secure the casting frame on the casting stand with the clip on the top. 
-#. With a wash bottle filled with distilled water, dispense small amount of distilled water to the bottom of the glass plates. Make sure the setup is secured and there are no leakage at the bottom.
+#. With a wash bottle filled with distilled water, add small amount of distilled water to the bottom of the glass plates. Make sure the setup is secured and there are no leakage at the bottom.
 #. Remove the distilled water by decanting the water directly into the sink or using a filter paper. 
 #. After the distilled water was removed, the gel is ready to be cast. 
 
@@ -105,17 +106,19 @@ Assemble setup
 
 #. Remove the casting frame from the casting stand. 
 #. Release the clamp of casting frame and remove the glass plates from the casting frame.
-#. Place the glass plates into one side of the cassette. If you are only running one gel, place a dummy plate on the other side of the cassette.
+#. Place the glass plates into one side of the cassette, short plate facing inwards. If only running one gel, place a dummy plate on the other side of the cassette, be cautious about the orientation. 
 
-    * There are two types of cassette. If you are running only one gel, use the cassette with the electrode sticking out. If you use the one without electrode sticking up, the gel won't run, the power supply will give error when you press start.  
+    * There are two types of cassette. If running only one gel, use the cassette with the electrode sticking out. The gel won't run if the one without electrode sticking up was used, the power supply will give error when you press start.  
     * Make sure the lower glass plate facing the inside of the cassette. If using dummy plate, there are texts engraved on the plate to indicate which side of the plate should be facing inwards. Direction is important, this allows a closed circuit to form.  
 
 #. Secure the glass plates and the dummy plate with the clamps on both sides. 
 #. Insert the cassette into the buffer tank. Match the colour, black to black, red to red. 
 #. Fill the inner compartment of the cassete (the space between glass plates and dummy plate) with running buffer until the brim. Fill the buffer tank (outside of the cassette) with running buffer until the marker on the buffer tank. 
 
-    * The marker on the buffer tank shows the buffer level for at least 2 plates. I usually just fill up to the '2 gel' marker even I am only running 1 gel.
-    * Buffer can be recover and reused, but not recommend to reuse for too many times. Recommend reuse 3-5 times only.  
+    * The marker on the buffer tank shows the buffer level for at least 2 plates. Fill up to the '2 gel' marker even when only running 1 gel.
+    * Buffer can be recover and reused, but not recommend to reuse for too many times. Usually reuse 3-5 times.
+    * After pouring the buffer, check the buffer level between the cassette, make sure the level does not decrease. If the buffer level between the cassette slowly decrease there might be a leak. Disassemble the cassette and put it back together to make sure its properly sealed. Gel will not run properly if the buffer between the cassette goes below certain level. 
+    * Slightly press the gel plate into the bottom of the cassette before clamping it to ensure proper seal.  
 
 Prepare sample
 --------------
@@ -123,7 +126,7 @@ Prepare sample
 **Materials**
 
 * PCR tubes
-* Thermal cycler
+* Thermal cycler/Heating block 
 * Sample buffer
 * :math:`{\beta}`-mercaptoethanol (BME)
 
@@ -139,15 +142,16 @@ Prepare sample
     * E.g.: 5% of 20 uL of final sample volume (10 uL sample + 10 uL sample buffer) = 1 uL BME
     * BME has strong fishy smell and is toxic. Prepare sample in fume hood. Turn on ventilation fan, fan inside lab, and switch on fume hood fan few mins before adding BME to sample.
 
-#. Spin down with a PCR centrifuge for about 15 secs.
+#. Spin down with a PCR centrifuge for about 5-10 sec.
 #. Load the PCR tubes with samples into the thermal cycler. 
 #. Set the thermal cycler. 95 C, 5 mins. 
 #. Run the thermal cycler.
+#. Remove tubes from thermal cycler. 
 
 Sample loading
 --------------
 
-* Depends on the gel you casted (there are different thickness for the gels), the volume of the sample wells can varies. 
+* Depends on the gel you casted (there are different thickness for the gels, 1 mm gel is commonly used), the volume of the sample wells can varies. 
 
 **Materials**
 
@@ -160,7 +164,7 @@ Sample loading
 #. Add 3 to 5 uL of protein marker into the first well in the gel. 
 #. Add 10 uL of the prepared protein sample their corresponding wells.   
 
-Running gel
+Run gel
 -----------
 
 **Materialss**
@@ -209,7 +213,7 @@ Remove gel
 Gel-Staining
 ------
 
-* Protocol for Coomassie staining of SDS-PAGE: :cite:`beerProteinDetectionGels2018`
+Staining protocol :cite:`beerProteinDetectionGels2018`
 
 **Materials**
 
