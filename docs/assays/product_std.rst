@@ -1,6 +1,6 @@
 .. _prod_std: 
 
-Product (AMC) standard curve
+AMC standard curve
 ====
 
 * AMC MW = 175.18 g/mol
@@ -28,20 +28,20 @@ Product (AMC) standard curve
 *AMC Serial dilution*
 
 #. Prepare 7 microcentrifuge tube. 
-#. Add 95.6 μL of working buffer into the first tube. 
-#. Add 4.4 μL of AMC stock into the first tube. Mix well using vortex or repeat pipetting. 
-#. Transfer 50 uL of mixture from first tube to second tube. Mix well using vortex or repeat pipetting. Transfer 50 μL of mixture from second tube to third tube. Mix well using vortex or repeat pipetting. Repeat the process until last tube. 
+#. Add 95.6 uL of working buffer into the first tube. 
+#. Add 4.4 uL of AMC stock into the first tube. Mix well using vortex or repeat pipetting. 
+#. Transfer 50 uL of mixture from first tube to second tube. Mix well using vortex or repeat pipetting. Transfer 50 uL of mixture from second tube to third tube. Mix well using vortex or repeat pipetting. Repeat the process until last tube. 
 
 +---------------------------------+------+------+------+-------+
 | Tube no.                        | 1    | 2    | 3    | . . . | 
 +---------------------------------+------+------+------+-------+
-| Working buffer vol. (μM)        | 95.6 | 50   | 50   | . . . |
+| Working buffer vol. (uL)        | 95.6 | 50   | 50   | . . . |
 +---------------------------------+------+------+------+-------+
-| AMC stock (μL)                  | 4.4  | \-   | \-   | \-    |
+| AMC stock (uL)                  | 4.4  | \-   | \-   | \-    |
 +---------------------------------+------+------+------+-------+
-| Conc. (μM)                      | 2500 | 1250 | 625  | . . . | 
+| Conc. (uM)                      | 2500 | 1250 | 625  | . . . | 
 +---------------------------------+------+------+------+-------+
-| Final conc. in each well (μM)   | 250  | 125  | 62.5 | . . . |
+| Final conc. in each well (uM)   | 250  | 125  | 62.5 | . . . |
 +---------------------------------+------+------+------+-------+
 
 * Transfer volume = 50 μL
