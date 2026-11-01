@@ -56,7 +56,8 @@ Vero cells, T75, around 80% cell confluency:
 * next day, seed ~3,000,000 cells 
 * 3 days, seed ~800,000 cells
 
-**References**
+References
+----
 
 * General protocol for cell culture :cite:`phelan2007techniques`. 
-* Protocol for maintenance of Vero cells :cite:`ammerman2008growth`. 
+* Protocol for maintenance of Vero cells :cite:`ammermanGrowthMaintenanceVero2008`. 

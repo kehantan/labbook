@@ -257,4 +257,4 @@ Clean up
 References 
 ----
 
-:cite:`manns2011sds`
+:cite:`manns2011sds,juniorPolyacrylamideGelElectrophoresis2019`
