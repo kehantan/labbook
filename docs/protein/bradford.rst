@@ -44,8 +44,12 @@ Protein sample
 
 **Note:** Proteins should be diluted in the buffer in which they are dissolved (eg: PBS, buffer, etc.). Use the same buffer to prepare the standard curve. Dist H2O can be used, but it is preferable to use the suitable solvent used to dissolve the protein sample for more accurate results. 
 
+.. image:: images/bradford_layout.png
+        :width: 600
+
+
 Results 
----
+----
 
 * Plot the data of BSA std curve in GraphPad Prism or MS Excel.
 * If using GraphPad Prism, use the linear regression model and fit the standard line into the data.
