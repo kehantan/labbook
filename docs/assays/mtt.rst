@@ -31,7 +31,7 @@ then:
 
         Total cells needed = 10 concentrations * 5 wells/concentration * 5,000 cells/well = 250,000 cells (25*10^4 cells)
 
-Take note that even we wanted to test 8 different concentration, but the formula above state :code:`10 concentrations`. This is due to the inevitable deviations or minute errors during pipetting and handling of liquids. If the exact number of concentrations was prepared, there might not be enough cells for the last few wells, so extra amount was prepared for some headroom. Usually adding 2 to 3 concentrations extra into the calculation is sufficient
+Take note that even we wanted to test 8 different concentration, but the formula above state :code:`10 concentrations`. This is due to the inevitable deviations or minute errors during pipetting and handling of liquids. If the exact number of concentrations was prepared, there might not be enough cells for the last few wells, so extra amount was prepared for some headroom. Usually adding 2 to 3 concentrations extra into the calculation is sufficient.
 
 **Amount of media needed**
 
@@ -140,7 +140,7 @@ Treatment
 
 **Procedure**
 
-#. Prepare 11 microcentrifuge tube. 
+#. Prepare 9 microcentrifuge tube. 
 #. Add appropriate amount of 2% DMEM into the first microcentrifuge tube and 700 μL into the rest of the tube.
 #. Add appropriate amount of compound stock into the first microcentrifuge tube. Mix well by repeat pipetting.
 #. Transfer 700 μL from 1st microcentrifuge tube into 2nd tube. Mix well by repeat pipetting

@@ -9,6 +9,7 @@ Recipes for various buffers and solutions.
 
    buffers_solutions/10_dmem
    buffers_solutions/agarose
+   buffers_solutions/amc_stock
    buffers_solutions/aps
    buffers_solutions/coomassie
    buffers_solutions/dmem

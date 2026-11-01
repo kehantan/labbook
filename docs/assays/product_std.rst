@@ -1,14 +1,14 @@
 .. _prod_std: 
 
 Product (AMC) standard curve
-============================
+====
 
 * AMC MW = 175.18 g/mol
 
 **Materials**
 
 * Tris-HCl stock buffer solution (Tris-HCl, 1M, pH 8.5)
-* 7-amino-4-methylcoumarin (AMC) stock solution (10 mg/mL)
+* :ref:`7-amino-4-methylcoumarin (AMC) stock solution (10 mg/mL) <amc>`
 * 384 well black plate
 * Micropipette 
 * Micropipette tips  
@@ -20,11 +20,6 @@ Product (AMC) standard curve
 * Spatula 
 
 **Procedure**
-
-*Prepare AMC stock*
-
-#. Weight 10 mg (0.01 g) of AMC powder into a microcentrifuge tube. 
-#. Add 1 mL of DMSO into the microcentrifuge tube. Final AMC stock solution concentration = 10 mg/mL (57,084.14202535 μM). 
 
 *Prepare working buffer*
 

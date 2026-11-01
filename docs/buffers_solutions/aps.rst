@@ -1,7 +1,7 @@
 .. _aps:
 
 Ammonium persulfate (APS)
-=========================
+====
 
 * APS Concentraion = 10% (w/v)
 * Can store at -20 C, but recommended to prepare fresh before casting gel
