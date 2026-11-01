@@ -1,5 +1,5 @@
 Bicinchoninic acid assay (BCA)
-==============================
+====
 
 **Objective:** To quantify concentration of protein in a sample using BCA. 
 

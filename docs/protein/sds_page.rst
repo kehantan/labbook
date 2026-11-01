@@ -1,7 +1,7 @@
 .. _sds-page:
 
 SDS-PAGE
-========
+====
 
 * A single run of SDS-PAGE will usually eats up a whole day. This does not include time required to prepare all the buffers and gathering all required reagent. So plan the experiment accordingly and prepare the buffers at least 1 day before the actual procedure.
 * Can cast gel one day before and store the gel in running buffer and at 4C, so can use directly the next day 
@@ -9,7 +9,7 @@ SDS-PAGE
 * To generate resolving and stacking gel recipe `here <https://www.cytographica.com/lab/acryl2.html>`_.
 
 Prepare gel 
------------
+----
 
 * Two gels need to be prepared: resolving gel and stacking gel. 
 
@@ -42,7 +42,7 @@ Prepare gel
     * Another option is to prepare and cast the resolving gel first, then prepare the stacking gel while waiting for the resolving gel to solidify. 
 
 Cast gel
---------
+----
 
 **Materials**
 
@@ -92,7 +92,7 @@ Cast gel
 #. After 30 mins, slowly remove the comb. The gel should be ready to assemble and load with samples. 
 
 Assemble setup
---------------
+----
 
 **Materials**
 
@@ -121,7 +121,7 @@ Assemble setup
     * Slightly press the gel plate into the bottom of the cassette before clamping it to ensure proper seal.  
 
 Prepare sample
---------------
+----
 
 **Materials**
 
@@ -149,7 +149,7 @@ Prepare sample
 #. Remove tubes from thermal cycler. 
 
 Sample loading
---------------
+----
 
 * Depends on the gel you casted (there are different thickness for the gels, 1 mm gel is commonly used), the volume of the sample wells can varies. 
 
@@ -165,7 +165,7 @@ Sample loading
 #. Add 10 uL of the prepared protein sample their corresponding wells.   
 
 Run gel
------------
+----
 
 **Materialss**
 
@@ -190,7 +190,7 @@ Run gel
     * If the protein marker is still far from the bottom edge of the gel after 120 mins, can extend the run. 
 
 Remove gel
-----------
+----
 
 **Materials**
 
@@ -237,7 +237,7 @@ Coommassie staining protocol :cite:`beerProteinDetectionGels2018`
 #. Discard the destaining solution. 
 
 Storage
--------
+----
 
 * This step is optional 
 * Can store gel in distilled water, but sometimes fungus will grow. For long term storage, it is best to store the gel in gel-storing solution. 
@@ -253,7 +253,7 @@ Storage
 #. Cover the gel with storage solution. Store at 4C.  
 
 Clean up
---------
+----
 
 * The remaining gel solution in the small beaker from resolving gel and stacking gel would solidify over time. When this happens, break the gel (with any stuff you could find, like pipette tips or spatula) then dispose in the yellow bin. **DO NOT** throw in the sink, the solidified gel will clog up the piping system. 
 * Running buffers can be pour back into a bottle and reuse (usually not more than 5 times) or discard into the sink. 

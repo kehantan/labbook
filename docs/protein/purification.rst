@@ -1,8 +1,8 @@
 Protein extraction and purification
-===================================
+====
 
 Buffers 
--------
+---
 
 * Prepare the buffers preferrably at least one day before use, because even though we are preparing from stock solution, weighing and stirring can take up significant amount time, some buffers also need to be pre-cooled in the cold room. 
 
@@ -96,7 +96,7 @@ Buffers
 +------------------------------------+---------+---------+
 
 Protein extraction
-------------------
+----
 
 * Estimated time required: 3 hrs
 * The bacterial pellet from the end of :ref:`expression <protein-expression>` procedure was stored at -80 °C. Extraction and purification would proceed from there.  
@@ -165,7 +165,7 @@ Protein extraction
 #. Keep the 50 mL centrifuge with Ni-NTA in ice until later use. 
 
 Protein purification (after lysis)
-----------------------------------
+----
 
 * Estimated time required: 4 hrs
 
@@ -225,12 +225,12 @@ Protein purification (after lysis)
 #. Run SDS-PAGE for all 12 samples. 
 
 SDS-PAGE for protein purification
----------------------------------
+----
 
 * Refer to :ref:`SDS-PAGE <sds-page>` 
 
 Dialysis
---------
+----
 
 * Estimated time required: 6.5 hrs 
 * This procedure needs to be carried out in cold room.

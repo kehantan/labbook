@@ -1,7 +1,7 @@
 .. _protein-expression:
 
 Protein expression
-==================
+====
 
 * Dengue virus NS2B/NS3 serine protease expression and purification protocol modified from :cite:`yusof_purified_2000,leung_activity_2001`.
 * Visual guide `here <https://docs.google.com/presentation/d/1gH0-5dTp8_Dy9wXiwBY4g0EoyiHlWtTPcg7z4TwViss/edit?usp=sharing>`_. 
@@ -9,13 +9,13 @@ Protein expression
 **Workflow**
 
 #. Agar plate culture
-#. Small scale culture 
+#. Starter culture 
 #. Large scale culture
 
 Agar plate culture
-------------------
+----
 
-* Estimated time required: 45 mins
+* Estimated time required: 45 min
 
 **Materials** 
 
@@ -32,10 +32,10 @@ Agar plate culture
 #. Take a loop full of the *E.coli* glycerol stock and streak on agar plate. 
 #. Incubate. 24 hrs, 37 C.   
 
-Small scale culture
--------------------
+Starter culture
+----
 
-* Estimated time required: 45 mins
+* Estimated time required: 45 min
 
 **Materials**
 
@@ -54,7 +54,7 @@ Small scale culture
 #. Loosen the cap of the tube and shake the centrifuge tube in an incubator shaker. 180 rpm, overnight, 37 C.
 
 Large scale culture
--------------------
+----
 
 * Estimated time required: 8 hrs 
 
@@ -85,7 +85,7 @@ Large scale culture
 
 #. Shake. 180 rpm, 2 hrs, 37 C.
 #. Transfer culture from flask into multiple 50 mL centrifuge tube. 
-#. Centrifuge. 4000 rpm, 10 mins, 4 C. 
+#. Centrifuge. 4000 rpm, 10 min, 4 C. 
 
     * Pre-cool the centrifuge to 4 C is preferrable, if not, room temp is fine. 
 
@@ -93,7 +93,7 @@ Large scale culture
 #. Resuspend pellet in 2 mL of PBS.
 #. Combine all resuspended pellet into two 50 mL centrifuge tube.
 #. Top up PBS to 50 mL in each tube.  
-#. Centrifuge. 4000 rpm, 4C, 10 mins.  
+#. Centrifuge. 4000 rpm, 4C, 10 min.  
 #. Remove supernatant. 
 #. Label the centrifuge tube.
 #. Store pellet at -80 C.

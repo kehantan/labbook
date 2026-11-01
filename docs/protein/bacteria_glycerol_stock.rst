@@ -1,11 +1,11 @@
 Make bacteria culture glycerol stock
-====================================
+====
 
 * Bacteria glycerol stock is for long term storage 
 * Schematics for making bacteria glycerol stock can be found `here <https://docs.google.com/presentation/d/17MrwEkPY6BbYUZrCteCmLGkgHx3DN52Zq91Yix2CnXw/edit?usp=sharing>`_
 
 Overnight bacteria culture in broth
------------------------------------
+----
 
 **Materials** 
 
@@ -24,7 +24,7 @@ Overnight bacteria culture in broth
 #. Loosen the cap of the tube and shake the centrifuge tube in an incubator shaker. 180 rpm, overnight, 37 C.
 
 Bacteria glycerol stock
------------------------
+----
 
 **Materials**
 
