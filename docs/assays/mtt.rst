@@ -1,7 +1,6 @@
 MTT assay
 =========
 
-* General protocol for MTT with Vero cells: :cite:`guillen2022effect,marin2021curcumin`
 * Some important parameters to find out before MTT: 
 
     * Number of cells to seed in each well 
@@ -249,4 +248,7 @@ There are some parameters that need to find out before starting MTT assay includ
 .. image:: images/MTT\ assay.png
     :width: 600
 
+References
+----
 
+:cite:`guillen2022effect,marin2021curcumin`
