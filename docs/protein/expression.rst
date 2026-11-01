@@ -99,3 +99,8 @@ Large scale culture
 #. Store pellet at -80 C.
 
     * Bacterial pellet can be stored in -80 C for months without problem. 
+
+Reference
+----
+
+:cite:`yusof_purified_2000,leung_activity_2001`

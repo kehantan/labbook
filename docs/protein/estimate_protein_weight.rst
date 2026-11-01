@@ -1,5 +1,5 @@
 Estimate protein weight from SDS-PAGE
-=====================================
+====
 
 * The protocol can be found on BIO-RAD's website, the document named 'Molecular Weight Estimation'. 
 * Calculate the Rf manually with a ruler. 
