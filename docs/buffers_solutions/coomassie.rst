@@ -3,7 +3,8 @@
 Coomassie staining solution
 ===========================
 
-* Concentration = Coomassie blue, 0.1% (w/v); Methanol, 40% (v/v); Glacial acetic acid, 10% (v/v)
+* Concentration = Coomassie blue, 0.1% (w/v); Methanol, 50% (v/v); Glacial acetic acid, 10% (v/v)
+* :cite:`beerProteinDetectionGels2018`
 
 **Materials**
 
@@ -16,9 +17,9 @@ Coomassie staining solution
 
 **Procedure**
 
-#. Add 20 mL of glacial acetic acid to 100 mL of distilled H2O. 
-#. Add 80 mL of methanol and mix. 
-#. Add 0.2 g of Coomassie blue powder into the mixture and stir until the powder mostly dissolve. 
+#. Add 10 mL of glacial acetic acid to 40 mL of distilled H2O. 
+#. Add 50 mL of methanol and mix. 
+#. Add 0.1 g of Coomassie blue powder into the mixture and stir with a magnetic stirrer until powder completely dissolved. 
 #. Filter the solution to remove insoluble particles. 
 #. Label. 
 #. Store at room temp. 

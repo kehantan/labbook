@@ -3,7 +3,7 @@
 Gel-storage solution
 ====================
 
-* Final concentration = Glacial acetic acid, 5% (v/v)
+* Final concentration = Glacial acetic acid, 10% (v/v)
 
 **Materials**
 
@@ -12,6 +12,6 @@ Gel-storage solution
 
 **Procedure**
 
-#. Add 25 mL of acetic acid to 475 mL of distilled H2O.
+#. Add 50 mL of acetic acid to 450 mL of distilled H2O.
 #. Mix well. 
 #. Label and store at bench. 

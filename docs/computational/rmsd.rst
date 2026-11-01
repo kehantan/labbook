@@ -26,7 +26,7 @@ Outcome
     :code:`gmx rms -s md.tpr -f trajout_center_chainA.xtc -n index.ndx -o rmsd.xvg`
 
 .. image:: computational_images/rmsd_chA_bb_lsf_bb_traj_center_protein.png
-    :width: 300
+    :width: 500
 
 * After multi step centering. Least square fit to :code:`Backbone`, :code:`ChainA_backbone` for RMSD calculation
 

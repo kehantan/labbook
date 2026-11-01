@@ -207,68 +207,31 @@ Remove gel
 #. Hold the glass plate with gel above a plastic container. Carefully seperating the gel from the glass plate by lifting the gel with a pipette tip. Rinse with distilled water at the same time. 
 #. Tilt the glass plate at an angle and rinse with distilled water, the gel should slide into the plastic container.
 
-Fixing
+Gel-Staining
 ------
 
-* Protocol for Coomassie staining of SDS-PAGE `here <https://www.aatbio.com/resources/application-notes/protocol-for-coomassie-staining>`_.
+* Protocol for Coomassie staining of SDS-PAGE: :cite:`beerProteinDetectionGels2018`
 
 **Materials**
 
 * :ref:`Fixing solution <gel-fixing>`
-* Rocking platform 
-
-**Procedure**
-
-#. After transferring the gel into the plastic container, cover the gel with fixing solution.
-#. Place the containeer on rocking platform for about 10 mins to 1 hr.
-#. Remove fixing solution.
-
-Washing
--------
-
-**Materials**
-
-* :ref:`Gel-washing solution <gel-washing>`
-* Rocking platform 
-
-**Procedure**
-
-#. Cover the gel with gel washing solution.
-#. Place the container on the rocking platform. 
-#. Let the washing solution sit for about 2 hrs to overnight. 
-#. Remove washing solution.   
-
-Staining
---------
-
-**Materials**
-
 * :ref:`Coomassie blue staining solution <coomassie>`
-* Rocking platform
-
-**Procedure**
-
-#. Cover the gel with Coomasie blue stain.
-#. Place the container on the rocking platform. 
-#. Stain the gel for 30 mins to 3 hrs.  
-#. Remove the staining solution. 
-
-Destaining
-----------
-
-**Materials**
-
 * :ref:`Destaining solution <destaining>`
-* Kim wipes 
-* Rocking platform
+* Rocking platform 
 
 **Procedure**
 
-#. Cover the gel with destaining solution.
+#. Transfer gel into a plastic container, cover the gel with ~30mL fixing solution.
+#. Place the container on rocking platform for about 10-60 mins.
+#. Remove fixing solution.
+#. Cover the gel with ~30mL Coomasie blue stain.
+#. Place the container on the rocking platform and stain the gel for 30 mins to 3 hrs.  
+#. Remove the staining solution. 
+#. Cover the gel with ~30mL destaining solution.
 #. Surround the gel with Kim wipes.
-#. Place the container with stained on the rocking platform.
-#. Destain overnight. 
-#. Decant the destaining solution. 
+#. Place the container on the rocking platform.
+#. Destain overnight/until background clear and protein band appears. 
+#. Discard the destaining solution. 
 
 Storage
 -------

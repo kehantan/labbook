@@ -3,16 +3,17 @@
 Gel-fixing solution
 ===================
 
-* Final concentration = Ethanol, 50% (v/v); Glacial acetic acid, 10% (v/v)
+* Final concentration = Isopropanol, 25% (v/v); Glacial acetic acid, 10% (v/v)
+* Reference: :cite:`beerProteinDetectionGels2018`
 
 **Materials**
 
-* Ethanol
+* Isopropanol 
 * Glacial acetic acid 
 * Distilled H2O  
 
 **Procedure**
 
-#. Add 50 mL of ethanol and 10 mL of acetic acid into 40 mL of distilled H2O. 
+#. Add 25 mL of isopropanol and 10 mL of acetic acid into 35 mL of distilled H2O. 
 #. Mix well.
 #. Label and store at bench. 

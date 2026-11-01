@@ -13,7 +13,6 @@ Recipes for various buffers and solutions.
    buffers_solutions/coomassie
    buffers_solutions/dmem
    buffers_solutions/gel_fixing
-   buffers_solutions/gel_washing
    buffers_solutions/gel_destaining
    buffers_solutions/gel_storage
    buffers_solutions/glycerol
