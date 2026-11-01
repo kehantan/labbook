@@ -129,4 +129,4 @@ Secondary Ab
 
 **References** 
 
-:cite:`padmanabhan_cell-based_2014`
+:cite:`tanCellBasedFlavivirusInfection2014`
