@@ -4,7 +4,6 @@ Enzyme progress curve
 =====================
 
 * Enzyme progress curve is required to determine the enzyme and substrate concentrations to be used in inhibition assays. 
-* References: :cite:p:`ihssen_fluorogenic_202,smirnoviene2021standard,brooks2012basics`
 
 **Materials** 
 
@@ -52,7 +51,17 @@ Enzyme progress curve
 * This procedure demonstrated using 250 μM of substrate. 
 * Repeat the whole procedure using various substrate concentration, i.e.: 125 μM, 62.5 μM, etc. All can be done in a single plate if planned accordingly.  
 
+
+.. image:: images/enzyme_progress_layout.png
+        :width: 600
+
+
 **Results**
 
 * Plot RFU or product concentration (y-axis) against time (x-axis). 
 * To find the Km and Vmax of the enzyme, plot reaction velocity against increasing concentration of substrate (enzyme concentration fixed).
+
+References
+----
+
+:cite:`ihssen_fluorogenic_202,smirnoviene2021standard,brooks2012basics`
