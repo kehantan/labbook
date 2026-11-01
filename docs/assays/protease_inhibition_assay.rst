@@ -1,9 +1,8 @@
 Protease inhibition assay
-=========================
+====
  
 * Do :ref:`enzyme progress curve <enzyme_progress>` before carry out inhibition assay to find out amount of enzyme and substrate needed. 
-* For our lab: enzyme = 15 μM, substrate = 125 μM, incubation time = 120 mins 
-* References: :cite:p:`ihssen_fluorogenic_202,smirnoviene2021standard,brooks2012basics`
+* For our lab: enzyme = 15 uM, substrate = 125 uM, incubation time = 120 mins 
 
 **Materials**
 
@@ -22,7 +21,7 @@ Protease inhibition assay
 
     * Can adjust volume according to experiment needs
     * Tween or other surfactant might need to be added. Surfactant concentration usually ranging from 0.05%-0.1%. Since the volume is very minute, there is no need to adjust the volume to accomodate the addition of surfactant, just add surfactant (eg: Tween 20) into the final Tris-HCl and distilled H2O mixture and mix well. 
-    * :code:`0.05/100*5000 μL = 2.5 μL`
+    * :code:`0.05/100*5000 μL = 2.5 uL`
 
 #. Mix well. Vortex if necessary. 
 
@@ -44,22 +43,22 @@ Protease inhibition assay
 #. Retrieve protease stock from -80 C and thaw at room temperature. 
 #. Add correct amount of Tris-HCl working buffer into each well.
 
-    * Buffer to add = Total volume in each well (40 μL) - protease vol - substrate vol (5 μL) - compound vol (4 μL)
+    * Buffer to add = Total volume in each well (40 uL) - protease vol - substrate vol (5 uL) - compound vol (4 uL)
     * Protease volume required for assay can be different based on the concentration of protease stock after purification, so it is not possible to provide a fixed volume in this protocol. Calculate the amount needed for your assay based on how much protease you get after purification. 
     * Same goes to substrate and compound volume, volume used in this example is for convenience, may adjust the volume accordingly. 
     * The final volume of liquid in each well should be 40 uL. Adjust the buffer volume accordingly.  
 
 #. Add correct amount of protease into each well. 
-#. Add 4 μL of diluted compound into wells assigned for different concentrations. 
+#. Add 4 uL of diluted compound into wells assigned for different concentrations. 
 
-    * 4 μL is selected for convenience. The final concentration is 10x diluted when added into the wells. It does not have to strictly be 4 μL, can adjust and calculate desired final volume to added into each well according to personal preference. 
+    * 4 uL is selected for convenience. The final concentration is 10x diluted when added into the wells. It does not have to strictly be 4 uL, can adjust and calculate desired final volume to added into each well according to personal preference. 
 
 #. Incubate, room temperature, 30 mins. 
 #. Thaw substrate from -20 C. 
 #. Dilute substrate from 10 mM stock to 1 mM working stock in assay buffer.  
-#. Add 5 μL diluted substrate into each well.
+#. Add 5 uL diluted substrate into each well.
 
-    * Again, 5 μL is not a strict requirement, just for convenient. May adjust accordingly.  
+    * 5 uL is not a strict requirement, just for convenient. May adjust accordingly.  
 
 #. Incubate, room temperature, 120 mins. 
 #. Read plate at 380 nm excitation and 445 nm emission. 
@@ -68,5 +67,9 @@ Protease inhibition assay
 
 :math:`\text{Inhibition (%)} = \frac{\text{NT}-\text{T}}{\text{NT}}\times 100\%`
 
-* NT = Non-treated
-* T = Treated
+NT = Non-treated, T = Treated
+
+Reference
+----
+
+:cite:`ihssen_fluorogenic_202,smirnoviene2021standard,brooks2012basics`

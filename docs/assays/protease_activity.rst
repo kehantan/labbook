@@ -1,5 +1,5 @@
 Protease activity assay
-=======================
+====
 
 * We need to determine:
     * the concentration of purified protease stock
