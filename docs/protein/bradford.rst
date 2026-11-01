@@ -1,10 +1,10 @@
 .. _bradford std:
 
 Bradford assay
-==============
+====
 
 BSA standard curve
-------------------
+----
 
 * Bovine serum albumin (BSA) as standard for Bradford assay 
 * The standard curve only need to be done once, after the standard curve is established, use the standard curve to determine the concentration of protein in subsequent purified protein sample. 
@@ -33,7 +33,7 @@ BSA standard curve
     * Reduce as much bubble as possible from the wells to reduce absorbance interference
 
 Protein sample
---------------
+----
 
 **Procedure**
 
@@ -61,7 +61,7 @@ Results
     * Optimal range of absorbance value for bradford assay should falls between 0.1 and 1.0 for an accurate representation of protein concentration. 
 
 Linearisation of Bradford assay 
--------------------------------
+----
 
 * Adapted from :cite:p:`ernst_linearization_2010`
 * This is a more advanced technique to get more accurate results from Bradford assay. Detailed protocol can be found `here <https://www.protocols.io/view/bradford-protein-assay-protein-concentration-measu-kqdg3pd9ql25/v1?step=3&u=%2Fview%2Fbradford-protein-assay-protein-concentration-measu-kqdg3pd9ql25%2Fv1>`_.
