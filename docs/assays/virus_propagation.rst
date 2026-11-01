@@ -1,11 +1,10 @@
 Virus propagation
-=================
+====
 
-* This protocol is modified from :cite:`medina2012dengue`
 * Schematic workflow of virus stock propagation can be found `here <https://docs.google.com/presentation/d/1lOgmzR994GQ58x71DpZQRM5FnC0vAgz6pWhuMVsuZg0/edit?usp=sharing>`_ 
 
 Infection
----------
+----
 
 * Estimated time required: 10 mins
 
@@ -35,7 +34,7 @@ Infection
 #. Monitor daily under microscope for CPE formation and detachment of cells.
 
 Harvest
--------
+----
 
 * Estimated time required: 30 mins
 * If media turns yellow, but cells still attached, harvest the media then add fresh media into the flask and continue incubation. Repeat the process until nearly all cells (>90%) detached from the flask. So there could be multiple batch of harvested virus for a single culturing flask. However, the virus titer might be different for each batch of harvest. 
@@ -69,7 +68,7 @@ Harvest
 .. image:: images/virus_infection_harvest.png
     :width: 600
 
-References
-----------
+Reference
+----
 
-.. footbibliography::
+:cite:`medina2012dengue`
