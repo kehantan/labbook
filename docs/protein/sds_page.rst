@@ -213,7 +213,7 @@ Remove gel
 Gel-Staining
 ------
 
-Staining protocol :cite:`beerProteinDetectionGels2018`
+Coommassie staining protocol :cite:`beerProteinDetectionGels2018`
 
 **Materials**
 
@@ -239,8 +239,9 @@ Staining protocol :cite:`beerProteinDetectionGels2018`
 Storage
 -------
 
-* For long term storage, it is best to store the gel in gel-storing solution. 
-* It is normal for the edges of the gel to deformed when it dries out. 
+* This step is optional 
+* Can store gel in distilled water, but sometimes fungus will grow. For long term storage, it is best to store the gel in gel-storing solution. 
+* It is normal for the gel to wrinkled and deformed when it dries out. Submerged it in storage buffer can expand the dried out gel back to normal. 
 
 **Materials**
 
@@ -249,7 +250,7 @@ Storage
 
 **Procedure**
 
-#. Cover the gel with storage solution. 
+#. Cover the gel with storage solution. Store at 4C.  
 
 Clean up
 --------
@@ -262,3 +263,5 @@ References
 ----
 
 :cite:`manns2011sds,juniorPolyacrylamideGelElectrophoresis2019`
+
+Coommassie staining protocol :cite:`beerProteinDetectionGels2018`

@@ -1,5 +1,5 @@
 Cell seeding for MTT assay 
-==========================
+====
 
 * Estimated time needed: 1 hr
 * :ref:`cell seeding for MTT assay <cell seed mtt>`
