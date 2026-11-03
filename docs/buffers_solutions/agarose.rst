@@ -3,7 +3,7 @@
 Agarose
 ====
 
-* Concentration = 5% (w/v)
+* 5% (w/v) agarose 
 
 **Materials**
 
@@ -29,8 +29,6 @@ Agarose
 
     * **CAUTION:** The agarose is very hot, wear protection before removing the bottle from microwave oven. 
 
-#. Label.
+#. Label (:code:`5% Agarose, name initials, date prepared`)
 
-    * Label example: :code:`5% Agarose, name initials, date prepared`
-
-#. Agarose can be stored on bench.
+Storage: room temp

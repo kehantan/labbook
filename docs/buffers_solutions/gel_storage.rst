@@ -14,7 +14,9 @@ Gel-storage solution
 
 #. Add 50 mL of acetic acid to 450 mL of distilled H2O.
 #. Mix well. 
-#. Label and store at bench. 
+#. Label
+
+Storage: room temp
 
 Reference
 ----

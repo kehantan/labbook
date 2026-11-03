@@ -30,4 +30,5 @@ Dulbecco's Modified Eagle Medium (DMEM)
 
 #. Filter DMEM into new 1 L autoclaved empty bottle using cup filter inside a biosafety cabinet. 
 #. Label.
-#. Seal the bottle with parafilm and store in 4 C.
+
+Storage: Seal the bottle with parafilm and store in 4 C.

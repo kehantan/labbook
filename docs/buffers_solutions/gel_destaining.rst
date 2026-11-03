@@ -15,7 +15,9 @@ Gel-destaining solution
 
 #. Add 15 mL of methanol and 10 mL of glacial acetic acid to 75 mL of distilled H2O. 
 #. Mix well. 
-#. Label and store at bench. 
+#. Label 
+
+Storage: room temp 
 
 Reference
 ----

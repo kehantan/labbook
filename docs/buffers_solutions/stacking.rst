@@ -4,7 +4,7 @@ Stacking buffer
 ====
 
 * 0.5 M Tris base, pH 6.8
-* Tris MW = 121.14 g/mol
+* MW = 121.14 g/mol
 
 **Materials** 
 
@@ -21,7 +21,9 @@ Stacking buffer
 
 #. Stir untill Tris base powder completely dissolved. 
 #. Adjust pH to 6.8 with HCl.
-#. Top up with distilled H2O untill 100 mL. 
-#. Label and store at 4 C. 
 
-**Note:** HCl fuming at 37% (undiluted), better dilute to less than 20% to reduce hazard risk.
+    * HCl fuming at 37% (undiluted), better dilute to less than 20% to reduce hazard risk.
+
+#. Top up with distilled H2O untill 100 mL. 
+
+Storage: Label, store at 4 C. 

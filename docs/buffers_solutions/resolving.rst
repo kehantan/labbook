@@ -21,7 +21,10 @@ Resolving buffer
 
 #. Stir untill Tris base powder completely dissolved. 
 #. Adjust pH to 8.8 with HCl.
-#. Top up with distilled H2O untill 100 mL. 
-#. Label and store at 4 C. 
 
-**Note:** HCl fuming at 37% (undiluted), better dilute to less than 20% to reduce hazard risk. 
+    * HCl fuming at 37% (undiluted), better dilute to less than 20% to reduce hazard risk. 
+
+#. Top up with distilled H2O untill 100 mL. 
+
+Storage: Label, store at 4 C. 
+

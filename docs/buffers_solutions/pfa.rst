@@ -1,9 +1,9 @@
 .. _pfa:
 
 Paraformaldehyde (PFA)
-======================
+====
 
-* Concentration = 3.7%
+* 3.7% PFA
 
 **Materials**
 
@@ -16,10 +16,6 @@ Paraformaldehyde (PFA)
 
 #. Measure 25 mL of 37% PFA into an empty bottle. 
 #. Top up to 250 mL with distilled water. 
-#. Label the bottle. 
+#. Label the bottle (Label example: :code:`3.7% PFA, name initials, date prepared`)
 
-    * Label example: :code:`3.7% PFA, name initials, date prepared`
-
-#. PFA can be stored in room temperature. 
-
-    * In the lab, we store it under the biosafety cabinet. 
+Storage: room temperature. under fume hood.

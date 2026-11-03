@@ -18,8 +18,6 @@ Isopropyl β-D-1-thiogalactopyranoside (IPTG)
 #. Measure 0.2978875 g of IPTG powder into a centrifuge tube. 
 #. Dissolve IPTG powder in 5 mL of distilled water. 
 #. Mix well. Vortex if necessary. 
-#. Label.
+#. Label (:code:`IPTG, concentration, name initials, date prepared`)
 
-    * Label example: :code:`IPTG, concentration, name initials, date prepared`
-
-#. Store in -20 C.
+Storage: -20 C, thaw before use.

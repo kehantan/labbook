@@ -21,7 +21,8 @@ Coomassie staining solution
 #. Add 0.1 g of Coomassie blue powder into the mixture and stir with a magnetic stirrer until powder completely dissolved. 
 #. Filter the solution to remove insoluble particles. 
 #. Label. 
-#. Store at room temp. 
+
+Storage: room temp
 
 Reference
 ---

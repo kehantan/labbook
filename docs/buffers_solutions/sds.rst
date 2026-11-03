@@ -1,9 +1,9 @@
 .. _sds:
 
 Sodium dodecyl sulfate (SDS) 
-============================
+====
 
-* SDS concentration = 10% SDS (w/v)
+* 10% (w/v) SDS
   
 **Materials**
 
@@ -21,4 +21,5 @@ Sodium dodecyl sulfate (SDS)
     * This would take quite some time, about 30 mins for the solution to turn completely clear
 
 #. Top up with distilled H2O until 10 mL
-#. Label and store at bench. 
+
+Storage: Label, store at room temp

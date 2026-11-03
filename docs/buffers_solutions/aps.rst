@@ -3,8 +3,7 @@
 Ammonium persulfate (APS)
 ====
 
-* APS conc. = 10% (w/v)
-* Can store at -20 C, but recommended to prepare fresh before casting gel
+* 10% (w/v) APS
 
 **Materials**
 
@@ -17,4 +16,6 @@ Ammonium persulfate (APS)
 #. Weight 0.1 g of APS powder into a microcentrifuge tube. 
 #. Add 1 mL of distilled H2O into the microcentrifuge tube.
 #. Dissolve APS powder completely. Use vortex if necessary. 
-#. Label and store in -20 C. 
+#. Label 
+
+Sotrage: -20 C, but preferrably freshly prepare before use. 

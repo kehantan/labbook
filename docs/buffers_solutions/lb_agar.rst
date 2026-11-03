@@ -3,7 +3,7 @@
 LB agar
 ====
 
-* To prepare LB agar, follow the instructions on the LB agar bottle. 
+* Follow the instructions on the LB agar bottle. 
 * If there are already extra agar plates prepared then this step can be skipped, but check the plates before use. Do not use contaminated agar plates or avoid using agar plates with water vapour condensation inside.  
 
 **Materials** 

@@ -3,7 +3,7 @@
 PBS-T
 ====
 
-* 1 L 1x PBS with 0.1% Tween 20
+* 1x PBS, 0.1% Tween 20
 
 **Materials**
 
@@ -16,4 +16,5 @@ PBS-T
 
 #. Prepare 1L 1x PBS from 20x PBS by adding 50 mL 20x PBS into 950 mL MilliQ/Ultra pure H2O
 #. Add 1 mL of 100% Tween 20. Repeat pipette to make sure all Tween 20 dissolved into the PBS. Can mix using serological pipette
-#. Label, seal with parafilm, and store at bench
+
+Storage: Label, seal with parafilm, store at bench

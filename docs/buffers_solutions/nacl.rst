@@ -5,6 +5,7 @@ Sodium chloride (NaCl)
  
 * 5 M NaCl
 * MW = 58.44 g/mol
+* For protein purification buffer use
 
 **Materials**
 

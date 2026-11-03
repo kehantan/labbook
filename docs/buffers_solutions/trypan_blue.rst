@@ -1,7 +1,7 @@
 Trypan blue
-===========
+====
 
-* Trypan blue concentration = 0.4% (w/v)
+* 0.4% (w/v) trypan blue
 
 **Materials**
 
@@ -28,3 +28,5 @@ Trypan blue
 +-------------+------------+----------+
 | 100         | 0.4        | 100      | 
 +-------------+------------+----------+ 
+
+Storage: room temp

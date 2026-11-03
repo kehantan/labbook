@@ -1,5 +1,5 @@
 TrypLE
-======
+====
 
 * TrypLE comes as stock solution in a bottle. 
 * Aliquote it into a smaller volume and store in the 4 C for future use, no dilution required. 
@@ -14,9 +14,6 @@ TrypLE
 **Procedure**
 
 #. Aliquote 10 mL of TrypLE solution from the bottle into a centrifuge tube. 
-#. Label the centrifuge tube.
+#. Label (:code:`TrypLE, name initials, date prepared`)
 
-    * Label example: :code:`TrypLE, name initials, date prepared`
-
-#. Seal with parafilm and store in 4 C. 
-#. Warm TrypLE in room temperature or water bath before use. 
+Storage: Seal with parafilm, store in 4 C. Warm to room temperature in water bath before use. 

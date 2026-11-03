@@ -1,13 +1,12 @@
 Protease inhibition assay
-=========================
+====
  
 * Do :ref:`enzyme progress curve <enzyme_progress>` before carry out inhibition assay to find out amount of enzyme and substrate needed. 
 * For our lab: enzyme = 15 μM, substrate = 125 μM, incubation time = 120 mins 
-* References: :cite:p:`ihssen_fluorogenic_202,smirnoviene2021standard,brooks2012basics`
 
 **Materials**
 
-* Stock Tris-HCl buffer (1M, pH 8.5)
+* :ref:`Stock Tris-HCl buffer <tris-hcl>`
 * Fluorogenic peptide substrate (Boc-Gly-Arg-Arg-MCA) stock solution (10 mM)
 * DMSO 
 * Microcentrifuge tube
@@ -68,5 +67,9 @@ Protease inhibition assay
 
 :math:`\text{Inhibition (%)} = \frac{\text{NT}-\text{T}}{\text{NT}}\times 100\%`
 
-* NT = Non-treated
-* T = Treated
+* NT = Non-treated, T = Treated
+
+Reference 
+----
+
+:cite:`ihssen_fluorogenic_202,smirnoviene2021standard,brooks2012basics`

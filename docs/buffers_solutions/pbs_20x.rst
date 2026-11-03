@@ -3,8 +3,6 @@
 PBS (20x)
 =====
 
-* 1 L, 20x conc.
-
 **Materials**
 
 * PBS tablet (sigma-aldrich)
@@ -19,4 +17,5 @@ PBS (20x)
 #. Add 1 L of MilliQ/Ultra pure H2O into plastic bucket
 #. Add 100 PBS tablet into MilliQ/Ultra pure H2O
 #. Filter with 0.22 uM cup filter 
-#. Label, seal with parafilm, and store at bench.
+
+Storage: Label, seal with parafilm, and store at bench.

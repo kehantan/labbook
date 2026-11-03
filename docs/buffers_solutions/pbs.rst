@@ -1,10 +1,10 @@
 .. _pbs:
 
 Phosphate buffer saline (PBS)
-=============================
+====
 
-* Prepare PBS solution according to manufacturer instruction. 
-* Concentration = 1x
+* 1x PBS
+* Prepare according to manufacturer instruction. 
 
 **Materials**
 
@@ -19,9 +19,7 @@ Phosphate buffer saline (PBS)
 
     * Or use whatever amount of tablets specified by the manufacturer according to the volum prepared. 
 
-#. Label. 
-
-    * Label example: :code:`1x PBS, name initials, date prepared`
-
+#. Label (:code:`1x PBS, name initials, date prepared`)
 #. Autoclave, 15 mins 120 C. 
-#. Seal with parafilm and store at bench.
+
+Storage: Seal with parafilm, store at bench.

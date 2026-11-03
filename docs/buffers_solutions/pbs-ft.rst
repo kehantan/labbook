@@ -3,6 +3,8 @@
 PBS-FT
 ====
 
+* 0.1% Tween 20, 1% FBS
+
 **Materials**
 
 * :ref:`PBS-T <pbs-t>`
@@ -14,6 +16,6 @@ PBS-FT
 **Procedure**
 
 #. Add 45 mL of PBS-T into centrifuge tube.
-#. Add 450 uL of FBS into PBS-T. Mix well, label, and store on bench. 
+#. Add 450 uL of FBS into PBS-T. Mix well
 
-*Note:* PBS-FT stored on bench for long period of time will precipitate. Better prepare before use and avoid leaving on bench for long period of time.  
+Storage: label, store on bench. PBS-FT stored on bench for long period of time will precipitate. Better prepare before use and avoid leaving on bench for long period of time.  

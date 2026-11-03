@@ -1,9 +1,9 @@
 .. _running buffer:
 
 Running buffer
-==============
+====
 
-* If prepare 10x stock, dilute before use. 
+* If prepare 10x stock, dilute with dist H2O before use. 
 
 **Recipe**
 
@@ -33,4 +33,5 @@ Running buffer
 #. Add 500 to 700 mL of distilled water into the empty bottle. 
 #. Stir with magnetic stirrer until all powder fully dissolved. 
 #. Top up the solution with distilled H2O to a 1 L.
-#. Label and store at 4 C.  
+ 
+Storage: Label, store at 4 C.  

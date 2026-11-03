@@ -1,7 +1,7 @@
 LB broth 
 ========
 
-* To prepare LB broth, follow the instructions on the LB broth bottle.  
+* Follow the instructions on the LB broth bottle.  
 * Schemactics for preparing LB broth can be found `here <https://docs.google.com/presentation/d/1qZ7I4THBtuevUjca72BpT-3oJ3MLoqcnKhC-mZUu5pg/edit?usp=sharing>`_
 
 .. _lb broth large:
@@ -24,14 +24,13 @@ LB broth
 
     * Kanamycin final concentration = 30 ug/mL.
 
-#. Cover the mouth of the flask with aluminium foil and store on bench. 
+Storage: Cover the mouth of the flask with aluminium foil, kept on bench. 
 
 .. _lb broth small:
 
 *Small volume (50 mL)*
 
 * Use for OD blank
-* Prepare LB broth according to manufacturer instruction.
 
 **Materials**
 

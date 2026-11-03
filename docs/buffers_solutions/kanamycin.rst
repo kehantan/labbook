@@ -21,8 +21,7 @@ Kanamycin stock
 #. Add 10 mL of distilled water into the centrifuge tube. 
 #. Mix well. Vortex if necessary. 
 #. Filter with 0.22 um syringe filter. 
-#. Label.
+#. Aliquote to smaller volume. 
+#. Label (:code:`Kanamycin, 30 mg/mL, name initials, date prepared`)
 
-    * Label example: :code:`Kanamycin, 30 mg/mL, name initials, date prepared`
-
-#. Seal with parafilm and store in -20 C.
+Storage: Seal with parafilm, store in -20 C.

@@ -1,26 +1,21 @@
 .. _enzyme_progress: 
 
 Enzyme progress curve
-=====================
+====
 
 * Enzyme progress curve is required to determine the enzyme and substrate concentrations to be used in inhibition assays. 
-* References: :cite:p:`ihssen_fluorogenic_202,smirnoviene2021standard,brooks2012basics`
 
 **Materials** 
 
-* Tris-HCl stock buffer (1M, pH 8.5)
+* :ref:`Tris-HCl Stock (1M, pH 8.5) <tris-hcl>`
 * Purified protease (with known concentrations in μg/mL or μM) 
 * Fluorogenic peptide substrate stock solution (Boc-Gly-Arg-Arg-MCA, 10 mM)
 * DMSO
 * 384 well black plate 
-* Microcentrifuge tube/PCR tube 
+* Microcentrifuge tube/PCR tube
+* :ref:`Assay buffer <assay>`
 
 **Procedure**
-
-*Assay buffer*
-
-#. Add 0.5 mL of 1 M Tris-HCl stock buffer solution into 4.5 mL of distilled water to obtain 100 mM of Tris-HCl assay buffer solution at pH 8.5. Adjust the volume if necessary. 
-#. Mix well. Vortex if necessary. 
 
 *Protease dilution*
 
@@ -56,3 +51,8 @@ Enzyme progress curve
 
 * Plot RFU or product concentration (y-axis) against time (x-axis). 
 * To find the Km and Vmax of the enzyme, plot reaction velocity against increasing concentration of substrate (enzyme concentration fixed).
+
+Reference
+----
+
+:cite:`ihssen_fluorogenic_202,smirnoviene2021standard,brooks2012basics`

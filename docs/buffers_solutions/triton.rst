@@ -1,9 +1,9 @@
 .. _triton:
 
 Triton X-100
-============
+====
 
-* Triton X-100 concentration = 10% (v/v)
+* 10% (v/v) Triton X-100
 
 **Materials**
 
@@ -22,3 +22,5 @@ Triton X-100
     * Vortex will cause excessive bubbling but the bubbles will disappear after left to sit on bench for some time. 
 
 #. Top up with distilled H2O until final volume is 10 mL. 
+
+Storage: room temp

@@ -15,7 +15,9 @@ Gel-fixing solution
 
 #. Add 25 mL of isopropanol and 10 mL of acetic acid into 35 mL of distilled H2O. 
 #. Mix well.
-#. Label and store at bench. 
+#. Label 
+
+Storage: room temp 
 
 Reference
 ----

@@ -1,7 +1,7 @@
 .. _10 dmem:
 
 DMEM+FBS 
-========
+====
 
 * DMEM with 10% (Complete DMEM) or 2% FBS
 * Prepare complete DMEM in the biosafety cabinet under sterile environment to avoid contamination.
@@ -31,11 +31,9 @@ DMEM+FBS
    * If DMEM does not come with sodium pyruvate added, reduce 0.5 mL of DMEM and add 0.5 mL of sodium pyruvate instead. 
 
 #. Mix well. 
-#. Label the centrifuge tube. 
+#. Label (:code:`Complete DMEM, name initials, date prepared`)
 
-   * Label example: :code:`Complete DMEM, name initials, date prepared`
-
-#. Seal with parafilm and store in 4 C.
+Storage: Seal with parafilm, store in 4 C.
 
 **Note**
 

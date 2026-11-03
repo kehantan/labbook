@@ -17,4 +17,5 @@ Glycerol solution
 #. Add 80 mL of 100% glycerol into a empty bottle. 
 #. Add 20 mL of distilled water into 100% glycerol. 
 #. Autoclave.
-#. Store at bench. 
+
+Storage: room temp 
