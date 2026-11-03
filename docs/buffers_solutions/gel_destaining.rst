@@ -1,9 +1,9 @@
 .. _gel-destaining:
 
 Gel-destaining solution
-=======================
+====
 
-* Final concentration = Methanol, 15% (v/v); Glacial acetic acid, 10% (v/v)
+* 15% (v/v) methanol, 10% (v/v) glacial acetic acid
 
 **Materials**
 
@@ -17,7 +17,7 @@ Gel-destaining solution
 #. Mix well. 
 #. Label and store at bench. 
 
-References 
+Reference
 ----
 
 :cite:`beerProteinDetectionGels2018`

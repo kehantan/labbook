@@ -1,9 +1,9 @@
 .. _gel-fixing:
 
 Gel-fixing solution
-===================
+====
 
-* Final concentration = Isopropanol, 25% (v/v); Glacial acetic acid, 10% (v/v)
+* 25% (v/v) isopropanol, 10% (v/v) glacial acetic acid
 
 **Materials**
 
@@ -17,7 +17,7 @@ Gel-fixing solution
 #. Mix well.
 #. Label and store at bench. 
 
-References
+Reference
 ----
 
 :cite:`beerProteinDetectionGels2018`

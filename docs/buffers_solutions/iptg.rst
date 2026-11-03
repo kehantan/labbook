@@ -3,7 +3,7 @@
 Isopropyl β-D-1-thiogalactopyranoside (IPTG)
 ====
 
-* Concentration = 250 mM 
+* 250 mM IPTG
 * IPTG MW: 238.31 g/mol
 
 **Materials**

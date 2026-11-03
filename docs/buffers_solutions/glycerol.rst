@@ -1,9 +1,9 @@
 .. _glycerol:
 
 Glycerol solution
-=================
+====
 
-* Concentration = 80% (v/v)
+* 80% (v/v) glycerol
 * May adjust percentage accordingly. 
 
 **Materials**

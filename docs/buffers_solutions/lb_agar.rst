@@ -1,7 +1,7 @@
 .. _lb-agar-plate:
 
 LB agar
-=======
+====
 
 * To prepare LB agar, follow the instructions on the LB agar bottle. 
 * If there are already extra agar plates prepared then this step can be skipped, but check the plates before use. Do not use contaminated agar plates or avoid using agar plates with water vapour condensation inside.  
@@ -33,7 +33,9 @@ LB agar
 
 #. Swirl the bottle to mix the Kanamycin well. 
 #. Pour agar into petri dish. 
-#. Wait until agar is cooled down and solidifies, label the plate, wrap in plastic bag, and store on bench or in 4 C. 
+#. Wait until agar is cooled down and solidifies. 
+
+Sotrage: label the plate, sealed with parafilm, wrap in plastic bag, store on bench or in 4 C. 
 
 **Note:**
 

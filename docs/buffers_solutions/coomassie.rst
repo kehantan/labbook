@@ -1,10 +1,9 @@
 .. _coomassie:
 
 Coomassie staining solution
-===========================
+====
 
-* Concentration = Coomassie blue, 0.1% (w/v); Methanol, 50% (v/v); Glacial acetic acid, 10% (v/v)
-* :cite:`beerProteinDetectionGels2018`
+* 0.1% (w/v) Coomassie blue, 50% (v/v) methanol , 10% (v/v) glacial acetic acid
 
 **Materials**
 
@@ -23,3 +22,8 @@ Coomassie staining solution
 #. Filter the solution to remove insoluble particles. 
 #. Label. 
 #. Store at room temp. 
+
+Reference
+---
+
+:cite:`beerProteinDetectionGels2018`

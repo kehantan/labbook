@@ -3,6 +3,7 @@
 AMC stock
 ====
 
+* 10 mg/mL
 * AMC MW = 175.18 g/mol
 
 **Materials**

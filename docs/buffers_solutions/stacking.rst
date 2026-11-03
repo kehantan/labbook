@@ -1,10 +1,9 @@
 .. _stacking:
 
 Stacking buffer
-===============
+====
 
-* Tris base concentration = 0.5 M
-* Stacking buffer final pH = 6.8
+* 0.5 M Tris base, pH 6.8
 * Tris MW = 121.14 g/mol
 
 **Materials** 

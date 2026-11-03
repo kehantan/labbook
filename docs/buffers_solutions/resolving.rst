@@ -1,11 +1,10 @@
 .. _resolving:
 
 Resolving buffer
-================
+====
 
-* Tris base concentration = 1.5 M
-* Resolving buffer final pH = 8.8 
-* Tris MW = 121.14 g/mol
+* 1.5 M Tris, pH 8.8 
+* MW = 121.14 g/mol
 
 **Materials** 
 

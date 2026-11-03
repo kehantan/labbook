@@ -1,9 +1,9 @@
 .. _gel-storage:
 
 Gel-storage solution
-====================
+====
 
-* Final concentration = Glacial acetic acid, 10% (v/v)
+* 10% (v/v) glacial acetic acid
 
 **Materials**
 
@@ -16,7 +16,7 @@ Gel-storage solution
 #. Mix well. 
 #. Label and store at bench. 
 
-References 
+Reference
 ----
 
 :cite:`beerProteinDetectionGels2018`

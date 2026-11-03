@@ -1,10 +1,10 @@
 .. _kanamycin: 
 
 Kanamycin stock
-===============
+====
 
-* Concentration = 30 mg/mL
-* Kanamycin molar mass = 484.499 g/mol 
+* 30 mg/mL Kanamycin
+* MW = 484.499 g/mol 
 
 **Materials**
 

@@ -1,7 +1,7 @@
 .. _agarose:
 
 Agarose
-=======
+====
 
 * Concentration = 5% (w/v)
 
