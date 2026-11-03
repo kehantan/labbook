@@ -1,10 +1,11 @@
 .. _naoh:
 
 Sodium hydroxide (NaOH) 
-=======================
+====
 
-* Concentration = 10 M
-* NaOH MW = 39.997 g/mol
+* 10 M NaOH
+* MW = 39.997 g/mol
+* use for adjust buffer pH
 
 **Materials**
 
@@ -18,8 +19,6 @@ Sodium hydroxide (NaOH)
 #. Measure 40 g of NaOH pellet into about 60-80 mL of distilled H2O. 
 #. Stir with a magnetic stirrer until NaOH pellet completely dissolved. 
 #. Top up the NaOH solution with distilled H2O up to 100 mL. 
-#. Label the bottle. 
+#. Label the bottle (Label example: :code:`NaOH, 10M, name initials, date prepared`)
 
-    * Label example: :code:`NaOH, 10M, name initials, date prepared`
-
-#. Store at bench. 
+Storage: Store at bench. 

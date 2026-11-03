@@ -30,7 +30,8 @@ LB broth
 
 *Small volume (50 mL)*
 
-Prepare LB broth according to manufacturer instruction.
+* Use for OD blank
+* Prepare LB broth according to manufacturer instruction.
 
 **Materials**
 
@@ -47,4 +48,4 @@ Prepare LB broth according to manufacturer instruction.
 
     * Kanamycin final concentration = 30 ug/mL.
 
-#. Label and store on bench or 4 C. 
+Storage: label, sealed with parafilm, store on bench or 4 C. 
