@@ -25,6 +25,6 @@ Coomassie staining solution
 Storage: room temp
 
 Reference
----
+----
 
 :cite:`beerProteinDetectionGels2018`
