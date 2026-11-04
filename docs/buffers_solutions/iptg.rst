@@ -1,9 +1,9 @@
 .. _iptg:
 
-Isopropyl β-D-1-thiogalactopyranoside (IPTG)
+IPTG
 ====
 
-* 250 mM IPTG
+* 250 mM Isopropyl β-D-1-thiogalactopyranoside (IPTG)
 * IPTG MW: 238.31 g/mol
 
 **Materials**

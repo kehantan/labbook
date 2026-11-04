@@ -1,9 +1,9 @@
 .. _pbs:
 
-Phosphate buffer saline (PBS)
+PBS
 ====
 
-* 1x PBS
+* 1x Phosphate buffer saline (PBS)
 * Prepare according to manufacturer instruction. 
 
 **Materials**

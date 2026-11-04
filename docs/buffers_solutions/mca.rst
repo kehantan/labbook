@@ -3,7 +3,7 @@
 MCA stock 
 ====
 
-* 10mM Boc-Gly-Arg-Arg-MCA 
+* 10mM Boc-Gly-Arg-Arg-MCA (Peptide Institute, Inc.)
 * MW = 
 
 **Materials**

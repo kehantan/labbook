@@ -7,6 +7,17 @@ Lysis buffer
 * At least 25 mL of lysis buffer needed, so prepare around 30 mL should be sufficient for 1 round of purification. 
 * It is best to prepare PMSF and lysozyme stock before use. Storing stock solution of PMSF and lysozyme in freezer for long period of time (> 6 months) can have some detrimental effect for the protein purification procedure.  
 
+**Materials**
+
+* Centrifuge tube (50 mL)
+* Distilled H2O
+* Micropipette 
+* :ref:`1M Tris-HCl (pH 8.0) <tris-hcl>`
+* :ref:`5M NaCl <nacl>`
+* :ref:`10% (v/v) Triton X-100 <triton>`
+* :ref:`PMSF <pmsf>`
+* :ref:`Lysozyme <lysozyme>`
+
 +-------------------------------+--------------+--------+
 |                               | Stock        | 30 mL  |
 +===========+===================+==============+========+

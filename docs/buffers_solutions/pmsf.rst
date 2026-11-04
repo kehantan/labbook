@@ -1,9 +1,9 @@
 .. _pmsf:
 
-Phenylmethylsulfonyl fluoride (PMSF)
+PMSF
 ====
 
-* 10 mM PMSF
+* 10 mM Phenylmethylsulfonyl fluoride (PMSF)
 * MW = 174.19 g/mol
 * PMSF is not soluble in water, so have to use isopropyl alcohol or DMSO
 

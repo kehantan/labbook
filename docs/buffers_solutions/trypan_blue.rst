@@ -7,12 +7,12 @@ Trypan blue
 
 * Trypan blue solution
 * Centrifuge tube 
-* :ref:`Phosphate buffer saline (PBS) <pbs>`
+* :ref:`1x PBS <pbs>`
 
 **Procedure**
 
 #. Weight 0.04 g of trypan blue powder into a centrifuge tube. 
-#. Add 10 mL of PBS into the centrifuge tube. 
+#. Add 10 mL of 1xPBS into the centrifuge tube. 
     
     * Add PBS in BSC to prevent contamination to PBS
 

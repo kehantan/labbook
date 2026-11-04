@@ -15,7 +15,7 @@ PBS (20x)
 **Procedure**
 
 #. Add 1 L of MilliQ/Ultra pure H2O into plastic bucket
-#. Add 100 PBS tablet into MilliQ/Ultra pure H2O
+#. Dissolve 100 PBS tablet into MilliQ/Ultra pure H2O. Break to smaller pieces with a sero pipette.
 #. Filter with 0.22 uM cup filter 
 
 Storage: Label, seal with parafilm, and store at bench.

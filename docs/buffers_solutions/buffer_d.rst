@@ -7,6 +7,14 @@ Buffer D
 * 3 L of buffer D was required for one round of purification. 
 * Buffer D need to be pre-cooled in cold room. 
 
+**Materials**
+
+* Empty bottle (2L)
+* Distilled H2O
+* Magnetic stirrer
+* :ref:`1M Tris-HCl <tris-hcl>`
+* :ref:`5M NaCl <nacl>`
+
 +----------------------------+-------+---------+---------+
 |                            | Stock | 100 mL  | 4000 mL |
 +========+===================+=======+=========+=========+

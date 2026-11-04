@@ -6,6 +6,14 @@ Buffer C
 * 100 mM Tris-HCl, 300 mM NaCl, 6 M urea, 500 mM imidazole 
 * Buffer C only needed in cold room and need to be pre-cooled in cold room
 
+**Materials**
+
+* Empty bottle 
+* Distilled H2O
+* Magnetic stirrer
+* :ref:`1M Tris-HCl <tris-hcl>`
+* :ref:`5M NaCl <nacl>`
+
 +-------------------------------+-------+----------+----------+
 |                               | Stock | 100 mL   | 10 mL    |
 +========+======================+=======+==========+==========+
