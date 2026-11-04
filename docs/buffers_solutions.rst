@@ -20,6 +20,7 @@ Recipes for various buffers and solutions.
    buffers_solutions/glycerol
    buffers_solutions/iptg
    buffers_solutions/kanamycin 
+   buffers_solutions/kmno4 
    buffers_solutions/lb_agar
    buffers_solutions/lb_broth
    buffers_solutions/lysis
@@ -30,6 +31,7 @@ Recipes for various buffers and solutions.
    buffers_solutions/mtt
    buffers_solutions/nacl
    buffers_solutions/naoh
+   buffers_solutions/naoh_10pct
    buffers_solutions/pfa
    buffers_solutions/pbs
    buffers_solutions/pmsf
