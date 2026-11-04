@@ -1,7 +1,7 @@
 .. _cell count:
 
 Cell count
-==========
+====
 
 * Estimated time needed: 15 mins
 

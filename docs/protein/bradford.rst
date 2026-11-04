@@ -13,17 +13,17 @@ BSA standard curve
 
 * Microcentrifuge tube
 * Suitable solvent for diluting protein sample and BSA (eg: Distilled H2O, PBS, buffers, etc.)
-* Bovine serum albumin (BSA)
+* :ref:`BSA stock <bsa>`
 * Bradford reagent (BioRad)
 * 96 well plate, clear
 * Microplate reader 
+* Distilled H2O
 
 **Procedure**
 
-#. Dilute BSA powder in distilled water to make stock solution of BSA (10 mg/mL). 
 #. Prepare a series of BSA standard solutions of known concentrations of 0, 200, 400, 600, 800, 1000, 1200, and 1400 μg/mL by diluting the BSA stock solution in distilled H2O (or any suitable solvent/buffer) to final volume of 50 μL.
 
-    * Volume can be adjusted depends on how many replications we want to do. 
+    * Volume can be adjusted depends on how many replications want to do. 
 
 #. In a 96 well clear plate, add 10 μL of BSA prepared in previous step into 190 μL of Bradford reagent. Mix well. 
 #. Add 10 μL of distilled H2O into 190 μL of bradford reagent as blank. 

@@ -7,7 +7,7 @@ AMC standard curve
 
 **Materials**
 
-* Tris-HCl stock buffer solution (Tris-HCl, 1M, pH 8.5)
+* :ref:`Tris-HCl stock <tris-hcl>`
 * :ref:`7-amino-4-methylcoumarin (AMC) stock solution (10 mg/mL) <amc>`
 * 384 well black plate
 * Micropipette 
@@ -18,12 +18,9 @@ AMC standard curve
 * Weighing balance 
 * Weighing boat
 * Spatula 
+* :ref:`Assay buffer <assay>`
 
 **Procedure**
-
-*Prepare working buffer*
-
-#. Add 0.5 mL of stock buffer solution into 4.5 mL of distilled water, resulting in 100 mM of Tris-HCl buffer of pH 8.5.
 
 *AMC Serial dilution*
 

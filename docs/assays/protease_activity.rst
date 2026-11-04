@@ -10,24 +10,17 @@ Protease activity assay
 
 **Materials** 
 
-* Tris-HCl stock buffer (1M, pH 8.5)
+* :ref:`Tris-HCl stock <tris-hcl>`
 * Purified protease (with known concentrations in μg/mL or μM) 
-* MCA substrate stock solution (10 mM)
+* :ref:`Fluorogenic peptide substrate stock <mca>`
 * DMSO
 * 384 well black plate 
 * Micropipette 
 * Micropipette tips
 * Microcentrifuge tube/PCR tube 
+* :ref:`Assay buffer <assay>`
 
 **Procedure**
-
-*Assay buffer*
-
-#. Add 0.5 mL of 1 M Tris-HCl stock buffer solution into 4.5 mL of distilled water to obtain 100 mM of Tris-HCl assay buffer solution at pH 8.5. 
-
-    * May adjust the volume if necessary.
-
-#. Mix well. Vortex if necessary. 
 
 *Substrate dilution*
 
@@ -68,16 +61,13 @@ Dilute substrate stock from 10 mM to 1 mM using assay buffer.
 
 :math:`\text{Reaction velocity}(\mu M/min) = \frac{\frac{S-B}{m}}{t}`
 
-S = Sample 
-
-B = Blank 
-
-m = Gradient of product (AMC) standard curve 
-
-t = Time of incubation (30, 60, 120 mins, etc.)
+S = Sample, B = Blank, m = Gradient of product (AMC) standard curve, t = Time of incubation (30, 60, 120 mins, etc.)
 
 * Analyse data using non-linear regression model, Michaelis-Menten module in GraphPad Prism. 
 * The graphpad prism will automatically calculate the Vmax and Km value. Km value is required for substrate optimisation. 
 * If the Michaelis-Menten graph was plotted using both RFU and reaction velocity, both graph should give the same Km value.
 * Ideally, the curve should be approaching plateau at the end of the curve and have at least 3 points on plateau. 
 * After getting the protease optimisation curve, can proceed to do the substrate optimisation curve. 
+
+Reference
+---

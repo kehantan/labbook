@@ -1,7 +1,7 @@
 .. _My target:
 
 Trypsinise
-==========
+====
 
 .. image:: images/Trypsinise.png
     :width: 600

@@ -30,7 +30,7 @@ Storage: Cover the mouth of the flask with aluminium foil, kept on bench.
 
 *Small volume (50 mL)*
 
-* Use for OD blank
+* Use for starter culture and OD blank
 
 **Materials**
 

@@ -11,6 +11,7 @@ Recipes for various buffers and solutions.
    buffers_solutions/agarose
    buffers_solutions/amc_stock
    buffers_solutions/aps
+   buffers_solutions/assay
    buffers_solutions/coomassie
    buffers_solutions/dmem
    buffers_solutions/gel_fixing
@@ -21,6 +22,10 @@ Recipes for various buffers and solutions.
    buffers_solutions/kanamycin 
    buffers_solutions/lb_agar
    buffers_solutions/lb_broth
+   buffers_solutions/lysis
+   buffers_solutions/buffer_b
+   buffers_solutions/buffer_c
+   buffers_solutions/buffer_d
    buffers_solutions/lysozyme
    buffers_solutions/mtt
    buffers_solutions/nacl

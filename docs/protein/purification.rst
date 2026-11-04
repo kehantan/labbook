@@ -4,96 +4,12 @@ Protein extraction and purification
 Buffers 
 ---
 
-* Prepare the buffers preferrably at least one day before use, because even though we are preparing from stock solution, weighing and stirring can take up significant amount time, some buffers also need to be pre-cooled in the cold room. 
+* Prepare the buffers preferrably at least one day before use, weighing and stirring can take up significant amount time, some buffers also need to be pre-cooled in the cold room. 
+* :ref:`Lysis buffer <lysis>`
+* :ref:`Buffer B <buffer_b>`
+* :ref:`Buffer C <buffer_c>`
+* :ref:`Buffer D <buffer_d>`
 
-**Materials**
-
-* Centrifuge tube 
-* Empty bottle 
-* :ref:`PMSF <pmsf>`
-* :ref:`Lysozyme <lysozyme>`
-* :ref:`NaCl <nacl>`
-* :ref:`Triton X-100 <triton>`
-* Urea 
-* Imidazole 
-
-.. _lysis_buffer:
-
-*Lysis buffer*
-
-* At least 25 mL of lysis buffer needed, so prepare around 30 mL should be sufficient for 1 round of purification. 
-* It is best to prepare PMSF and lysozyme stock before use. Storing stock solution of PMSF and lysozyme in freezer for long period of time (> 6 months) can have some detrimental effect for the protein purification procedure.  
-
-+-------------------------------+--------------+--------+
-|                               | Stock        | 30 mL  |
-+===========+===================+==============+========+
-| 50 mM     | Tris-HCl (pH 8.0) | 1M           | 1.5 mL |
-+-----------+-------------------+--------------+--------+
-| 300 mM    | NaCl (MW 58.443)  | 5M           | 1.8 mL |
-+-----------+-------------------+--------------+--------+
-| 0.1%      | Triton X-100      | 10%          | 0.3 mL |
-+-----------+-------------------+--------------+--------+
-| 1 mM      | PMSF              | 10mM         | 3.0 mL |
-+-----------+-------------------+--------------+--------+
-| 100 ug/mL | Lysozyme          | 10,000 μg/mL | 0.3 mL |
-+-----------+-------------------+--------------+--------+
-| Top up with water until                      | 30 mL  |
-+----------------------------------------------+--------+
-
-.. _buffer_b:
-
-*Buffer B*
-
-* It's not strictly necessary, but it is best to prepare 2 buffer B: one for bench use, another to pre-cooled in cold room. 
-
-+----------------------------+-------+----------+---------+
-|                            | Stock | 100 mL   | 60 mL   |     
-+========+===================+=======+==========+=========+
-| 100 mM | Tris-HCl (pH 8.0) | 1 M   | 10 mL    | 6 mL    |
-+--------+-------------------+-------+----------+---------+
-| 300 mM | NaCl              | 5 M   | 6 mL     | 3.6 mL  |
-+--------+-------------------+-------+----------+---------+
-| 6 M    | Urea (MW 60.06)   |       | 36.036 g | 21.62 g |
-+--------+-------------------+-------+----------+---------+
-| Top up with water until            | 100 mL   | 60 mL   |
-+------------------------------------+----------+---------+
-
-.. _buffer_c:
-
-*Buffer C*
-
-* Buffer C need to be pre-cooled in cold room, Buffer C only needed in cold room. 
-
-+-------------------------------+-------+----------+----------+
-|                               | Stock | 100 mL   | 10 mL    |
-+========+======================+=======+==========+==========+
-| 100 mM | Tris-HCl (pH 8.0)    | 1 M   | 10 mL    | 1 mL     |
-+--------+----------------------+-------+----------+----------+
-| 300 mM | NaCl                 | 5 M   | 6 mL     | 0.6 mL   |
-+--------+----------------------+-------+----------+----------+
-| 6 M    | Urea (MW 60.06)      |       | 36.036 g | 3.6036 g |
-+--------+----------------------+-------+----------+----------+
-| 500 mM | Imidazole (MW 68.08) |       | 3.404 g  | 0.34 g   |      
-+--------+----------------------+-------+----------+----------+
-| Top up with water until               | 100 mL   | 10 mL    |  
-+---------------------------------------+----------+----------+
-
-.. _buffer_d:
-
-*Buffer D*
-
-* 3 L of buffer D was required for one round of purification. 
-* Buffer D need to be pre-cooled in cold room. 
-
-+----------------------------+-------+---------+---------+
-|                            | Stock | 100 mL  | 4000 mL |
-+========+===================+=======+=========+=========+
-| 100 mM | Tris-HCl (pH 8.0) | 1 M   | 10 mL   | 400 mL  |
-+--------+-------------------+-------+---------+---------+
-| 300 mM | NaCl (MW 58.44)   |       | 1.753 g | 70.12 g |
-+--------+-------------------+-------+---------+---------+
-| Top up with water up to            | 100 mL  | 4000 mL |     
-+------------------------------------+---------+---------+
 
 Protein extraction
 ----

@@ -43,7 +43,7 @@ Starter culture
 * Overnight culture of transformed *E. coli* on LB agar plate 
 * Inoculation loop
 * Bunsen burner
-*Lighter  
+* Lighter  
 * :ref:`Small volume LB broth <lb broth small>` (Autoclaved, Kanamycin added (30-50 ug/mL), recommend to prepare at least 1 day before experiment)
 * Incubator shaker (able to fit 2 L Erlenmeyer flask)
 
@@ -65,11 +65,11 @@ Large scale culture
 * Incubator shaker (can fit 2L flask)
 * :ref:`IPTG stock solution (250 mM) <iptg>`
 * Refrigerated centrifuge (4 C)
-* PBS 
+* :ref:`PBS <pbs>` 
 * Centrifuge tube (50 mL)
 * Cuvette 
 
-*Note:* Prepare another PBS for bacteria work. Seperate bacteria work PBS with cell culture PBS to prevent contamination. Autoclaved is not strictly necessary if the PBS is not storing for future use.
+*Note:* Prepare another PBS for bacteria work. Seperate bacteria work PBS with cell culture PBS to prevent contamination. Autoclaved is not strictly necessary if the PBS is not stored for future use.
 
 **Procedure**
 

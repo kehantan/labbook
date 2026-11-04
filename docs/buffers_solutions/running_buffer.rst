@@ -34,4 +34,4 @@ Running buffer
 #. Stir with magnetic stirrer until all powder fully dissolved. 
 #. Top up the solution with distilled H2O to a 1 L.
  
-Storage: Label, store at 4 C.  
+Storage: Label, store at 4 C. Reuse running buffer 3-5 times

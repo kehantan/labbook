@@ -21,4 +21,4 @@ Sodium hydroxide (NaOH)
 #. Top up the NaOH solution with distilled H2O up to 100 mL. 
 #. Label the bottle (Label example: :code:`NaOH, 10M, name initials, date prepared`)
 
-Storage: Store at bench. 
+Storage: Store at room temp 

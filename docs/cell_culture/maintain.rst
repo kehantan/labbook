@@ -1,5 +1,5 @@
 Standard passaging (subculture) 
-===============================
+====
 
 * Estimated time needed: 45 mins
 

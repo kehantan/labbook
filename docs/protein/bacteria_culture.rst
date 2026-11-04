@@ -8,7 +8,7 @@ Revive bacteria from glycerol stock
 * Bacteria stock
 * Bunsen burner 
 * Lighter
-* LB agar plate containing 30 ug/mL of Kanamycin  
+* :ref:`LB agar plate <lb-agar-plate>`
 * Inoculating loop
 
 **Procedure**

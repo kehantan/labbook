@@ -33,7 +33,7 @@ Bacteria glycerol stock
 * Bunsen burner 
 * Lighter/Matchsticks
 * Cryovial/Microcentrifuge tube/Eppendorf tube 
-* Glycerol stock solution (50%-80%), autoclaved
+* :ref:`Glycerol stock solution (50%-80%), autoclaved <glycerol>`
 * Tube rack
 
 *Note:* Eppendorf tube can be used, but not recommended, because it is not secure and might opened up in -80 C freezer. 

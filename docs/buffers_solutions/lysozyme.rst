@@ -18,4 +18,4 @@ Lysozyme stock
 #. Add 1 mL of distilled H2O into the microcentrifuge tube. 
 #. Mix well, vortex if necessary. 
 
-Sotrage: Can store at 4 C, but recommended prepare before use 
+Storage: Can store at 4 C, but recommended prepare before use 

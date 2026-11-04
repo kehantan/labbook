@@ -10,7 +10,7 @@ MTT assay
 * See visual guide `here <https://docs.google.com/presentation/d/1bVLtRDbeNUYgCIJIff3_kx7cVitiwAFbNoAo2k-QTZA/edit?usp=sharing>`_
 
 Planning
---------
+----
 
 Before starting, need to calculate 
 
@@ -46,7 +46,7 @@ Similar to above, :code:`10 concentrations` were used in calculation instead of 
 In total, 250,000 cells in 5 mL of media was needed, which makes the concentration :code:`50,000 cells/mL`, or equivalent to :code:`(5*10^4 cells/mL)`
 
 Trypsinise, count, seed
------------------------
+----
 
 * Estimated time required: 1 hr
 
@@ -122,7 +122,7 @@ Trypsinise, count, seed
 #. Incubate the seeded 96 well plate for 24 hrs at 37 °C, 5% CO2.
 
 Treatment
----------
+----
 
 * Estimated time required: 1 hr
 * Treat the seeded cells with the compounds to be tested.

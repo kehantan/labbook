@@ -1,5 +1,5 @@
 Liquid nitrogen (LN2) storage 
-=====================
+====
 
 * LN2 are meant for long term storage of cells. For short term storage (< 6 mth), can keep it in -80 °C
 * There is a LN2 tank in the lab. Remember to check the LN2 level once a week, we prefer to keep the volume of LN2 above 10 cm high
