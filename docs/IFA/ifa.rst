@@ -85,6 +85,9 @@ Infection + treatment
 #. Add 25 uL of compound from media plate according to designated layout in test plate. 
 #. Incubate, 48 hrs, 37 C, 5% CO2.
 
+.. image:: images/IFA_96wp_layout.png
+    :width: 500
+
 Fixing + blocking + primary Ab
 ----
 
