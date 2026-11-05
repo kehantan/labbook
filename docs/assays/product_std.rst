@@ -3,8 +3,6 @@
 AMC standard curve
 ====
 
-* AMC MW = 175.18 g/mol
-
 **Materials**
 
 * :ref:`Tris-HCl stock <tris-hcl>`
