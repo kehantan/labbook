@@ -1,9 +1,9 @@
 .. _coomassie:
 
-Coomassie staining solution
+Coomassie
 ====
 
-* 0.1% (w/v) Coomassie blue, 50% (v/v) methanol , 10% (v/v) glacial acetic acid
+* 0.1% (w/v) coomassie blue, 50% (v/v) methanol , 10% (v/v) glacial acetic acid
 
 **Materials**
 

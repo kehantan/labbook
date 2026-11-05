@@ -1,9 +1,9 @@
 .. _aps:
 
-Ammonium persulfate (APS)
+ APS
 ====
 
-* 10% (w/v) APS
+* 10% (w/v) ammonium persulfate
 
 **Materials**
 

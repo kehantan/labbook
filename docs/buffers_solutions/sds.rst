@@ -1,9 +1,9 @@
 .. _sds:
 
-Sodium dodecyl sulfate (SDS) 
+SDS 
 ====
 
-* 10% (w/v) SDS
+* 10% (w/v) sodium dodecyl sulfate
   
 **Materials**
 
