@@ -1,5 +1,7 @@
-Immunofluorescence assay (IFA)
+IFA
 ====
+
+Immunofluorescence assay
 
 .. toctree::
    :maxdepth: 1
