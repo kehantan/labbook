@@ -46,5 +46,6 @@ Recipes for various buffers and solutions.
    buffers_solutions/tris-hcl
    buffers_solutions/dmem_2
    buffers_solutions/pbs_20x
+   buffers_solutions/pbs_1x
    buffers_solutions/pbs-t
    buffers_solutions/pbs-ft

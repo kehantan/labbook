@@ -12,13 +12,14 @@ Seeding
 * Black 96 wp, clear, flat bottom
 * Multichannel pipette
 * Cell reservoir
+* :ref:`1x PBS <pbs1x>`
 
 **Proceudre - Trypsinise**
 
 #. Culture Vero cells in T75 until ~80% confluency.
 #. Wash cells with ~3 mL PBS.
 #. Trypsinise with 2 mL TrypLE.
-#. Dilute TrypLE with 2 mL media.
+#. Dilute TrypLE with 3 mL 2% DMEM.
 #. Transfer suspension into 15 mL tube.
 #. Centrifuge, 200x g, 5 min.
 #. Remove media.
@@ -26,8 +27,7 @@ Seeding
 
 **Procedure - Cell count**
 
-#. Dilute cell suspension by adding 2 uL of cell suspension into 18 uL of PBS/media before counting.
-#. Add 10 uL of cell suspension+PBS/media mixture into 10 uL of Trypan blue. 
+#. Add 10 uL of cell suspension into 10 uL of Trypan blue. 
 #. Add 10 uL into each side of cell counting slide.
 #. Read cell counting slide. 
 #. Prepare cells enough for seeding. Mix X uL of 2% DMEM with HEPES added + Y uL cell suspension in a reservoir
@@ -46,14 +46,14 @@ Seeding
 
 **Procedure - Seeding** 
 
-#. Seed cells in 96 well black, flat, clear bottom plate at density of 10,000 cells/well. 
+#. Seed cells in 96 well black, flat, clear bottom plate at density of 10,000 cells/well, 50 uL 2% DMEM/well. 
 #. Left seeded plate at bench ~10 mins for cells to settle. 
 #. Incubate, 37 C, 5% CO2, overnight. 
 
 Infection + treatment
 ----
 
-* To study post-Infection effect  
+* post-infection teatment  
 * Treatment dilution: Compound stock -> serial dilution in DMSO plate -> media plate -> test plate
 
 **Materials**
@@ -67,12 +67,14 @@ Infection + treatment
 
 **Procedure - Infection + treatment** 
 
-*Calcluate virus MOI*
+*Calculate virus MOI*
 
 :math:`\text{Virus stock volume (mL)} = \frac{\text{MOI} \times \text{No. of cells}}{\text{Virus titer (pfu/mL)}}`
 
+* MOI = 1, vol of media does not matter as much, but keep low vol 
+
 #. Add calculated vol of virus stock to appropriate volume of 2% DMEM. Mix well. 
-#. Add 25 uL of virus + media mixture into each well in the test plate. Reserve one column for cell only and one column for cell + virus only on the 96 wp.
+#. Add 25 uL of virus + media mixture into each well in the test plate. Reserve one column for cell only and one column for cell + virus only (Non-treated control).
 #. Incubate, 1 hr, 37 C, 5% CO2.
 #. Thaw compound DMSO plate.
 #. Prepare media plate.
@@ -96,16 +98,17 @@ Fixing + blocking + primary Ab
 **Procedure - Fixing + blocking + primary Ab** 
 
 #. Remove existing media from wells. 
-#. Add 100 uL of PBS into each well. Remove PBS. 
+#. Add 100 uL of PBS into each well. Swirl plate gently and remove PBS. 
 #. Add 100 uL of ice-cold methanol into each well and keep plate in -20 C for around 15-20 mins. 
-#. Remove methanol and wash cells with 300 uL PBS-T three times. 
+#. Remove methanol and wash cells with 300 uL PBS-T 3 times. 
 #. Remove PBS-T and add PBS-FT, 100 uL/well.
 #. Swirl plate and incubate at room temperature for 1 hr.
 #. Prepare primary Ab. 
 
     * 1 mg/mL stock, 1:100 dilution with PBS-FT
 
-#. Remove PBS-FT. Add primary Ab, 50 uL/well. Keep plate in 4 C, overnight. 
+#. Remove PBS-FT. Add primary Ab, 50 uL/well. 
+#. Keep plate in 4 C, overnight. 
 
 
 Secondary Ab
@@ -113,17 +116,25 @@ Secondary Ab
 
 **Materials** 
 
-* PBS-FT 
-* Alexa Fluor 488
+* :ref:`PBS-FT <pbs-ft>`
+* :ref:`PBS-T <pbs-t>`
+* Alexa Fluor 488 anti-mouse Ab
 * Hoechst
+* :ref:`1x PBS <pbs1x>`
 
-**Procedure - Secondary Ab**
+**Procedure - Secondary Ab + nucleic acid stain**
 
-#. Prepare secondary Ab and nucleus stain mixture. 
-#. Remove primary Ab and wash cells with 300 uL PBS-T three times.
+#. Prepare secondary Ab and nucleus stain mixture.
+
+    * Alexa Fluor 488 = 1:1000 dilution 
+    * Hoechst = 1:2500 dilution 
+    * Add both into same PBS-FT, no need to separate
+
+#. Remove primary Ab. 
+#. Wash cells with 300 uL PBS-T 3 times.
 #. Remove PBS-T. Add secondary Ab, 50 uL/well. Incubate 1 hr, r.t.
 #. Remove secondary Ab. 
-#. Wash plate 300 uL PBS-T three times. 
+#. Wash plate 300 uL PBS-T 3 times. 
 #. Add 100 uL of PBS into each well.
 #. Read plate.
 
