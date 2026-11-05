@@ -68,13 +68,7 @@ Dilute substrate stock from 10 mM to 1 mM using assay buffer.
 
 :math:`\text{Reaction velocity}(\mu M/min) = \frac{\frac{S-B}{m}}{t}`
 
-S = Sample 
-
-B = Blank 
-
-m = Gradient of product (AMC) standard curve 
-
-t = Time of incubation (30, 60, 120 mins, etc.)
+S = Sample; B = Blank; m = Gradient of product (AMC) standard curve; t = Time of incubation (30, 60, 120 mins, etc.)
 
 * Analyse data using non-linear regression model, Michaelis-Menten module in GraphPad Prism. 
 * The graphpad prism will automatically calculate the Vmax and Km value. Km value is required for substrate optimisation. 

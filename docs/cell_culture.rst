@@ -1,13 +1,10 @@
 Cell culture
-============
+====
 
 Cell culture workflow 
 
 .. image:: images/cell_culture.png
    :width: 500 
-
-* Protocols for different cell culture related procedures.
-* Maintenance of Vero cell line :cite:p:`ammerman2008growth`
 
 .. toctree::
    :maxdepth: 1

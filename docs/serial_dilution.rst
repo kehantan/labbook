@@ -1,7 +1,7 @@
 .. _serial dilution:
 
 Serial dilution
-===============
+====
 
 Assume we have 20 mg of compound X, diluted in 1 mL of DMSO, which makes the concentration of stock solution of compound X 20 mg/mL. We want to prepare the following dilutions from the 20 mg/mL stock solution: 
 

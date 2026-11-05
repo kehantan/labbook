@@ -1,5 +1,5 @@
 Protease assay
-==============
+====
 
 .. toctree::
    :maxdepth: 1

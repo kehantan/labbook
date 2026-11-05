@@ -1,5 +1,5 @@
 Assays
-======
+====
 
 .. toctree::
    :maxdepth: 1

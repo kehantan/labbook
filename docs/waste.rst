@@ -1,5 +1,5 @@
 Waste
-=====
+====
 
 Waste handling stuff.
 

@@ -1,8 +1,6 @@
 Protease optimisation
 ====
 
-* References: :cite:p:`tomlinson2008substrate` 
-
 **Materials**
 
 * 384 well black plate
@@ -44,3 +42,8 @@ Protease optimisation
 * GraphPad Prism will calculate Km value. Km value of protease optimisation will be used as the protease concentration for substrate optimisation and protease inhibition assay.
 * Graph should looks like a typical Michaelis-Menten plot with plateau. If no plateau observed/not obvious, can try to prolong incubation time or reduce substrate concentration. Usually reduce substrate concentration by 2 fold is a good starting point. 
 * Can carry out the optimisation at different substrate concentration in a single experiment to save time and be more efficient. 
+
+Reference
+----
+
+:cite:`tomlinsonSubstrateInhibitionKinetic2008`

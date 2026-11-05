@@ -1,5 +1,5 @@
 Buffers and solutions
-=====================
+====
 
 Recipes for various buffers and solutions.
 
