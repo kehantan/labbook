@@ -1,21 +1,16 @@
 .. _plaque assay:
 
 Plaque assay
-============
+====
 
-* Vero cells are used in this protocol, seeded in 6 well plate. For plaque assays in 12 well plate or well plate of other sizes, the procedures are the same, just the volume of liquids, number of cells, and volume of reagents used are different. 
-* This is just a guideline for plaque assay, adjust the parameters according to literature or should you see fit. 
 * Schematics of plaque assay can be found `here <https://docs.google.com/presentation/d/12KLdlDftXJ22pbflFmYKli6ztxyudEKHW6V2Ocw5Nhg/edit?usp=sharing>`_
 
 Trypsininse, cell count, seed cells
-------------------------------------
+----
 
 * Estimated time required: 1 hrs
 * Amount of cells harvested from a T75 flask with 80% confluency should be sufficient to seed at least two 6 well plate with 450,000 cells in each well for next day virus infection.
-* Number of cells to be seeded into each well depends on which day you want to do infection. 
- 
-    * Seed 6 well plate with 450,000 cells per well for next day infection  
-    * Seed 12 well plate with 170,000 cells per well for next day infection
+* Seed 6 well plate with 450,000 cells per well for next day infection; seed 12 well plate with 170,000 cells per well for next day infection
 
 **Materials**
 
@@ -38,7 +33,7 @@ Trypsininse, cell count, seed cells
 **Procedure**
 
 Trypsinise, count, seed 
------------------------
+----
 
 #. Trypsinise the cells in culture flask. Refer to :ref:`trypsinise <My target>`.
 #. Count the number of cells. Refer to :ref:`cell count <cell count>`. 
@@ -55,7 +50,7 @@ Trypsinise, count, seed
 #. Incubate, 37 C, 24 hrs. 
 
 Infection
----------
+----
 
 * Estimated time required: 2 hrs 
 * Before infection, check the cell confluency in the 6 well plate. The cells should be around 70-80% confluency. 
@@ -74,8 +69,7 @@ Infection
 * Micropipette tips 
 * Waste beaker 
 
-Virus stock serial dilution
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Virus stock serial dilution**
 
 * Prepare a 10x serial diultion of virus from the virus stock. Other dilution factor may also be used depending on the situation. 
 
@@ -89,8 +83,7 @@ Virus stock serial dilution
 
 *Note:* Assuming we are infecting Vero cells with virus in 6 well plate, which uses 300 uL of virus containing media, so diluting the virus to final volume of 450 uL is sufficient. If infecting Vero cells in a 12 well plate, which would use only 100 uL of diluted virus, we can reduce the volume to 300 uL so we don't waste the media (e.g.: 30 uL of virus stock + 270 uL fresh 2% DMEM).
 
-Infection
-~~~~~~~~~
+**Infection**
 
 #. Label each well in 6 well plate.
 
@@ -123,10 +116,7 @@ Infection
 
 *Note:* Infection uses 300 uL of liquid throughout the procedure, this is assuming the cells were cultured in a 6 well plate. The volume can be reduced to 150 uL if using 12 well plate. Adjust the volume accordingly if any other sizes of well plates were used. 
 
-Agarose overlay
-~~~~~~~~~~~~~~~
-
-*Pre-warm agarose* 
+**Agarose overlay**
 
 #. Adjust water bath to 60 C.
 #. Around 15 mins before the infection period ends, melt the solidified agarose in a microwave oven. 
@@ -140,10 +130,6 @@ Agarose overlay
 #. Leave the boiled agarose in the water bath at 60 C to cool down for later use.
 
     * If 60 C is not possible, then 37 C can work too, but need to act fast when preparing the overlay. 
-
-*Prepare agarose overlay*
-
-*Note:* Work fast when overlaying the agarose as it can solidify within short period of time. 
 
 #. Bring agarose from water bath into BSC. 
 #. In a 50 ml centrifuge tube, prepare an agarose to 2% media mixture of 1:9 ratio (1.2 mL of agarose into 10.8 mL of media). Mix the agarose and 2% DMEM mixture either by repeat pipetting or invert the centrifuge tube few times.
@@ -183,7 +169,7 @@ Agarose overlay
 *Note2:* When working with virus samples, our lab have specific procedure to dispose the virus related waste. Refer to section :ref:`below <clean_up>`.
 
 Fix and stain 
--------------
+----
 
 * Estimated time required: 1 hr
 * Fixing and staining of 6 well plate in laminar flow in the lab. 
@@ -231,10 +217,3 @@ Fix and stain
 
 #. Decant excess water from the 6 well plate by slightly tapping the plate facing downwards on a paper towel. 
 #. Leave the plate on bench to air dry. 
-
-.. _clean_up:
-
-Clean up
---------
-
-Refer to :ref:`virus waste <virus waste>` management. 
