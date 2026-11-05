@@ -7,10 +7,7 @@ Compound DMSO plate
 * Calculate amount of DMSO needed to make 20 mM stock solution, can uses online molarity calculator
 * :math:`V = \frac{m}{C \times MW}` 
 
-    * V = Volume (Litre) 
-    * m = Compound mass (g)
-    * C = Concentration (mol/L)
-    * MW = Molecular weight (g/mol)
+    * V = Volume (Litre); m = Compound mass (g); C = Concentration (mol/L); MW = Molecular weight (g/mol)
 
 **Materials**
 
