@@ -64,4 +64,4 @@ Enzyme progress curve
 References
 ----
 
-:cite:`ihssen_fluorogenic_202,smirnoviene2021standard,brooks2012basics`
+:cite:`ihssen_fluorogenic_202,smirnovieneStandardOperatingProcedure2021,brooks2012basics`
