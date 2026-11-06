@@ -70,4 +70,4 @@ S = Sample, B = Blank, m = Gradient of product (AMC) standard curve, t = Time of
 * After getting the protease optimisation curve, can proceed to do the substrate optimisation curve. 
 
 Reference
----
+----

@@ -13,7 +13,5 @@ Revive bacteria from glycerol stock > small scale culture > large scale culture 
    protein/expression
    protein/purification
    protein/sds_page   
-   protein/bca
-   protein/bradford
    protein/estimate_protein_weight
    protein/protein_items

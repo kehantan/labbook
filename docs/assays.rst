@@ -8,6 +8,7 @@ Assays
    assays/plaque
    assays/antiviral
    assays/virus_propagation
+   assays/bradford
    assays/product_std
    assays/protease_activity
    assays/prot_opt
